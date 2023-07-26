@@ -1,6 +1,6 @@
 
 #####!!!Below are functions under development!!! #####
-
+library(dplyr)
 
 read_filing_info <- function(file_path) {
   # Read the text content of the file
@@ -23,50 +23,46 @@ read_filing_info <- function(file_path) {
   # Convert trade_code to trade_type based on the provided information
   
   #Filter only Purchase info
-  trade_type <- if ("P" %in% transactionCode) {
-    "Purchase"
-  } 
-  #else if("S" %in% transactionCode) {
-  #  "Sell"
-  #}
-  else{
-    return()
+  if ("P" %in% transactionCode) {
+    trade_type <- transactionCode
+    purchase_flag <- "Yes"
+  } else {
+    trade_type <- transactionCode
+    purchase_flag <- "No"
   }
   
   # Extract the Price and Qty fields differently for each transaction
   transaction_price_index <- grep("<transactionPricePerShare>", txt_content)
   price <- sub(".*<value>([^<]+)</value>.*", "\\1", txt_content[transaction_price_index+1])
-  
+
   
   transaction_qty_index <- grep("<transactionShares>", txt_content)
   qty <- sub(".*<value>([^<]+)</value>.*", "\\1", txt_content[transaction_qty_index+1])
-  
-  #Clean up if there are multiple transaction in one filing(current hurdle)
-  if (length(price)!=1){
-    clean_price <-  unlist(lapply(price, function(x) replace(x, is.na(x), 0)))
-    clean_qty <-  unlist(lapply(qty, function(x) replace(x, is.na(x), 0)))
-    
-  }
-  else{
-    clean_price <- price
-    clean_qty <- qty
-  }
+
+  clean_price <- as.numeric(price)
+  clean_price[is.na(clean_price)] <- 0
+
+
   
   
-  value=sum(as.numeric(clean_price)*as.numeric(clean_qty))
+  value=sum(as.numeric(clean_price)*as.numeric(qty))
   # Create a list to store the extracted information
   insider_info <- list(
     Trade_Date = format(trade_date, "%Y-%m-%d"),
     Ticker = ticker,
     Insider_Name = insider_name,
     Trade_Type = trade_type,
+    Insider_buy = purchase_flag,
     Price = unlist(clean_price),
-    Qty = unlist(as.numeric(clean_qty)),
+    Qty = unlist(suppressWarnings(as.numeric(qty))),
     Value =value
   )
   
   return(insider_info)
 }
+
+all_data<- construct_in_buy_df()
+
 
 construct_in_buy_df <- function(project_folder=getwd()){
   
@@ -92,12 +88,22 @@ construct_in_buy_df <- function(project_folder=getwd()){
   }
   
   # Combine the list of results into a data.frame
-  info_df <- do.call(rbind, all_info)
+  info_list <- do.call(rbind, all_info)
+  info_data <- as.data.frame(info_list)
   
-  # Print the data.frame
-  return(info_df)
+  
+  return(info_data)
+}
+
+insider_buy_filter <- function(all_data){
+  filtered_df <- subset(all_data, all_data$Insider_buy == "Yes")
+  return(filtered_df)
 }
 
 
+
 ###Examples###
-all_in_buy<- construct_in_buy_df()
+all_data<- construct_in_buy_df()
+insider_buy_df <- insider_buy_filter(all_data)
+
+
