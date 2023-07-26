@@ -1,0 +1,232 @@
+<SEC-DOCUMENT>0001127602-23-002703.txt : 20230130
+<SEC-HEADER>0001127602-23-002703.hdr.sgml : 20230130
+<ACCEPTANCE-DATETIME>20230130180000
+ACCESSION NUMBER:		0001127602-23-002703
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230126
+FILED AS OF DATE:		20230130
+DATE AS OF CHANGE:		20230130
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kozanian Hagop H
+		CENTRAL INDEX KEY:			0001746766
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03761
+		FILM NUMBER:		23569426
+
+	MAIL ADDRESS:	
+		STREET 1:		12500 TI BOULEVARD
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75243
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TEXAS INSTRUMENTS INC
+		CENTRAL INDEX KEY:			0000097476
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				750289970
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P.O. BOX 660199
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75266
+		BUSINESS PHONE:		9729953773
+
+	MAIL ADDRESS:	
+		STREET 1:		12500 TI BLVD
+		STREET 2:		PO BOX 660199
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75266
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000097476</issuerCik>
+        <issuerName>TEXAS INSTRUMENTS INC</issuerName>
+        <issuerTradingSymbol>TXN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001746766</rptOwnerCik>
+            <rptOwnerName>Kozanian Hagop H</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>12500 TI BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75243</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Sr. Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14647</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>59532</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>NQ Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>174.10</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>55063</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-01-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>55063</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>55063</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Award of restricted stock units pursuant to 2009 Long-Term Incentive Plan.</footnote>
+        <footnote id="F2">The option becomes exercisable in four equal annual installments beginning on January 26, 2024.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Leslie Mba, Attorney in Fact</signatureName>
+        <signatureDate>2023-01-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>doc1.txt
+<DESCRIPTION>POWER OF ATTORNEY (PUBLIC): POA
+<TEXT>
+AUTHORIZATION
+ 	I hereby authorize Cynthia Hoff Trochu, Leslie O. Mba, Elizabeth M. Bedell,
+Edgar A. Morales, Erin E. Hilton and John Whitney or any one of them to
+sign and file on my behalf any and all forms required by the Securities
+and Exchange Commission pursuant to Section 16 of the Securities
+Exchange Act of 1934 (the ?Exchange Act?) relating to the reporting
+of beneficial ownership of equity securities of Texas Instruments
+Incorporated (the ?Company?), and of changes in such beneficial
+ownership, as well as any and all representation letters that may
+be required in connection with sales by me of equity securities of
+the Company, together with any and all amendments to the foregoing.
+This authorization shall be effective on and after the date set
+forth below and shall continue in effect, unless earlier revoked
+by me in writing, until I am no longer required to file such forms
+and letters provided, however, that this authorization shall be
+deemed revoked with respect to any individual named above upon
+such individual?s termination of active service with the Company.
+	I acknowledge that the persons authorized hereunder
+are not assuming, nor is the Company assuming, any of my responsibilities
+to comply with Section 16 of the Exchange Act and other relevant
+securities laws.
+	Dated as of 3 day of January 2023.
+	/s/ Hagop H. Kozanian
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

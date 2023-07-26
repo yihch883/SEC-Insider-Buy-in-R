@@ -1,0 +1,203 @@
+<SEC-DOCUMENT>0000950103-23-006279.txt : 20230426
+<SEC-HEADER>0000950103-23-006279.hdr.sgml : 20230426
+<ACCEPTANCE-DATETIME>20230426215931
+ACCESSION NUMBER:		0000950103-23-006279
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230424
+FILED AS OF DATE:		20230426
+DATE AS OF CHANGE:		20230426
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Alnowaiser Turqi A.
+		CENTRAL INDEX KEY:			0001873801
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39408
+		FILM NUMBER:		23851547
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE PUBLIC INVESTMENT FUND
+		STREET 2:		P.O. BOX 6847
+		CITY:			RIYADH
+		STATE:			T0
+		ZIP:			11452
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lucid Group, Inc.
+		CENTRAL INDEX KEY:			0001811210
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				850891392
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7373 GATEWAY BLVD.
+		CITY:			NEWARK
+		STATE:			CA
+		ZIP:			94560
+		BUSINESS PHONE:		(510) 648-3553
+
+	MAIL ADDRESS:	
+		STREET 1:		7373 GATEWAY BLVD.
+		CITY:			NEWARK
+		STATE:			CA
+		ZIP:			94560
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Churchill Capital Corp IV
+		DATE OF NAME CHANGE:	20200714
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Annetta Acquisition Corp
+		DATE OF NAME CHANGE:	20200504
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>dp192696_4-alnowaiser.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001811210</issuerCik>
+        <issuerName>Lucid Group, Inc.</issuerName>
+        <issuerTradingSymbol>LCID</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001873801</rptOwnerCik>
+            <rptOwnerName>Alnowaiser Turqi A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O LUCID GROUP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>7373 GATEWAY BOULEVARD</rptOwnerStreet2>
+            <rptOwnerCity>NEWARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94560</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>32258</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2123427</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1191</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.03</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2122236</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These restricted stock units (&quot;RSUs&quot;) will vest in full on the earlier of (i) the one-year anniversary of the date of grant and (ii) the date of the next annual meeting of stockholders held after the date of grant, in each case, subject to the reporting person's continued service on the board of directors through the applicable vesting date.</footnote>
+        <footnote id="F2">The reporting person is deemed a beneficial owner of 10% of issued and outstanding shares of Class A Common Stock of the Issuer because the reporting person has voting power over 1,100,965,202 shares of Class A Common Stock (the &quot;Ayar Shares&quot;) beneficially owned by Ayar Third Investment Company (&quot;Ayar&quot;), a wholly-owned subsidiary of The Public Investment Fund, pursuant to authority delegated to him by the sole manager of Ayar. The reporting person does not have and disclaims any pecuniary interest in such Ayar Shares.</footnote>
+        <footnote id="F3">Represent shares that have been withheld by the Issuer to satisfy income tax withholding and remittance obligations in connection with the vesting of RSUs reported on a Form 4 filed on June 13, 2022.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jonathan Butler, as attorney-in-fact for Turqi Alnowaiser</signatureName>
+        <signatureDate>2023-04-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

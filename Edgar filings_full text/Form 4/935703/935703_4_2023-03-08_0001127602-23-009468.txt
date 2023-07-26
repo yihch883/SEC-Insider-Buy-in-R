@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001127602-23-009468.txt : 20230308
+<SEC-HEADER>0001127602-23-009468.hdr.sgml : 20230308
+<ACCEPTANCE-DATETIME>20230308172301
+ACCESSION NUMBER:		0001127602-23-009468
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230307
+FILED AS OF DATE:		20230308
+DATE AS OF CHANGE:		20230308
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hulett Jennifer
+		CENTRAL INDEX KEY:			0001813364
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25464
+		FILM NUMBER:		23717220
+
+	MAIL ADDRESS:	
+		STREET 1:		1500 SOLANA BLVD.
+		STREET 2:		SUITE 3400
+		CITY:			WESTLAKE
+		STATE:			TX
+		ZIP:			76262
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DOLLAR TREE, INC.
+		CENTRAL INDEX KEY:			0000935703
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				541387365
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			0203
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 VOLVO PARKWAY
+		STREET 2:		N/A
+		CITY:			CHESAPEAKE
+		STATE:			VA
+		ZIP:			23320
+		BUSINESS PHONE:		(757) 321-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		500 VOLVO PARKWAY
+		CITY:			CHESAPEAKE
+		STATE:			VA
+		ZIP:			23320
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOLLAR TREE INC
+		DATE OF NAME CHANGE:	20080328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOLLAR TREE STORES INC
+		DATE OF NAME CHANGE:	19950117
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-07</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000935703</issuerCik>
+        <issuerName>DOLLAR TREE, INC.</issuerName>
+        <issuerTradingSymbol>DLTR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001813364</rptOwnerCik>
+            <rptOwnerName>Hulett Jennifer</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>500 VOLVO PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHESAPEAKE</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>23320</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Human Resources Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-07</value>
+                <footnoteId id="F1"/>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4343</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6238</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Compensation Committee determined on 03/07/2023 the Company's achievement of its 2022 performance for the performance stock units granted on 04/01/2022, and the shares will vest in approximately three equal installments, beginning on the first anniversary of the award date, subject to continued employment.</footnote>
+        <footnote id="F2">Convert without cost to shares of common stock on a one-for-one basis.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Derek Redmond, attorney-in-fact for Ms. Hulett</signatureName>
+        <signatureDate>2023-03-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

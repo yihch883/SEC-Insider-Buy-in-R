@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001062993-23-014951.txt : 20230717
+<SEC-HEADER>0001062993-23-014951.hdr.sgml : 20230717
+<ACCEPTANCE-DATETIME>20230717183410
+ACCESSION NUMBER:		0001062993-23-014951
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230714
+FILED AS OF DATE:		20230717
+DATE AS OF CHANGE:		20230717
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kleczynski Robert A
+		CENTRAL INDEX KEY:			0001982165
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16169
+		FILM NUMBER:		231092599
+
+	MAIL ADDRESS:	
+		STREET 1:		10 S DEARBORN STREET
+		STREET 2:		54TH FLOOR
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60603
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXELON CORP
+		CENTRAL INDEX KEY:			0001109357
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		IRS NUMBER:				232990190
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 805398
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60680-5398
+		BUSINESS PHONE:		3123947399
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 805398
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60680-5398
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXELON Corp
+		DATE OF NAME CHANGE:	20180928
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXELON CORP
+		DATE OF NAME CHANGE:	20000315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001109357</issuerCik>
+        <issuerName>EXELON CORP</issuerName>
+        <issuerTradingSymbol>EXC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001982165</rptOwnerCik>
+            <rptOwnerName>Kleczynski Robert A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>10 S DEARBORN STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>54TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60603</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP &amp; Corp Controller</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Comp Phantom Share Equivalents</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>42.02</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>20</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1477</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Phantom share equivalents acquired through a regular payroll contribution to the Exelon stock fund that is part of a multi-fund, non-qualified deferred compensation plan. The Exelon stock fund is a unitized fund that consists of Exelon common stock and short-term investments. Units of the fund will be settled in cash upon the reporting person's separation from the company for any reason. The balance of phantom share equivalents may fluctuate due to periodic changes in the fund composition.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Elizabeth M. Hensen, Attorney-in-fact for Robert A. Kleczynski</signatureName>
+        <signatureDate>2023-07-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

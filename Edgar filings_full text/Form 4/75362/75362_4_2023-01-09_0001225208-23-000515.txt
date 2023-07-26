@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0001225208-23-000515.txt : 20230109
+<SEC-HEADER>0001225208-23-000515.hdr.sgml : 20230109
+<ACCEPTANCE-DATETIME>20230109171606
+ACCESSION NUMBER:		0001225208-23-000515
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230105
+FILED AS OF DATE:		20230109
+DATE AS OF CHANGE:		20230109
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rich John N
+		CENTRAL INDEX KEY:			0001853330
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14817
+		FILM NUMBER:		23518907
+
+	MAIL ADDRESS:	
+		STREET 1:		777 106TH AVENUE NE
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PACCAR INC
+		CENTRAL INDEX KEY:			0000075362
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				910351110
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PACCAR BUILDING
+		STREET 2:		777 106TH AVENUE NE
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+		BUSINESS PHONE:		425 468 7525
+
+	MAIL ADDRESS:	
+		STREET 1:		PACCAR BUILDING
+		STREET 2:		777 106TH AVENUE NE
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PACIFIC CAR & FOUNDRY CO
+		DATE OF NAME CHANGE:	19720707
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-05</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000075362</issuerCik>
+        <issuerName>PACCAR INC</issuerName>
+        <issuerTradingSymbol>PCAR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001853330</rptOwnerCik>
+            <rptOwnerName>Rich John N</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>777 - 106TH AVE. N.E.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BELLEVUE</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98004</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>V.P. &amp; CHIEF TECH. OFFICER</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9.7020</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>97.7800</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>348.8690</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By PACCAR Savings Investment Plan (SIP)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>94.3000</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2025-01-01</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2032-02-07</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7716.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7716.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Dividend on PACCAR Savings Investment Plan (SIP) shares reinvested pursuant to SIP.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Michael R. Beers, by Power of Attorney</signatureName>
+        <signatureDate>2023-01-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,150 @@
+<SEC-DOCUMENT>0001127602-23-008491.txt : 20230302
+<SEC-HEADER>0001127602-23-008491.hdr.sgml : 20230302
+<ACCEPTANCE-DATETIME>20230302190110
+ACCESSION NUMBER:		0001127602-23-008491
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230301
+FILED AS OF DATE:		20230302
+DATE AS OF CHANGE:		20230302
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Parsey Merdad
+		CENTRAL INDEX KEY:			0001792150
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19731
+		FILM NUMBER:		23700961
+
+	MAIL ADDRESS:	
+		STREET 1:		333 LAKESIDE DRIVE
+		CITY:			FOSTER CITY
+		STATE:			CA
+		ZIP:			94404
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GILEAD SCIENCES, INC.
+		CENTRAL INDEX KEY:			0000882095
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				943047598
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 LAKESIDE DR
+		CITY:			FOSTER CITY
+		STATE:			CA
+		ZIP:			94404
+		BUSINESS PHONE:		6505743000
+
+	MAIL ADDRESS:	
+		STREET 1:		333 LAKESIDE DR
+		CITY:			FOSTER CITY
+		STATE:			CA
+		ZIP:			94404
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GILEAD SCIENCES INC
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000882095</issuerCik>
+        <issuerName>GILEAD SCIENCES, INC.</issuerName>
+        <issuerTradingSymbol>GILD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001792150</rptOwnerCik>
+            <rptOwnerName>Parsey Merdad</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>GILEAD SCIENCES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>333 LAKESIDE DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>FOSTER CITY</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94404</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Medical Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12984</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>79.9619</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>70130</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale transaction reported in this Form 4 is made pursuant to a Rule 10b5-1 trading plan.</footnote>
+        <footnote id="F2">Sale prices reported for the transactions reported here range from $79.60 to $80.34.  Full information regarding the number of shares purchased or sold at each separate price will be provided to the SEC, the issuer or its shareowners upon request.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Amy Kim by Power of Attorney for Merdad Parsey</signatureName>
+        <signatureDate>2023-03-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

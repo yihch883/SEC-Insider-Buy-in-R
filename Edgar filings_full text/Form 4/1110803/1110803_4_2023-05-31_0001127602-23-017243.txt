@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001127602-23-017243.txt : 20230531
+<SEC-HEADER>0001127602-23-017243.hdr.sgml : 20230531
+<ACCEPTANCE-DATETIME>20230531170426
+ACCESSION NUMBER:		0001127602-23-017243
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230526
+FILED AS OF DATE:		20230531
+DATE AS OF CHANGE:		20230531
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Teno Andrew
+		CENTRAL INDEX KEY:			0001700750
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35406
+		FILM NUMBER:		23981897
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FIR TREE INC.
+		STREET 2:		55 WEST 46TH STREET, 29TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ILLUMINA, INC.
+		CENTRAL INDEX KEY:			0001110803
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY ANALYTICAL INSTRUMENTS [3826]
+		IRS NUMBER:				330804655
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5200 ILLUMINA WAY
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92122
+		BUSINESS PHONE:		8582024500
+
+	MAIL ADDRESS:	
+		STREET 1:		5200 ILLUMINA WAY
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92122
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ILLUMINA INC
+		DATE OF NAME CHANGE:	20000331
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001110803</issuerCik>
+        <issuerName>ILLUMINA, INC.</issuerName>
+        <issuerTradingSymbol>ILMN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001700750</rptOwnerCik>
+            <rptOwnerName>Teno Andrew</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>5200 ILLUMINA WAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN DIEGO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92122</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1532</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1532</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Grant of restricted stock units. 100% of the shares subject to the restricted stock unit award shall vest on the earlier of (i) the one year anniversary of the date of grant of the award and (ii) the date immediately preceding the date of the
+annual meeting of the company's stockholders for the year following the year of grant of the award, provided, in each case, that the awardee continues to serve as a director on such date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: Robert Maynes for Andrew Teno</signatureName>
+        <signatureDate>2023-05-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

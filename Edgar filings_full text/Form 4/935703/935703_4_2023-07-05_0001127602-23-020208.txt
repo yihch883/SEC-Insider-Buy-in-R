@@ -1,0 +1,213 @@
+<SEC-DOCUMENT>0001127602-23-020208.txt : 20230705
+<SEC-HEADER>0001127602-23-020208.hdr.sgml : 20230705
+<ACCEPTANCE-DATETIME>20230705172016
+ACCESSION NUMBER:		0001127602-23-020208
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230701
+FILED AS OF DATE:		20230705
+DATE AS OF CHANGE:		20230705
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Park Winifred
+		CENTRAL INDEX KEY:			0001743162
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25464
+		FILM NUMBER:		231070688
+
+	MAIL ADDRESS:	
+		STREET 1:		1 EXPRESS DRIVE
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43230
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DOLLAR TREE, INC.
+		CENTRAL INDEX KEY:			0000935703
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				541387365
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			0203
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 VOLVO PARKWAY
+		STREET 2:		N/A
+		CITY:			CHESAPEAKE
+		STATE:			VA
+		ZIP:			23320
+		BUSINESS PHONE:		(757) 321-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		500 VOLVO PARKWAY
+		CITY:			CHESAPEAKE
+		STATE:			VA
+		ZIP:			23320
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOLLAR TREE INC
+		DATE OF NAME CHANGE:	20080328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOLLAR TREE STORES INC
+		DATE OF NAME CHANGE:	19950117
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000935703</issuerCik>
+        <issuerName>DOLLAR TREE, INC.</issuerName>
+        <issuerTradingSymbol>DLTR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001743162</rptOwnerCik>
+            <rptOwnerName>Park Winifred</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>500 VOLVO PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHESAPEAKE</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>23320</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1045</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>143.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2754</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F3"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>261.32</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>143.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>261.32</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>261.32</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the annual director equity award granted from the Issuer's shareholder approved 2021 Omnibus Incentive Plan.</footnote>
+        <footnote id="F2">Each share of phantom stock represents the right to receive one share of Dollar Tree common stock, and cash for any fractional shares.</footnote>
+        <footnote id="F3">Represents deferral of director fees under the Non-Employee Director Deferred Compensation Program.</footnote>
+        <footnote id="F4">Shares of phantom stock are payable in common stock following the earlier of the director's separation from the Board or the specified date of distribution pursuant to the director's deferral election.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Derek Redmond, attorney-in-fact for Ms. Park</signatureName>
+        <signatureDate>2023-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

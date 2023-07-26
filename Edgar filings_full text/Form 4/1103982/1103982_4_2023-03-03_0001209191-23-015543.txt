@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0001209191-23-015543.txt : 20230303
+<SEC-HEADER>0001209191-23-015543.hdr.sgml : 20230303
+<ACCEPTANCE-DATETIME>20230303163257
+ACCESSION NUMBER:		0001209191-23-015543
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230301
+FILED AS OF DATE:		20230303
+DATE AS OF CHANGE:		20230303
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mondelez International, Inc.
+		CENTRAL INDEX KEY:			0001103982
+		STANDARD INDUSTRIAL CLASSIFICATION:	FOOD & KINDRED PRODUCTS [2000]
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33829
+		FILM NUMBER:		23704696
+
+	BUSINESS ADDRESS:	
+		STREET 1:		905 WEST FULTON MARKET
+		STREET 2:		SUITE 200
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60607
+		BUSINESS PHONE:		847-943-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		905 WEST FULTON MARKET
+		STREET 2:		SUITE 200
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60607
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	KRAFT FOODS INC
+		DATE OF NAME CHANGE:	20000121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Keurig Dr Pepper Inc.
+		CENTRAL INDEX KEY:			0001418135
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		IRS NUMBER:				753258232
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		53 SOUTH AVENUE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+		BUSINESS PHONE:		781-418-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		53 SOUTH AVENUE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Dr Pepper Snapple Group, Inc.
+		DATE OF NAME CHANGE:	20080108
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CSAB Inc.
+		DATE OF NAME CHANGE:	20071109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001418135</issuerCik>
+        <issuerName>Keurig Dr Pepper Inc.</issuerName>
+        <issuerTradingSymbol>KDP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001103982</rptOwnerCik>
+            <rptOwnerName>Mondelez International, Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>905 WEST FULTON MARKET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60607</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4826</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7015</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>45543005</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Subject to certain vesting conditions and exceptions, these restricted stock units vest on March 1, 2028.  Each restricted stock unit represents a contingent right to receive one share of the Issuer's Common Stock upon vesting.</footnote>
+        <footnote id="F2">Michael Call (the &quot;Director&quot;) is an officer of Mondelez International, Inc. (&quot;Mondelez International&quot;) and serves on the Board of Directors of Keurig Dr Pepper Inc. (&quot;KDP&quot;). On March 1, 2023, KDP granted to the Director, in his capacity as director of KDP, an aggregate of 4,826 restricted stock units. The Director has agreed that he will not receive any separate compensation for serving as a director of KDP and will transfer to Mondelez International any director compensation he receives from KDP, including any awards made pursuant to grants of restricted stock units.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Ellen M. Smith, Senior Vice President and Chief Counsel and Corporate Secretary</signatureName>
+        <signatureDate>2023-03-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

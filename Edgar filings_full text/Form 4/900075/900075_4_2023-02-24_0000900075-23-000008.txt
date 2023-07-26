@@ -1,0 +1,261 @@
+<SEC-DOCUMENT>0000900075-23-000008.txt : 20230224
+<SEC-HEADER>0000900075-23-000008.hdr.sgml : 20230224
+<ACCEPTANCE-DATETIME>20230224150822
+ACCESSION NUMBER:		0000900075-23-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230222
+FILED AS OF DATE:		20230224
+DATE AS OF CHANGE:		20230224
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blunt Matt
+		CENTRAL INDEX KEY:			0001453131
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-23255
+		FILM NUMBER:		23666267
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O COPART, INC.
+		STREET 2:		4665 BUSINESS CENTER DRIVE
+		CITY:			FAIRFIELD
+		STATE:			CA
+		ZIP:			94534
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COPART INC
+		CENTRAL INDEX KEY:			0000900075
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-AUTO DEALERS & GASOLINE STATIONS [5500]
+		IRS NUMBER:				942867490
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0731
+
+	BUSINESS ADDRESS:	
+		STREET 1:		14185 DALLAS PARKWAY
+		STREET 2:		SUITE 300
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75254
+		BUSINESS PHONE:		972-391-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		14185 DALLAS PARKWAY
+		STREET 2:		SUITE 300
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75254
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_167726928435809.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-22</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000900075</issuerCik>
+        <issuerName>COPART INC</issuerName>
+        <issuerTradingSymbol>CPRT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001453131</rptOwnerCik>
+            <rptOwnerName>Blunt Matt</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O COPART, INC. 14185 DALLAS PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75254</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>23.60</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>69.36</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>23.6</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-12-17</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30000.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">2007 Equity Incentive Plan.</footnote>
+        <footnote id="F2">Options vest on a monthly basis over the 12 months succeeding the grant date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey Liaw, attorney-in-fact</signatureName>
+        <signatureDate>2023-02-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>cprtpoabluntsec1622817.htm
+<DESCRIPTION>POA BLUNT 2.28.17
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <!-- Document created using Wdesk 1 -->
+        <!-- Copyright 2017 Workiva -->
+        <title>Exhibit</title>
+    </head>
+    <body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="s8F187E39DA0E4746BBB333B65FCB785B"></a></div><div></div><div><br></div><div style="line-height:120%;text-align:center;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-weight:bold;">COPART, INC.</font></div><div style="line-height:120%;text-align:center;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-weight:bold;">POWER OF ATTORNEY</font></div><div style="line-height:120%;text-align:center;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-weight:bold;">SECURITIES LAW COMPLIANCE</font></div><div style="line-height:120%;padding-top:16px;text-align:justify;text-indent:48px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">The undersigned, as a Section 16 reporting person of Copart, Inc. (the &#8220;</font><font style="font-family:inherit;font-size:11pt;text-decoration:underline;">Company</font><font style="font-family:inherit;font-size:11pt;">&#8221;), hereby constitutes and appoints Gregory R. DePasquale, William E. Franklin, Jeffrey Liaw and Justin Chapman the undersigned&#8217;s true and lawful attorneys-in-fact to: </font></div><div style="line-height:120%;padding-top:16px;text-align:justify;text-indent:48px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">(1) &#160;&#160;&#160;&#160;execute for and on behalf of the undersigned, in the undersigned&#8217;s capacity as an officer and/or director of the Company, Form ID, Form 3, Form 4 and Form 5 (including any amendments thereto) in accordance with Section 16(a) of the Securities Exchange Act of 1934, as amended, and the rules thereunder;</font></div><div style="line-height:120%;padding-top:16px;text-align:justify;text-indent:48px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">(2) &#160;&#160;&#160;&#160;do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete the execution of any such Form ID, Form 3, Form 4 and Form 5 and the timely filing of any such form with the United States Securities and Exchange Commission and any other authority; and</font></div><div style="line-height:120%;padding-top:16px;text-align:justify;text-indent:48px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">(3) &#160;&#160;&#160;&#160;take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of benefit to, to the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such terms and conditions as such attorney-in fact may approve in his or her discretion.</font></div><div style="line-height:120%;padding-top:16px;text-align:justify;text-indent:48px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform all and every act and thing whatsoever requisite, necessary and proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that such attorney-in-fact, or his or her substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers herein granted. </font></div><div style="line-height:120%;padding-top:16px;text-align:justify;text-indent:48px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is the Company assuming, any of the undersigned&#8217;s responsibilities to comply with Section 16 of the Securities Exchange Act of 1934, as amended.</font></div><div style="line-height:120%;padding-top:16px;text-align:justify;text-indent:48px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Form ID, Form 3, Form 4 and Form 5 with respect to the undersigned&#8217;s holdings of and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.</font></div><div style="line-height:120%;padding-top:16px;text-align:justify;text-indent:48px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this </font><font style="font-family:inherit;font-size:11pt;text-decoration:underline;">28</font><font style="font-family:inherit;font-size:11pt;text-decoration:underline;"><sup style="vertical-align:top;line-height:120%;font-size:7pt">th</sup></font><font style="font-family:inherit;font-size:11pt;">&#32;day of February, 2017.</font></div><div style="line-height:120%;padding-top:16px;text-align:justify;padding-left:288px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Signature:  </font><font style="font-family:inherit;font-size:11pt;text-decoration:underline;">/s/ Matt Blunt&#160;&#160;&#160;&#160;</font></div><div style="line-height:120%;padding-top:16px;text-align:justify;padding-left:288px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Print Name:  </font><font style="font-family:inherit;font-size:11pt;text-decoration:underline;">Matt Blunt&#160;&#160;&#160;&#160;</font></div><div><br></div><div></div>    </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

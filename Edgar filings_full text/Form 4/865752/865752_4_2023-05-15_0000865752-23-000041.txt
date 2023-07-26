@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0000865752-23-000041.txt : 20230515
+<SEC-HEADER>0000865752-23-000041.hdr.sgml : 20230515
+<ACCEPTANCE-DATETIME>20230515171147
+ACCESSION NUMBER:		0000865752-23-000041
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230511
+FILED AS OF DATE:		20230515
+DATE AS OF CHANGE:		20230515
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			VIDERGAUZ MARK
+		CENTRAL INDEX KEY:			0001266256
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-18761
+		FILM NUMBER:		23924217
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MONSTER BEVERAGE CORPORATION
+		STREET 2:		1 MONSTER WAY
+		CITY:			CORONA
+		STATE:			CA
+		ZIP:			92879
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Monster Beverage Corp
+		CENTRAL INDEX KEY:			0000865752
+		STANDARD INDUSTRIAL CLASSIFICATION:	BOTTLED & CANNED SOFT DRINKS CARBONATED WATERS [2086]
+		IRS NUMBER:				471809393
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 MONSTER WAY
+		CITY:			CORONA
+		STATE:			CA
+		ZIP:			92879
+		BUSINESS PHONE:		909-739-6200
+
+	MAIL ADDRESS:	
+		STREET 1:		1 MONSTER WAY
+		CITY:			CORONA
+		STATE:			CA
+		ZIP:			92879
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HANSEN NATURAL CORP
+		DATE OF NAME CHANGE:	19930328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNIPAC CORP
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000865752</issuerCik>
+        <issuerName>Monster Beverage Corp</issuerName>
+        <issuerTradingSymbol>MNST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001266256</rptOwnerCik>
+            <rptOwnerName>VIDERGAUZ MARK</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1 MONSTER WAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CORONA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92879</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>59.13</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>93270</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <footnoteId id="F5"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3974</value>
+                    <footnoteId id="F6"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On March 27, 2023, the common stock of the Company split 2-for-1 (the &quot;Stock Split&quot;). As a result, the reporting person received one additional share for every one share of common stock held prior to the Stock Split.</footnote>
+        <footnote id="F2">Each restricted stock unit represents either (i) a contingent right to receive one share of the Company's common stock or (ii) a cash amount equal to the number of shares received as of the vesting date.</footnote>
+        <footnote id="F3">The restricted stock units vest with respect to 100% of such restricted stock units on the last business day prior to the Company's 2023 annual stockholder meeting, provided that the reporting person continues as a director of the Company through such date.</footnote>
+        <footnote id="F4">Not applicable.</footnote>
+        <footnote id="F5">No transaction is being reported at this time. This line is only reporting holdings as of the date hereof.</footnote>
+        <footnote id="F6">Due to the Stock Split, the number of shares of common stock to be settled by the Company and delivered to the reporting person under the Company's equity incentive compensation plans or agreements governing restricted stock units (or the cash equivalent of such shares) were doubled.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Paul J. Dechary, attorney-in-fact</signatureName>
+        <signatureDate>2023-05-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

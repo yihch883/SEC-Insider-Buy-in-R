@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001209191-23-036839.txt : 20230613
+<SEC-HEADER>0001209191-23-036839.hdr.sgml : 20230613
+<ACCEPTANCE-DATETIME>20230613175125
+ACCESSION NUMBER:		0001209191-23-036839
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230612
+FILED AS OF DATE:		20230613
+DATE AS OF CHANGE:		20230613
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Dubugras Henrique Vasoncelos
+		CENTRAL INDEX KEY:			0001866429
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33647
+		FILM NUMBER:		231012381
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 LAUREL WAY
+		CITY:			BEVERLY HILLS
+		STATE:			CA
+		ZIP:			90210
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MERCADOLIBRE INC
+		CENTRAL INDEX KEY:			0001099590
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				980212790
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		DR. LUIS BONAVITA 1294 OF. 1733 TOWER II
+		CITY:			MONTEVIDEO
+		STATE:			X3
+		ZIP:			11300
+		BUSINESS PHONE:		598-2-2927-2770
+
+	MAIL ADDRESS:	
+		STREET 1:		DR. LUIS BONAVITA 1294 OF. 1733 TOWER II
+		CITY:			MONTEVIDEO
+		STATE:			X3
+		ZIP:			11300
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MERCADOLIBRE INC.
+		DATE OF NAME CHANGE:	20211028
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MERCADOLIBRE INC
+		DATE OF NAME CHANGE:	19991123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-12</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001099590</issuerCik>
+        <issuerName>MERCADOLIBRE INC</issuerName>
+        <issuerTradingSymbol>MELI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001866429</rptOwnerCik>
+            <rptOwnerName>Dubugras Henrique Vasoncelos</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>DR. LUIS BONAVITA 1294 OF. 1733</rptOwnerStreet1>
+            <rptOwnerStreet2>TOWER II</rptOwnerStreet2>
+            <rptOwnerCity>MONTEVIDEO</rptOwnerCity>
+            <rptOwnerState>X3</rptOwnerState>
+            <rptOwnerZipCode>11300</rptOwnerZipCode>
+            <rptOwnerStateDescription>URUGUAY</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-12</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>98</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>301</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>845</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By TDB Capital LLC</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents 98 shares of stock, subject to forfeiture and transfer restrictions until the next annual meeting of the shareholders of MercadoLibre, Inc. following the transaction date (the &quot;Restricted Stock&quot;).</footnote>
+        <footnote id="F2">Represents 98 shares of Restricted Stock and 203 shares of common stock.</footnote>
+    </footnotes>
+
+    <remarks>The Power ofAttorney for Henrique Dubugras is filed as an exhibit to the Form 3 filed by Mr. Dubgugras with the Securities and Exchange Commission on June 9, 2021, which is hereby incorporated by reference.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jacobo Cohen Imach (attorney-in-fact)</signatureName>
+        <signatureDate>2025-06-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

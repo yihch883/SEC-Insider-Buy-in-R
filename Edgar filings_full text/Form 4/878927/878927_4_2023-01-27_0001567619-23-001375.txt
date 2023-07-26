@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0001567619-23-001375.txt : 20230127
+<SEC-HEADER>0001567619-23-001375.hdr.sgml : 20230127
+<ACCEPTANCE-DATETIME>20230127164210
+ACCESSION NUMBER:		0001567619-23-001375
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230125
+FILED AS OF DATE:		20230127
+DATE AS OF CHANGE:		20230127
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Overbey Cecil E. Jr.
+		CENTRAL INDEX KEY:			0001509626
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19582
+		FILM NUMBER:		23563783
+
+	MAIL ADDRESS:	
+		STREET 1:		500 OLD DOMINION WAY
+		CITY:			THOMASVILLE
+		STATE:			NC
+		ZIP:			27360
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Overbay Cecil E. Jr.
+		DATE OF NAME CHANGE:	20110106
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OLD DOMINION FREIGHT LINE, INC.
+		CENTRAL INDEX KEY:			0000878927
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRUCKING (NO LOCAL) [4213]
+		IRS NUMBER:				560751714
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 OLD DOMINION WAY
+		CITY:			THOMASVILLE
+		STATE:			NC
+		ZIP:			27360
+		BUSINESS PHONE:		3368895000
+
+	MAIL ADDRESS:	
+		STREET 1:		500 OLD DOMINION WAY
+		CITY:			THOMASVILLE
+		STATE:			NC
+		ZIP:			27360
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	OLD DOMINION FREIGHT LINE INC/VA
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000878927</issuerCik>
+        <issuerName>OLD DOMINION FREIGHT LINE, INC.</issuerName>
+        <issuerTradingSymbol>ODFL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001509626</rptOwnerCik>
+            <rptOwnerName>Overbey Cecil E. Jr.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O OLD DOMINION FREIGHT LINE, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>500 OLD DOMINION WAY</rptOwnerStreet2>
+            <rptOwnerCity>THOMASVILLE</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>27360</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP - Strategic Development</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1413</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19382</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4055</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k) plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares represent a performance-based restricted stock unit award granted on February 9, 2022. On January 25, 2023, the Compensation Committee of the Company's Board of Directors certified performance at the maximum level with respect to the 2022 performance period.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Cecil E. Overbey, Jr.</signatureName>
+        <signatureDate>2023-01-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

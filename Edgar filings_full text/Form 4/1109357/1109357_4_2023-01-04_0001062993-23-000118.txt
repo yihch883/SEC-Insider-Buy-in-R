@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001062993-23-000118.txt : 20230104
+<SEC-HEADER>0001062993-23-000118.hdr.sgml : 20230104
+<ACCEPTANCE-DATETIME>20230104122554
+ACCESSION NUMBER:		0001062993-23-000118
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230104
+DATE AS OF CHANGE:		20230104
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jojo Linda P
+		CENTRAL INDEX KEY:			0001296796
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16169
+		FILM NUMBER:		23505112
+
+	MAIL ADDRESS:	
+		STREET 1:		233 S. WACKER DRIVE 11TH FL WHQLD
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXELON CORP
+		CENTRAL INDEX KEY:			0001109357
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		IRS NUMBER:				232990190
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 805398
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60680-5398
+		BUSINESS PHONE:		3123947399
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 805398
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60680-5398
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXELON Corp
+		DATE OF NAME CHANGE:	20180928
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXELON CORP
+		DATE OF NAME CHANGE:	20000315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001109357</issuerCik>
+        <issuerName>EXELON CORP</issuerName>
+        <issuerTradingSymbol>EXC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001296796</rptOwnerCik>
+            <rptOwnerName>Jojo Linda P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>10 S. DEARBORN STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>54TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60603</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock (Deferred Stock Units)</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>936</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>41.42</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>37229</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Exelon Directors' Deferred Stock Unit Plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Balance includes 293 shares acquired onDecember 9, 2022 through automatic dividend reinvestment.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Elizabeth M. Hensen, Attorney in Fact for Linda P. Jojo</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

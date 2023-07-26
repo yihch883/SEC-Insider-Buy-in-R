@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001127602-23-020181.txt : 20230705
+<SEC-HEADER>0001127602-23-020181.hdr.sgml : 20230705
+<ACCEPTANCE-DATETIME>20230705170954
+ACCESSION NUMBER:		0001127602-23-020181
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230705
+DATE AS OF CHANGE:		20230705
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kindy Michael J
+		CENTRAL INDEX KEY:			0001672204
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25464
+		FILM NUMBER:		231070464
+
+	MAIL ADDRESS:	
+		STREET 1:		100 MISSION RIDGE
+		CITY:			GOODLETTSVILLE
+		STATE:			TN
+		ZIP:			37072
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DOLLAR TREE, INC.
+		CENTRAL INDEX KEY:			0000935703
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				541387365
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			0203
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 VOLVO PARKWAY
+		STREET 2:		N/A
+		CITY:			CHESAPEAKE
+		STATE:			VA
+		ZIP:			23320
+		BUSINESS PHONE:		(757) 321-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		500 VOLVO PARKWAY
+		CITY:			CHESAPEAKE
+		STATE:			VA
+		ZIP:			23320
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOLLAR TREE INC
+		DATE OF NAME CHANGE:	20080328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOLLAR TREE STORES INC
+		DATE OF NAME CHANGE:	19950117
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000935703</issuerCik>
+        <issuerName>DOLLAR TREE, INC.</issuerName>
+        <issuerTradingSymbol>DLTR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001672204</rptOwnerCik>
+            <rptOwnerName>Kindy Michael J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>500 VOLVO PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHESAPEAKE</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>23320</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Supply Chain Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2926</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2926</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>143.50</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4575</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>143.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4575</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4575</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock units granted pursuant to the Company's 2021 Omnibus Incentive Plan and will vest in approximately three equal annual installments, beginning on the anniversary of the award date, subject to continued employment.</footnote>
+        <footnote id="F2">The stock options were granted pursuant to the Company's 2021 Omnibus Incentive Plan and will vest in approximately equal installments on each of the first three anniversaries of the date of grant, subject generally to continued employment with the Company through each vesting date.</footnote>
+        <footnote id="F3">Expires upon termination, with certain grace periods, or ten years after award, whichever is less.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Derek R. Redmond, attorney-in-fact for Mr. Kindy</signatureName>
+        <signatureDate>2023-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

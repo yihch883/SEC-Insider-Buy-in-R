@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001127602-23-009784.txt : 20230310
+<SEC-HEADER>0001127602-23-009784.hdr.sgml : 20230310
+<ACCEPTANCE-DATETIME>20230310172049
+ACCESSION NUMBER:		0001127602-23-009784
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230309
+FILED AS OF DATE:		20230310
+DATE AS OF CHANGE:		20230310
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DREILING RICHARD W
+		CENTRAL INDEX KEY:			0001209831
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25464
+		FILM NUMBER:		23724846
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SAFEWAY INC
+		STREET 2:		5918 STONERIDGE MALL ROAD
+		CITY:			PLEASANTON
+		STATE:			CA
+		ZIP:			94588
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DOLLAR TREE, INC.
+		CENTRAL INDEX KEY:			0000935703
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				541387365
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			0128
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 VOLVO PARKWAY
+		STREET 2:		N/A
+		CITY:			CHESAPEAKE
+		STATE:			VA
+		ZIP:			23320
+		BUSINESS PHONE:		(757) 321-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		500 VOLVO PARKWAY
+		CITY:			CHESAPEAKE
+		STATE:			VA
+		ZIP:			23320
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOLLAR TREE INC
+		DATE OF NAME CHANGE:	20080328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOLLAR TREE STORES INC
+		DATE OF NAME CHANGE:	19950117
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000935703</issuerCik>
+        <issuerName>DOLLAR TREE, INC.</issuerName>
+        <issuerTradingSymbol>DLTR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001209831</rptOwnerCik>
+            <rptOwnerName>DREILING RICHARD W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>500 VOLVO PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHESAPEAKE</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>23320</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7100</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>142.00</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7118</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Reporting Person is the trustee of the Richard Dreiling and Ellen Dreiling Revocable Living Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at a price ranging from $141.63 to $142.16, inclusive.</footnote>
+        <footnote id="F2">The total reported in Column 5 includes the 7,100 shares purchased by the Reporting Person and 18 shares which, as a result of a clerical error, were not previously included on the Reporting Person's Form 3 filed on March 22, 2022.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Derek R. Redmond, attorney-in-fact for Mr. Dreiling</signatureName>
+        <signatureDate>2023-03-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

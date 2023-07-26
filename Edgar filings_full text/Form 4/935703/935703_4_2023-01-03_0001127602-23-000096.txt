@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001127602-23-000096.txt : 20230103
+<SEC-HEADER>0001127602-23-000096.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103143054
+ACCESSION NUMBER:		0001127602-23-000096
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230101
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KELLY EDWARD J III
+		CENTRAL INDEX KEY:			0001160225
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25464
+		FILM NUMBER:		23501627
+
+	MAIL ADDRESS:	
+		STREET 1:		CIT GROUP INC
+		STREET 2:		ONE CIT DRIVE
+		CITY:			LIVINGSTON
+		STATE:			NJ
+		ZIP:			07039
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DOLLAR TREE, INC.
+		CENTRAL INDEX KEY:			0000935703
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				541387365
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			0128
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 VOLVO PARKWAY
+		STREET 2:		N/A
+		CITY:			CHESAPEAKE
+		STATE:			VA
+		ZIP:			23320
+		BUSINESS PHONE:		(757) 321-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		500 VOLVO PARKWAY
+		CITY:			CHESAPEAKE
+		STATE:			VA
+		ZIP:			23320
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOLLAR TREE INC
+		DATE OF NAME CHANGE:	20080328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOLLAR TREE STORES INC
+		DATE OF NAME CHANGE:	19950117
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000935703</issuerCik>
+        <issuerName>DOLLAR TREE, INC.</issuerName>
+        <issuerTradingSymbol>DLTR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001160225</rptOwnerCik>
+            <rptOwnerName>KELLY EDWARD J III</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>500 VOLVO PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHESAPEAKE</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>23320</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>265.13</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>141.44</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>265.13</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>265.13</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of phantom stock represents the right to receive one share of Dollar Tree common stock, and cash for any fractional shares.</footnote>
+        <footnote id="F2">Represents deferral of director fees under the 2013 Director Deferred Compensation Plan.</footnote>
+        <footnote id="F3">Shares of phantom stock are payable in common stock following the earlier of the director's separation from the Board or the specified date of distribution pursuant to the director's deferral election.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Derek R. Redmond, attorney-in-fact for Mr. Kelly, III</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

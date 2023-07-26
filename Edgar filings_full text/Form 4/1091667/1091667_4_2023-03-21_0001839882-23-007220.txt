@@ -1,0 +1,244 @@
+<SEC-DOCUMENT>0001839882-23-007220.txt : 20230321
+<SEC-HEADER>0001839882-23-007220.hdr.sgml : 20230321
+<ACCEPTANCE-DATETIME>20230321140223
+ACCESSION NUMBER:		0001839882-23-007220
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230317
+FILED AS OF DATE:		20230321
+DATE AS OF CHANGE:		20230321
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Newhouse Michael A
+		CENTRAL INDEX KEY:			0001675262
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33664
+		FILM NUMBER:		23748982
+
+	MAIL ADDRESS:	
+		STREET 1:		CHARTER COMMUNICATIONS, INC.
+		STREET 2:		400 ATLANTIC STREET, 10TH FLOOR
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06901
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHARTER COMMUNICATIONS, INC. /MO/
+		CENTRAL INDEX KEY:			0001091667
+		STANDARD INDUSTRIAL CLASSIFICATION:	CABLE & OTHER PAY TELEVISION SERVICES [4841]
+		IRS NUMBER:				841496755
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 ATLANTIC STREET
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06901
+		BUSINESS PHONE:		203-905-7800
+
+	MAIL ADDRESS:	
+		STREET 1:		400 ATLANTIC STREET
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06901
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHARTER COMMUNICATIONS INC /MO/
+		DATE OF NAME CHANGE:	19990723
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>newhouse-form4_031723.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001091667</issuerCik>
+        <issuerName>CHARTER COMMUNICATIONS, INC. /MO/</issuerName>
+        <issuerTradingSymbol>CHTR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001675262</rptOwnerCik>
+            <rptOwnerName>Newhouse Michael A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CHARTER COMMUNICATIONS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>400 WASHINGTON BLVD.</rptOwnerStreet2>
+            <rptOwnerCity>STAMFORD</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06902</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Call option (obligation to sell)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>643.0830</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>1</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1000000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Indirect Interest in a Partnership</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Put option (right to sell)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>445.4935</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>1</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1000000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Indirect Interest in a Partnership</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On February 4, 2020, Advance/Newhouse Partnership (&quot;A/N&quot;) established a credit facility backed by an equity collar transaction and an aggregate of 4,000,000 Class B Common Units of Charter Communications Holdings, LLC (&quot;Units&quot;) to provide financial flexibility to support its ongoing estate planning and its investment program and for other general corporate purposes. A/N entered into Share Collar Transactions (the &quot;Transactions&quot;) with unaffiliated banks, pursuant to which A/N wrote European call options and purchased European put options over an aggregate of 4,000,000 shares of Class A common stock (the &quot;Common Stock&quot;) of Charter Communications, Inc. (the &quot;Issuer&quot;). Under the agreement, the Transactions may be settled in cash unless A/N elects physical settlement, in which case it expects to exchange Units for Class A Common Stock sufficient to satisfy its obligations under the Transactions.</footnote>
+        <footnote id="F2">On March 17, 2023, A/N early terminated a portion of the Transactions, with expiration dates running from August 12, 2024 to September 5, 2024, inclusive, and an equivalent portion of the corresponding credit facility. The terminated Transactions covered 1,000,000 shares of Class A Common Stock, and, in connection with this termination, 1,000,000 Units were released from the related pledge. Pursuant to this termination, the unaffiliated bank counterparty paid $93,694,100.00 in cash to A/N.</footnote>
+        <footnote id="F3">The Reporting Person, by virtue of his affiliations with Advance Long-Term Management Trust, a New Jersey trust (&quot;ALTMT&quot;), Advance Publications, Inc., a New York corporation (&quot;API&quot;), and Newhouse Broadcasting Corporation (&quot;NBCo&quot;), and affiliation with and interest in other non-controlling holders of equity of API and NBCo, may be deemed to beneficially own the shares of Common Stock and Units owned directly by A/N. ALTMT is the general partner of Newhouse Family Holdings, L.P., a Delaware limited partnership, which owns all of the voting shares of API. API and NBCo indirectly own all of the partnership interests of A/N.</footnote>
+        <footnote id="F4">The Reporting Person disclaims beneficial ownership of the shares of Common Stock and Units owned by A/N and this report shall not be deemed an admission that the Reporting Person is the beneficial owner of such shares for purposes of Section 16 or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael A. Newhouse</signatureName>
+        <signatureDate>2023-03-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
