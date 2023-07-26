@@ -5,13 +5,13 @@ This is a project based in R, which utilizes the "Edgar" Package to get the SEC 
 The current version can download the filing with the ticker, it can be a single stock or a list of stock, and you can specify the time period you want to download
 
 ## What is under development?
-There is an early version of data extraction and construction. It is not perfect at the moment, but you can use the value column as references.
+There is an early version of data extraction and construction. It is not perfect at the moment, but you can use the value column as reference.
 
 
 ## Please note that although the code is capable of downloading all the filing within a loop. It is NOT recommended to do so.
 To allow for equitable access to all users, SEC reserves the right to limit requests originating from undeclared automated tools. By doing so, your request might be identified as part of a network of automated tools outside of the acceptable policy and will be managed until action is taken to declare your traffic.
 
-There is a work around such as changing IP and adding system.sleep between downloads. However, download reasonable amount at once is still recommended.
+There is a workaround such as changing IP and adding system.sleep between downloads. However, downloading a reasonable amount at once is still recommended.
 
 
 ## Terms of Service
