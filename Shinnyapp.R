@@ -57,7 +57,7 @@ server <- function(input, output) {
     }
     
     if ("Insider sell" %in% input$checkboxes) {
-      filtered_rows <- subset(insider_sell_df, Value > input$input_value)
+      filtered_rows <- subset(insider_sell_df, Value < input$input_value)
       result_df <- rbind(result_df, filtered_rows) # Append the filtered rows to the result data frame
     }
     result_df <- result_df[, (names(result_df) %in% c("Ticker","Trade_Date","Value"))]
