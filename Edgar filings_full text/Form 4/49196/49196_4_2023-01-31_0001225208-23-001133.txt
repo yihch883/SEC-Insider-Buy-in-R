@@ -1,0 +1,233 @@
+<SEC-DOCUMENT>0001225208-23-001133.txt : 20230131
+<SEC-HEADER>0001225208-23-001133.hdr.sgml : 20230131
+<ACCEPTANCE-DATETIME>20230131162343
+ACCESSION NUMBER:		0001225208-23-001133
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230127
+FILED AS OF DATE:		20230131
+DATE AS OF CHANGE:		20230131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PORTEOUS DAVID L
+		CENTRAL INDEX KEY:			0001267320
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34073
+		FILM NUMBER:		23572869
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 44
+		CITY:			REED CITY
+		STATE:			MI
+		ZIP:			49677
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HUNTINGTON BANCSHARES INC /MD/
+		CENTRAL INDEX KEY:			0000049196
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				310724920
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		HUNTINGTON CTR
+		STREET 2:		41 S HIGH ST HC0917
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43287
+		BUSINESS PHONE:		6144802265
+
+	MAIL ADDRESS:	
+		STREET 1:		HUNTINGTON CENTER
+		STREET 2:		41 S HIGH ST HC0917
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43287
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HUNTINGTON BANCSHARES INC/MD
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000049196</issuerCik>
+        <issuerName>HUNTINGTON BANCSHARES INC /MD/</issuerName>
+        <issuerTradingSymbol>HBAN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001267320</rptOwnerCik>
+            <rptOwnerName>PORTEOUS DAVID L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 206</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>REED CITY</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>49677</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>80000.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.0126</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>62844.6230</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By IRA</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>594204.8050</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13814.1680</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By SEP-IRA</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9622.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>125591.3620</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Director Deferred Compensation Plan</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was executed in multiple trades ranging from $15.01 to $15.02. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer, full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+        <footnote id="F2">Total reflects shares previously reported as directly-owned and includes the exempt acquisition of accrued shares via the automatic reinvestment of dividends.</footnote>
+        <footnote id="F3">The filing of this statement shall not be construed as an admission that the undersigned is, for the purpose of Section 16 of the Securities and Exchange Act of 1934 or otherwise, the beneficial owner of the securities.</footnote>
+        <footnote id="F4">Total reflects the transfer of shares from directly-owned to By IRA and By SEP-IRA and includes accrued dividend equivalents reflecting exempt automatic reinvestment of dividends on awards of deferred stock units.</footnote>
+        <footnote id="F5">Total includes the exempt acquisition of shares via the automatic reinvestment of dividends.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Anne Kruger, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-01-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

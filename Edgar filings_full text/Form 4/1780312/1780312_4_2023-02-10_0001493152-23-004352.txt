@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001493152-23-004352.txt : 20230210
+<SEC-HEADER>0001493152-23-004352.hdr.sgml : 20230210
+<ACCEPTANCE-DATETIME>20230210190011
+ACCESSION NUMBER:		0001493152-23-004352
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230208
+FILED AS OF DATE:		20230210
+DATE AS OF CHANGE:		20230210
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Heller Brian
+		CENTRAL INDEX KEY:			0001855407
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39040
+		FILM NUMBER:		23614083
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AST SPACEMOBILE 2901 ENTERPRISE LANE
+		STREET 2:		MIDLAND INTL. AIR & SPACE PORT
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79706
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AST SpaceMobile, Inc.
+		CENTRAL INDEX KEY:			0001780312
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATION SERVICES, NEC [4899]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6500 RIVERPLACE BOULEVARD
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78730
+		BUSINESS PHONE:		9179694834
+
+	MAIL ADDRESS:	
+		STREET 1:		6500 RIVERPLACE BOULEVARD
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78730
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	New Providence Acquisition Corp.
+		DATE OF NAME CHANGE:	20190620
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001780312</issuerCik>
+        <issuerName>AST SpaceMobile, Inc.</issuerName>
+        <issuerTradingSymbol>ASTS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001855407</rptOwnerCik>
+            <rptOwnerName>Heller Brian</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AST SPACEMOBILE, INC., MIDLAND AIR &amp;</rptOwnerStreet1>
+            <rptOwnerStreet2>SPACE PORT, 2901 ENTERPRISE LANE</rptOwnerStreet2>
+            <rptOwnerCity>MIDLAND</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>79706</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, GC &amp; Secretary</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20678</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.91</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>184322</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a payment of tax liability by withholding securities incident to the vesting of Restricted Stock Units representing 51,250 shares of Class A Common Stock issued in accordance with Rule 16b-3, resulting in a net vested number of 30,572 shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Brian Heller</signatureName>
+        <signatureDate>2023-02-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

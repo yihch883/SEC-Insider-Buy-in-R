@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0000897069-23-000519.txt : 20230524
+<SEC-HEADER>0000897069-23-000519.hdr.sgml : 20230524
+<ACCEPTANCE-DATETIME>20230524214208
+ACCESSION NUMBER:		0000897069-23-000519
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230522
+FILED AS OF DATE:		20230524
+DATE AS OF CHANGE:		20230524
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HILZINGER MATTHEW F
+		CENTRAL INDEX KEY:			0001184017
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14204
+		FILM NUMBER:		23955775
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FUELCELL ENERGY INC
+		CENTRAL INDEX KEY:			0000886128
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		IRS NUMBER:				060853042
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 GREAT PASTURE RD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06813
+		BUSINESS PHONE:		2038256000
+
+	MAIL ADDRESS:	
+		STREET 1:		3 GREAT PASTURE ROAD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENERGY RESEARCH CORP /NY/
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-22</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000886128</issuerCik>
+        <issuerName>FUELCELL ENERGY INC</issuerName>
+        <issuerTradingSymbol>FCEL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001184017</rptOwnerCik>
+            <rptOwnerName>HILZINGER MATTHEW F</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1></rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity></rptOwnerCity>
+            <rptOwnerState></rptOwnerState>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Common Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>48936</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>48936</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>147366</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Deferred common stock units issued to the reporting person pursuant to the FuelCell Energy, Inc. Directors Deferred Compensation Plan. In accordance with elections made by the reporting person under the Directors Deferred Compensation Plan, the shares of common stock underlying the common stock units are payable to the reporting person, on a one-for-one basis (i.e., one share of common stock for each common stock unit), upon separation from service as a director.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael S. Bishop, As Power of Attorney</signatureName>
+        <signatureDate>2023-05-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

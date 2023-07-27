@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001493152-23-019859.txt : 20230601
+<SEC-HEADER>0001493152-23-019859.hdr.sgml : 20230601
+<ACCEPTANCE-DATETIME>20230601201025
+ACCESSION NUMBER:		0001493152-23-019859
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230531
+FILED AS OF DATE:		20230601
+DATE AS OF CHANGE:		20230601
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RIDEOUT STANTON K
+		CENTRAL INDEX KEY:			0001192052
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38387
+		FILM NUMBER:		23986359
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HYCROFT MINING HOLDING CORPORATION
+		STREET 2:		8181 E. TUFTS AVE. SUITE 510
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80237
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HYCROFT MINING HOLDING CORP
+		CENTRAL INDEX KEY:			0001718405
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		IRS NUMBER:				822657796
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4300 WATER CANYON ROAD
+		STREET 2:		UNIT 1
+		CITY:			WINNEMUCCA
+		STATE:			NV
+		ZIP:			89445
+		BUSINESS PHONE:		7753040260
+
+	MAIL ADDRESS:	
+		STREET 1:		4300 WATER CANYON ROAD
+		STREET 2:		UNIT 1
+		CITY:			WINNEMUCCA
+		STATE:			NV
+		ZIP:			89445
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Mudrick Capital Acquisition Corp
+		DATE OF NAME CHANGE:	20171002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001718405</issuerCik>
+        <issuerName>HYCROFT MINING HOLDING CORP</issuerName>
+        <issuerTradingSymbol>HYMC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001192052</rptOwnerCik>
+            <rptOwnerName>RIDEOUT STANTON K</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O HYCROFT MINING HOLDING CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>4300 WATER CANYON ROAD, UNIT 1</rptOwnerStreet2>
+            <rptOwnerCity>WINNEMUCCA</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89445</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Vice President &amp; CFO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2100</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.3409</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1144798</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the sale of shares of common stock in order to facilitate the payment of taxes related to vested restricted stock units (&quot;RSUs&quot;) held by the reporting person that were converted to shares of common stock.</footnote>
+        <footnote id="F2">The sale price represents the weighted average sale price of the shares sold at prices ranging from $0.335 to $0.3417 per share. Upon request by the Commission's staff, the issuer or a security holder of the issuer, the reporting person will provide full information regarding the number of shares sold at each separate price range set forth in this Form 4.</footnote>
+        <footnote id="F3">Of this amount, 1,005,647 are unvested RSUs as of May 31, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Stanton Rideout</signatureName>
+        <signatureDate>2023-06-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

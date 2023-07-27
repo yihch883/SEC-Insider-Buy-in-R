@@ -1,0 +1,190 @@
+<SEC-DOCUMENT>0000897069-23-000692.txt : 20230607
+<SEC-HEADER>0000897069-23-000692.hdr.sgml : 20230607
+<ACCEPTANCE-DATETIME>20230607114233
+ACCESSION NUMBER:		0000897069-23-000692
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230601
+FILED AS OF DATE:		20230607
+DATE AS OF CHANGE:		20230607
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Weil B. Luke
+		CENTRAL INDEX KEY:			0001543122
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38785
+		FILM NUMBER:		23998217
+
+	MAIL ADDRESS:	
+		STREET 1:		CARRERA 10 NO. 28-49
+		STREET 2:		TORRE A. OFICINA 20-05
+		CITY:			BOGOTA
+		STATE:			F8
+		ZIP:			XXXXX
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STRYVE FOODS, INC.
+		CENTRAL INDEX KEY:			0001691936
+		STANDARD INDUSTRIAL CLASSIFICATION:	FOOD & KINDRED PRODUCTS [2000]
+		IRS NUMBER:				871760117
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5801 TENNYSON PARKWAY
+		STREET 2:		SUITE 275
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+		BUSINESS PHONE:		646-565-3861
+
+	MAIL ADDRESS:	
+		STREET 1:		5801 TENNYSON PARKWAY
+		STREET 2:		SUITE 275
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Andina Acquisition Corp. III
+		DATE OF NAME CHANGE:	20161208
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001691936</issuerCik>
+        <issuerName>STRYVE FOODS, INC.</issuerName>
+        <issuerTradingSymbol>SNAX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001543122</rptOwnerCik>
+            <rptOwnerName>Weil B. Luke</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O STRYVE FOODS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>POST OFFICE BOX 864</rptOwnerStreet2>
+            <rptOwnerCity>FRISCO</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75034</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>48660</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>648679</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>75000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>237500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents director's fees paid in restricted stock from the Issuer's Omnibus Incentive Plan.</footnote>
+        <footnote id="F2">Owned by Andina Equity LLC. The reporting person is the managing member of this entity. The reporting person disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F3">Owned by LWEH3 LLC. The reporting person controls this entity. The reporting person disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>B. Luke Weil</signatureName>
+        <signatureDate>2023-06-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

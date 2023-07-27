@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001209191-23-042995.txt : 20230720
+<SEC-HEADER>0001209191-23-042995.hdr.sgml : 20230720
+<ACCEPTANCE-DATETIME>20230720211801
+ACCESSION NUMBER:		0001209191-23-042995
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230718
+FILED AS OF DATE:		20230720
+DATE AS OF CHANGE:		20230720
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wuebbels Brian
+		CENTRAL INDEX KEY:			0001550288
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40117
+		FILM NUMBER:		231100932
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MEMC ELECTRONIC MATERIALS, INC.
+		STREET 2:		501 PEARL DRIVE
+		CITY:			ST. PETERS
+		STATE:			MO
+		ZIP:			63376
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Freedom Acquisition I Corp.
+		CENTRAL INDEX KEY:			0001838987
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		UGLAND HOUSE, PO BOX 309
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+		BUSINESS PHONE:		(212) 618-1798
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		UGLAND HOUSE, PO BOX 309
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001838987</issuerCik>
+        <issuerName>Freedom Acquisition I Corp.</issuerName>
+        <issuerTradingSymbol>CSLR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001550288</rptOwnerCik>
+            <rptOwnerName>Wuebbels Brian</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O COMPLETE SOLARIA, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>45700 NORTHPORT LOOP EAST</rptOwnerStreet2>
+            <rptOwnerCity>FREMONT</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94538</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>5.18</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>379636</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-06-18</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>379636</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>379636</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares subject to the option vest as follows: 1/60th of the shares subject to the option shall vest monthly over five years from February 9, 2023.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Matt Hemington, Attorney-in-Fact for Brian Wuebbels</signatureName>
+        <signatureDate>2023-07-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

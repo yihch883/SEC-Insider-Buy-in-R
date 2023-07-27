@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0000950170-23-029669.txt : 20230623
+<SEC-HEADER>0000950170-23-029669.hdr.sgml : 20230623
+<ACCEPTANCE-DATETIME>20230623164719
+ACCESSION NUMBER:		0000950170-23-029669
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230621
+FILED AS OF DATE:		20230623
+DATE AS OF CHANGE:		20230623
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LANDSEA HOLDINGS CORP
+		CENTRAL INDEX KEY:			0001840469
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38545
+		FILM NUMBER:		231038393
+
+	BUSINESS ADDRESS:	
+		STREET 1:		660 NEWPORT CENTER DRIVE
+		STREET 2:		SUITE 300
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+		BUSINESS PHONE:		9493458080
+
+	MAIL ADDRESS:	
+		STREET 1:		660 NEWPORT CENTER DRIVE
+		STREET 2:		SUITE 300
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Landsea Homes Corp
+		CENTRAL INDEX KEY:			0001721386
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATIVE BUILDERS [1531]
+		IRS NUMBER:				822196021
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1717 MCKINNEY AVENUE
+		STREET 2:		SUITE 1000
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75202
+		BUSINESS PHONE:		(949) 345-8080
+
+	MAIL ADDRESS:	
+		STREET 1:		1717 MCKINNEY AVENUE
+		STREET 2:		SUITE 1000
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LF Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20171101
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001721386</issuerCik>
+        <issuerName>Landsea Homes Corp</issuerName>
+        <issuerTradingSymbol>LSEA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001840469</rptOwnerCik>
+            <rptOwnerName>LANDSEA HOLDINGS CORP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>530 LYTTON AVE., 2ND FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PALO ALTO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94301</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>443478</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19740729</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares were disposed of in connection with the full exercise of the underwriters' option to purchase additional shares in the secondary offering by Landsea Holdings Corporation (&quot;Landsea Holdings&quot;), pursuant to the terms of an underwriting agreement dated June 12, 2023, entered into by Landsea Homes Corporation, Landsea Holdings as the selling stockholder and B. Riley Securities, Inc., as representative of the several underwriters named therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/  Qin Zhou</signatureName>
+        <signatureDate>2023-06-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001683168-23-000428.txt : 20230131
+<SEC-HEADER>0001683168-23-000428.hdr.sgml : 20230131
+<ACCEPTANCE-DATETIME>20230131105334
+ACCESSION NUMBER:		0001683168-23-000428
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230127
+FILED AS OF DATE:		20230131
+DATE AS OF CHANGE:		20230131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Deschamps Philippe
+		CENTRAL INDEX KEY:			0001638231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39669
+		FILM NUMBER:		23570775
+
+	MAIL ADDRESS:	
+		STREET 1:		105 BRADFORD RD
+		STREET 2:		SUITE 420
+		CITY:			WEXFORD
+		STATE:			PA
+		ZIP:			15090
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Coeptis Therapeutics Holdings, Inc.
+		CENTRAL INDEX KEY:			0001759186
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				981465952
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		105 BRADFORD ROAD, SUITE 420
+		CITY:			WEXFORD
+		STATE:			PA
+		ZIP:			15090
+		BUSINESS PHONE:		724-934-6467
+
+	MAIL ADDRESS:	
+		STREET 1:		105 BRADFORD ROAD, SUITE 420
+		CITY:			WEXFORD
+		STATE:			PA
+		ZIP:			15090
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bull Horn Holdings Corp.
+		DATE OF NAME CHANGE:	20181115
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001759186</issuerCik>
+        <issuerName>Coeptis Therapeutics Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>COEP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001638231</rptOwnerCik>
+            <rptOwnerName>Deschamps Philippe</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>105 BRADFORD ROAD, SUITE 420</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WEXFORD</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>15090</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Non-qualified Stock Options (right to buy)</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.60</value>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On January 27, 2023, the reporting person received a grant of 30,000 stock options, as non-qualified options, under the 2022 equity incentive plan.</footnote>
+        <footnote id="F2">The exercise price is the FMV of the shares, which is equal to the Company's stock price on the Nasdaq Global Market on the day of grant.</footnote>
+        <footnote id="F3">Non-qualified options will vest over 1 year, in four equal installments, with the first 25% vesting on 3/31/2023, the next 25% vesting on 6/30/2023, the next
+25% vesting on 9/30/23, and the final 25% vesting on 12/31/23.</footnote>
+        <footnote id="F4">Expiration date is ten years from the day of grant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Philippe Deschamps</signatureName>
+        <signatureDate>2023-01-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

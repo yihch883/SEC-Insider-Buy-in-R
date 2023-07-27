@@ -1,0 +1,254 @@
+<SEC-DOCUMENT>0000899243-23-009247.txt : 20230321
+<SEC-HEADER>0000899243-23-009247.hdr.sgml : 20230321
+<ACCEPTANCE-DATETIME>20230321061701
+ACCESSION NUMBER:		0000899243-23-009247
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230316
+FILED AS OF DATE:		20230321
+DATE AS OF CHANGE:		20230321
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Poon Cho Fai
+		CENTRAL INDEX KEY:			0001865024
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40466
+		FILM NUMBER:		23747790
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SUMMIT HEALTHCARE ACQUISITION CORP.
+		STREET 2:		1 LYNDHURST TOWER, UNIT 1101
+		CITY:			CENTRAL
+		STATE:			K3
+		ZIP:			00000
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Poon Ken
+		DATE OF NAME CHANGE:	20210528
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Summit Healthcare Acquisition Corp.
+		CENTRAL INDEX KEY:			0001839185
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		UGLAND HOUSE, BOX 309
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+		BUSINESS PHONE:		212-446-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		UGLAND HOUSE, BOX 309
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-16</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001839185</issuerCik>
+        <issuerName>Summit Healthcare Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>SMIHU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001865024</rptOwnerCik>
+            <rptOwnerName>Poon Cho Fai</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O SUMMIT HEALTHCARE ACQUISITION CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>UNIT 1101, 11TH FLOOR, 1 LYNDHURST TOWER</rptOwnerStreet2>
+            <rptOwnerCity>CENTRAL, HONG KONG</rptOwnerCity>
+            <rptOwnerState>K3</rptOwnerState>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription>HONG KONG</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5300000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5300000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Private Placement Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F7"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F7"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6000000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F7"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">As described in the prospectus for the initial public offering (File No. 333-255722) of Summit Healthcare Acquisition Corp. (&quot;SMIH&quot;) under the heading &quot;Description of Securities--Founder Shares,&quot; the Class B ordinary shares, par value $0.0001 per share, will automatically convert into Class A ordinary shares, par value $0.0001 per share, of the issuer at the time of the issuer's initial business combination, on a one-for-one basis, subject to adjustment for share splits, share capitalizations, reorganizations, recapitalizations and the like, and certain anti-dilution rights and have no expiration date.</footnote>
+        <footnote id="F2">On March 16, 2023, pursuant to a Business Combination Agreement dated as of September 29, 2022 (the &quot;Business Combination Agreement&quot;), by and among SMIH, YishengBio Co., Ltd (&quot;YS Biopharma&quot;), Oceanview Bioscience Acquisition Co., Ltd., a direct wholly owned subsidiary of YS Biopharma (&quot;Merger Sub I&quot;) and Hudson Biomedical Group Co., Ltd., a direct wholly owned subsidiary of YS Biopharma (&quot;Merger Sub II&quot;), (i) Merger Sub I merged with and into SMIH (the &quot;First Merger&quot;), with SMIH surviving the First Merger as the surviving entity (the &quot;Surviving Entity&quot;) and remaining as a wholly-owned subsidiary of YS Biopharma and (ii) the Surviving Entity merged with and into Merger Sub II (the &quot;Second Merger&quot;), with Merger Sub II surviving the Second Merger as the surviving company (the &quot;Surviving Company&quot;) and remaining as a wholly-owned subsidiary of YS Biopharma.</footnote>
+        <footnote id="F3">(Continued from Footnote 2) Immediately before the effective time of the First Merger (the &quot;First Merger Effective Time&quot;), an aggregate of 1,446,525 Class B ordinary shares held by Summit Healthcare Acquisition Sponsor LLC, a Cayman Islands limited liability company (the &quot;Sponsor&quot;) was surrendered for nil consideration, and after such surrender, each Class B ordinary share ceased to be outstanding and automatically converted into the right to receive one Ordinary Share of YS Biopharma.</footnote>
+        <footnote id="F4">The Sponsor is the record holder of the shares reported herein. Ken Poon is one of the managers of the Sponsor and has voting and discretion with respect to the ordinary shares held of record by the Sponsor.</footnote>
+        <footnote id="F5">Each Private Placement Warrant is exercisable to purchase one Class A ordinary share at an exercise price of $11.50 per share.</footnote>
+        <footnote id="F6">As described in the prospectus for the initial public offering (File No. 333-255722) of SMIH under the heading &quot;Description of Securities--Warrants,&quot; the Private Placement Warrants are identical to the warrants sold in connection with the Issuer's initial public offering and upon conversion of working capital loans, except that the Private Placement Warrants, so long as they are held by the Sponsor or its permitted transferees, (i) are not redeemable by the Issuer, (ii) may not (including the Class A ordinary shares of the Issuer issuable upon exercise of such warrants), subject to certain limited exceptions, be transferred, assigned or sold by until 30 days after the completion of the Issuer's initial business combination, (iii) may be exercised by the holders on a cashless basis and (iv) are entitled to registration rights.</footnote>
+        <footnote id="F7">Immediately prior to the First Merger Effective Time, each whole Private Placement Warrant ceased to be a warrant with respect to Class A ordinary shares, and was assumed by YS Biopharma and converted into a warrant to purchase one YS Biopharma Ordinary Share, subject to substantially the same terms and conditions prior to the First Merger Effective Time.</footnote>
+    </footnotes>
+
+    <remarks>President and Co-Chief Investment Officer</remarks>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Bo Tan as attorney-in-fact for Ken Poon</signatureName>
+        <signatureDate>2023-03-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001062993-23-009432.txt : 20230421
+<SEC-HEADER>0001062993-23-009432.hdr.sgml : 20230421
+<ACCEPTANCE-DATETIME>20230421145443
+ACCESSION NUMBER:		0001062993-23-009432
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230420
+FILED AS OF DATE:		20230421
+DATE AS OF CHANGE:		20230421
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			JOHNSON ANDREW A JR
+		CENTRAL INDEX KEY:			0001255845
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34057
+		FILM NUMBER:		23836014
+
+	MAIL ADDRESS:	
+		STREET 1:		690 LEE ROAD
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGNC Investment Corp.
+		CENTRAL INDEX KEY:			0001423689
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				261701984
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 BETHESDA METRO CENTER 12TH FLOOR
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		301 968 9300
+
+	MAIL ADDRESS:	
+		STREET 1:		2 BETHESDA METRO CENTER 12TH FLOOR
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	American Capital Agency Corp
+		DATE OF NAME CHANGE:	20080111
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001423689</issuerCik>
+        <issuerName>AGNC Investment Corp.</issuerName>
+        <issuerTradingSymbol>AGNC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001255845</rptOwnerCik>
+            <rptOwnerName>JOHNSON ANDREW A JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>AGNC INVESTMENT CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>2 BETHESDA METRO CENTER, 12TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BETHESDA</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20814</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>16533</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30756.000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units (&quot;RSUs&quot;) granted to the Reporting Person under the Amended and Restated AGNC Investment Corp. 2016 Equity and Incentive Compensation Plan.  The awards were received as a grant for no consideration. The Common Stock underlying the RSUs will vest, subject to certain limitations, on the earlier of (i) April 20, 2024 or (ii) the next annual meeting of stockholders.</footnote>
+        <footnote id="F2">Includes 1,797 dividend equivalent restricted stock units received on previously granted RSU awards since the Reporting Person's last Form 4 filing.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kenneth L. Pollack, as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

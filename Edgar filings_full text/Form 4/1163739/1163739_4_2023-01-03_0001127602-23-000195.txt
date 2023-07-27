@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001127602-23-000195.txt : 20230103
+<SEC-HEADER>0001127602-23-000195.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103174618
+ACCESSION NUMBER:		0001127602-23-000195
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221230
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CHASE ANTHONY R
+		CENTRAL INDEX KEY:			0001223756
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32657
+		FILM NUMBER:		23503548
+
+	MAIL ADDRESS:	
+		STREET 1:		10307 PACIFIC CENTER COURT
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NABORS INDUSTRIES LTD
+		CENTRAL INDEX KEY:			0001163739
+		STANDARD INDUSTRIAL CLASSIFICATION:	DRILLING OIL & GAS WELLS [1381]
+		IRS NUMBER:				980363970
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CROWN HOUSE
+		STREET 2:		4 PAR-LA-VILLE ROAD   SECOND FLOOR
+		CITY:			HAMILTON, HM08
+		STATE:			D0
+		ZIP:			0000
+		BUSINESS PHONE:		4412921510
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX HM3349
+		CITY:			HAMILTON, HMPX
+		STATE:			D0
+		ZIP:			0000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001163739</issuerCik>
+        <issuerName>NABORS INDUSTRIES LTD</issuerName>
+        <issuerTradingSymbol>NBR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001223756</rptOwnerCik>
+            <rptOwnerName>CHASE ANTHONY R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NABORS CORPORATE SERVICES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>515 WEST GREENS RD.</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77067</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>154.87</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-12-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>325</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>115.4407</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2022-12-30</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2032-12-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>325</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>325</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person elected to receive stock options in lieu of the quarterly cash payment he would normally receive as a Nabors director.  The number of options was determined by dividing the foregone cash payment of $37,500 by the option price on the date of grant calculated in accordance with the Black-Scholes valuation model, or $115.4407 per share.  The options are fully vested as of the date of grant, and have an exercise price of $154.87 per share, which is the market price of Nabors' common shares on the date of grant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark D. Andrews by Power of Attorney for Anthony R. Chase</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

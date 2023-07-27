@@ -1,0 +1,149 @@
+<SEC-DOCUMENT>0001554855-23-000468.txt : 20230616
+<SEC-HEADER>0001554855-23-000468.hdr.sgml : 20230616
+<ACCEPTANCE-DATETIME>20230616172514
+ACCESSION NUMBER:		0001554855-23-000468
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230614
+FILED AS OF DATE:		20230616
+DATE AS OF CHANGE:		20230616
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DEMURO GERARD J
+		CENTRAL INDEX KEY:			0001222185
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39704
+		FILM NUMBER:		231022375
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Eve Holding, Inc.
+		CENTRAL INDEX KEY:			0001823652
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIRCRAFT [3721]
+		IRS NUMBER:				852549808
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1400 GENERAL AVIATION DRIVE
+		CITY:			MELBOURNE
+		STATE:			FL
+		ZIP:			32935
+		BUSINESS PHONE:		(321) 751-5050
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 GENERAL AVIATION DRIVE
+		CITY:			MELBOURNE
+		STATE:			FL
+		ZIP:			32935
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Zanite Acquisition Corp.
+		DATE OF NAME CHANGE:	20200903
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001823652</issuerCik>
+        <issuerName>Eve Holding, Inc.</issuerName>
+        <issuerTradingSymbol>EVEX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001222185</rptOwnerCik>
+            <rptOwnerName>DEMURO GERARD J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O EVE HOLDING, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1400 GENERAL AVIATION DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>MELBOURNE</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>32935</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Co-Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30100</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.54</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>459900</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects shares withheld to cover tax withholding obligations in connection with the vesting and settlement of restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Gerard J. DeMuro</signatureName>
+        <signatureDate>2023-06-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

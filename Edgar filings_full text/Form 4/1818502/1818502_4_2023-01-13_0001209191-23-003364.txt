@@ -1,0 +1,202 @@
+<SEC-DOCUMENT>0001209191-23-003364.txt : 20230113
+<SEC-HEADER>0001209191-23-003364.hdr.sgml : 20230113
+<ACCEPTANCE-DATETIME>20230113190702
+ACCESSION NUMBER:		0001209191-23-003364
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230111
+FILED AS OF DATE:		20230113
+DATE AS OF CHANGE:		20230113
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Moore Jocelyn
+		CENTRAL INDEX KEY:			0001825006
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39550
+		FILM NUMBER:		23529918
+
+	MAIL ADDRESS:	
+		STREET 1:		222 BERKELEY STREET
+		STREET 2:		FLOOR 5
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OppFi Inc.
+		CENTRAL INDEX KEY:			0001818502
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				851648122
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		130 E. RANDOLPH STREET
+		STREET 2:		SUITE 3400
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+		BUSINESS PHONE:		(312) 212-8079
+
+	MAIL ADDRESS:	
+		STREET 1:		130 E. RANDOLPH STREET
+		STREET 2:		SUITE 3400
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FG New America Acquisition Corp.
+		DATE OF NAME CHANGE:	20200717
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-11</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001818502</issuerCik>
+        <issuerName>OppFi Inc.</issuerName>
+        <issuerTradingSymbol>OPFI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001825006</rptOwnerCik>
+            <rptOwnerName>Moore Jocelyn</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>130 E. RANDOLPH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 3400</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60601</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-11</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1146</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.171</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13526</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-12</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>993</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.156</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12533</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on December 9, 2022.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. The shares were sold in multiple transactions with prices ranging from $2.15 to $2.2 for a weighted average sale price of $2.171. The reporting person undertakes to provide the issuer, any security holder of the issuer or the staff of the Securities and Exchange Commission upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.</footnote>
+        <footnote id="F3">The price reported in Column 4 is a weighted average price. The shares were sold in multiple transactions with prices ranging from $2.15 to $2.16 for a weighted average sale price of $2.156. The reporting person undertakes to provide the issuer, any security holder of the issuer or the staff of the Securities and Exchange Commission upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Marv Gurevich, Esq., as attorney-in-fact for Jocelyn Moore</signatureName>
+        <signatureDate>2023-01-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

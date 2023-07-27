@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001062993-23-012437.txt : 20230530
+<SEC-HEADER>0001062993-23-012437.hdr.sgml : 20230530
+<ACCEPTANCE-DATETIME>20230530162717
+ACCESSION NUMBER:		0001062993-23-012437
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230526
+FILED AS OF DATE:		20230530
+DATE AS OF CHANGE:		20230530
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sebastiani Jonathan
+		CENTRAL INDEX KEY:			0001864332
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40016
+		FILM NUMBER:		23976831
+
+	MAIL ADDRESS:	
+		STREET 1:		937 TAHOE BOULEVARD
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vintage Wine Estates, Inc.
+		CENTRAL INDEX KEY:			0001834045
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		937 TAHOE BOULEVARD
+		STREET 2:		SUITE 210
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+		BUSINESS PHONE:		707-346-3640
+
+	MAIL ADDRESS:	
+		STREET 1:		937 TAHOE BOULEVARD
+		STREET 2:		SUITE 210
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bespoke Capital Acquisition Corp
+		DATE OF NAME CHANGE:	20201125
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001834045</issuerCik>
+        <issuerName>Vintage Wine Estates, Inc.</issuerName>
+        <issuerTradingSymbol>VWE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001864332</rptOwnerCik>
+            <rptOwnerName>Sebastiani Jonathan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>937 TAHOE BOULEVARD, SUITE 210</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>INCLINE VILLAGE</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89451</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Member of 10% owner group</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>17800</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.158</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>98650</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1134946</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Sonoma Brands entities</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $1.12 to $1.18, inclusive. Mr. Sebastiani undertakes to provide Vintage Wine Estates, Inc., any security holder of Vintage Wine Estates, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote.</footnote>
+        <footnote id="F2">Includes 10,478 RSUs that vest on 11/30/2023.</footnote>
+        <footnote id="F3">Mr. Sebastiani has sole voting and dispositive power over the 684,881 shares owned by Sonoma Brands II, LP, the 410,715 shares owned by Sonoma Brands VWE Co-Invest, L.P. and the 39,350 shares owned by Sonoma Brands II Select, L.P. Mr. Sebastiani disclaims beneficial ownership of such shares except to the extent of his pecuniary interest therein. Sonoma Brands Partners II, LLC is the managing member of Sonoma Brands II GP, LLC, which is the general partner of Sonoma Brands II, L.P., Sonoma Brands VWE Co-Invest, L.P. and Sonoma Brands II Select, L.P.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kristina L. Johnston, Attorney-in-Fact for Jonathan Sebastiani</signatureName>
+        <signatureDate>2023-05-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

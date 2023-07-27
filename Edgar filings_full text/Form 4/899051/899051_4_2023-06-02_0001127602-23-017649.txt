@@ -1,0 +1,349 @@
+<SEC-DOCUMENT>0001127602-23-017649.txt : 20230602
+<SEC-HEADER>0001127602-23-017649.hdr.sgml : 20230602
+<ACCEPTANCE-DATETIME>20230602183048
+ACCESSION NUMBER:		0001127602-23-017649
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230531
+FILED AS OF DATE:		20230602
+DATE AS OF CHANGE:		20230602
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SPRIESER JUDITH A
+		CENTRAL INDEX KEY:			0001206994
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11840
+		FILM NUMBER:		23990641
+
+	MAIL ADDRESS:	
+		STREET 1:		USG CORPORATION
+		STREET 2:		125 SOUTH FRANKLIN STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALLSTATE CORP
+		CENTRAL INDEX KEY:			0000899051
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				363871531
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3100 SANDERS ROAD
+		CITY:			NORTHBROOK
+		STATE:			IL
+		ZIP:			60062
+		BUSINESS PHONE:		8474025000
+
+	MAIL ADDRESS:	
+		STREET 1:		3100 SANDERS ROAD
+		CITY:			NORTHBROOK
+		STATE:			IL
+		ZIP:			60062
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000899051</issuerCik>
+        <issuerName>ALLSTATE CORP</issuerName>
+        <issuerTradingSymbol>ALL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001206994</rptOwnerCik>
+            <rptOwnerName>SPRIESER JUDITH A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE ALLSTATE CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>3100 SANDERS ROAD</rptOwnerStreet2>
+            <rptOwnerCity>NORTHBROOK</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60062</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1565</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1565</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1565</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-05-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2023-05-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1565</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1603</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1603</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1603</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Conversion of previously awarded restricted stock units into an equal number of common shares, without the payment of any consideration, pursuant to The Allstate Corporation 2017 Equity Compensation Plan for Non-Employee Directors.</footnote>
+        <footnote id="F2">Restricted Stock Units (RSUs) granted under The Allstate Corporation 2017 Equity Compensation Plan for Non-Employee Directors providing that each RSU represents the right to receive one share of Allstate common stock following either a standard restriction period or a deferred period of restriction if elected.  The RSUs reported will convert into common stock upon the earlier of (i) the day prior to the third anniversary of the date of grant, (ii) the date on which the reporting person's Board service terminates, and (iii) the date of the reporting person's death or disability.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jillian K. Ludwig, attorney-in-fact for Judith A. Sprieser</signatureName>
+        <signatureDate>2023-06-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>doc1.txt
+<DESCRIPTION>POWER OF ATTORNEY (PUBLIC): SPRIESERPOA
+<TEXT>
+
+
+			POWER OF ATTORNEY
+
+
+      KNOW BY ALL THESE PRESENTS, that the undersigned hereby
+constitutes and appoints each of Meghan E. Jauhar, Kevin T. Kolasinski,
+Jillian K. Ludwig and Elliot A. Stultz, signing singly, the
+undersigned's true and lawful attorney-in-fact to:
+
+(1)	prepare, execute in the undersigned's name and on the
+	undersigned's behalf, and submit to the U.S. Securities
+	and Exchange Commission (the "SEC") a Form ID, including
+	amendments thereto, and any other documents necessary or
+	appropriate to obtain codes and passwords enabling the
+	undersigned to make electronic filings with the SEC of
+	reports required by Section 16(a) of the Securities
+	Exchange Act of 1934 or any rule or regulation of the SEC;
+
+(2)	execute for and on behalf of the undersigned, in the
+	undersigned's capacity as an officer and/or director of
+	The Allstate Corporation (the "Company"), Forms 3, 4, and 5
+	in accordance with Section 16(a) of the Securities Exchange
+	Act of 1934 and the rules thereunder; and any other forms
+	or reports the undersigned may be required to file in
+	connection with the undersigned's ownership, acquisition,
+	or disposition of securities of the Company;
+
+(3)	do and perform any and all acts for and on behalf of the
+	undersigned which may be necessary or desirable to complete
+	and execute any such Form 3, 4, or 5, or other form or
+	report, and timely file such form or report with the SEC
+	and any stock exchange or similar authority; and
+
+(4)	take any other action of any type whatsoever in connection
+	with the foregoing which, in the opinion of such attorney-
+	in-fact, may be of benefit to, in the best interest of, or
+	legally required by, the undersigned, it being understood
+	that the documents executed by such attorney-in-fact on
+	behalf of the undersigned pursuant to this Power of Attorney
+	shall be in such form and shall contain such terms and
+	conditions as such attorney-in-fact may approve in such
+	attorney-in-fact's discretion.
+
+      The undersigned hereby grants to each such attorney-in-fact
+full power and authority to do and perform any and every act and thing
+whatsoever requisite, necessary, or proper to be done in the exercise of
+any of the rights and powers herein granted, as fully to all intents and
+purposes as the undersigned might or could do if personally present, with
+full power of substitution or revocation, hereby ratifying and confirming
+all that such attorney-in-fact, or such attorney-in-fact's substitute or
+substitutes, shall lawfully do or cause to be done by virtue of this power
+of attorney and the rights and powers herein granted.  The undersigned
+acknowledges that the foregoing attorneys-in-fact, in serving in such
+capacity at the request of the undersigned, are not assuming, nor is
+the Company assuming, any of the undersigned's responsibilities to
+comply with Section 16 of the Securities Exchange Act of 1934.
+
+
+      This Power of Attorney shall remain in full force and effect
+until the undersigned is no longer required to file Forms 3, 4, and 5 with
+respect to the undersigned's holdings of and transactions in securities
+issued by the Company, unless earlier revoked by the undersigned in a
+signed writing delivered to the foregoing attorneys-in-fact.
+
+      IN WITNESS WHEREOF, the undersigned has caused this Power of
+Attorney to be executed as of this 22nd day of February 2023.
+
+
+
+
+
+				_/s/ Judith A. Sprieser____
+
+				_____Judith A. Sprieser____
+				Print Name
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

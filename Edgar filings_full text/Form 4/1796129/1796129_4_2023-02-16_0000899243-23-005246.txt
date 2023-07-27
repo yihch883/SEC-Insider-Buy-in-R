@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0000899243-23-005246.txt : 20230216
+<SEC-HEADER>0000899243-23-005246.hdr.sgml : 20230216
+<ACCEPTANCE-DATETIME>20230216160535
+ACCESSION NUMBER:		0000899243-23-005246
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230215
+FILED AS OF DATE:		20230216
+DATE AS OF CHANGE:		20230216
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			THOMAS TOM C
+		CENTRAL INDEX KEY:			0001239202
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39244
+		FILM NUMBER:		23638542
+
+	MAIL ADDRESS:	
+		STREET 1:		180 LOMA ALTRO
+		STREET 2:		C/O MOCON INC
+		CITY:			LOS GATOS
+		STATE:			CA
+		ZIP:			95030
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vincerx Pharma, Inc.
+		CENTRAL INDEX KEY:			0001796129
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				833197402
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		260 SHERIDAN AVENUE
+		STREET 2:		SUITE 400
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94306
+		BUSINESS PHONE:		650-800-6676
+
+	MAIL ADDRESS:	
+		STREET 1:		260 SHERIDAN AVENUE
+		STREET 2:		SUITE 400
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94306
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Vincera Pharma, Inc.
+		DATE OF NAME CHANGE:	20201223
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LifeSci Acquisition Corp.
+		DATE OF NAME CHANGE:	20191206
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001796129</issuerCik>
+        <issuerName>Vincerx Pharma, Inc.</issuerName>
+        <issuerTradingSymbol>VINC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001239202</rptOwnerCik>
+            <rptOwnerName>THOMAS TOM C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>260 SHERIDAN AVENUE, SUITE 400</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PALO ALTO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94306</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.17</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>86000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-02-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>86000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>86000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Option vests in twenty-four equal monthly installments starting from February 15, 2023.</footnote>
+    </footnotes>
+
+    <remarks>General Counsel and Chief Legal Officer
+
+Represents the 3rd tranche of stock option grants previously approved by the Compensation Committee on August 25, 2022.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Tom C. Thomas</signatureName>
+        <signatureDate>2023-02-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,150 @@
+<SEC-DOCUMENT>0001127602-23-010948.txt : 20230321
+<SEC-HEADER>0001127602-23-010948.hdr.sgml : 20230321
+<ACCEPTANCE-DATETIME>20230321140118
+ACCESSION NUMBER:		0001127602-23-010948
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230320
+FILED AS OF DATE:		20230321
+DATE AS OF CHANGE:		20230321
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Glazer David A.
+		CENTRAL INDEX KEY:			0001823940
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40263
+		FILM NUMBER:		23748976
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PALANTIR TECHNOLOGIES INC.
+		STREET 2:		1200 17TH STREET, FLOOR 15
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Grove Collaborative Holdings, Inc.
+		CENTRAL INDEX KEY:			0001841761
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				882840659
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1301 SANSOME STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		(800) 231-8527
+
+	MAIL ADDRESS:	
+		STREET 1:		1301 SANSOME STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Virgin Group Acquisition Corp. II
+		DATE OF NAME CHANGE:	20210122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001841761</issuerCik>
+        <issuerName>Grove Collaborative Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>GROV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001823940</rptOwnerCik>
+            <rptOwnerName>Glazer David A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O GROVE COLLABORATIVE HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1301 SANSOME STREET</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25548</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>.3592</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>97666</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The transaction was executed in multiple trades in prices ranging from $.3567 to $.3600, inclusive.  The price reported in Column 4 above reflects the weighted average purchase price.  The Reporting person hereby undertakes to provide to the Securities and Exchange Commission staff, the Issuer, or a security holder of the Issuer, upon request, full information regarding the number of shares purchased at each respective price within the range set forth in this footnote of this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Barbara Wallace, Attorney-in-Fact for David Glazer</signatureName>
+        <signatureDate>2023-03-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

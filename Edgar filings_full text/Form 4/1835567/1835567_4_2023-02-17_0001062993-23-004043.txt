@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001062993-23-004043.txt : 20230217
+<SEC-HEADER>0001062993-23-004043.hdr.sgml : 20230217
+<ACCEPTANCE-DATETIME>20230217161404
+ACCESSION NUMBER:		0001062993-23-004043
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230215
+FILED AS OF DATE:		20230217
+DATE AS OF CHANGE:		20230217
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			O'Brien Ronan
+		CENTRAL INDEX KEY:			0001881064
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39969
+		FILM NUMBER:		23642684
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PEAR THERAPEUTICS, INC.
+		STREET 2:		200 STATE STREET, 13TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Pear Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001835567
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HEALTH SERVICES [8000]
+		IRS NUMBER:				854103092
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 STATE STREET
+		STREET 2:		13TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+		BUSINESS PHONE:		6469322774
+
+	MAIL ADDRESS:	
+		STREET 1:		200 STATE STREET
+		STREET 2:		13TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Thimble Point Acquisition Corp.
+		DATE OF NAME CHANGE:	20201208
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001835567</issuerCik>
+        <issuerName>Pear Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>PEAR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001881064</rptOwnerCik>
+            <rptOwnerName>O'Brien Ronan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PEAR THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>200 STATE STREET, 13TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02109</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CCO, GC, &amp; Secretary</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1295238</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1295238</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1295238</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one share of PEAR Class A Common Stock.</footnote>
+        <footnote id="F2">The restricted stock units shall vest and settle as to 33% on February 15, 2024; 33% on February 15, 2025; and 34% on February 15, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Stacie S. Aarestad, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-02-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

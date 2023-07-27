@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001209191-23-027798.txt : 20230505
+<SEC-HEADER>0001209191-23-027798.hdr.sgml : 20230505
+<ACCEPTANCE-DATETIME>20230505172409
+ACCESSION NUMBER:		0001209191-23-027798
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230504
+FILED AS OF DATE:		20230505
+DATE AS OF CHANGE:		20230505
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wang Albert Jen-Wen
+		CENTRAL INDEX KEY:			0001683293
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31486
+		FILM NUMBER:		23895089
+
+	MAIL ADDRESS:	
+		STREET 1:		18500 VON KARMEN AVENUE
+		STREET 2:		SUITE 900
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92612
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WEBSTER FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000801337
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				061187536
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 ELM STREET
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+		BUSINESS PHONE:		203-578-2202
+
+	MAIL ADDRESS:	
+		STREET 1:		200 ELM STREET
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-04</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000801337</issuerCik>
+        <issuerName>WEBSTER FINANCIAL CORP</issuerName>
+        <issuerTradingSymbol>WBS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001683293</rptOwnerCik>
+            <rptOwnerName>Wang Albert Jen-Wen</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O WEBSTER FINANCIAL CORP</rptOwnerStreet1>
+            <rptOwnerStreet2>200 ELM STREET</rptOwnerStreet2>
+            <rptOwnerCity>STAMFORD</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06902</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Accounting Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>101</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>33.73</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10643</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the tax withholding upon the vesting of certain time-based restricted shares granted on May 4, 2021 that were previously reported.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Jennifer H. Daukas, attorney-in-fact</signatureName>
+        <signatureDate>2023-05-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

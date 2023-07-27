@@ -1,0 +1,226 @@
+<SEC-DOCUMENT>0001814521-23-000012.txt : 20230615
+<SEC-HEADER>0001814521-23-000012.hdr.sgml : 20230615
+<ACCEPTANCE-DATETIME>20230615131323
+ACCESSION NUMBER:		0001814521-23-000012
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230613
+FILED AS OF DATE:		20230615
+DATE AS OF CHANGE:		20230615
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Brown Lance
+		CENTRAL INDEX KEY:			0001814521
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39266
+		FILM NUMBER:		231016815
+
+	MAIL ADDRESS:	
+		STREET 1:		400 GALLERIA PKWY SE,
+		STREET 2:		SUITE 1760
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Harbor Custom Development, Inc.
+		CENTRAL INDEX KEY:			0001784567
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATIVE BUILDERS [1531]
+		IRS NUMBER:				464827436
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11505 BURNHAM DR. NW
+		STREET 2:		SUITE 301
+		CITY:			GIG HARBOR
+		STATE:			WA
+		ZIP:			98332
+		BUSINESS PHONE:		2536490636
+
+	MAIL ADDRESS:	
+		STREET 1:		11505 BURNHAM DR. NW
+		STREET 2:		SUITE 301
+		CITY:			GIG HARBOR
+		STATE:			WA
+		ZIP:			98332
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_168684919029405.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-13</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001784567</issuerCik>
+        <issuerName>Harbor Custom Development, Inc.</issuerName>
+        <issuerTradingSymbol>HCDI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001814521</rptOwnerCik>
+            <rptOwnerName>Brown Lance</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1201 PACIFIC AVENUE, SUITE 1200</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TACOMA,</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98402</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, no par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3353</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>65000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, no par value</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>65000.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>65000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, no par value</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3667.0</value>
+                    <footnoteId id="F4"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3667</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On June 13, 2023, Mr. Brown was granted 65,000 stock options with an exercise price of $3.73. One half of the shares subject to this option shall vest upon the filing of the Company's next Form 10-K with the U.S. Securities and Exchange Commission, with the remainder to vest in equal proportions upon the first and second anniversary of said filing, subject to Mr. Brown continuing to be an employee through such date. These stock options will have an expiration date of June 13, 2033</footnote>
+        <footnote id="F2">Each restricted stock unit represents the right to receive, at settlement, one share of common stock. This transaction represents the settlement of restricted stock units in shares of common stock on their scheduled vesting date.</footnote>
+        <footnote id="F3">On November 8, 2021, Mr. Brown was granted 5,000 shares of common stock pursuant to the 2020 Restricted Stock Plan, 1/3 of which vested on November 8, 2022, and the remaining vest in eight equal installments every three months thereafter until November 8, 2024, contingent on Mr. Brown's continued employment through each applicable vesting date. On May 26, 2022, Mr. Brown was granted 1,750 shares of common stock pursuant to the 2020 Restricted Stock Plan, whereby 1/3 of the shares of common stock vest on each anniversary until May 26, 2025, contingent on Mr. Brown's continued employment through each applicable vesting date.</footnote>
+        <footnote id="F4">Represents the total number of unvested common stock granted to Mr. Brown pursuant to the 2020 Restricted Stock Plan.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Lance Brown</signatureName>
+        <signatureDate>2023-06-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

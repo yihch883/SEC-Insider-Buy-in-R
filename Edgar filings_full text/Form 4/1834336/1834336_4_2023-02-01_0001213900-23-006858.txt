@@ -1,0 +1,273 @@
+<SEC-DOCUMENT>0001213900-23-006858.txt : 20230201
+<SEC-HEADER>0001213900-23-006858.hdr.sgml : 20230201
+<ACCEPTANCE-DATETIME>20230201203117
+ACCESSION NUMBER:		0001213900-23-006858
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230130
+FILED AS OF DATE:		20230201
+DATE AS OF CHANGE:		20230201
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Einbinder Lee
+		CENTRAL INDEX KEY:			0001791698
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40076
+		FILM NUMBER:		23578455
+
+	MAIL ADDRESS:	
+		STREET 1:		1345 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10105
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Finserv Holdings II LLC
+		CENTRAL INDEX KEY:			0001834337
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40076
+		FILM NUMBER:		23578454
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1345 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10105
+		BUSINESS PHONE:		2035582171
+
+	MAIL ADDRESS:	
+		STREET 1:		1345 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Finserv Acquisition Corp. II
+		CENTRAL INDEX KEY:			0001834336
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				854030806
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1345 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10105
+		BUSINESS PHONE:		2035582171
+
+	MAIL ADDRESS:	
+		STREET 1:		1345 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001834336</issuerCik>
+        <issuerName>Finserv Acquisition Corp. II</issuerName>
+        <issuerTradingSymbol>FSRX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001791698</rptOwnerCik>
+            <rptOwnerName>Einbinder Lee</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ELLENOFF GROSSMAN &amp; SCHOLE LLP</rptOwnerStreet1>
+            <rptOwnerStreet2>1345 AVENUE OF THE AMERICAS</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001834337</rptOwnerCik>
+            <rptOwnerName>Finserv Holdings II LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ELLENOFF GROSSMAN &amp; SCHOLE LLP</rptOwnerStreet1>
+            <rptOwnerStreet2>1345 AVENUE OF THE AMERICAS</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7499999</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8299999</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7499999</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7499999</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares of Class B common stock, par value $0.0001 per share (&quot;Class B Common Stock&quot;), of the issuer are convertible into an equal number of shares of Class A common stock, par value $0.0001 per share (&quot;Class A Common Stock&quot;), of the issuer and have no expiration date. On January 30, 2023, the reporting person elected to convert 7,499,999 shares of their Class B Common Stock into shares of Class A Common Stock.</footnote>
+        <footnote id="F2">Includes 800,000 shares of Class A Common Stock underlying units (each unit consisting of one share of Class A Common Stock and one quarter of one warrant, each whole warrant exercisable to purchase one share of Class A Common Stock) held by FinServ Holdings II LLC (the &quot;Sponsor&quot;), acquired pursuant in connection with the issuer's initial public offering. Does not include 1 share of Class B Common Stock, which will automatically convert into a share of Class A Common Stock at the time of the issuer's initial business combination on a one-for-one basis, subject to adjustment for stock splits, stock dividends, reorganizations, recapitalizations and the like, and certain anti-dilution rights.</footnote>
+        <footnote id="F3">The securities reported herein are held of record by the Sponsor. Lee Einbinder, the Chief Executive Officer and a director of the issuer, is the managing member of the Sponsor and has voting and investment discretion with respect to the securities held by the Sponsor. As such, Mr. Einbinder may be deemed to possess beneficial ownership of the securities held directly by the Sponsor. Mr. Einbinder disclaims any beneficial ownership of the reported securities other than to the extent of any pecuniary interest he may have therein, directly or indirectly.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Lee Einbinder, Authorized Signatory for FinServ Holdings II LLC</signatureName>
+        <signatureDate>2023-02-01</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Lee Einbinder</signatureName>
+        <signatureDate>2023-02-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

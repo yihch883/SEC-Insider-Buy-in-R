@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0001209191-23-000317.txt : 20230103
+<SEC-HEADER>0001209191-23-000317.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103170646
+ACCESSION NUMBER:		0001209191-23-000317
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221230
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PETCOFF JAMES G
+		CENTRAL INDEX KEY:			0001115666
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37536
+		FILM NUMBER:		23503116
+
+	MAIL ADDRESS:	
+		STREET 1:		350 N NINTH STREET
+		STREET 2:		SUITE 202
+		CITY:			BOISE
+		STATE:			ID
+		ZIP:			83702
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Conifer Holdings, Inc.
+		CENTRAL INDEX KEY:			0001502292
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				271298795
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3001 WEST BIG BEAVER ROAD
+		STREET 2:		SUITE 200
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+		BUSINESS PHONE:		(248) 559-0840
+
+	MAIL ADDRESS:	
+		STREET 1:		3001 WEST BIG BEAVER ROAD
+		STREET 2:		SUITE 200
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001502292</issuerCik>
+        <issuerName>Conifer Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>CNFR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001115666</rptOwnerCik>
+            <rptOwnerName>PETCOFF JAMES G</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3001 WEST BIG BEAVER ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>TROY</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48084</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Chairman and Co-CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2698607</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>James G. Petcoff Rev Trust</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>58765</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>PH Real Estate, LLC</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>480275</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares were sold to an individual person on December 30, 2022. These shares were sold for tax purposes.</footnote>
+        <footnote id="F2">These shares are owned indirectly by Mr. Petcoff as trustee of the James G. Petcoff Revocable Trust. Mr. Petcoff is Chairman, Co-CEO and a director of the issuer.</footnote>
+        <footnote id="F3">These shares are owned by PH Real Estate, LLC, a Michigan limited liability company. Mr. James G. Petcoff and his spouse have a majority interest in PH Real Estate, LLC and have the sole power to vote and dispose of all shares owned by PH Real Estate, LLC.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Brian J. Roney, by Power of Attorney</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001209191-23-007942.txt : 20230208
+<SEC-HEADER>0001209191-23-007942.hdr.sgml : 20230208
+<ACCEPTANCE-DATETIME>20230208210505
+ACCESSION NUMBER:		0001209191-23-007942
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230206
+FILED AS OF DATE:		20230208
+DATE AS OF CHANGE:		20230208
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Schwimmer Howard
+		CENTRAL INDEX KEY:			0001581296
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36008
+		FILM NUMBER:		23600817
+
+	MAIL ADDRESS:	
+		STREET 1:		11620 WILSHIRE BOULEVARD, SUITE 300
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rexford Industrial Realty, Inc.
+		CENTRAL INDEX KEY:			0001571283
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				462024407
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11620 WILSHIRE BOULEVARD, SUITE 1000
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		310-966-1680
+
+	MAIL ADDRESS:	
+		STREET 1:		11620 WILSHIRE BOULEVARD, SUITE 1000
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rexford Industrial, Inc.
+		DATE OF NAME CHANGE:	20130305
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-06</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001571283</issuerCik>
+        <issuerName>Rexford Industrial Realty, Inc.</issuerName>
+        <issuerTradingSymbol>REXR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001581296</rptOwnerCik>
+            <rptOwnerName>Schwimmer Howard</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11620 WILSHIRE BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1000</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Co-CEO, Co-President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-06</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>546</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>546</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>472724</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Performance Units are a class of limited partnership units in Rexford Industrial Realty, L.P., the operating partnership of the Issuer (the &quot;Operating Partnership&quot;). Initially, the Performance Units do not have full parity with common limited partnership units of the Operating Partnership (&quot;OP Units&quot;) with respect to liquidating distributions. However, upon the occurrence of certain events described in the Operating Partnership's partnership agreement, the Performance Units can over time achieve full parity with the OP Units for all purposes. If such parity is reached, vested Performance Units may be converted into an equal number of OP Units on a one for one basis at any time at the request of the Reporting Person or the general partner of the Operating Partnership. OP Units are redeemable by the holder for an equivalent number of shares of the Issuer's common stock (&quot;Shares&quot;) or for the cash value of such Shares, at the Issuer's election.</footnote>
+        <footnote id="F2">Reflects Performance Units that were initially granted on December 16, 2019, pursuant to the Amended and Restated Rexford Industrial Realty, Inc. and Rexford Industrial Realty, L.P 2013 Incentive Award Plan, that were subject to performance-based vesting conditions. On December 31, 2022, the measurement period for the performance award ended and on January 10, 2023, the compensation committee of the board of directors initially certified that 106,484 Performance Units were earned and vested, including 4,759 distribution equivalent units. On February 6, 2023, the compensation committee of the board of directors certified that an additional 546 distribution equivalents were earned and vested. These additional distribution equivalents, which are vested Performance Units, are nonforfeitable as of December 31, 2022.</footnote>
+        <footnote id="F3">The Reporting Person also owned the following securities: (i) 510,171 LTIP Units, a class of limited partnership units in the Operating Partnership, (ii) 162,139 OP Units, of which 7,275 OP Units are held by the Schwimmer Living Trust dated December 14, 2001 (the &quot;Living Trust&quot;) of which the Reporting Person is a trustee, and of which 42,002 OP Units are held by the Schwimmer Family Irrevocable Trust (the &quot;Family Trust&quot;) of which the Reporting Person is a trustee, and (iii) 66,295 Shares, of which 13,575 Shares are held by the Family Trust of which the Reporting Person is a trustee. The Reporting Person disclaims beneficial ownership of the OP Units and Shares held by the Living Trust and the Family Trust, except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Howard Schwimmer</signatureName>
+        <signatureDate>2023-02-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

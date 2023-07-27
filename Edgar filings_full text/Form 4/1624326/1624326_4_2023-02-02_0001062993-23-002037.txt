@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0001062993-23-002037.txt : 20230202
+<SEC-HEADER>0001062993-23-002037.hdr.sgml : 20230202
+<ACCEPTANCE-DATETIME>20230202203852
+ACCESSION NUMBER:		0001062993-23-002037
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230130
+FILED AS OF DATE:		20230202
+DATE AS OF CHANGE:		20230202
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Baxter Timothy E
+		CENTRAL INDEX KEY:			0001914275
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37685
+		FILM NUMBER:		23583394
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE GRAND CENTRAL PLACE, SUITE 4600
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10165
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PAVmed Inc.
+		CENTRAL INDEX KEY:			0001624326
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				471214177
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE GRAND CENTRAL PLACE
+		STREET 2:		SUITE 4600
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10165
+		BUSINESS PHONE:		212-949-4319
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE GRAND CENTRAL PLACE
+		STREET 2:		SUITE 4600
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10165
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PAXmed Inc.
+		DATE OF NAME CHANGE:	20141105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001624326</issuerCik>
+        <issuerName>PAVmed Inc.</issuerName>
+        <issuerTradingSymbol>PAVM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001914275</rptOwnerCik>
+            <rptOwnerName>Baxter Timothy E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>360 MADISON AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>25TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee stock option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>.48</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>450000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-01-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>450000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>450000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">One third of the option vests on March 31, 2023; the balance vests in eight equal quarterly installments, starting June 30, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Timothy E. Baxter</signatureName>
+        <signatureDate>2023-02-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

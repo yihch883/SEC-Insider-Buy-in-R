@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0000798359-23-000034.txt : 20230404
+<SEC-HEADER>0000798359-23-000034.hdr.sgml : 20230404
+<ACCEPTANCE-DATETIME>20230404130620
+ACCESSION NUMBER:		0000798359-23-000034
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230404
+DATE AS OF CHANGE:		20230404
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Patel Bhairav
+		CENTRAL INDEX KEY:			0001670979
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35624
+		FILM NUMBER:		23796223
+
+	MAIL ADDRESS:	
+		STREET 1:		1345 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CENTERSPACE
+		CENTRAL INDEX KEY:			0000798359
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				450311232
+		STATE OF INCORPORATION:			ND
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3100 10TH ST SW
+		STREET 2:		PO BOX 1988
+		CITY:			MINOT
+		STATE:			ND
+		ZIP:			58702-1988
+		BUSINESS PHONE:		701-837-4738
+
+	MAIL ADDRESS:	
+		STREET 1:		3100 10TH ST SW
+		STREET 2:		PO BOX 1988
+		CITY:			MINOT
+		STATE:			ND
+		ZIP:			58702-1988
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INVESTORS REAL ESTATE TRUST
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_168062797045093.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000798359</issuerCik>
+        <issuerName>CENTERSPACE</issuerName>
+        <issuerTradingSymbol>CSR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001670979</rptOwnerCik>
+            <rptOwnerName>Patel Bhairav</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3100 10TH STREET SW</rptOwnerStreet1>
+            <rptOwnerStreet2>POST OFFICE BOX 1988</rptOwnerStreet2>
+            <rptOwnerCity>MINOT</rptOwnerCity>
+            <rptOwnerState>ND</rptOwnerState>
+            <rptOwnerZipCode>58701</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP and CFO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2746</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-03-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares of Beneficial Interest</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2746.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2746</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a contingent right to receive 2,746 common shares of beneficial interest of Centerspace. One-third of the awarded shares vest on March 31, 2025, and the remaining two-thirds vest on March 31, 2026.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Anne Olson, Attorney in Fact for Bhairav Patel</signatureName>
+        <signatureDate>2023-04-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

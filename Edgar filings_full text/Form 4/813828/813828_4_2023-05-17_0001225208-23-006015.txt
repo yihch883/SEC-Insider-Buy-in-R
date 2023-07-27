@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0001225208-23-006015.txt : 20230517
+<SEC-HEADER>0001225208-23-006015.hdr.sgml : 20230517
+<ACCEPTANCE-DATETIME>20230517164606
+ACCESSION NUMBER:		0001225208-23-006015
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230516
+FILED AS OF DATE:		20230517
+DATE AS OF CHANGE:		20230517
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			REDSTONE SHARI
+		CENTRAL INDEX KEY:			0001204569
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09553
+		FILM NUMBER:		23932417
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CBS CORPORATION
+		STREET 2:		51 WEST 52ND STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Paramount Global
+		CENTRAL INDEX KEY:			0000813828
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEVISION BROADCASTING STATIONS [4833]
+		IRS NUMBER:				042949533
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1515 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		212-258-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		1515 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ViacomCBS Inc.
+		DATE OF NAME CHANGE:	20191204
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CBS CORP
+		DATE OF NAME CHANGE:	20060109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VIACOM INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000813828</issuerCik>
+        <issuerName>Paramount Global</issuerName>
+        <issuerTradingSymbol>PARAA,PARA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001204569</rptOwnerCik>
+            <rptOwnerName>REDSTONE SHARI</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1515 BROADWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class B common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>165000.0000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.0640</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>577064.0000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class B common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10525.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By GRAT</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class B common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11923.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By GRAT 3</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported is a weighted average price. The shares were purchased in multiple transactions at prices ranging from $14.995 to $15.100, inclusive. The Reporting Person undertakes to provide to the staff of the Securities and Exchange Commission, the Issuer or a stockholder of the Issuer, upon request, full information regarding the number of shares purchased at each separate price.</footnote>
+        <footnote id="F2">Includes shares acquired periodically pursuant to a dividend reinvestment program meeting the requirements of Rule 16a-11.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christa A. D'Alimonte, Attorney-in-Fact for Shari Redstone</signatureName>
+        <signatureDate>2023-05-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

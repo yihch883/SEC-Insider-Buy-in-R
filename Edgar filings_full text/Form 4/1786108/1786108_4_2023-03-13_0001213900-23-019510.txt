@@ -1,0 +1,195 @@
+<SEC-DOCUMENT>0001213900-23-019510.txt : 20230313
+<SEC-HEADER>0001213900-23-019510.hdr.sgml : 20230313
+<ACCEPTANCE-DATETIME>20230313140129
+ACCESSION NUMBER:		0001213900-23-019510
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230309
+FILED AS OF DATE:		20230313
+DATE AS OF CHANGE:		20230313
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Brown Kyle Steven
+		CENTRAL INDEX KEY:			0001796795
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39958
+		FILM NUMBER:		23726816
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TRINITY CAPITAL INC.
+		STREET 2:		3075 WEST RAY ROAD, SUITE 525
+		CITY:			CHANDLER
+		STATE:			AZ
+		ZIP:			85226
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Trinity Capital Inc.
+		CENTRAL INDEX KEY:			0001786108
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 N. 1ST ST.
+		STREET 2:		3RD FLOOR
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85004
+		BUSINESS PHONE:		480.374.5350
+
+	MAIL ADDRESS:	
+		STREET 1:		1 N. 1ST ST.
+		STREET 2:		3RD FLOOR
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001786108</issuerCik>
+        <issuerName>Trinity Capital Inc.</issuerName>
+        <issuerTradingSymbol>TRIN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001796795</rptOwnerCik>
+            <rptOwnerName>Brown Kyle Steven</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TRINITY CAPITAL INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1 N. 1ST STREET, 3RD FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>PHOENIX</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85004</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President &amp; CIO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3646</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.71</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>46140</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By The Kyle and Amy Brown Family Trust, dated February 4, 2019</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>661136</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10825</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By KBIZ Corp., which Mr. K. Brown solely owns and controls</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted-average price, rounded to the nearest hundredth. These shares were purchased in multiple transactions at prices ranging from $13.67 to $13.72 per share, inclusive. The reporting person undertakes to provide upon request by the staff of the Securities and Exchange Commission, Trinity Capital Inc. (the &quot;Company&quot;), or a security holder of the Company full information regarding the number of shares purchased at each separate price within the range set forth in this footnote.</footnote>
+        <footnote id="F2">Includes 208,092 restricted shares issued under the 2019 Trinity Capital Inc. Long Term Incentive Plan. 25% of such restricted shares shall vest on March 15, 2023, and the remaining 75% of such shares shall vest pro rata over the twelve full calendar quarters immediately following March 15, 2023.</footnote>
+        <footnote id="F3">Includes 204,793 restricted shares issued under the 2019 Trinity Capital Inc. Long Term Incentive Plan, which shares began quarterly vesting pro rata over the twelve full calendar quarters immediately following the award date of September 15, 2021.</footnote>
+    </footnotes>
+
+    <remarks>Sarah Stanton is signing on behalf of Mr. K. Brown pursuant to the power of attorney dated September 17, 2021, which was previously filed with the Securities and Exchange Commission as an exhibit to the Form 4 Mr. K. Brown filed on September 17, 2021.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Sarah Stanton, on behalf of Kyle Brown</signatureName>
+        <signatureDate>2023-03-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

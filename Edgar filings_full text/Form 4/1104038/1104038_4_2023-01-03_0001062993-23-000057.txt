@@ -1,0 +1,346 @@
+<SEC-DOCUMENT>0001062993-23-000057.txt : 20230103
+<SEC-HEADER>0001062993-23-000057.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103163224
+ACCESSION NUMBER:		0001062993-23-000057
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230101
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GREENBERG SCOTT N
+		CENTRAL INDEX KEY:			0001018206
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39332
+		FILM NUMBER:		23502612
+
+	MAIL ADDRESS:	
+		STREET 1:		9 WEST 57 STREET
+		STREET 2:		SUITE 4170
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VerifyMe, Inc.
+		CENTRAL INDEX KEY:			0001104038
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				233023677
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		801 INTERNATIONAL PARKWAY
+		STREET 2:		FIFTH FLOOR
+		CITY:			LAKE MARY
+		STATE:			FL
+		ZIP:			32746
+		BUSINESS PHONE:		585-736-9400
+
+	MAIL ADDRESS:	
+		STREET 1:		801 INTERNATIONAL PARKWAY
+		STREET 2:		FIFTH FLOOR
+		CITY:			LAKE MARY
+		STATE:			FL
+		ZIP:			32746
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LASERLOCK TECHNOLOGIES INC
+		DATE OF NAME CHANGE:	20001004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001104038</issuerCik>
+        <issuerName>VerifyMe, Inc.</issuerName>
+        <issuerTradingSymbol>VRME</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001018206</rptOwnerCik>
+            <rptOwnerName>GREENBERG SCOTT N</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VERIFYME, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>801 INTERNATIONAL PARKWAY, FIFTH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>LAKE MARY</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>32746</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Chairman</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.001</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>39308</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>124065</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>39308</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.001</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>39308</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.001</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.505</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-01-07</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.001</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Warrant (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.215</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2022-10-14</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-10-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.001</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>15552</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15552</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Warrant (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.6</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2020-06-22</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-06-22</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.001</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6403</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6403</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These restricted stock units convert into common stock on a one-for-one basis and become payable upon separation of the Reporting Person's service as a director.</footnote>
+        <footnote id="F2">Includes 68,310 vested restricted stock units that become payable, on a one-for-one basis, in shares of common stock of VerifyMe, Inc. upon separation of the Reporting Person's service as a director.</footnote>
+        <footnote id="F3">These restricted stock units vested on 1/1/2023.</footnote>
+        <footnote id="F4">These restricted stock units, which convert into common stock on a one-for-one basis, vest on 4/7/2024 in two equal tranches, except as otherwise provided in the award notice. Tranch 1 will vest on the second anniversary of the date of grant if the issuer's common stock during such period was at or above $5.00 for 20 consecutive trading days. In the event that the issuer's common stock during such period does not reach $5.00 for 20 consecutive trading days, Tranch 1 will vest on the third anniversary of the date of grant if the issuer's common stock during such period was at or above $5.00 for 20 consecutive trading days.</footnote>
+        <footnote id="F5">(Continued from footnote 4) Tranch 2 will vest on the second anniversary of the date of grant if the issuer's common stock during such period was at or above $7.00 for 20 consecutive trading days. In the event that the issuer's common stock during such period does not reach $7.00 for 20 consecutive trading days, Tranch 2 will vest on the third anniversary of the date of grant if the issuer's common stock during such period was at or above $7.00 for 20 consecutive trading days.</footnote>
+        <footnote id="F6">This option is fully exercisable as of the date of this report.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Margaret Gezerlis, Attorney-in-Fact for Scott Greenberg</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

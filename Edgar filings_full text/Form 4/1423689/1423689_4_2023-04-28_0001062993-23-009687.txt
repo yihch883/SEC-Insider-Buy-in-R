@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001062993-23-009687.txt : 20230428
+<SEC-HEADER>0001062993-23-009687.hdr.sgml : 20230428
+<ACCEPTANCE-DATETIME>20230428164747
+ACCESSION NUMBER:		0001062993-23-009687
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230426
+FILED AS OF DATE:		20230428
+DATE AS OF CHANGE:		20230428
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Davis Morris A.
+		CENTRAL INDEX KEY:			0001432824
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34057
+		FILM NUMBER:		23867548
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AMERICAN CAPITAL AGENCY CORP
+		STREET 2:		2 BETHESDA METRO CENTER 12TH FLOOR
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGNC Investment Corp.
+		CENTRAL INDEX KEY:			0001423689
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				261701984
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 BETHESDA METRO CENTER 12TH FLOOR
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		301 968 9300
+
+	MAIL ADDRESS:	
+		STREET 1:		2 BETHESDA METRO CENTER 12TH FLOOR
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	American Capital Agency Corp
+		DATE OF NAME CHANGE:	20080111
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001423689</issuerCik>
+        <issuerName>AGNC Investment Corp.</issuerName>
+        <issuerTradingSymbol>AGNC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001432824</rptOwnerCik>
+            <rptOwnerName>Davis Morris A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2 BETHESDA METRO CENTER</rptOwnerStreet1>
+            <rptOwnerStreet2>12TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BETHESDA</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20814</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13998</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.86</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48742.946</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported price is a weighted average. The shares were sold in multiple transactions at prices ranging from $9.850 to $9.865, inclusive. The Reporting Person undertakes to provide to the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kenneth L. Pollack, as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0001628280-23-003129.txt : 20230210
+<SEC-HEADER>0001628280-23-003129.hdr.sgml : 20230210
+<ACCEPTANCE-DATETIME>20230210142034
+ACCESSION NUMBER:		0001628280-23-003129
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230209
+FILED AS OF DATE:		20230210
+DATE AS OF CHANGE:		20230210
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sachdev Tushar K.
+		CENTRAL INDEX KEY:			0001582550
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40856
+		FILM NUMBER:		23610526
+
+	MAIL ADDRESS:	
+		STREET 1:		600 GALLERIA PARKWAY, SUITE 100
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KORE Group Holdings, Inc.
+		CENTRAL INDEX KEY:			0001855457
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 RAVINIA DRIVE NE
+		STREET 2:		SUITE 500
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30346
+		BUSINESS PHONE:		877-710-5673
+
+	MAIL ADDRESS:	
+		STREET 1:		3 RAVINIA DRIVE NE
+		STREET 2:		SUITE 500
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30346
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	King Pubco, Inc.
+		DATE OF NAME CHANGE:	20210406
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_167605681985572.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001855457</issuerCik>
+        <issuerName>KORE Group Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>KORE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001582550</rptOwnerCik>
+            <rptOwnerName>Sachdev Tushar K.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3 RAVINIA DR NE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 500</rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30346</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP &amp; Chief Technology Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>111195</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>111195.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>111195</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit (&quot;RSU&quot;) represents a right to receive one share of the issuer's common stock.</footnote>
+        <footnote id="F2">The reported RSUs will vest in three equal installments on each of the first three anniversaries of February 9, 2023.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Jack W. Kennedy Jr., Attorney-in-Fact, Tushar K. Sachdev</signatureName>
+        <signatureDate>2023-02-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

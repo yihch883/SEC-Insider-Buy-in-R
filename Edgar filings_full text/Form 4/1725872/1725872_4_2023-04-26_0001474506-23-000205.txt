@@ -1,0 +1,235 @@
+<SEC-DOCUMENT>0001474506-23-000205.txt : 20230426
+<SEC-HEADER>0001474506-23-000205.hdr.sgml : 20230426
+<ACCEPTANCE-DATETIME>20230426184907
+ACCESSION NUMBER:		0001474506-23-000205
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230324
+FILED AS OF DATE:		20230426
+DATE AS OF CHANGE:		20230426
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Donahue James M.
+		CENTRAL INDEX KEY:			0001918085
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38633
+		FILM NUMBER:		23851262
+
+	MAIL ADDRESS:	
+		STREET 1:		201 KING OF PRUSSIA ROAD, SUITE 350
+		STREET 2:		C/O BM TECHNOLOGIES, INC.
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BM Technologies, Inc.
+		CENTRAL INDEX KEY:			0001725872
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				823410369
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 KING OF PRUSSIA ROAD
+		STREET 2:		SUITE 650
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		(877) 327-9515
+
+	MAIL ADDRESS:	
+		STREET 1:		201 KING OF PRUSSIA ROAD
+		STREET 2:		SUITE 650
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Megalith Financial Acquisition Corp
+		DATE OF NAME CHANGE:	20171220
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001725872</issuerCik>
+        <issuerName>BM Technologies, Inc.</issuerName>
+        <issuerTradingSymbol>BMTX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001918085</rptOwnerCik>
+            <rptOwnerName>Donahue James M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>201 KING OF PRUSSIA ROAD, SUITE 650</rptOwnerStreet1>
+            <rptOwnerStreet2>C/O BM TECHNOLOGIES, INC.</rptOwnerStreet2>
+            <rptOwnerCity>WAYNE</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19087</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President and Chief Technology</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>75000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>75000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>99007</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Based Restricted Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>37500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>37500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50833</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">One-fourth of the restricted stock unit award will vest in full as of each of the first, second, third and fourth anniversaries of the March 31, 2023 vesting commencement date, subject to the Reporting Person's continued employment with the Issuer, until fully vested on March 31, 2027. Each restricted stock unit represents the contingent right to receive one share of the Issuer's common stock upon vesting of the unit.</footnote>
+        <footnote id="F2">Constitutes a portion of an award of Performance-Based Restricted Stock Units (PBRSUs), each of which represents the right to receive one share of the Issuer's common stock over a five-year performance period ending on March 31, 2028. The portion reported vests based upon the Issuer achieving certain levels of market capitalization.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/   James Donahue, by Alex Reilly  pursuant to power of attorney filed on 4/26/2023</signatureName>
+        <signatureDate>2023-04-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

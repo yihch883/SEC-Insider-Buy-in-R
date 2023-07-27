@@ -1,0 +1,285 @@
+<SEC-DOCUMENT>0000899243-23-000244.txt : 20230103
+<SEC-HEADER>0000899243-23-000244.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103163128
+ACCESSION NUMBER:		0000899243-23-000244
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221229
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PCPC Holdings, LLC
+		CENTRAL INDEX KEY:			0001824985
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39784
+		FILM NUMBER:		23502575
+
+	BUSINESS ADDRESS:	
+		STREET 1:		667 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10065
+		BUSINESS PHONE:		646-876-6351
+
+	MAIL ADDRESS:	
+		STREET 1:		667 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10065
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Periphas Capital Partnering Corp
+		CENTRAL INDEX KEY:			0001824993
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		667 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10065
+		BUSINESS PHONE:		646-876-6351
+
+	MAIL ADDRESS:	
+		STREET 1:		667 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10065
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-29</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001824993</issuerCik>
+        <issuerName>Periphas Capital Partnering Corp</issuerName>
+        <issuerTradingSymbol>PCPC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001824985</rptOwnerCik>
+            <rptOwnerName>PCPC Holdings, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>667 MADISON AVENUE, 15TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10065</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-29</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>245600</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class F common stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-12-29</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>827999</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A common stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>827999</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B common stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-12-29</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>119999</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A common stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>119999</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported shares of Class A common stock are within 245,600 of the Issuer's Private Placement CAPS, as described under the heading &quot;Description of Securities &quot; in the Issuer's registration statement on Form S-1 (File No. 333- 249729).</footnote>
+        <footnote id="F2">This Form 4 reflects the surrender to the Issuer of 245,600 shares of Class A common stock, 827,999 shares of Class F common stock, and 119,999 shares of Class B common stock for no consideration by the Reporting Person pursuant to the Share Surrender Letter, dated December 29, 2022, by and between the Issuer and the Reporting Person.</footnote>
+        <footnote id="F3">This Form 4 is being filed by PCPC Holdings, LLC, sponsor of the Issuer (the &quot;Sponsor&quot;). Sponsor is controlled by its managing member, which is indirectly controlled by Sanjeev Mehra. Mr. Mehra indirectly controls the Sponsor, and as such has voting and investment discretion with respect to the securities held by the Sponsor and may be deemed to have beneficial ownership of the securities held directly by the Sponsor. Mr. Mehra disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein, and the inclusion of these securities in this report shall not be deemed an admission of beneficial ownership of all of the reported securities for purposes of Section 16 or for any other purpose.</footnote>
+        <footnote id="F4">As described in the Issuer's registration statement on Form S-1 (File No. 333-249729) under the heading &quot;Description of Securities-Founder Shares&quot;, the shares of Class F common stock, par value $0.0001, would have automatically converted into shares of Class A common stock, par value $0.0001, of the Issuer at the time of the Issuer's initial partnering transaction on a one-for-one basis, subject to adjustment for share splits, share capitalizations, reorganizations, recapitalizations and the like, and certain anti-dilution rights and have no expiration date.</footnote>
+        <footnote id="F5">As described in the Issuer's registration statement on Form S-1 (File No. 333-249729) under the heading &quot;Description of Securities-Performance Shares&quot;, a portion of the shares of Class B common stock, par value $0.0001, would have automatically converted into shares of Class A common stock, par value $0.0001, of the Issuer on the last day of each fiscal year following consummation of the Issuer's initial partnering transaction, depending on a number of factors including, but not limited to, the per price share of the Issuer's shares of Class A common stock, as described under the heading &quot;Description of Securities-Performance Shares&quot;.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>PCPC Holdings, LLC, By: /s/ Sanjeev Mehra, By: Sanjeev Mehra, Title: Authorized Signatory</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

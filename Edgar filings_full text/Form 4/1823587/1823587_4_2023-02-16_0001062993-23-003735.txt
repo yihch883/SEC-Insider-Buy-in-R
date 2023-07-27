@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0001062993-23-003735.txt : 20230216
+<SEC-HEADER>0001062993-23-003735.hdr.sgml : 20230216
+<ACCEPTANCE-DATETIME>20230216075349
+ACCESSION NUMBER:		0001062993-23-003735
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230214
+FILED AS OF DATE:		20230216
+DATE AS OF CHANGE:		20230216
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wellmon Nick
+		CENTRAL INDEX KEY:			0001906606
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39648
+		FILM NUMBER:		23637159
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SKY HARBOUR GROUP CORPORATION
+		STREET 2:		136 TOWER ROAD, HANGAR M, SUITE 205
+		CITY:			WHITE PLAINS
+		STATE:			NY
+		ZIP:			10604
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sky Harbour Group Corp
+		CENTRAL INDEX KEY:			0001823587
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		IRS NUMBER:				852732947
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1601 DODGE STREET
+		STREET 2:		SUITE 3300
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68102
+		BUSINESS PHONE:		(402) 225-6511
+
+	MAIL ADDRESS:	
+		STREET 1:		1601 DODGE STREET
+		STREET 2:		SUITE 3300
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Yellowstone Acquisition Co
+		DATE OF NAME CHANGE:	20200903
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001823587</issuerCik>
+        <issuerName>Sky Harbour Group Corp</issuerName>
+        <issuerTradingSymbol>SKYH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001906606</rptOwnerCik>
+            <rptOwnerName>Wellmon Nick</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O SKY HARBOUR GROUP CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>136 TOWER ROAD, HANGAR M, SUITE 205</rptOwnerStreet2>
+            <rptOwnerCity>WHITE PLAINS</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10604</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>21000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units (&quot;RSUs&quot;) granted under the Sky Harbour Group Corporation 2022 Incentive Award Plan. Each RSU represents the contingent right to receive, in accordance with the terms of the applicable RSU agreement, one share of Class A common stock of the Issuer for each vested RSU. The RSUs will vest in four equal annual installments beginning on the first anniversary of the date of grant, provided the reporting person remains in service through the applicable vesting date.</footnote>
+        <footnote id="F2">Reported amount includes 21,000 RSUs.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Gerald Adler, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-02-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

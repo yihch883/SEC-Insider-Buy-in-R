@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0000899243-23-004833.txt : 20230213
+<SEC-HEADER>0000899243-23-004833.hdr.sgml : 20230213
+<ACCEPTANCE-DATETIME>20230213175041
+ACCESSION NUMBER:		0000899243-23-004833
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230210
+FILED AS OF DATE:		20230213
+DATE AS OF CHANGE:		20230213
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Huizinga Stuart
+		CENTRAL INDEX KEY:			0001366006
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40074
+		FILM NUMBER:		23620459
+
+	MAIL ADDRESS:	
+		STREET 1:		440 EAST MIDDLEFIELD ROAD
+		CITY:			MOUNTAIN VIEW
+		STATE:			CA
+		ZIP:			94043
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Movella Holdings Inc.
+		CENTRAL INDEX KEY:			0001839132
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3535 EXECUTIVE TERMINAL DRIVE
+		STREET 2:		SUITE 110
+		CITY:			HENDERSON
+		STATE:			NV
+		ZIP:			89052
+		BUSINESS PHONE:		310-481-1800
+
+	MAIL ADDRESS:	
+		STREET 1:		3535 EXECUTIVE TERMINAL DRIVE
+		STREET 2:		SUITE 110
+		CITY:			HENDERSON
+		STATE:			NV
+		ZIP:			89052
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Pathfinder Acquisition Corp
+		DATE OF NAME CHANGE:	20210106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Arrowhead Growth Acquisition Corp
+		DATE OF NAME CHANGE:	20210105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001839132</issuerCik>
+        <issuerName>Movella Holdings Inc.</issuerName>
+        <issuerTradingSymbol>MVLA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001366006</rptOwnerCik>
+            <rptOwnerName>Huizinga Stuart</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3535 EXECUTIVE TERMINAL DRIVE, SUITE 110</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HENDERSON</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89052</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.24</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>97747</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-12-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>97747</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>97747</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects securities acquired pursuant to the terms of the Business Combination Agreement, dated as of October 3, 2022 (the &quot;Business Combination Agreement&quot;), entered into by and among Pathfinder Acquisition Corporation (which subsequently changed its name to &quot;Movella Holdings Inc.&quot;, the &quot;Issuer&quot;), Motion Merger Sub, Inc. and Movella Inc., pursuant to which the Issuer acquired Movella Inc. (the &quot;Business Combination&quot;). Pursuant to the terms of the Business Combination Agreement, each share of Movella Inc. common stock outstanding and each Movella Inc. option outstanding immediately prior to the closing of the Business Combination was entitled to receive 0.4887409556 shares of Issuer common stock or option, respectively. The Business Combination closed on February 10, 2023 (the &quot;Closing Date&quot;).</footnote>
+        <footnote id="F2">Option vests over four years with 25% of the award vesting on October 25, 2021, and 1/48th of the shares vesting on each monthly anniversary thereafter, subject to the reporting person's continued service with the Issuer through the applicable vesting date. Option is subject to double-trigger acceleration such that 50% of the unvested portion of the option shall vest upon the holder's involuntary termination for reasons other than cause within the 12 months following a deemed liquidation event.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Dennis Calderon, Attorney-in-fact for Stuart Huizinga</signatureName>
+        <signatureDate>2023-02-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

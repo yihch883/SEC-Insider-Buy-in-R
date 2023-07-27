@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001213900-23-052130.txt : 20230627
+<SEC-HEADER>0001213900-23-052130.hdr.sgml : 20230627
+<ACCEPTANCE-DATETIME>20230627161614
+ACCESSION NUMBER:		0001213900-23-052130
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230623
+FILED AS OF DATE:		20230627
+DATE AS OF CHANGE:		20230627
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Seligman Nicole
+		CENTRAL INDEX KEY:			0001683100
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40823
+		FILM NUMBER:		231047508
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VIACOM INC.
+		STREET 2:		1515 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Intuitive Machines, Inc.
+		CENTRAL INDEX KEY:			0001844452
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		34 EAST 51ST STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 319-1309
+
+	MAIL ADDRESS:	
+		STREET 1:		34 EAST 51ST STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Inflection Point Acquisition Corp.
+		DATE OF NAME CHANGE:	20210204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001844452</issuerCik>
+        <issuerName>Intuitive Machines, Inc.</issuerName>
+        <issuerTradingSymbol>LUNR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001683100</rptOwnerCik>
+            <rptOwnerName>Seligman Nicole</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3700 BAY AREA BLVD.,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 600</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77058</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18321</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18321</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents an award of restricted stock units (&quot;RSUs&quot;), each of which represents a contingent right to receive one share of Class A Common Stock. The RSUs will vest in full on the earlier to occur of the first anniversary of the grant date and the date of the next annual meeting following the grant date. The RSUs do not expire.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Anna Jones, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-06-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

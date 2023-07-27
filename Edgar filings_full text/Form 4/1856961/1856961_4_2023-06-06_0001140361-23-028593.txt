@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001140361-23-028593.txt : 20230606
+<SEC-HEADER>0001140361-23-028593.hdr.sgml : 20230606
+<ACCEPTANCE-DATETIME>20230606183032
+ACCESSION NUMBER:		0001140361-23-028593
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230602
+FILED AS OF DATE:		20230606
+DATE AS OF CHANGE:		20230606
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Brauchli Marcus
+		CENTRAL INDEX KEY:			0001895480
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41112
+		FILM NUMBER:		23997277
+
+	MAIL ADDRESS:	
+		STREET 1:		2 WISCONSIN CIRCLE
+		STREET 2:		7TH FLOOR
+		CITY:			CHEVY CHASE
+		STATE:			MD
+		ZIP:			20815
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Blue Ocean Acquisition Corp
+		CENTRAL INDEX KEY:			0001856961
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 WISCONSIN CIRCLE
+		STREET 2:		7TH FLOOR
+		CITY:			CHEVY CHASE
+		STATE:			MD
+		ZIP:			20815
+		BUSINESS PHONE:		(703) 541-8581
+
+	MAIL ADDRESS:	
+		STREET 1:		2 WISCONSIN CIRCLE
+		STREET 2:		7TH FLOOR
+		CITY:			CHEVY CHASE
+		STATE:			MD
+		ZIP:			20815
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001856961</issuerCik>
+        <issuerName>Blue Ocean Acquisition Corp</issuerName>
+        <issuerTradingSymbol>BOCN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001895480</rptOwnerCik>
+            <rptOwnerName>Brauchli Marcus</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2 WISCONSIN CIRCLE</rptOwnerStreet1>
+            <rptOwnerStreet2>7TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>CHEVY CHASE</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20815</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <officerTitle>Chairman</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25000</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0058</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4353750</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Class B ordinary shares will automatically convert into Class A ordinary shares concurrently with or immediately following the consummation of the Issuer's initial business combination on a one-for-one basis, subject to adjustment, and have no expiration date.</footnote>
+        <footnote id="F2">These Class B ordinary shares were repurchased by Blue Ocean Sponsor LLC (&quot;Sponsor&quot;) from Dale Mathias, a former member of the Issuer's board of directors who resigned effective April 15, 2023, for an aggregate purchase price of $145.00.</footnote>
+        <footnote id="F3">These Class B ordinary shares are held directly by Sponsor. The Reporting Person is a manager of Sponsor. As such, the Reporting Person may be deemed to have beneficial ownership of the Class B ordinary shares held directly by Sponsor. The Reporting Person disclaims beneficial ownership over any securities owned by Sponsor in which he does not have any pecuniary interest.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Stuart Karle, Attorney-in-Fact for Marcus Brauchli</signatureName>
+        <signatureDate>2023-06-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

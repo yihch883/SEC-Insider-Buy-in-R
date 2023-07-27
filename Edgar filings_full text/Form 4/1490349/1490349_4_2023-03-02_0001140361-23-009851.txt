@@ -1,0 +1,351 @@
+<SEC-DOCUMENT>0001140361-23-009851.txt : 20230302
+<SEC-HEADER>0001140361-23-009851.hdr.sgml : 20230302
+<ACCEPTANCE-DATETIME>20230302215117
+ACCESSION NUMBER:		0001140361-23-009851
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230228
+FILED AS OF DATE:		20230302
+DATE AS OF CHANGE:		20230302
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Amster Howard
+		CENTRAL INDEX KEY:			0000904853
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00818
+		FILM NUMBER:		23701533
+
+	MAIL ADDRESS:	
+		STREET 1:		23811 CHAGRIN BLVD # 200
+		CITY:			BEACHWOOD
+		STATE:			OH
+		ZIP:			44122-5525
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	AMSTER HOWARD
+		DATE OF NAME CHANGE:	19970311
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PhenixFIN Corp
+		CENTRAL INDEX KEY:			0001490349
+		IRS NUMBER:				274576073
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		445 PARK AVENUE
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-759-0777
+
+	MAIL ADDRESS:	
+		STREET 1:		445 PARK AVENUE
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Medley Capital Corp
+		DATE OF NAME CHANGE:	20110118
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Medley Capital BDC LLC
+		DATE OF NAME CHANGE:	20100426
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001490349</issuerCik>
+        <issuerName>PhenixFIN Corp</issuerName>
+        <issuerTradingSymbol>PFX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000904853</rptOwnerCik>
+            <rptOwnerName>Amster Howard</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PHENIXFIN CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>445 PARK AVENUE, 10TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10022</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1850</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>38.6</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>232888</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5105</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>38.9</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>237993</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>409</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Howard Amster 2021 Charitable Remainder Unitrust 1</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11700</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Howard Amster 2021 Charitable Remainder Unitrust 2</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>275</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Howard Amster and Tamara Gould Charitable Remainder Unitrust U/A DTD 03/18/1993</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>960</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Howard Amster Charitable Remainder Unitrust U/A DTD 04/22/1998</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>41</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Howard Amster Charitable Remainder Unitrust U/A DTD 01/11/2005</value>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>200</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Samuel J. Heller Trust U/A 08/07/2002</value>
+                    <footnoteId id="F8"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>557</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Pleasant Lake Corp</value>
+                    <footnoteId id="F9"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1731</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Amster Limited Partnership</value>
+                    <footnoteId id="F10"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $38.00 to $38.99, inclusive. The reporting person undertakes to provide to PhenixFIN Corporation, any security holder of PhenixFIN Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (1) to this Form 4.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $38.62 to $39.00, inclusive. The reporting person undertakes to provide to PhenixFIN Corporation, any security holder of PhenixFIN Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (2) to this Form 4.</footnote>
+        <footnote id="F3">These shares are deemed to be beneficially owned by Howard Amster as a result of his capacity as trustee of Howard Amster 2021 Charitable Remainder Unitrust 1.</footnote>
+        <footnote id="F4">These shares are deemed to be beneficially owned by Howard Amster as a result of his capacity as trustee of Howard Amster 2021 Charitable Remainder Unitrust 2.</footnote>
+        <footnote id="F5">These shares are deemed to be beneficially owned by Howard Amster as a result of his capacity as trustee of Howard Amster and Tamara Gould Charitable Remainder Unitrust U/A DTD 03/18/1993.</footnote>
+        <footnote id="F6">These shares are deemed to be beneficially owned by Howard Amster as a result of his capacity as trustee of Howard Amster Charitable Remainder Unitrust U/A DTD 04/22/1998.</footnote>
+        <footnote id="F7">These shares are deemed to be beneficially owned by Howard Amster as a result of his capacity as trustee of Howard Amster Charitable Remainder Unitrust U/A DTD 01/11/2005.</footnote>
+        <footnote id="F8">These shares are deemed to be beneficially owned by Howard Amster as a result of his capacity as trustee of the Samuel Heller Trust U/A 08/07/2002.</footnote>
+        <footnote id="F9">These shares are deemed to be beneficially owned by Howard Amster as a result of his capacity as President of Pleasant Lake Corp.</footnote>
+        <footnote id="F10">These shares are deemed to be beneficially owned by Howard Amster as a result of his capacity as general partner of Amster Limited Partnership.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Howard Amster</signatureName>
+        <signatureDate>2023-03-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

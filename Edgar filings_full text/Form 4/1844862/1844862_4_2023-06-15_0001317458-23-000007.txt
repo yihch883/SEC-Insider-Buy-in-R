@@ -1,0 +1,219 @@
+<SEC-DOCUMENT>0001317458-23-000007.txt : 20230615
+<SEC-HEADER>0001317458-23-000007.hdr.sgml : 20230615
+<ACCEPTANCE-DATETIME>20230615174847
+ACCESSION NUMBER:		0001317458-23-000007
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230614
+FILED AS OF DATE:		20230615
+DATE AS OF CHANGE:		20230615
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Van Scoter John C.
+		CENTRAL INDEX KEY:			0001317458
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40284
+		FILM NUMBER:		231018714
+
+	MAIL ADDRESS:	
+		STREET 1:		486 S. PIERCE AVE., SUITE E
+		CITY:			LOUISVILLE
+		STATE:			CO
+		ZIP:			80027
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	VanScoter John C
+		DATE OF NAME CHANGE:	20050211
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Solid Power, Inc.
+		CENTRAL INDEX KEY:			0001844862
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				861888095
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		486 S. PIERCE AVE., SUITE E
+		CITY:			LOUISVILLE
+		STATE:			CO
+		ZIP:			80027
+		BUSINESS PHONE:		(303) 219-0720
+
+	MAIL ADDRESS:	
+		STREET 1:		486 S. PIERCE AVE., SUITE E
+		CITY:			LOUISVILLE
+		STATE:			CO
+		ZIP:			80027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Decarbonization Plus Acquisition Corp III
+		DATE OF NAME CHANGE:	20210208
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001844862</issuerCik>
+        <issuerName>Solid Power, Inc.</issuerName>
+        <issuerTradingSymbol>SLDP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001317458</rptOwnerCik>
+            <rptOwnerName>Van Scoter John C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>486 S. PIERCE AVE., SUITE E</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LOUISVILLE</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1035276</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1035276</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.35</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1904016</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-06-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1904016</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1904016</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one share of the underlying common stock of the Issuer. The restricted stock units will vest as to 25% of the granted number on June 14, 2024, and the remaining 75% of the granted number will vest in 12 equal quarterly installments commencing on June 30, 2024, and thereafter at the end of each fiscal quarter of the Issuer, subject to the reporting person continuing to be a service provider (as defined in the Solid Power, Inc. 2021 Equity Incentive Plan) through the applicable vesting date.</footnote>
+        <footnote id="F2">The stock option will vest as to 25% of the shares of the Issuer's common stock underlying the grant on June 14, 2024, and will vest as to the remaining 75% of the shares underlying the grant in 12 equal quarterly installments commencing on June 30, 2024, and thereafter at the end of each fiscal quarter of the Issuer, subject to the reporting person continuing to be a service provider (as defined in the Solid Power, Inc. 2021 Equity Incentive Plan) through the applicable vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James Liebscher, attorney-in-fact on behalf of John C. Van Scoter</signatureName>
+        <signatureDate>2023-06-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

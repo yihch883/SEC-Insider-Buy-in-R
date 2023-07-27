@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001213900-23-049967.txt : 20230620
+<SEC-HEADER>0001213900-23-049967.hdr.sgml : 20230620
+<ACCEPTANCE-DATETIME>20230620141150
+ACCESSION NUMBER:		0001213900-23-049967
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230615
+FILED AS OF DATE:		20230620
+DATE AS OF CHANGE:		20230620
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sidler Bruno
+		CENTRAL INDEX KEY:			0001389399
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40476
+		FILM NUMBER:		231024504
+
+	MAIL ADDRESS:	
+		STREET 1:		15350 VICKERY DRIVE
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77032
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Logistics Innovation Technologies Corp.
+		CENTRAL INDEX KEY:			0001848364
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				862157398
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3495 PIEDMONT ROAD NE
+		STREET 2:		ONE PIEDMONT CENTER, BLDG.11, STE. 710
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30305
+		BUSINESS PHONE:		731-723-3141
+
+	MAIL ADDRESS:	
+		STREET 1:		3495 PIEDMONT ROAD NE
+		STREET 2:		ONE PIEDMONT CENTER, BLDG.11, STE. 710
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30305
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001848364</issuerCik>
+        <issuerName>Logistics Innovation Technologies Corp.</issuerName>
+        <issuerTradingSymbol>LITT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001389399</rptOwnerCik>
+            <rptOwnerName>Sidler Bruno</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3495 PIEDMONT RD NE,</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE PIEDMONT CTR, BLD. 11, STE. 710</rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30305</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>125000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>125000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On May 26, 2023, the Issuer announced that its board of directors had determined to redeem all of its outstanding shares of Class A common stock sold in the Issuer's initial public offering (the &quot;Public Shares&quot;), effective as of June 15, 2023, because the Issuer will not be able to consummate an initial business combination within the time period required by its amended and restated certificate of incorporation. As of the close of business on June 15, 2023, the Public Shares were deemed cancelled and represented only the rights to receive the per-share redemption price. In connection with the redemption of the Public Shares and anticipated dissolution of the Issuer, on June 15, 2023, Bruno Sidler forfeited to the Issuer for no consideration 125,000 shares of Class B common stock.</footnote>
+        <footnote id="F2">The shares of Class B common stock are convertible for shares of the Issuer's Class A common stock as described under the heading &quot;Description of Securities&quot; in the Issuer's Registration Statement on Form S-1 (File No. 333- 253949) (the &quot;Registration Statement&quot;) and have no expiration date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christina Min, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-06-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

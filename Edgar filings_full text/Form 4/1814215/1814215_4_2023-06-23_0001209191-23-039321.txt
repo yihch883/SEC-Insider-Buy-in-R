@@ -1,0 +1,250 @@
+<SEC-DOCUMENT>0001209191-23-039321.txt : 20230623
+<SEC-HEADER>0001209191-23-039321.hdr.sgml : 20230623
+<ACCEPTANCE-DATETIME>20230623160430
+ACCESSION NUMBER:		0001209191-23-039321
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230623
+FILED AS OF DATE:		20230623
+DATE AS OF CHANGE:		20230623
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nicol Ronald Lee
+		CENTRAL INDEX KEY:			0001952798
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39489
+		FILM NUMBER:		231037644
+
+	MAIL ADDRESS:	
+		STREET 1:		7442 SOUTH TUCSON WAY
+		STREET 2:		#130
+		CITY:			CENTENNIAL
+		STATE:			CO
+		ZIP:			80112
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nuburu, Inc.
+		CENTRAL INDEX KEY:			0001814215
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7442 S TUSCON WAY
+		STREET 2:		SUITE 130
+		CITY:			CENTENNIAL
+		STATE:			CO
+		ZIP:			80112
+		BUSINESS PHONE:		(720) 767-1400
+
+	MAIL ADDRESS:	
+		STREET 1:		7442 S TUSCON WAY
+		STREET 2:		SUITE 130
+		CITY:			CENTENNIAL
+		STATE:			CO
+		ZIP:			80112
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tailwind Acquisition Corp.
+		DATE OF NAME CHANGE:	20200604
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001814215</issuerCik>
+        <issuerName>Nuburu, Inc.</issuerName>
+        <issuerTradingSymbol>BURU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001952798</rptOwnerCik>
+            <rptOwnerName>Nicol Ronald Lee</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NUBURU, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>7442 S TUCSON WAY, SUITE 130</rptOwnerStreet2>
+            <rptOwnerCity>CENTENNIAL</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80112</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>7% Convertible Promissory Note due 2026</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.688</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>1000000.00</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>1000000.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-06-24</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-06-23</value>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1453488</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1453488</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrant (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.03</value>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1453488</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-12-23</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-06-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1453488</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1453488</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The 7% convertible promissory note with an aggregate principal amount of $1,000,000 (&quot;Note&quot;) was issued on June 23, 2023 pursuant to that certain Note and Warrant Purchase Agreement, dated as of June 12, 2023, by and among Nuburu, Inc. and the investors listed on Schedule I thereto (the &quot;Purchase Agreement&quot;). The Note and any accrued interest thereon are convertible at the option of the holder at any time following June 23, 2023 prior to repayment of the Note into shares of Nuburu common stock at a conversion price of $0.688 (subject to adjustment pursuant to the terms of the Note, the &quot;Conversion Price&quot;). Interest accrues on the unpaid principal amount at a rate equal to 7% per annum but it is not due and payable until the maturity date. All unpaid principal, together with any then unpaid and accrued interest and other amounts payable under the Note, will be due and payable on the earlier of (i) June 23, 2026, or (ii) following the occurrence of an event of default.</footnote>
+        <footnote id="F2">The securities are held directly by Eunomia, LP. Mr. Nicol is the manager of Eunomia, LP and exercises voting and investment control over these securities.</footnote>
+        <footnote id="F3">Subject to adjustment pursuant to the terms of the warrant to purchase shares of Nuburu common stock, par value $0.0001 per share (the &quot;Warrant&quot;), issued on June 23, 2023 pursuant to the Purchase Agreement.</footnote>
+        <footnote id="F4">The Warrant was issued pursuant to the Purchase Agreement in connection with the purchase of the Note as partial consideration for the Note.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Brian Knaley, by power of attorney on behalf of Ronald Lee Nicol</signatureName>
+        <signatureDate>2023-06-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

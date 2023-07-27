@@ -1,0 +1,147 @@
+<SEC-DOCUMENT>0001127602-23-018317.txt : 20230608
+<SEC-HEADER>0001127602-23-018317.hdr.sgml : 20230608
+<ACCEPTANCE-DATETIME>20230608163949
+ACCESSION NUMBER:		0001127602-23-018317
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230606
+FILED AS OF DATE:		20230608
+DATE AS OF CHANGE:		20230608
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			YEARWOOD JOHN
+		CENTRAL INDEX KEY:			0001381972
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32657
+		FILM NUMBER:		231002511
+
+	MAIL ADDRESS:	
+		STREET 1:		HADRIAN HOUSE, WINCOMBLEE ROAD
+		CITY:			NEWCASTLE UPON TYNE
+		STATE:			X0
+		ZIP:			NE6 3PL
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NABORS INDUSTRIES LTD
+		CENTRAL INDEX KEY:			0001163739
+		STANDARD INDUSTRIAL CLASSIFICATION:	DRILLING OIL & GAS WELLS [1381]
+		IRS NUMBER:				980363970
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CROWN HOUSE
+		STREET 2:		4 PAR-LA-VILLE ROAD   SECOND FLOOR
+		CITY:			HAMILTON, HM08
+		STATE:			D0
+		ZIP:			0000
+		BUSINESS PHONE:		4412921510
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX HM3349
+		CITY:			HAMILTON, HMPX
+		STATE:			D0
+		ZIP:			0000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-06</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001163739</issuerCik>
+        <issuerName>NABORS INDUSTRIES LTD</issuerName>
+        <issuerTradingSymbol>NBR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001381972</rptOwnerCik>
+            <rptOwnerName>YEARWOOD JOHN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NABORS CORPORATE SERVICES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>515 W. GREENS RD., SUITE 1200</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77067</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1291</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14806</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The restricted stock award is scheduled to vest on the first anniversary of the grant date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark D. Andrews by Power of Attorney for John Yearwood</signatureName>
+        <signatureDate>2023-06-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

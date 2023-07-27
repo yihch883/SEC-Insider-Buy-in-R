@@ -1,0 +1,211 @@
+<SEC-DOCUMENT>0001213900-23-030677.txt : 20230418
+<SEC-HEADER>0001213900-23-030677.hdr.sgml : 20230418
+<ACCEPTANCE-DATETIME>20230418163053
+ACCESSION NUMBER:		0001213900-23-030677
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230414
+FILED AS OF DATE:		20230418
+DATE AS OF CHANGE:		20230418
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Johnshoy Sheila
+		CENTRAL INDEX KEY:			0001912007
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41038
+		FILM NUMBER:		23827204
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O STRAN & COMPANY, INC.
+		STREET 2:		2 HERITAGE DRIVE, SUITE 600
+		CITY:			QUINCY
+		STATE:			MA
+		ZIP:			02171
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Stran & Company, Inc.
+		CENTRAL INDEX KEY:			0001872525
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING AGENCIES [7311]
+		IRS NUMBER:				043297200
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 HERITAGE DRIVE
+		STREET 2:		SUITE 600
+		CITY:			QUINCY
+		STATE:			MA
+		ZIP:			02171
+		BUSINESS PHONE:		8008333309
+
+	MAIL ADDRESS:	
+		STREET 1:		2 HERITAGE DRIVE
+		STREET 2:		SUITE 600
+		CITY:			QUINCY
+		STATE:			MA
+		ZIP:			02171
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001872525</issuerCik>
+        <issuerName>Stran &amp; Company, Inc.</issuerName>
+        <issuerTradingSymbol>STRN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001912007</rptOwnerCik>
+            <rptOwnerName>Johnshoy Sheila</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O STRAN &amp; COMPANY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2 HERITAGE DRIVE, SUITE 600</rptOwnerStreet2>
+            <rptOwnerCity>QUINCY</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02171</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.60</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-04-14</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2032-03-10</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10000</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On March 11, 2022, the reporting person was granted 5,000 shares of common stock and an option to purchase 40,000 shares for $1.60 per share, 5,000 of which vested and became exercisable immediately. Both the common stock and stock option were subject to a separate restriction on transfer which lapsed on September 11, 2022. The remaining 35,000 shares of common stock under the stock option vest subject to the issuer's attainment of certain performance-based conditions. On April 14, 2023, the Compensation Committee of the issuer determined that the performance-based conditions had been met for the vesting of the option as to 5,000 shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Sheila Johnshoy</signatureName>
+        <signatureDate>2023-04-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

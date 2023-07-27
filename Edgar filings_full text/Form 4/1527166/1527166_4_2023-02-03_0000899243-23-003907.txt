@@ -1,0 +1,241 @@
+<SEC-DOCUMENT>0000899243-23-003907.txt : 20230203
+<SEC-HEADER>0000899243-23-003907.hdr.sgml : 20230203
+<ACCEPTANCE-DATETIME>20230203174852
+ACCESSION NUMBER:		0000899243-23-003907
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230201
+FILED AS OF DATE:		20230203
+DATE AS OF CHANGE:		20230203
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Finn Christopher
+		CENTRAL INDEX KEY:			0001771467
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35538
+		FILM NUMBER:		23587631
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Carlyle Group Inc.
+		CENTRAL INDEX KEY:			0001527166
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		IRS NUMBER:				452832612
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		202 729 5626
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Carlyle Group L.P.
+		DATE OF NAME CHANGE:	20110801
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001527166</issuerCik>
+        <issuerName>Carlyle Group Inc.</issuerName>
+        <issuerTradingSymbol>CG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001771467</rptOwnerCik>
+            <rptOwnerName>Finn Christopher</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1001 PENNSYLVANIA AVENUE, NW</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>139971</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                    <footnoteId id="F1"/>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>971921</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11096</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>36.36</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>960825</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>253937</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13595</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These securities are restricted stock unit awards and will vest 40% on August 1, 2024, an additional 30% on August 1, 2025 and the remaining 30% on August 1, 2026, subject to the reporting person's continued service at the company on the applicable vesting date.</footnote>
+        <footnote id="F2">These shares of common stock were sold on behalf of the reporting person to cover tax withholding obligations in connection with the vesting of restricted stock units, the grant of which was previously reported.</footnote>
+        <footnote id="F3">These shares of common stock are held in a limited liability company of which the reporting person is the manager.</footnote>
+        <footnote id="F4">These shares of common stock are held by a trust for the benefit of the reporting person's family of which the reporting person is the special purpose trustee and has sole investment power over the securities.</footnote>
+    </footnotes>
+
+    <remarks>Pursuant to Rule 16a-1(a)(4) of the Securities Exchange Act of 1934, as amended, the reporting person herein states that this filing shall not be deemed to be an admission that such reporting person is the beneficial owner of any of these interests, and disclaims beneficial ownership of such interests, except to the extent of such reporting person's pecuniary interest in such interests.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Anne K. Frederick by power of attorney for Christopher Finn</signatureName>
+        <signatureDate>2023-02-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

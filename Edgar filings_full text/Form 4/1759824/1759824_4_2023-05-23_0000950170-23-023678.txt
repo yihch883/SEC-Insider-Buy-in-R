@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0000950170-23-023678.txt : 20230523
+<SEC-HEADER>0000950170-23-023678.hdr.sgml : 20230523
+<ACCEPTANCE-DATETIME>20230523172429
+ACCESSION NUMBER:		0000950170-23-023678
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230519
+FILED AS OF DATE:		20230523
+DATE AS OF CHANGE:		20230523
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Greenawalt Ryan
+		CENTRAL INDEX KEY:			0001803431
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38864
+		FILM NUMBER:		23949910
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ALTA EQUIPMENT GROUP INC.
+		STREET 2:		13211 MERRIMAN RD
+		CITY:			LIVONIA
+		STATE:			MI
+		ZIP:			48150
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALTA EQUIPMENT GROUP INC.
+		CENTRAL INDEX KEY:			0001759824
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-INDUSTRIAL MACHINERY & EQUIPMENT [5084]
+		IRS NUMBER:				832583782
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13211 MERRIMAN ROAD
+		CITY:			LIVONIA
+		STATE:			MI
+		ZIP:			48150
+		BUSINESS PHONE:		(248) 449-6700
+
+	MAIL ADDRESS:	
+		STREET 1:		13211 MERRIMAN ROAD
+		CITY:			LIVONIA
+		STATE:			MI
+		ZIP:			48150
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	B. Riley Principal Merger Corp.
+		DATE OF NAME CHANGE:	20181121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-19</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001759824</issuerCik>
+        <issuerName>ALTA EQUIPMENT GROUP INC.</issuerName>
+        <issuerTradingSymbol>ALTG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001803431</rptOwnerCik>
+            <rptOwnerName>Greenawalt Ryan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ALTA EQUIPMENT GROUP</rptOwnerStreet1>
+            <rptOwnerStreet2>13211 MERRIMAN ROAD</rptOwnerStreet2>
+            <rptOwnerCity>LIVONIA</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48150</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-19</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>55969</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5883931</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>55969</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Greenawalt Family Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On May 19, 2023, the reporting person transferred 55,969 shares of issuers common stock to a family trust for which the reporting person retains a pecuniary interest.</footnote>
+    </footnotes>
+
+    <remarks>Chief Executive Officer, Chairman</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Ryan Greenawalt</signatureName>
+        <signatureDate>2023-05-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

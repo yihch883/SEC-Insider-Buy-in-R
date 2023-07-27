@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0001562180-23-000853.txt : 20230202
+<SEC-HEADER>0001562180-23-000853.hdr.sgml : 20230202
+<ACCEPTANCE-DATETIME>20230202165043
+ACCESSION NUMBER:		0001562180-23-000853
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230201
+FILED AS OF DATE:		20230202
+DATE AS OF CHANGE:		20230202
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GUNTHER CONRAD J JR
+		CENTRAL INDEX KEY:			0001295805
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34096
+		FILM NUMBER:		23581872
+
+	MAIL ADDRESS:	
+		STREET 1:		249 JENNINGS ROAD
+		CITY:			COLD SPRING HARBOR
+		STATE:			NY
+		ZIP:			11724
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Dime Community Bancshares, Inc. /NY/
+		CENTRAL INDEX KEY:			0000846617
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				112934195
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		898 VETERANS MEMORIAL HIGHWAY
+		STREET 2:		SUITE 560
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+		BUSINESS PHONE:		6315371000
+
+	MAIL ADDRESS:	
+		STREET 1:		898 VETERANS MEMORIAL HIGHWAY
+		STREET 2:		SUITE 560
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRIDGE BANCORP, INC.
+		DATE OF NAME CHANGE:	20190819
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRIDGE BANCORP INC
+		DATE OF NAME CHANGE:	19940715
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-01</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000846617</issuerCik>
+        <issuerName>Dime Community Bancshares, Inc. /NY/</issuerName>
+        <issuerTradingSymbol>DCOM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001295805</rptOwnerCik>
+            <rptOwnerName>GUNTHER CONRAD J JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>898 VETERANS MEMORIAL HIGHWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 560</rptOwnerStreet2>
+            <rptOwnerCity>HAUPPAUGE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>11788</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Lending Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1776.00</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.60</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>67208.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects the withholding of shares to satisfy tax obligations on 4,591 shares of restricted stock that vested on February 1, 2023.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Alexandra Weeks, as attorney-in-fact</signatureName>
+        <signatureDate>2023-02-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

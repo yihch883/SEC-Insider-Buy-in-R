@@ -1,0 +1,146 @@
+<SEC-DOCUMENT>0001062993-23-005499.txt : 20230302
+<SEC-HEADER>0001062993-23-005499.hdr.sgml : 20230302
+<ACCEPTANCE-DATETIME>20230302131353
+ACCESSION NUMBER:		0001062993-23-005499
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230228
+FILED AS OF DATE:		20230302
+DATE AS OF CHANGE:		20230302
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Novara Paula
+		CENTRAL INDEX KEY:			0001950858
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35795
+		FILM NUMBER:		23697702
+
+	MAIL ADDRESS:	
+		STREET 1:		1521 WESTBRANCH DRIVE, SUITE 100
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GLADSTONE LAND Corp
+		CENTRAL INDEX KEY:			0001495240
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				541892552
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1521 WESTBRANCH DRIVE
+		STREET 2:		SUITE 100
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+		BUSINESS PHONE:		703-287-5800
+
+	MAIL ADDRESS:	
+		STREET 1:		1521 WESTBRANCH DRIVE
+		STREET 2:		SUITE 100
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Gladstone Land Corp
+		DATE OF NAME CHANGE:	20100624
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001495240</issuerCik>
+        <issuerName>GLADSTONE LAND Corp</issuerName>
+        <issuerTradingSymbol>LAND</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001950858</rptOwnerCik>
+            <rptOwnerName>Novara Paula</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1521 WESTBRANCH DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>MCLEAN</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>560</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>17.6597</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>560</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael LiCalsi</signatureName>
+        <signatureDate>2023-03-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

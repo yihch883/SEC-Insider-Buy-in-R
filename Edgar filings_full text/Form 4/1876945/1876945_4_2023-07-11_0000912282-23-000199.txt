@@ -1,0 +1,202 @@
+<SEC-DOCUMENT>0000912282-23-000199.txt : 20230711
+<SEC-HEADER>0000912282-23-000199.hdr.sgml : 20230711
+<ACCEPTANCE-DATETIME>20230711193159
+ACCESSION NUMBER:		0000912282-23-000199
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230707
+FILED AS OF DATE:		20230711
+DATE AS OF CHANGE:		20230711
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CASTANEDA MARK
+		CENTRAL INDEX KEY:			0001247157
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56348
+		FILM NUMBER:		231083030
+
+	MAIL ADDRESS:	
+		STREET 1:		1304B 7TH AVE N.
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37208
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Gold Flora Corp.
+		CENTRAL INDEX KEY:			0001876945
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE PRODUCTION - CROPS [0100]
+		IRS NUMBER:				932261104
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3165 RED HILL AVENUE
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92626
+		BUSINESS PHONE:		(949) 252-1908
+
+	MAIL ADDRESS:	
+		STREET 1:		3165 RED HILL AVENUE
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92626
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TPCO Holding Corp.
+		DATE OF NAME CHANGE:	20210804
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-07</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001876945</issuerCik>
+        <issuerName>Gold Flora Corp.</issuerName>
+        <issuerTradingSymbol>GRAM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001247157</rptOwnerCik>
+            <rptOwnerName>CASTANEDA MARK</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3165 RED HILL AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>COSTA MESA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92626</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>42990</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>42990</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>100000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Issued pursuant to a business combination involving TPCO Holding Corp. (&quot;TPCO&quot;), Gold Flora, LLC (&quot;Gold Flora&quot;), Stately Capital Corporation (&quot;Stately&quot;), Gold Flora Corporation (&quot;Issuer&quot;) and Golden Grizzly Bear LLC.  TPCO, Stately, and Issuer amalgamated to form a new corporation.  Issuer common shares and RSUs were issued in exchange for TPCO common shares on a one-for-one basis.</footnote>
+        <footnote id="F2">Upon Vesting, RSUs convert into Common Shares on a one-for-one basis.</footnote>
+        <footnote id="F3">The Reporting Person received 100,000 restricted stock units (&quot;RSUs&quot;), 33% of which were vested.  The remaining RSUs vest in 8 equal quarterly installments beginning on September 30, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Mark Castaneda</signatureName>
+        <signatureDate>2023-07-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

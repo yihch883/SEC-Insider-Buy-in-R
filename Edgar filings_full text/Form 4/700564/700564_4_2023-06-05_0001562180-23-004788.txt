@@ -1,0 +1,229 @@
+<SEC-DOCUMENT>0001562180-23-004788.txt : 20230605
+<SEC-HEADER>0001562180-23-004788.hdr.sgml : 20230605
+<ACCEPTANCE-DATETIME>20230605163018
+ACCESSION NUMBER:		0001562180-23-004788
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230516
+FILED AS OF DATE:		20230605
+DATE AS OF CHANGE:		20230605
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HODGES GEORGE W
+		CENTRAL INDEX KEY:			0001200579
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39680
+		FILM NUMBER:		23992937
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FULTON FINANCIAL CORPORATION
+		STREET 2:		ONE PENN SQUARE
+		CITY:			LANCASTER
+		STATE:			PA
+		ZIP:			17602
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FULTON FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000700564
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				232195389
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE PENN SQ
+		STREET 2:		PO BOX 4887
+		CITY:			LANCASTER
+		STATE:			PA
+		ZIP:			17604
+		BUSINESS PHONE:		7172912411
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PENN SQ
+		STREET 2:		PO BOX 4887
+		CITY:			LANCASTER
+		STATE:			PA
+		ZIP:			17604
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-16</periodOfReport>
+
+    <notSubjectToSection16>true</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000700564</issuerCik>
+        <issuerName>FULTON FINANCIAL CORP</issuerName>
+        <issuerTradingSymbol>FULT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001200579</rptOwnerCik>
+            <rptOwnerName>HODGES GEORGE W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O FULTON FINANCIAL CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>P.O. BOX 4887, ONE PENN SQUARE</rptOwnerStreet2>
+            <rptOwnerCity>LANCASTER</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>17604</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>$2.50 par value Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.454</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>$2.50 par value Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>21430.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>$2.50 par value Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>300.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Irrevocable Trust for Children</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>$2.50 par value Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14393.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Foundation</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>$2.50 par value common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>0.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19144.5801</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one share of Fulton Financial Corporation common stock, $2.50 par value per share.</footnote>
+        <footnote id="F2">The restricted stocks units, together with accumulated dividend equivalents, will convert to common stock on the first anniversary of the date of the grant or, at the election of the reporting person, in up to three equal annual installments beginning in January of the year following the year in which the reporting person retires or separates from the Fulton Financial Corporation Board of Directors.</footnote>
+        <footnote id="F3">Forfeiture restrictions lapse on the restricted stock units on the first anniversary of the date of grant, or earlier in accordance with the Fulton Financial Corporation Amended and Restated 2023 Director Equity Plan.</footnote>
+    </footnotes>
+
+    <remarks>Mr. Hodges retired from the Fulton Financial Corporation Board of Directors effective May 16, 2023.</remarks>
+
+    <ownerSignature>
+        <signatureName>Mark A. Crowe, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-05-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

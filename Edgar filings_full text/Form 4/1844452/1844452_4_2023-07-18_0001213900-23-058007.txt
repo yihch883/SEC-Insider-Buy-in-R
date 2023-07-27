@@ -1,0 +1,262 @@
+<SEC-DOCUMENT>0001213900-23-058007.txt : 20230718
+<SEC-HEADER>0001213900-23-058007.hdr.sgml : 20230718
+<ACCEPTANCE-DATETIME>20230718213105
+ACCESSION NUMBER:		0001213900-23-058007
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230714
+FILED AS OF DATE:		20230718
+DATE AS OF CHANGE:		20230718
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BLITZER MICHAEL
+		CENTRAL INDEX KEY:			0001458423
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40823
+		FILM NUMBER:		231095442
+
+	MAIL ADDRESS:	
+		STREET 1:		1270 BROADWAY, SUITE 1009
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Intuitive Machines, Inc.
+		CENTRAL INDEX KEY:			0001844452
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		34 EAST 51ST STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 319-1309
+
+	MAIL ADDRESS:	
+		STREET 1:		34 EAST 51ST STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Inflection Point Acquisition Corp.
+		DATE OF NAME CHANGE:	20210204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001844452</issuerCik>
+        <issuerName>Intuitive Machines, Inc.</issuerName>
+        <issuerTradingSymbol>LUNR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001458423</rptOwnerCik>
+            <rptOwnerName>BLITZER MICHAEL</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KINGSTOWN CAPITAL MANAGEMENT L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>167 MADISON AVENUE, SUITE 205 #1033</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10016</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants to purchase Class A Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.5</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F5"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6845000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-03-15</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock, par value $0.0001 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6845000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Inflection Point Holdings LLC</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Warrants to purchase Class A Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.5</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2023-03-15</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock, par value $0.0001 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2538125</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2538125</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Warrants to purchase Class A Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.5</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2023-03-15</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock, par value $0.0001 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1768750</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3218750</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Kingstown 1740 Fund L.P.</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On July 14, 2023, Inflection Point Holdings LLC (the &quot;Sponsor&quot;) distributed an aggregate of 6,845,000 private placement warrants consisting of (i) 2,538,125 private placement warrants distributed to Michael Blitzer, (ii) 2,538,125 private placement warrants distributed to Guy Shanon and (iii) 1,768,750 private placement warrants distributed to Kingstown 1740 Fund L.P. (&quot;Kingstown 1740&quot;), in each case as a pro rata distribution for no consideration in accordance with the terms of the Sponsor's limited liability company agreement.</footnote>
+        <footnote id="F2">The Sponsor was the holder of such securities prior to their distribution. Kingstown Capital Management, L.P. (&quot;KCM&quot;) is the manager of the Sponsor and shares voting and investment discretion with respect to the securities held by the Sponsor. Kingstown Management GP LLC (&quot;KMGP&quot;) is the general partner of KCM and shares voting and investment discretion with respect to the securities held by the Sponsor. Michael Blitzer and Guy Shanon are the Managing Members of KMGP and share voting and investment discretion with respect to the securities held by the Sponsor.</footnote>
+        <footnote id="F3">Kingstown 1740 is the holder of the securities reported. KCM is the investment manager of Kingstown 1740 and shares voting and investment discretion with respect to the securities held by Kingstown 1740. KMGP is the general partner of KCM and shares voting and investment discretion with respect to the securities held by Kingstown 1740. Kingstown Capital Partners LLC (&quot;KCP&quot;) is the general partner of Kingstown 1740. Michael Blitzer and Guy Shanon are the Managing Members of KMGP and share voting and investment discretion with respect to the securities held by Kingstown 1740.</footnote>
+        <footnote id="F4">KCM, KMGP, the Sponsor, Mr. Shanon, KCP and Kingstown 1740 are filing separate Form 4s in connection with the transactions described herein. Each of KMGP, KCM, Mr. Blitzer and Mr. Shanon disclaims any beneficial ownership of the securities held by the Sponsor other than to the extent of any pecuniary interest it or he, as applicable, may have therein, directly or indirectly. Each of KCM, KMGP, KCP, Mr. Blitzer and Mr. Shanon disclaims any beneficial ownership of the securities held by Kingstown 1740 other than to the extent of any pecuniary interest it or he, as applicable, may have therein, directly or indirectly.</footnote>
+        <footnote id="F5">Under Rule 16a-13 promulgated under the Securities Exchange Act of 1934, as a change in form of beneficial ownership, the reported distribution by the Sponsor (as it relates to Mr. Blitzer's deemed beneficial ownership of the securities held by the Sponsor) to its members and the reported acquisition by Mr. Blitzer from the Sponsor, were exempt from Section 16 of the Securities Exchange Act of 1934.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael Blitzer</signatureName>
+        <signatureDate>2023-07-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,218 @@
+<SEC-DOCUMENT>0000899243-23-010578.txt : 20230404
+<SEC-HEADER>0000899243-23-010578.hdr.sgml : 20230404
+<ACCEPTANCE-DATETIME>20230404204251
+ACCESSION NUMBER:		0000899243-23-010578
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230404
+DATE AS OF CHANGE:		20230404
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Armstrong David J
+		CENTRAL INDEX KEY:			0001865523
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39289
+		FILM NUMBER:		23800864
+
+	MAIL ADDRESS:	
+		STREET 1:		9725 NW 117TH AVENUE, SUITE 200
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cano Health, Inc.
+		CENTRAL INDEX KEY:			0001800682
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE [8011]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9725 NW 117TH AVENUE, SUITE 200
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+		BUSINESS PHONE:		2034227700
+
+	MAIL ADDRESS:	
+		STREET 1:		9725 NW 117TH AVENUE, SUITE 200
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Jaws Acquisition Corp.
+		DATE OF NAME CHANGE:	20200121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001800682</issuerCik>
+        <issuerName>Cano Health, Inc.</issuerName>
+        <issuerTradingSymbol>CANO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001865523</rptOwnerCik>
+            <rptOwnerName>Armstrong David J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>CANO HEALTH, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>9725 NW 117TH AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>MIAMI</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33178</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>70108</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>550263</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.91</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>146757</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-03-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>146757</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>146757</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares represent restricted stock units (&quot;RSUs&quot;) granted under the Cano Health, Inc. 2021 Stock Option and Incentive Plan. Each unit represents a right to receive one share of the Issuer's Class A Common Stock. The RSUs vest as to 50% of the RSUs on December 31st, 2023 and the remaining 50% of the RSUs vest on December 31st, 2024. The RSUs were granted on March 31, 2023.</footnote>
+        <footnote id="F2">The stock option is granted under the Cano Health, Inc. 2021 Stock Option and Incentive Plan and is scheduled to vest over four years, with 25% of the shares underlying the award vesting on March 31, 2024, and 25% of the shares underlying the award vesting at the end of each successive one-year period thereafter. The stock option was granted on March 31, 2023.</footnote>
+    </footnotes>
+
+    <remarks>General Counsel, Chief Compliance Officer and Secretary</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ David J. Armstrong</signatureName>
+        <signatureDate>2023-04-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

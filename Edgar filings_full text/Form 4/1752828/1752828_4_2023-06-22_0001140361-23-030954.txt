@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001140361-23-030954.txt : 20230622
+<SEC-HEADER>0001140361-23-030954.hdr.sgml : 20230622
+<ACCEPTANCE-DATETIME>20230622163223
+ACCESSION NUMBER:		0001140361-23-030954
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230620
+FILED AS OF DATE:		20230622
+DATE AS OF CHANGE:		20230622
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Genting Berhad
+		CENTRAL INDEX KEY:			0001788489
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38914
+		FILM NUMBER:		231033776
+
+	BUSINESS ADDRESS:	
+		STREET 1:		24TH FLOOR, WISMA GENTING
+		STREET 2:		JALAN SULTAN ISMAIL
+		CITY:			KUALA LUMPUR
+		STATE:			N8
+		ZIP:			50250
+		BUSINESS PHONE:		60 3 2178 2288
+
+	MAIL ADDRESS:	
+		STREET 1:		24TH FLOOR, WISMA GENTING
+		STREET 2:		JALAN SULTAN ISMAIL
+		CITY:			KUALA LUMPUR
+		STATE:			N8
+		ZIP:			50250
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Celularity Inc
+		CENTRAL INDEX KEY:			0001752828
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				831702591
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		170 PARK AVE
+		CITY:			FLORHAM PARK
+		STATE:			NJ
+		ZIP:			07932
+		BUSINESS PHONE:		(908) 768-2170
+
+	MAIL ADDRESS:	
+		STREET 1:		170 PARK AVE
+		CITY:			FLORHAM PARK
+		STATE:			NJ
+		ZIP:			07932
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GX Acquisition Corp.
+		DATE OF NAME CHANGE:	20180912
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001752828</issuerCik>
+        <issuerName>Celularity Inc</issuerName>
+        <issuerTradingSymbol>CELU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001788489</rptOwnerCik>
+            <rptOwnerName>Genting Berhad</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>14TH FLOOR, WISMA GENTING</rptOwnerStreet1>
+            <rptOwnerStreet2>JALAN SULTAN ISMAIL</rptOwnerStreet2>
+            <rptOwnerCity>KUALA LUMPUR</rptOwnerCity>
+            <rptOwnerState>N8</rptOwnerState>
+            <rptOwnerZipCode>50250</rptOwnerZipCode>
+            <rptOwnerStateDescription>MALAYSIA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.81</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.125</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-06-20</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-06-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3000000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3000000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Resorts World Inc Pte. Ltd.</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These warrants are directly held by Resorts World Inc Pte. Ltd. (&quot;RWI&quot;). Genting Berhad, a public company listed on the Malaysian stock exchange, indirectly holds 50% of RWI with the balance 50% indirectly held by Lim Kok Thay, who serves as a director on the Issuer's board of directors. Mr. Lim is also an indirect beneficial owner of the largest shareholder of Genting Berhad, where he serves as Chief Executive and Chairman of the Board. Mr. Lim separately files section 16 reports. Genting Berhad disclaims beneficial ownership over the reported securities except to the extent of its pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Genting Berhad By: /s/ Loh Bee Hong, Elaine, Company Secretary</signatureName>
+        <signatureDate>2023-06-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

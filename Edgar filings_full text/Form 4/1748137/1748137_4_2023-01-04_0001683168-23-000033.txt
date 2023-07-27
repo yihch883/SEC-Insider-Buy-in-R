@@ -1,0 +1,217 @@
+<SEC-DOCUMENT>0001683168-23-000033.txt : 20230104
+<SEC-HEADER>0001683168-23-000033.hdr.sgml : 20230104
+<ACCEPTANCE-DATETIME>20230104201332
+ACCESSION NUMBER:		0001683168-23-000033
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230101
+FILED AS OF DATE:		20230104
+DATE AS OF CHANGE:		20230104
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bond Steve
+		CENTRAL INDEX KEY:			0001731398
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41447
+		FILM NUMBER:		23509342
+
+	MAIL ADDRESS:	
+		STREET 1:		28839 PUJOL ST.
+		STREET 2:		#832
+		CITY:			TEMECULA
+		STATE:			CA
+		ZIP:			92590
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NeoVolta Inc.
+		CENTRAL INDEX KEY:			0001748137
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				825299263
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13651 DANIELSON STREET
+		STREET 2:		SUITE A
+		CITY:			POWAY
+		STATE:			CA
+		ZIP:			92064
+		BUSINESS PHONE:		800-364-5464
+
+	MAIL ADDRESS:	
+		STREET 1:		13651 DANIELSON STREET
+		STREET 2:		SUITE A
+		CITY:			POWAY
+		STATE:			CA
+		ZIP:			92064
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NeoVolta, Inc.
+		DATE OF NAME CHANGE:	20220613
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NeoVolta Inc.
+		DATE OF NAME CHANGE:	20180725
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001748137</issuerCik>
+        <issuerName>NeoVolta Inc.</issuerName>
+        <issuerTradingSymbol>NEOV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001731398</rptOwnerCik>
+            <rptOwnerName>Bond Steve</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NEOVOLTA, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>13651 DANIELSON STREET, SUITE A</rptOwnerStreet2>
+            <rptOwnerCity>POWAY</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92064</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>250000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>750000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>250000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>250000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Issued upon conversion of restricted stock units that convert into common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">The reporting person was granted 300,000 restricted stock units (RSUs), vesting as follows: (i) 250,000 of the RSUs vested on January 1, 2023; and (ii) 50,000 RSUs shall vest on the occurrence of both of the following events: (A) the filing of the Company's Form 10-K for the year ended June 30, 2023 no later than September 29, 2023; and (B) the earliest of (1) a change in control or (2) the termination of the reporting person's employment by the Company without cause (as defined in the employment agreement between the Company and reporting person) or (3) the death of reporting person, or (4) January 1, 2024, provided the reporting person is serving as an employee of the Company on such date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Steve Bond</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

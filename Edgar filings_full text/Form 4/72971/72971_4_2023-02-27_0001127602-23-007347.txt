@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001127602-23-007347.txt : 20230227
+<SEC-HEADER>0001127602-23-007347.hdr.sgml : 20230227
+<ACCEPTANCE-DATETIME>20230227165658
+ACCESSION NUMBER:		0001127602-23-007347
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230223
+FILED AS OF DATE:		20230227
+DATE AS OF CHANGE:		20230227
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Santos Kleber
+		CENTRAL INDEX KEY:			0001702043
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02979
+		FILM NUMBER:		23676172
+
+	MAIL ADDRESS:	
+		STREET 1:		1680 CAPITAL ONE DRIVE
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WELLS FARGO & COMPANY/MN
+		CENTRAL INDEX KEY:			0000072971
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				410449260
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		420 MONTGOMERY STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94163
+		BUSINESS PHONE:		6126671234
+
+	MAIL ADDRESS:	
+		STREET 1:		420 MONTGOMERY STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94163
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WELLS FARGO & CO/MN
+		DATE OF NAME CHANGE:	19981103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORWEST CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORTHWEST BANCORPORATION
+		DATE OF NAME CHANGE:	19830516
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-23</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000072971</issuerCik>
+        <issuerName>WELLS FARGO &amp; COMPANY/MN</issuerName>
+        <issuerTradingSymbol>WFC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001702043</rptOwnerCik>
+            <rptOwnerName>Santos Kleber</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>30 HUDSON YARDS</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Sr. Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $1 2/3 Par Value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>34698</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>46.27</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19590</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $1 2/3 Par Value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>445.62</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Through 401(k) Plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $46.19 to $46.295 inclusive. The reporting person undertakes to provide to Wells Fargo &amp; Company (the &quot;Company&quot;), any security holder of the Company, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (1) to this Form 4.</footnote>
+        <footnote id="F2">Reflects share equivalent of units in the Wells Fargo ESOP Fund under the 401(k) Plan (the &quot;Plan&quot;) as of February 22, 2023, as if investable cash equivalents held by the Plan were fully invested in Company common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Kleber Santos, by Janet McGinness, as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-02-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

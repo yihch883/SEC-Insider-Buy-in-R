@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001654954-23-008024.txt : 20230614
+<SEC-HEADER>0001654954-23-008024.hdr.sgml : 20230614
+<ACCEPTANCE-DATETIME>20230614170542
+ACCESSION NUMBER:		0001654954-23-008024
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230612
+FILED AS OF DATE:		20230614
+DATE AS OF CHANGE:		20230614
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Cornell Alison A
+		CENTRAL INDEX KEY:			0001549395
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40449
+		FILM NUMBER:		231014919
+
+	MAIL ADDRESS:	
+		STREET 1:		210 CARNEGIE CENTER
+		CITY:			PRINCETON
+		STATE:			NJ
+		ZIP:			08540
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Zivo Bioscience, Inc.
+		CENTRAL INDEX KEY:			0001101026
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				870699977
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		21 E. LONG LAKE ROAD
+		STREET 2:		SUITE 100
+		CITY:			BLOOMFIELD HILLS
+		STATE:			MI
+		ZIP:			48304
+		BUSINESS PHONE:		(248) 452 9866
+
+	MAIL ADDRESS:	
+		STREET 1:		21 E. LONG LAKE ROAD
+		STREET 2:		SUITE 100
+		CITY:			BLOOMFIELD HILLS
+		STATE:			MI
+		ZIP:			48304
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HEALTH ENHANCEMENT PRODUCTS INC
+		DATE OF NAME CHANGE:	20040202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WESTERN GLORY HOLE INC
+		DATE OF NAME CHANGE:	19991215
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>section16.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001101026</issuerCik>
+        <issuerName>Zivo Bioscience, Inc.</issuerName>
+        <issuerTradingSymbol>ZIVO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001549395</rptOwnerCik>
+            <rptOwnerName>Cornell Alison A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ZIVO BIOSCIENCE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>21 E. LONG LAKE ROAD, SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>BLOOMFIELD HILLS</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48304</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Nonstatutory Stock Option to Purchase Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.79</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>21756</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-06-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>21756</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>21756</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The option was issued pursuant to the 2021 Equity Incentive Plan and vests as follows: 25% on the first three 3-month anniversaries of the grant, and 25% on the day prior to the Company's 2024 Annual Meeting of Stockholders, subject to the reporting person's continuous service on each applicable vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Keith Marchiando, by Power of Attorney</signatureName>
+        <signatureDate>2023-06-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0001062993-23-004021.txt : 20230217
+<SEC-HEADER>0001062993-23-004021.hdr.sgml : 20230217
+<ACCEPTANCE-DATETIME>20230217160406
+ACCESSION NUMBER:		0001062993-23-004021
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230215
+FILED AS OF DATE:		20230217
+DATE AS OF CHANGE:		20230217
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Reid Sean
+		CENTRAL INDEX KEY:			0001738813
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34057
+		FILM NUMBER:		23642423
+
+	MAIL ADDRESS:	
+		STREET 1:		AGNC INVESTMENT CORP.
+		STREET 2:		2 BETHESDA METRO CENTER, 12TH FLOOR
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGNC Investment Corp.
+		CENTRAL INDEX KEY:			0001423689
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				261701984
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 BETHESDA METRO CENTER 12TH FLOOR
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		301 968 9300
+
+	MAIL ADDRESS:	
+		STREET 1:		2 BETHESDA METRO CENTER 12TH FLOOR
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	American Capital Agency Corp
+		DATE OF NAME CHANGE:	20080111
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001423689</issuerCik>
+        <issuerName>AGNC Investment Corp.</issuerName>
+        <issuerTradingSymbol>AGNC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001738813</rptOwnerCik>
+            <rptOwnerName>Reid Sean</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2 BETHESDA METRO CENTER</rptOwnerStreet1>
+            <rptOwnerStreet2>12TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BETHESDA</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20814</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5640</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.48</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>117610.049</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Dispositions represent shares withheld upon vesting of restricted stock unit awards to cover required tax withholdings.</footnote>
+        <footnote id="F2">Includes 675 dividend equivalent restricted stock units received on previously granted RSU awards since the Reporting Person's last filing.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Sean Reid</signatureName>
+        <signatureDate>2023-02-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

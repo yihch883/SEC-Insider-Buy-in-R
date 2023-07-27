@@ -1,0 +1,215 @@
+<SEC-DOCUMENT>0001411579-23-000018.txt : 20230227
+<SEC-HEADER>0001411579-23-000018.hdr.sgml : 20230227
+<ACCEPTANCE-DATETIME>20230227155707
+ACCESSION NUMBER:		0001411579-23-000018
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230223
+FILED AS OF DATE:		20230227
+DATE AS OF CHANGE:		20230227
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SUSSMAN ADAM JAY
+		CENTRAL INDEX KEY:			0001776972
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33892
+		FILM NUMBER:		23674549
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AMC ENTERTAINMENT HOLDINGS INC
+		STREET 2:		11500 ASH STREET
+		CITY:			LEAWOOD
+		STATE:			KS
+		ZIP:			66211
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMC ENTERTAINMENT HOLDINGS, INC.
+		CENTRAL INDEX KEY:			0001411579
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MOTION PICTURE THEATERS [7830]
+		IRS NUMBER:				260303916
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMC WAY
+		STREET 2:		11500 ASH STREET
+		CITY:			LEAWOOD
+		STATE:			KS
+		ZIP:			66211
+		BUSINESS PHONE:		913-213-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMC WAY
+		STREET 2:		11500 ASH STREET
+		CITY:			LEAWOOD
+		STATE:			KS
+		ZIP:			66211
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001411579</issuerCik>
+        <issuerName>AMC ENTERTAINMENT HOLDINGS, INC.</issuerName>
+        <issuerTradingSymbol>AMC/APE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001776972</rptOwnerCik>
+            <rptOwnerName>SUSSMAN ADAM JAY</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AMC ENTERTAINMENT HOLDINGS INC</rptOwnerStreet1>
+            <rptOwnerStreet2>11500 ASH STREET</rptOwnerStreet2>
+            <rptOwnerCity>LEAWOOD</rptOwnerCity>
+            <rptOwnerState>KS</rptOwnerState>
+            <rptOwnerZipCode>66211</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10694</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>34366</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>AMC Preferred Equity Units</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>19212</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>19212</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>42884</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares of the Issuer's class A common stock (&quot;Common Shares&quot;) and preferred equity units (&quot;APEUs&quot;) were granted under the Issuer's 2013 Equity Incentive Plan and Non-Employee Director Compensation Program. The Common Shares and APEUs must be retained for one year or until the end of the Reporting Person's service, if earlier.</footnote>
+        <footnote id="F2">Does not include 42,884 outstanding APEUs which, when combined with the ownership reported above, would represent a total of 77,250 equity interests.</footnote>
+        <footnote id="F3">Each APEU is a depositary share and represents an interest in one one-hundredth (1/100th) of a share of the Issuer's Series A Convertible Participating Preferred Stock. Each APEU is designed to have the same economic and voting rights as a Common Share and trades on the NYSE under the symbol &quot;APE&quot;. Each APEU is automatically convertible into one (1) Common Share upon an approval by the Issuer's stockholders to authorize sufficient additional Common Shares to permit the conversion of the then-outstanding APEUs. The APEUs have no expiration date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Edwin F Gladbach, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-02-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

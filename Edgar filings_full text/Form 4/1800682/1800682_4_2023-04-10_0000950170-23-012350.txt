@@ -1,0 +1,333 @@
+<SEC-DOCUMENT>0000950170-23-012350.txt : 20230410
+<SEC-HEADER>0000950170-23-012350.hdr.sgml : 20230410
+<ACCEPTANCE-DATETIME>20230410214040
+ACCESSION NUMBER:		0000950170-23-012350
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230405
+FILED AS OF DATE:		20230410
+DATE AS OF CHANGE:		20230410
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Camerlinck Robert
+		CENTRAL INDEX KEY:			0001942114
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39289
+		FILM NUMBER:		23812248
+
+	MAIL ADDRESS:	
+		STREET 1:		9725 NW 117TH AVENUE, SUITE 200
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cano Health, Inc.
+		CENTRAL INDEX KEY:			0001800682
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE [8011]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9725 NW 117TH AVENUE, SUITE 200
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+		BUSINESS PHONE:		2034227700
+
+	MAIL ADDRESS:	
+		STREET 1:		9725 NW 117TH AVENUE, SUITE 200
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Jaws Acquisition Corp.
+		DATE OF NAME CHANGE:	20200121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-05</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001800682</issuerCik>
+        <issuerName>Cano Health, Inc.</issuerName>
+        <issuerTradingSymbol>CANO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001942114</rptOwnerCik>
+            <rptOwnerName>Camerlinck Robert</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>CANO HEALTH, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>9725 NW 117TH AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>MIAMI</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33178</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2836540</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>26750149</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>PCIH Common Units</value>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F4"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>17163460</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>17163460</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17163460</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F4"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>17163460</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>17163460</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17163460</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Put option (obligation to sell)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F5"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>PCIH Common Units/Class B Common Stock/Class A Common Stock</value>
+                    <footnoteId id="F5"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <footnoteId id="F5"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">In connection with the transfer described in Note (4) below, reflects the transfer of Class A Common Stock by a borrower to the Reporting Person
+pursuant to a repayment agreement to pay in full the outstanding principal amount owed by such borrower to the Reporting Person under an
+outstanding promissory note. For such purpose, the parties agreed that the price for the Class A Common Stock was $1.50 per share of Class
+A Common Stock.</footnote>
+        <footnote id="F2">The stock option was granted under the CaNo Health, Inc. 2021 Stock Option and Incentive Plan and is scheduled to vest over four years, with 25% of the shares underlying the award vesting on March 31, 2024, and 25% of the shares underlying the award vesting at the end of each successive one-year period thereafter.</footnote>
+        <footnote id="F3">Common limited liability company units (&quot;PCIH Common Units&quot;) of Primary Care (ITC) Intermediate Holdings, LLC (&quot;PCIH&quot;), together with an equal
+number of shares of the Issuer's Class B Common Stock, par value $0.0001per share (&quot;Class B Common Stock&quot;), are exchangeable for either cash, at the
+election of the Issuer, or shares of the Issuer's Class A Common Stock, par value $0.0001 per share (&quot;Class A Common Stock&quot;), on a one-for-one basis
+pursuant to PCIH's Second Amended and Restated Limited Liability Company Agreement (the &quot;LLC Agreement&quot;). The PCIH Common Units and Class B
+Common Stock have no expiration dates. A holder of PCIH Common Units has an economic interest in PCIH and also holds a corresponding number of
+non-economic shares of Class B Common Stock, which has one vote per share.</footnote>
+        <footnote id="F4">In connection with the transfer described in Note (1) above, reflects the transfer of PCIH Common Units and an equal number of shares of Class B
+Common Stock (the &quot;Transferred Securities&quot;) by borrowers to the Reporting Person pursuant to a repayment agreement to pay in full the outstanding
+principal amount owed by such borrowers to the Reporting Person under an outstanding promissory note. For such purpose, the parties agreed that the
+combined price for the Transferred Securities was $1.50 per share of Class B Common Stock.</footnote>
+        <footnote id="F5">In connection with the transfer described in Notes (1) and (4) above, the Reporting Person wrote an option to the borrowers under which the borrowers
+received a right to acquire the Transferred Securities and the Class A Common Stock described in footnote (1) above from the Reporting Person for a price
+equal to $3.00 per share of Class B Common Stock or Class A Common Stock, as applicable, exercisable during the one year period following April 5,
+2023, subject to the terms and conditions of the repayment agreement referred to in Notes (1) and (4) above.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Robert Camerlinck</signatureName>
+        <signatureDate>2023-04-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

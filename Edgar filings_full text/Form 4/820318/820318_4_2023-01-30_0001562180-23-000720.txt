@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001562180-23-000720.txt : 20230130
+<SEC-HEADER>0001562180-23-000720.hdr.sgml : 20230130
+<ACCEPTANCE-DATETIME>20230130162724
+ACCESSION NUMBER:		0001562180-23-000720
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230128
+FILED AS OF DATE:		20230130
+DATE AS OF CHANGE:		20230130
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MATTERA VINCENT D JR
+		CENTRAL INDEX KEY:			0001343837
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39375
+		FILM NUMBER:		23568148
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O COHERENT CORP.
+		STREET 2:		375 SAXONBURG BLVD
+		CITY:			SAXONBURG
+		STATE:			PA
+		ZIP:			16056
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COHERENT CORP.
+		CENTRAL INDEX KEY:			0000820318
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPTICAL INSTRUMENTS & LENSES [3827]
+		IRS NUMBER:				251214948
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		375 SAXONBURG BLVD
+		CITY:			SAXONBURG
+		STATE:			PA
+		ZIP:			16056
+		BUSINESS PHONE:		724-352-4455
+
+	MAIL ADDRESS:	
+		STREET 1:		375 SAXONBURG BLVD
+		CITY:			SAXONBURG
+		STATE:			PA
+		ZIP:			16056
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	II-VI INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-28</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000820318</issuerCik>
+        <issuerName>COHERENT CORP.</issuerName>
+        <issuerTradingSymbol>COHR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001343837</rptOwnerCik>
+            <rptOwnerName>MATTERA VINCENT D JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O COHERENT CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>375 SAXONBURG BLVD.</rptOwnerStreet2>
+            <rptOwnerCity>SAXONBURG</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>16056</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5200.00</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>45.14</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>643234.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares were withheld by the company to discharge withholding tax obligations of the reporting person and do not constitute an actual sale or other open market transaction.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey W. Acre, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-01-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

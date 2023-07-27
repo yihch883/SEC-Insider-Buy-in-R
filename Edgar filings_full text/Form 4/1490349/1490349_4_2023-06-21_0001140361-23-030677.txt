@@ -1,0 +1,149 @@
+<SEC-DOCUMENT>0001140361-23-030677.txt : 20230621
+<SEC-HEADER>0001140361-23-030677.hdr.sgml : 20230621
+<ACCEPTANCE-DATETIME>20230621121505
+ACCESSION NUMBER:		0001140361-23-030677
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230606
+FILED AS OF DATE:		20230621
+DATE AS OF CHANGE:		20230621
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McMillan Ellida
+		CENTRAL INDEX KEY:			0001604617
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00818
+		FILM NUMBER:		231028655
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ALCENTRA CAPITAL CORP., 200 PARK AVE
+		STREET 2:		7TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10166
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PhenixFIN Corp
+		CENTRAL INDEX KEY:			0001490349
+		IRS NUMBER:				274576073
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		445 PARK AVENUE
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-759-0777
+
+	MAIL ADDRESS:	
+		STREET 1:		445 PARK AVENUE
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Medley Capital Corp
+		DATE OF NAME CHANGE:	20110118
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Medley Capital BDC LLC
+		DATE OF NAME CHANGE:	20100426
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-06</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001490349</issuerCik>
+        <issuerName>PhenixFIN Corp</issuerName>
+        <issuerTradingSymbol>PFX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001604617</rptOwnerCik>
+            <rptOwnerName>McMillan Ellida</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PHENIXFIN CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>445 PARK AVENUE, 10TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10022</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>CHIEF FINANCIAL OFFICER</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>33.46</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>861</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Ellida McMillan</signatureName>
+        <signatureDate>2023-06-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

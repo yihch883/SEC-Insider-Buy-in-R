@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0001209191-23-010195.txt : 20230216
+<SEC-HEADER>0001209191-23-010195.hdr.sgml : 20230216
+<ACCEPTANCE-DATETIME>20230216173040
+ACCESSION NUMBER:		0001209191-23-010195
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230215
+FILED AS OF DATE:		20230216
+DATE AS OF CHANGE:		20230216
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BERNSTEIN SETH P
+		CENTRAL INDEX KEY:			0001705584
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38469
+		FILM NUMBER:		23639517
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ALLIANCEBERNSTEIN HOLDING, L.P.
+		STREET 2:		1345 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Equitable Holdings, Inc.
+		CENTRAL INDEX KEY:			0001333986
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSURANCE AGENTS BROKERS & SERVICES [6411]
+		IRS NUMBER:				585512450
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1290 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10104
+		BUSINESS PHONE:		(212) 554-1234
+
+	MAIL ADDRESS:	
+		STREET 1:		1290 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AXA Equitable Holdings, Inc.
+		DATE OF NAME CHANGE:	20171107
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AXA AMERICA HOLDINGS, INC.
+		DATE OF NAME CHANGE:	20050722
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001333986</issuerCik>
+        <issuerName>Equitable Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>EQH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001705584</rptOwnerCik>
+            <rptOwnerName>BERNSTEIN SETH P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O EQUITABLE HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1290 AVENUE OF THE AMERICAS</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10104</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10129</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>80270</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Grant of restricted stock units under the Issuer's 2019 Omnibus Incentive Plan exempt under Rule 16b-3. Each restricted stock unit represents a contingent right to receive one share of common stock of the Issuer upon vesting. The restricted stock units vest in three ratable annual installments beginning on February 28, 2024. Vested shares will be delivered to the reporting person within 30 days following the vesting date.</footnote>
+        <footnote id="F2">Includes restricted stock units.</footnote>
+    </footnotes>
+
+    <remarks>Head of Investment Management and Research</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jessica Olich, as Attorney-in-Fact for Seth P. Bernstein</signatureName>
+        <signatureDate>2023-02-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

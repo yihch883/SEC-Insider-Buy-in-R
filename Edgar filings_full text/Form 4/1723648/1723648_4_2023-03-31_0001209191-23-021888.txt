@@ -1,0 +1,189 @@
+<SEC-DOCUMENT>0001209191-23-021888.txt : 20230331
+<SEC-HEADER>0001209191-23-021888.hdr.sgml : 20230331
+<ACCEPTANCE-DATETIME>20230331165206
+ACCESSION NUMBER:		0001209191-23-021888
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230315
+FILED AS OF DATE:		20230331
+DATE AS OF CHANGE:		20230331
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CLEVENGER S GREGORY
+		CENTRAL INDEX KEY:			0001208623
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38825
+		FILM NUMBER:		23788768
+
+	MAIL ADDRESS:	
+		STREET 1:		175 SULLYS TRAIL
+		STREET 2:		SUITE 300
+		CITY:			PITTSFORD
+		STATE:			NY
+		ZIP:			14534
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LiveVox Holdings, Inc.
+		CENTRAL INDEX KEY:			0001723648
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				823447941
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		655 MONTGOMERY STREET
+		STREET 2:		SUITE 1000
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		415-671-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		655 MONTGOMERY STREET
+		STREET 2:		SUITE 1000
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Crescent Acquisition Corp
+		DATE OF NAME CHANGE:	20181105
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Crescent Funding Inc.
+		DATE OF NAME CHANGE:	20171122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001723648</issuerCik>
+        <issuerName>LiveVox Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>LVOX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001208623</rptOwnerCik>
+            <rptOwnerName>CLEVENGER S GREGORY</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>655 MONTGOMERY STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1000</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP and CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.00</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>0</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>176270.662</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote (1)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported security represents interests in shares of Class A Common Stock beneficially held by LiveVox TopCo LLC which, at the discretion of the manager of LiveVox TopCo LLC, entitle the reporting person to a pro rata portion of any distribution made by LiveVox TopCo LLC.</footnote>
+        <footnote id="F2">Represents the vesting of 79,223.25 shares that was settled in cash at the issuer's discretion.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>S. Gregory Clevenger</signatureName>
+        <signatureDate>2023-03-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,246 @@
+<SEC-DOCUMENT>0001062993-23-000653.txt : 20230106
+<SEC-HEADER>0001062993-23-000653.hdr.sgml : 20230106
+<ACCEPTANCE-DATETIME>20230106175822
+ACCESSION NUMBER:		0001062993-23-000653
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230104
+FILED AS OF DATE:		20230106
+DATE AS OF CHANGE:		20230106
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Romaine Mark
+		CENTRAL INDEX KEY:			0001578638
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32593
+		FILM NUMBER:		23516122
+
+	MAIL ADDRESS:	
+		STREET 1:		800 SOUTH STREET, SUITE 500
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GLOBAL PARTNERS LP
+		CENTRAL INDEX KEY:			0001323468
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-PETROLEUM BULK STATIONS & TERMINALS [5171]
+		IRS NUMBER:				743140887
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P.O. BOX 9161
+		STREET 2:		800 SOUTH STREET, SUITE 500
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02454
+		BUSINESS PHONE:		(781) 894-8800
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 9161
+		STREET 2:		800 SOUTH STREET, SUITE 500
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02454
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Global Partners LP
+		DATE OF NAME CHANGE:	20050411
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001323468</issuerCik>
+        <issuerName>GLOBAL PARTNERS LP</issuerName>
+        <issuerTradingSymbol>GLP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001578638</rptOwnerCik>
+            <rptOwnerName>Romaine Mark</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O GLOBAL PARTNERS LP</rptOwnerStreet1>
+            <rptOwnerStreet2>800 SOUTH STREET, SUITE 500</rptOwnerStreet2>
+            <rptOwnerCity>WALTHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02453</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common units representing limited partner interests</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9205</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>99980</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common units representing limited partner interests</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2901</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>34.66</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>97079</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Units</value>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9205</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common units representing limited partner interests</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>9205</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18408</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each phantom unit representing the right to receive one Common Unit upon vesting (&quot;Phantom Unit&quot;) converts into a common unit representing a limited partner interest in the Issuer (&quot;Common Unit&quot;) on a one-for-one basis.</footnote>
+        <footnote id="F2">Each Unit was withheld at the request of the Reporting Person to satisfy the tax withholding obligations of the Reporting Person.</footnote>
+        <footnote id="F3">Each Phantom Unit is the economic equivalent of one Common Unit.</footnote>
+        <footnote id="F4">Pursuant to a Grant Agreement dated June 8, 2022, the Reporting Person was granted 27,613 Phantom Units. Upon satisfying the vesting conditions set forth in said Grant Agreement, the Phantom Units cumulatively vested or will vest as follows:  one-third on January 1, 2023, one-third on January 1, 2024 and one-third on January 1, 2025.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Amy J. Gould, Attorney-in-Fact for Mark Romaine</signatureName>
+        <signatureDate>2023-01-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,224 @@
+<SEC-DOCUMENT>0001617694-23-000001.txt : 20230531
+<SEC-HEADER>0001617694-23-000001.hdr.sgml : 20230531
+<ACCEPTANCE-DATETIME>20230531204525
+ACCESSION NUMBER:		0001617694-23-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230530
+FILED AS OF DATE:		20230531
+DATE AS OF CHANGE:		20230531
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Majewski Thomas P.
+		CENTRAL INDEX KEY:			0001617694
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-22974
+		FILM NUMBER:		23982775
+
+	MAIL ADDRESS:	
+		STREET 1:		600 STEAMBOAT RD, SUITE 202
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Eagle Point Credit Co Inc.
+		CENTRAL INDEX KEY:			0001604174
+		IRS NUMBER:				465215217
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 STEAMBOAT RD, SUITE 202
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		203.862.3150
+
+	MAIL ADDRESS:	
+		STREET 1:		600 STEAMBOAT RD, SUITE 202
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Eagle Point Credit Co LLC
+		DATE OF NAME CHANGE:	20140331
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001604174</issuerCik>
+        <issuerName>Eagle Point Credit Co Inc.</issuerName>
+        <issuerTradingSymbol>ECC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001617694</rptOwnerCik>
+            <rptOwnerName>Majewski Thomas P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>600 STEAMBOAT RD, SUITE 202</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GREENWICH</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06830</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle>CEO</officerTitle>
+            <otherText>Portfolio Manager</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>6.50% Series C Term Preferred Stock due 2031</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>20.8</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.001 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Majewski Family 2022 Holdings LLC</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.001 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>6.6875% Notes due 2028</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>7425</value>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Majewski Family 2022 Holdings LLC</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>6.6875% Notes due 2028</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>24375</value>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These securities are attributable to Mr. Majewski through his interest in Majewski Family 2022 Holdings LLC, a limited liability company.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Thomas P. Majewski</signatureName>
+        <signatureDate>2023-05-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

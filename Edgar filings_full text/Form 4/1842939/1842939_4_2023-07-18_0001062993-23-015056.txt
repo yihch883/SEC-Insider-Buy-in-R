@@ -1,0 +1,322 @@
+<SEC-DOCUMENT>0001062993-23-015056.txt : 20230718
+<SEC-HEADER>0001062993-23-015056.hdr.sgml : 20230718
+<ACCEPTANCE-DATETIME>20230718203611
+ACCESSION NUMBER:		0001062993-23-015056
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230714
+FILED AS OF DATE:		20230718
+DATE AS OF CHANGE:		20230718
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Upton Richard A
+		CENTRAL INDEX KEY:			0001375726
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40228
+		FILM NUMBER:		231095406
+
+	MAIL ADDRESS:	
+		STREET 1:		12 MIDDLE STREET
+		CITY:			AMHERST
+		STATE:			NH
+		ZIP:			03031
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALPHA HEALTHCARE ACQUISITION CORP III
+		CENTRAL INDEX KEY:			0001842939
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1177 AVENUE OF THE AMERICAS
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		646-494-3296
+
+	MAIL ADDRESS:	
+		STREET 1:		1177 AVENUE OF THE AMERICAS
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001842939</issuerCik>
+        <issuerName>ALPHA HEALTHCARE ACQUISITION CORP III</issuerName>
+        <issuerTradingSymbol>CTCX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001375726</rptOwnerCik>
+            <rptOwnerName>Upton Richard A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CARMELL THERAPEUTICS CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>2403 SIDNEY STREET, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>PITTSBURGH</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>15203</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1230484</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Carmell Series of Harbor Light Direct Investment, LLC</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>108535</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Harbor Light Direct Investment, LP</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.11</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>76878</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-09-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>76878</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>76878</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Common Stock Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>6.7107</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F5"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>895</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2024-09-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>895</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>895</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Carmell Series of Harbor Light Direct Investment, LLC</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Common Stock Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>6.7107</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F5"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>69</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2032-09-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>69</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>69</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Harbor Light Direct Investment, LP</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Mr. Upton is General Partner at Harbor Light Capital Partners, which is affiliated with the entities listed above.  By virtue of this relationship, Mr. Upton may be deemed to share beneficial ownership of the securities held of record by the entities listed above.  Mr. Upton disclaims any such beneficial ownership except to the extent of his pecuniary interest.</footnote>
+        <footnote id="F2">Options to purchase 76,878 shares of common stock of Legacy Carmell (as defined below) granted on September 23, 2021, which vest as follows: 25% vested on September 23, 2022 and the remaining 75% becomes vested in 36 equal monthly installments thereafter, subject to continued service through each vesting date.</footnote>
+        <footnote id="F3">On July 14, 2023, Alpha Healthcare Acquisition Corp. III (&quot;ALPA&quot;) consummated a business combination (the &quot;Business Combination&quot;) by and among ALPA, Candy Merger Sub, Inc., a Delaware Corporation (&quot;Merger Sub&quot;) and Carmell Regen Med Corporation, a Delaware corporation (&quot;Legacy Carmell&quot;), ALPA changed its name to &quot;Carmell Therapeutics Corporation&quot; and Merger Sub merged with and into Legacy Carmell.  As part of the Business Combination, each Legacy Carmell stock option was exchanged for a stock option to acquire 0.06154 shares of common stock of Carmell Therapeutics Corporation.</footnote>
+        <footnote id="F4">These warrants are currently exercisable.</footnote>
+        <footnote id="F5">As part of the Business Combination, existing warrants to purchase common stock of Legacy Carmell were exchanged for 0.06154 warrants to purchase shares of common stock of Carmell Therapeutics Corporation.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Randolph W. Hubbell, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-07-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

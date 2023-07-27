@@ -1,0 +1,230 @@
+<SEC-DOCUMENT>0001062993-23-002587.txt : 20230209
+<SEC-HEADER>0001062993-23-002587.hdr.sgml : 20230209
+<ACCEPTANCE-DATETIME>20230209202558
+ACCESSION NUMBER:		0001062993-23-002587
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221207
+FILED AS OF DATE:		20230209
+DATE AS OF CHANGE:		20230209
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Roney Patrick A
+		CENTRAL INDEX KEY:			0001863935
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40016
+		FILM NUMBER:		23608105
+
+	MAIL ADDRESS:	
+		STREET 1:		937 TAHOE BOULEVARD
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vintage Wine Estates, Inc.
+		CENTRAL INDEX KEY:			0001834045
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		937 TAHOE BOULEVARD
+		STREET 2:		SUITE 210
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+		BUSINESS PHONE:		707-346-3640
+
+	MAIL ADDRESS:	
+		STREET 1:		937 TAHOE BOULEVARD
+		STREET 2:		SUITE 210
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bespoke Capital Acquisition Corp
+		DATE OF NAME CHANGE:	20201125
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-07</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001834045</issuerCik>
+        <issuerName>Vintage Wine Estates, Inc.</issuerName>
+        <issuerTradingSymbol>VWE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001863935</rptOwnerCik>
+            <rptOwnerName>Roney Patrick A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>937 TAHOE BOULEVARD, SUITE 210</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>INCLINE VILLAGE</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89451</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Chairman</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>26194</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.42</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>404086</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>322710</value>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>81376</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>210400</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By IRA</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6516072</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Patrick A. Roney and Laura G. Roney Trust</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares withheld to cover tax withholding obligations on the vesting of 107,570 restricted stock units (RSUs).</footnote>
+        <footnote id="F2">Due to an administrative error, the Reporting Person's prior Form 4 reporting the 02/02/2022 grant of 430,280 RSUs incorrectly stated that 25% of the RSUs vest on 08/02/2023, and 25% vest on each of 02/02/2024, 02/02/2025 and 02/02/2026. The 430,280 RSUs granted on 02/02/2022 vested 25% on 12/07/2022, and 25% vest on each of 06/07/2023, 06/07/2024 and 06/07/2025.</footnote>
+        <footnote id="F3">Includes 322,710 unvested RSUs.</footnote>
+        <footnote id="F4">Effective February 7, 2023, the Reporting Person ceased being the Chief Executive Officer of Vintage Wine Estates, Inc. (the &quot;Issuer&quot;) and was appointed as Executive Chairman of the Board of Directors of the Issuer.  In connection with the Reporting Person's appointment as Executive Chairman, all outstanding stock options and unvested RSUs previously granted to the Reporting Person under the Issuer's 2021 Omnibus Incentive Plan ceased to vest and any unvested awards were forfeited.</footnote>
+        <footnote id="F5">Mr. Roney and his wife, Laura G. Roney, are co-trustees of the Trust. Mr. Roney disclaims beneficial ownership of such shares except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Patrick A. Roney</signatureName>
+        <signatureDate>2023-02-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0001062993-23-004298.txt : 20230221
+<SEC-HEADER>0001062993-23-004298.hdr.sgml : 20230221
+<ACCEPTANCE-DATETIME>20230221182718
+ACCESSION NUMBER:		0001062993-23-004298
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230217
+FILED AS OF DATE:		20230221
+DATE AS OF CHANGE:		20230221
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SCHROEDER ALICE D.
+		CENTRAL INDEX KEY:			0001743916
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41349
+		FILM NUMBER:		23649926
+
+	MAIL ADDRESS:	
+		STREET 1:		1573 MALLORY LANE
+		STREET 2:		SUITE 100
+		CITY:			BRENTWOOD
+		STATE:			TN
+		ZIP:			37027
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Dakota Gold Corp.
+		CENTRAL INDEX KEY:			0001852353
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		106 GLENDALE DRIVE, SUITE A
+		CITY:			LEAD
+		STATE:			SD
+		ZIP:			57754
+		BUSINESS PHONE:		(604) 365-1097
+
+	MAIL ADDRESS:	
+		STREET 1:		106 GLENDALE DRIVE, SUITE A
+		CITY:			LEAD
+		STATE:			SD
+		ZIP:			57754
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JR Resources Corp.
+		DATE OF NAME CHANGE:	20210319
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001852353</issuerCik>
+        <issuerName>Dakota Gold Corp.</issuerName>
+        <issuerTradingSymbol>DC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001743916</rptOwnerCik>
+            <rptOwnerName>SCHROEDER ALICE D.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>106 GLENDALE DRIVE, SUITE A</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LEAD</rptOwnerCity>
+            <rptOwnerState>SD</rptOwnerState>
+            <rptOwnerZipCode>57754</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>44</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>146809</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.96</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>166809</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel Cherniak, as attorney-in-fact for Alice D. Schroeder</signatureName>
+        <signatureDate>2023-02-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

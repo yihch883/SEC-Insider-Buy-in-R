@@ -1,0 +1,227 @@
+<SEC-DOCUMENT>0001437749-23-004162.txt : 20230222
+<SEC-HEADER>0001437749-23-004162.hdr.sgml : 20230222
+<ACCEPTANCE-DATETIME>20230222163036
+ACCESSION NUMBER:		0001437749-23-004162
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230217
+FILED AS OF DATE:		20230222
+DATE AS OF CHANGE:		20230222
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Raines William F III
+		CENTRAL INDEX KEY:			0001773698
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38299
+		FILM NUMBER:		23653612
+
+	MAIL ADDRESS:	
+		STREET 1:		8314 TOSOMOCK LANE
+		CITY:			HUNTERSVILLE
+		STATE:			NC
+		ZIP:			28078
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			cbdMD, Inc.
+		CENTRAL INDEX KEY:			0001644903
+		STANDARD INDUSTRIAL CLASSIFICATION:	PERFUMES, COSMETICS & OTHER TOILET PREPARATIONS [2844]
+		IRS NUMBER:				473414576
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8845 RED OAK BOULEVARD
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28217
+		BUSINESS PHONE:		704-445-3060
+
+	MAIL ADDRESS:	
+		STREET 1:		8845 RED OAK BOULEVARD
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28217
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Level Brands, Inc.
+		DATE OF NAME CHANGE:	20170202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LEVEL BEAUTY GROUP, INC.
+		DATE OF NAME CHANGE:	20150611
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001644903</issuerCik>
+        <issuerName>cbdMD, Inc.</issuerName>
+        <issuerTradingSymbol>YCBD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001773698</rptOwnerCik>
+            <rptOwnerName>Raines William F III</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O 8845 RED OAK BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHARLOTTE</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>28217</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16342</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2280082</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (Right to Buy)</value>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.28</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-02-17</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-17</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The restricted shares of common stock were issued under the 2021 Equity Compensation Plan as compensation to the Reporting Person for his services on the Issuer's Board of Directors for the Board term beginning February 16, 2023. The grant was exempt from Section 16(b) under the Securities Exchange Act of 1934 by virtue of Rule 16b-3 promulgated thereunder as it was approved in advance by the Issuer's Compensation, Corporate Governance and Nominating Committee, which is comprised of three non-employee directors. The restricted shares of common stock vest quarterly in equal increments on June 30, 2023, September 30, 2023, December 31, 2023 and March 31, 2024, subject to continued service as a director of the Issuer on each applicable vesting date.</footnote>
+        <footnote id="F2">The number of shares of common stock beneficially owned by the Reporting Person includes: (i) 92,582 shares held of record by Board Investor Group II, LLC; and (ii) 2,187,500 Second Tranche Shares for which unrestricted voting rights have not yet vested. Mr. Raines, in his position as Chief Executive Officer of Board Investor Group II, LLC, has voting and dispositive control over securities held by Board Investor Group II, LLC. Mr. Raines disclaims beneficial ownership of securities held by Board Investors Group II, LLC except to the extent of his pecuniary interest therein, and disclaims beneficial ownership of the 2,187,500 Second Tranche Shares which are subject to the Voting Proxy agreements.</footnote>
+        <footnote id="F3">The stock options were granted under the 2021 Equity Compensation Plan as compensation to the Reporting Person for his services on the Issuer's Board of Directors for the Board term beginning February 16, 2023. The grant was exempt from Section 16(b) under the Securities Exchange Act of 1934 by virtue of Rule 16b-3 promulgated thereunder as it was approved in advance by the Issuer's Compensation, Corporate Governance and Nominating Committee, which is comprised of three non-employee directors. The stock options are fully vested.</footnote>
+        <footnote id="F4">Not applicable.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ William Raines III</signatureName>
+        <signatureDate>2023-02-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

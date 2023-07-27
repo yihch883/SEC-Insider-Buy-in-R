@@ -1,0 +1,190 @@
+<SEC-DOCUMENT>0001562180-23-000039.txt : 20230103
+<SEC-HEADER>0001562180-23-000039.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103163023
+ACCESSION NUMBER:		0001562180-23-000039
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			APOLIONA HAUNANI S
+		CENTRAL INDEX KEY:			0001204651
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06887
+		FILM NUMBER:		23502522
+
+	MAIL ADDRESS:	
+		STREET 1:		130 MERCHANT ST 22ND FLR
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	APOLLONA S HAUNANI
+		DATE OF NAME CHANGE:	20021108
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BANK OF HAWAII CORP
+		CENTRAL INDEX KEY:			0000046195
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				990148992
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		130 MERCHANT STREET
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+		BUSINESS PHONE:		8886433888
+
+	MAIL ADDRESS:	
+		STREET 1:		130 MERCHANT STREET
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PACIFIC CENTURY FINANCIAL CORP
+		DATE OF NAME CHANGE:	19970430
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BANCORP HAWAII INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HAWAII BANCORPORATION INC
+		DATE OF NAME CHANGE:	19800128
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-31</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000046195</issuerCik>
+        <issuerName>BANK OF HAWAII CORP</issuerName>
+        <issuerTradingSymbol>BOH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001204651</rptOwnerCik>
+            <rptOwnerName>APOLIONA HAUNANI S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>PO BOX 2900</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HONOLULU</rptOwnerCity>
+            <rptOwnerState>HI</rptOwnerState>
+            <rptOwnerZipCode>96846</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Direc. Deferred Comp / Plan - BOHC Fund</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-12-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>251.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>76.89</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>251.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10955.00</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Investment election by reporting person to acquire stock under the Directors' Deferred Compensation Plan at a price equal to the price of derivative security set forth in column 8 (1 for 1).</footnote>
+        <footnote id="F2">Investment election by reporting person to acquire Bank of Hawaii Corporation stock under the Directors' Deferred Compensation Plan. Distributions to be made at termination of service as a director or earlier at director's option.</footnote>
+        <footnote id="F3">Securities reported were acquired with reinvested dividends pursuant to Bank of Hawaii Corporation's Dividend Reinvestment and Stock Purchase Plan.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Katherine Lamb for APOLIONA HAUNANI by Power of Attorney</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

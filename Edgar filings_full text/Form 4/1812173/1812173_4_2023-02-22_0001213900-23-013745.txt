@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001213900-23-013745.txt : 20230222
+<SEC-HEADER>0001213900-23-013745.hdr.sgml : 20230222
+<ACCEPTANCE-DATETIME>20230222184123
+ACCESSION NUMBER:		0001213900-23-013745
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230221
+FILED AS OF DATE:		20230222
+DATE AS OF CHANGE:		20230222
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kelly William John
+		CENTRAL INDEX KEY:			0001885525
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39384
+		FILM NUMBER:		23655216
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VICARIOUS SURGICAL INC.
+		STREET 2:		78 4TH AVENUE
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vicarious Surgical Inc.
+		CENTRAL INDEX KEY:			0001812173
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		78 FOURTH AVENUE
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+		BUSINESS PHONE:		(617) 868-1700
+
+	MAIL ADDRESS:	
+		STREET 1:		78 FOURTH AVENUE
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	D8 Holdings Corp.
+		DATE OF NAME CHANGE:	20200514
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001812173</issuerCik>
+        <issuerName>Vicarious Surgical Inc.</issuerName>
+        <issuerTradingSymbol>RBOT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001885525</rptOwnerCik>
+            <rptOwnerName>Kelly William John</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VICARIOUS SURGICAL INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>78 FOURTH AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>WALTHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02451</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CFO and Treasurer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6287</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.7865</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>297281</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported in this Form 4 were effected to cover tax withholding obligations in connection with the vesting of restricted stock units that were granted on May 19, 2022.</footnote>
+        <footnote id="F2">This figure is the weighted average sales price of multiple trades ranging from $2.73 to $2.91 per share. The Reporting Person undertakes to provide the staff of the Securities Exchange Commission, Vicarious Surgical Inc. or any security holder of Vicarious Surgical Inc. full information about the number of shares sold at each separate price upon request.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ June Morris, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-02-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

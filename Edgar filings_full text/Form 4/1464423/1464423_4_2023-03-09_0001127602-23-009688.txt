@@ -1,0 +1,145 @@
+<SEC-DOCUMENT>0001127602-23-009688.txt : 20230309
+<SEC-HEADER>0001127602-23-009688.hdr.sgml : 20230309
+<ACCEPTANCE-DATETIME>20230309191436
+ACCESSION NUMBER:		0001127602-23-009688
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230307
+FILED AS OF DATE:		20230309
+DATE AS OF CHANGE:		20230309
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stewart Stacey D.
+		CENTRAL INDEX KEY:			0001469174
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34416
+		FILM NUMBER:		23721236
+
+	MAIL ADDRESS:	
+		STREET 1:		5920 WALHONDING ROAD
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20816
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PennyMac Mortgage Investment Trust
+		CENTRAL INDEX KEY:			0001464423
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				270186273
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3043 TOWNSGATE ROAD
+		CITY:			WESTLAKE VILLAGE
+		STATE:			CA
+		ZIP:			91361
+		BUSINESS PHONE:		(818) 224-7442
+
+	MAIL ADDRESS:	
+		STREET 1:		3043 TOWNSGATE ROAD
+		CITY:			WESTLAKE VILLAGE
+		STATE:			CA
+		ZIP:			91361
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-07</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001464423</issuerCik>
+        <issuerName>PennyMac Mortgage Investment Trust</issuerName>
+        <issuerTradingSymbol>PMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001469174</rptOwnerCik>
+            <rptOwnerName>Stewart Stacey D.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PENNYMAC MORTGAGE INVESTMENT TRUST</rptOwnerStreet1>
+            <rptOwnerStreet2>3043 TOWNSGATE ROAD</rptOwnerStreet2>
+            <rptOwnerCity>WESTLAKE VILLAGE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91361</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares of Beneficial Interest</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>668</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.15</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>44967</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares of Common Stock were sold pursuant to a 10b5-1 Plan.</footnote>
+        <footnote id="F2">The reported amount consists of 9,844 restricted share units and 35,123 common shares of beneficial interest. The restricted share units are to be settled in an equal number of common shares of beneficial interest upon vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Derek W. Stark, Attorney-In-Fact for Stacey D. Stewart</signatureName>
+        <signatureDate>2023-03-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

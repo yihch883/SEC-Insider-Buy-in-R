@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001214659-23-007680.txt : 20230522
+<SEC-HEADER>0001214659-23-007680.hdr.sgml : 20230522
+<ACCEPTANCE-DATETIME>20230522163040
+ACCESSION NUMBER:		0001214659-23-007680
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230518
+FILED AS OF DATE:		20230522
+DATE AS OF CHANGE:		20230522
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BURNS THOMAS M.
+		CENTRAL INDEX KEY:			0001638479
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39801
+		FILM NUMBER:		23944915
+
+	MAIL ADDRESS:	
+		STREET 1:		2910 SEVENTH STREET
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94710
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XOMA Corp
+		CENTRAL INDEX KEY:			0000791908
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				522154066
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 POWELL STREET
+		STREET 2:		SUITE 310
+		CITY:			EMERYVILLE
+		STATE:			CA
+		ZIP:			94608
+		BUSINESS PHONE:		510-204-7239
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 POWELL STREET
+		STREET 2:		SUITE 310
+		CITY:			EMERYVILLE
+		STATE:			CA
+		ZIP:			94608
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	XOMA LTD /DE/
+		DATE OF NAME CHANGE:	19990107
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	XOMA CORP /DE/
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>marketforms-61602.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-18</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000791908</issuerCik>
+        <issuerName>XOMA Corp</issuerName>
+        <issuerTradingSymbol>XOMA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001638479</rptOwnerCik>
+            <rptOwnerName>BURNS THOMAS M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O XOMA CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>2200 POWELL STREET, SUITE 310</rptOwnerStreet2>
+            <rptOwnerCity>EMERYVILLE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94608</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SVP, Finance &amp; CFO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>91600</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>91600</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>91600</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Performance Stock Unit (&quot;PSU&quot;) represents a contingent right to receive one share of XOMA common stock.  The PSUs vest upon XOMA's common stock achieving a specified price per share.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas M. Burns</signatureName>
+        <signatureDate>2023-05-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

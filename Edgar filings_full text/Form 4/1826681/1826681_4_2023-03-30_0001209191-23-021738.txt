@@ -1,0 +1,231 @@
+<SEC-DOCUMENT>0001209191-23-021738.txt : 20230330
+<SEC-HEADER>0001209191-23-021738.hdr.sgml : 20230330
+<ACCEPTANCE-DATETIME>20230330194921
+ACCESSION NUMBER:		0001209191-23-021738
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230329
+FILED AS OF DATE:		20230330
+DATE AS OF CHANGE:		20230330
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PEDERSEN JORGEN
+		CENTRAL INDEX KEY:			0001925868
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39897
+		FILM NUMBER:		23782404
+
+	MAIL ADDRESS:	
+		STREET 1:		650 SOUTH 500 WEST, SUITE 150
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84101
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	PEDERSON JORGEN
+		DATE OF NAME CHANGE:	20220427
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	PEDERSEN JORGEN
+		DATE OF NAME CHANGE:	20220427
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sarcos Technology & Robotics Corp
+		CENTRAL INDEX KEY:			0001826681
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT, NEC [3569]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		650 SOUTH 500 WEST
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84101
+		BUSINESS PHONE:		888-927-7296
+
+	MAIL ADDRESS:	
+		STREET 1:		650 SOUTH 500 WEST
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Sarcos Technology & Robotics Corporation.
+		DATE OF NAME CHANGE:	20210924
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rotor Acquisition Corp.
+		DATE OF NAME CHANGE:	20200930
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-29</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001826681</issuerCik>
+        <issuerName>Sarcos Technology &amp; Robotics Corp</issuerName>
+        <issuerTradingSymbol>STRC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001925868</rptOwnerCik>
+            <rptOwnerName>PEDERSEN JORGEN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O SARCOS TECHNOLOGY AND ROBOTICS CORP</rptOwnerStreet1>
+            <rptOwnerStreet2>650 SOUTH 500 WEST, SUITE 150</rptOwnerStreet2>
+            <rptOwnerCity>SALT LAKE CITY</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84101</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-29</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>185304</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7103628</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.47</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-29</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>284352</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-03-29</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>284352</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>284352</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units (&quot;RSUs&quot;) granted pursuant to the 2021 Equity Incentive Plan (the &quot;Plan&quot;) which can only be settled with shares of common stock. 25% of the award will vest on March 29, 2024, and then 1/12 of the award vest on each quarterly vesting date thereafter, subject to the reporting person's continued service to the Issuer through such date.</footnote>
+        <footnote id="F2">25% of the shares subject to the Option will vest on March 29, 2024, and then 1/12 of the shares subject to the Option vest on each quarterly vesting date thereafter, subject to the reporting person's continued service to the Issuer through such date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephen Sonne, Attorney-in-fact on behalf of Jorgen Pedersen</signatureName>
+        <signatureDate>2023-03-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001213900-23-014912.txt : 20230227
+<SEC-HEADER>0001213900-23-014912.hdr.sgml : 20230227
+<ACCEPTANCE-DATETIME>20230227173123
+ACCESSION NUMBER:		0001213900-23-014912
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230224
+FILED AS OF DATE:		20230227
+DATE AS OF CHANGE:		20230227
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Moore Andrew
+		CENTRAL INDEX KEY:			0001746643
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37503
+		FILM NUMBER:		23676853
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O B. RILEY FINANCIAL, INC.
+		STREET 2:		21255 BURBANK BLVD., SUITE 400
+		CITY:			WOODLAND HILLS
+		STATE:			CA
+		ZIP:			91367
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			B. Riley Financial, Inc.
+		CENTRAL INDEX KEY:			0001464790
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		IRS NUMBER:				270223495
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD
+		STREET 2:		SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		818-884-3737
+
+	MAIL ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD
+		STREET 2:		SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Great American Group, Inc.
+		DATE OF NAME CHANGE:	20090522
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001464790</issuerCik>
+        <issuerName>B. Riley Financial, Inc.</issuerName>
+        <issuerTradingSymbol>RILY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001746643</rptOwnerCik>
+            <rptOwnerName>Moore Andrew</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O B. RILEY FINANCIAL, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>11100 SANTA MONICA BLVD., SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO B. Riley Securities, Inc.</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>36.7774</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>355462</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These transactions were executed in multiple trades at prices ranging from $36.35 to $37.79. The price reported above reflects the weighted average purchase price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Andrew Moore</signatureName>
+        <signatureDate>2023-02-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

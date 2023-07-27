@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0000950170-23-024305.txt : 20230525
+<SEC-HEADER>0000950170-23-024305.hdr.sgml : 20230525
+<ACCEPTANCE-DATETIME>20230525182001
+ACCESSION NUMBER:		0000950170-23-024305
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230523
+FILED AS OF DATE:		20230525
+DATE AS OF CHANGE:		20230525
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SCHWARTZ HARVEY M
+		CENTRAL INDEX KEY:			0001566418
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35538
+		FILM NUMBER:		23962363
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GOLDMAN SACHS & CO. LLC
+		STREET 2:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Carlyle Group Inc.
+		CENTRAL INDEX KEY:			0001527166
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		IRS NUMBER:				452832612
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		202 729 5626
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Carlyle Group L.P.
+		DATE OF NAME CHANGE:	20110801
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-23</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001527166</issuerCik>
+        <issuerName>Carlyle Group Inc.</issuerName>
+        <issuerTradingSymbol>CG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001566418</rptOwnerCik>
+            <rptOwnerName>SCHWARTZ HARVEY M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1001 PENNSYLVANIA AVENUE, NW</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>85723</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                    <footnoteId id="F1"/>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6911791</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents dividend equivalent units accrued on existing time-based and performance based restricted stock unit awards granted on February 15, 2023, the grant of which was previously reported, in connection with the issuer's quarterly dividend.  Such dividend equivalent units will vest on the same schedule and subject to the same terms and conditions as the underlying awards.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Anne K. Frederick by power of attorney for Harvey M. Schwartz</signatureName>
+        <signatureDate>2023-05-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

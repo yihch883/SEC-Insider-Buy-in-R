@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001213900-23-010408.txt : 20230210
+<SEC-HEADER>0001213900-23-010408.hdr.sgml : 20230210
+<ACCEPTANCE-DATETIME>20230210173349
+ACCESSION NUMBER:		0001213900-23-010408
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230208
+FILED AS OF DATE:		20230210
+DATE AS OF CHANGE:		20230210
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Frommer Jeremy
+		CENTRAL INDEX KEY:			0001665669
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39500
+		FILM NUMBER:		23613669
+
+	MAIL ADDRESS:	
+		STREET 1:		202 S. DEAN STREET
+		CITY:			ENGLEWOOD
+		STATE:			NJ
+		ZIP:			07631
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Creatd, Inc.
+		CENTRAL INDEX KEY:			0001357671
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ALLIED TO MOTION PICTURE PRODUCTION [7819]
+		IRS NUMBER:				870645394
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		419 LAFAYETTE STREET, 6TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+		BUSINESS PHONE:		201-258-3770
+
+	MAIL ADDRESS:	
+		STREET 1:		419 LAFAYETTE STREET, 6TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Jerrick Media Holdings, Inc.
+		DATE OF NAME CHANGE:	20160304
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Great Plains Holdings, Inc.
+		DATE OF NAME CHANGE:	20131213
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LILM, INC.
+		DATE OF NAME CHANGE:	20060329
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001357671</issuerCik>
+        <issuerName>Creatd, Inc.</issuerName>
+        <issuerTradingSymbol>CRTD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001665669</rptOwnerCik>
+            <rptOwnerName>Frommer Jeremy</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CREATD, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>419 LAFAYETTE ST</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10003</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Chairman</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10692308</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11417070</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares (the &quot;Shares&quot;) were issued as an equity award to the key members of the Company's management team.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeremy Frommer</signatureName>
+        <signatureDate>2023-02-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

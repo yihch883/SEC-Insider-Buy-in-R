@@ -1,0 +1,281 @@
+<SEC-DOCUMENT>0001104659-23-059208.txt : 20230511
+<SEC-HEADER>0001104659-23-059208.hdr.sgml : 20230511
+<ACCEPTANCE-DATETIME>20230511165922
+ACCESSION NUMBER:		0001104659-23-059208
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20211012
+FILED AS OF DATE:		20230511
+DATE AS OF CHANGE:		20230511
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			IX Acquisition Sponsor, LLC
+		CENTRAL INDEX KEY:			0001851994
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40878
+		FILM NUMBER:		23911966
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O PUGLISI & ASSOCIATES
+		STREET 2:		850 LIBRARY AVE, SUITE 204
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19711
+		BUSINESS PHONE:		3038778314
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PUGLISI & ASSOCIATES
+		STREET 2:		850 LIBRARY AVE, SUITE 204
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19711
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IX Acquisition Corp.
+		CENTRAL INDEX KEY:			0001852019
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ARCH 124, SALAMANCA STREET
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			SE1 7HX
+		BUSINESS PHONE:		44 (0) 203 983 045
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PUGLISI & ASSOCIATES
+		STREET 2:		850 LIBRARY AVE, SUITE 204
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19711
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2315192-1_4seq1.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-10-12</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001852019</issuerCik>
+        <issuerName>IX Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>IXAQ</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001851994</rptOwnerCik>
+            <rptOwnerName>IX Acquisition Sponsor, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O IX ACQUISITION CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>53 DAVIES STREET</rptOwnerStreet2>
+            <rptOwnerCity>LONDON</rptOwnerCity>
+            <rptOwnerState>X0</rptOwnerState>
+            <rptOwnerZipCode>W1K 5JH</rptOwnerZipCode>
+            <rptOwnerStateDescription>UNITED KINGDOM</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4002121</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4002121</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F4"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-10-12</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1747879</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1747879</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4002121</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F4"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4002121</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4002121</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F4"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Class B ordinary shares, par value $0.0001 per share (&quot;Class B Shares&quot;), of IX Acquisition Corp. (&quot;Issuer&quot;) are convertible for the Issuer's Class A ordinary shares, par value $0.0001 per share (&quot;Class A Shares&quot;), on a one-for-one basis, subject to adjustment pursuant to certain anti-dilution rights, for no consideration, and have no expiration date.</footnote>
+        <footnote id="F2">On October 12, 2021, in connection with the Issuer's initial public offering, Sponsor transferred an aggregate of 1,747,879 Class B Shares to certain anchor investors who purchased units in the Issuer's initial public offering. Such Class B Shares were transferred at the same per share price initially paid by Sponsor for such shares.</footnote>
+        <footnote id="F3">In accordance with the Issuer's amended and restated memorandum and articles of association, as amended, Sponsor elected to convert its Class B Shares into Class A Shares on a one-for-one basis for no consideration.</footnote>
+        <footnote id="F4">The securities are held directly by Sponsor. Sponsor is controlled by its manager, IX Acquisition Sponsor Manager, LLC (&quot;Sponsor Manager&quot;). Voting and investment decisions with respect to the securities held by Sponsor have been delegated to the three officers of Sponsor Manager, Noah Aptekar, Karen Bach and Edward Tsun-Wei Chen, and decisions of the officers are made by majority consent. Under the so-called &quot;rule of three,&quot; because voting and dispositive decisions are made by a majority of the officers of Sponsor Manager, none of the officers of Sponsor Manager is deemed to be a beneficial owner of the securities reported herein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Noah Aptekar, Officer of IX Acquisition Sponsor Manager, LLC, Manager of IX Acquisition Sponsor, LLC</signatureName>
+        <signatureDate>2023-05-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

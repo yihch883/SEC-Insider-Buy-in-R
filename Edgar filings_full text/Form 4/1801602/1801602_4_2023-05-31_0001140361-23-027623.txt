@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0001140361-23-027623.txt : 20230531
+<SEC-HEADER>0001140361-23-027623.hdr.sgml : 20230531
+<ACCEPTANCE-DATETIME>20230531214541
+ACCESSION NUMBER:		0001140361-23-027623
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230526
+FILED AS OF DATE:		20230531
+DATE AS OF CHANGE:		20230531
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Trauben Jonathan
+		CENTRAL INDEX KEY:			0001933071
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40049
+		FILM NUMBER:		23982873
+
+	MAIL ADDRESS:	
+		STREET 1:		621 NW 53RD STREET
+		STREET 2:		SUITE 250
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SpringBig Holdings, Inc.
+		CENTRAL INDEX KEY:			0001801602
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		IRS NUMBER:				882789488
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		621 NW 53RD ST
+		STREET 2:		SUITE 260
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487
+		BUSINESS PHONE:		(800) 772-9172
+
+	MAIL ADDRESS:	
+		STREET 1:		621 NW 53RD ST
+		STREET 2:		SUITE 260
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tuatara Capital Acquisition Corp
+		DATE OF NAME CHANGE:	20200130
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001801602</issuerCik>
+        <issuerName>SpringBig Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>SBIG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001933071</rptOwnerCik>
+            <rptOwnerName>Trauben Jonathan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>621 NW 53RD ST, SUITE 260</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOCA RATON</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33487</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.2591</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>82318</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.3037</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>97318</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents common stock acquired in connection with the reasonable best efforts registered public offering of SpringBig Holdings, Inc.'s common stock, par value $0.0001 per share, which closed on May 31, 2023. These shares of common stock were acquired at the at-the-market public offering price of $0.3037 per share.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Paul Sykes, as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-05-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

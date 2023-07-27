@@ -1,0 +1,205 @@
+<SEC-DOCUMENT>0001712189-23-000045.txt : 20230621
+<SEC-HEADER>0001712189-23-000045.hdr.sgml : 20230621
+<ACCEPTANCE-DATETIME>20230621163019
+ACCESSION NUMBER:		0001712189-23-000045
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230619
+FILED AS OF DATE:		20230621
+DATE AS OF CHANGE:		20230621
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Faulkenberry Barbara J
+		CENTRAL INDEX KEY:			0001662529
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38343
+		FILM NUMBER:		231030274
+
+	MAIL ADDRESS:	
+		STREET 1:		3200 INDUSTRIAL PARK ROAD
+		CITY:			VAN BUREN
+		STATE:			AR
+		ZIP:			72956
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Target Hospitality Corp.
+		CENTRAL INDEX KEY:			0001712189
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS, ROOMING HOUSE, CAMPS & OTHER LODGING PLACES [7000]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9320 LAKESIDE BLVD.
+		STREET 2:		SUITE 300
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+		BUSINESS PHONE:		832 709-2563
+
+	MAIL ADDRESS:	
+		STREET 1:		9320 LAKESIDE BLVD.
+		STREET 2:		SUITE 300
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Platinum Eagle Acquisition Corp.
+		DATE OF NAME CHANGE:	20170718
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-19</periodOfReport>
+
+    <notSubjectToSection16>true</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001712189</issuerCik>
+        <issuerName>Target Hospitality Corp.</issuerName>
+        <issuerTradingSymbol>TH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001662529</rptOwnerCik>
+            <rptOwnerName>Faulkenberry Barbara J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>9320 LAKESIDE BLVD., STE 300</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>THE WOODLANDS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77381</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-19</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7888</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48085</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-19</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7888</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7888</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Restricted Stock Unit represents a contingent right to receive upon vesting one share of common stock of the Issuer, par value $0.0001 per share (&quot;Common Stock&quot;), or its cash equivalent.</footnote>
+        <footnote id="F2">On May 18, 2023, the Reporting Person was granted 7,888 restricted stock units (&quot;RSUs&quot;) which vest in full on the first anniversary of the grant date or, if earlier, the date of the first annual meeting of the stockholders of the Issuer following the grant date, subject to the terms and conditions of the previously disclosed Target Hospitality Corp. 2019 Incentive Award Plan, as amended (the &quot;Plan&quot;) and the award agreement. On June 14, 2023, Reporting Person submitted her notice to resign from the Issuer's Board of Directors (the &quot;Board&quot;) effective June 19, 2023.  On June 17, 2023 and as permitted by the Plan, the Board approved the accelerated vesting of one hundred percent (100%) of the 7,888 RSUs granted on May 18, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Heidi D. Lewis, as Attorney-in-Fact on behalf of Barbara Faulkenberry</signatureName>
+        <signatureDate>2023-06-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

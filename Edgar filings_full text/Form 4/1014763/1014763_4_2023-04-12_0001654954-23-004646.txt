@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001654954-23-004646.txt : 20230412
+<SEC-HEADER>0001654954-23-004646.hdr.sgml : 20230412
+<ACCEPTANCE-DATETIME>20230412194244
+ACCESSION NUMBER:		0001654954-23-004646
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230410
+FILED AS OF DATE:		20230412
+DATE AS OF CHANGE:		20230412
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			chiang yao-chung
+		CENTRAL INDEX KEY:			0001859317
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41461
+		FILM NUMBER:		23816800
+
+	MAIL ADDRESS:	
+		STREET 1:		5F, 7 ALY 69, LANE 161, TUNHUA S RD.
+		STREET 2:		SEC 1
+		CITY:			TAIPEI
+		STATE:			F5
+		ZIP:			10675
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ainos, Inc.
+		CENTRAL INDEX KEY:			0001014763
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				751974352
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AINOS, INC.
+		STREET 2:		8880 RIO SAN DIEGO DRIVE SUITE 800
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92108
+		BUSINESS PHONE:		858-869-2986
+
+	MAIL ADDRESS:	
+		STREET 1:		AINOS, INC.
+		STREET 2:		8880 RIO SAN DIEGO DRIVE SUITE 800
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92108
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMARILLO BIOSCIENCES INC
+		DATE OF NAME CHANGE:	19960516
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>section16.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001014763</issuerCik>
+        <issuerName>Ainos, Inc.</issuerName>
+        <issuerTradingSymbol>AIMD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001859317</rptOwnerCik>
+            <rptOwnerName>chiang yao-chung</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>5F, 7 ALY 69, LANE 161,</rptOwnerStreet1>
+            <rptOwnerStreet2>TUNHUA S RD  SEC 1</rptOwnerStreet2>
+            <rptOwnerCity>TAIPEI</rptOwnerCity>
+            <rptOwnerState>F5</rptOwnerState>
+            <rptOwnerZipCode>10675</rptOwnerZipCode>
+            <rptOwnerStateDescription>TAIWAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7333</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.90</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7333</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>RSU</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.90</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-10</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2023-04-10</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7333</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.90</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-01-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-10-06</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7333</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14667</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This reported transaction represents the conversion of 110,000 Restricted Stock Units (the &quot;RSUs&quot;) adjusted to 7,333 shares giving effect to the Reverse Stock Split.  Reference is made to the 2021 Director Compensation Policy with respect to non-employee directors and the 2021 Stock Incentive Plan.  Each RSU represents a right to receive one (1) share of common stock upon vesting and the expiration of any applicable restricted period, or in the sole discretion of the Compensation Committee, the cash value thereof (or any combination thereof).  Holders of RSUs have no rights or privileges as a stockholder.  Vesting dates related to the RSUs are listed below: Vesting Date 1: 7,333 shares common stock on the last day of the 6 month period from the grant date. Vesting Date 2: 7,333 shares common stock from18 months after grant date. Vesting Date 3: 7,334 shares common stock from 30 months after grant date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John Junyong Lee POA for Yao-Chung Chiang</signatureName>
+        <signatureDate>2023-04-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

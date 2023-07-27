@@ -1,0 +1,215 @@
+<SEC-DOCUMENT>0001415889-23-004702.txt : 20230310
+<SEC-HEADER>0001415889-23-004702.hdr.sgml : 20230310
+<ACCEPTANCE-DATETIME>20230310194330
+ACCESSION NUMBER:		0001415889-23-004702
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230217
+FILED AS OF DATE:		20230310
+DATE AS OF CHANGE:		20230310
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Golubovich Ilya
+		CENTRAL INDEX KEY:			0001707104
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39830
+		FILM NUMBER:		23725329
+
+	MAIL ADDRESS:	
+		STREET 1:		3888 CALLE FORTUNADA
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Presto Automation Inc.
+		CENTRAL INDEX KEY:			0001822145
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 EAST PUTNAM AVENUE, FLOOR 4
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		6464659000
+
+	MAIL ADDRESS:	
+		STREET 1:		1 EAST PUTNAM AVENUE, FLOOR 4
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ventoux CCM Acquisition Corp.
+		DATE OF NAME CHANGE:	20200821
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-03112023_120324.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001822145</issuerCik>
+        <issuerName>Presto Automation Inc.</issuerName>
+        <issuerTradingSymbol>PRST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001707104</rptOwnerCik>
+            <rptOwnerName>Golubovich Ilya</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>985 INDUSTRIAL ROAD, SUITE 205</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN CARLOS</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94070</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>34916</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>34916</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4429505</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By I2BF Global Investments LTD</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Earn-Out Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-09-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1252717</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1252717</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>I2BF Global Investment LTD.</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units (RSUs).</footnote>
+        <footnote id="F2">I2BF Global Investment Ltd. (&quot;I2BF Global&quot;) directly owns the 4,429,505 shares reported.  The Reporting Person is the sole director of I2BF Global, and may be deemed to beneficially own the shares held directly by I2BF Global.</footnote>
+        <footnote id="F3">Reflects the right to receive shares of the Issuer's common stock pursuant to the Business Combination Agreement, as defined below. The Reporting Person is entitled to receive the Earn-Out Shares as follows: one-half of the Earn-Out Shares will be issued to the Reporting Person if the volume weighted average price (&quot;VWAP&quot;) of the Issuer common stock equals or exceeds $12.50 over 20 trading days within any 30 trading day period on or before the third anniversary of the Closing Date (as defined below), and one-half will be issued to the Reporting Person if the VWAP of the Issuer common stock equals or exceeds $15.00 over 20 trading days within any 30 trading day period on or before the fifth anniversary of the Closing Date. Pursuant to the Agreement and Plan of Merger, dated as of November 10, 2021, as amended (the &quot;Merger Agreement&quot;), (Continued in footnote 4)</footnote>
+        <footnote id="F4">(Continued from footnote 3) entered into by and among Ventoux CCM Acquisition Corp. (which subsequently changed its name to &quot;Presto Automation Inc.&quot;, the &quot;Issuer&quot;), Ventoux Merger Sub I Inc. and Ventoux Merger Sub II LLC, each a wholly owned subsidiary of Ventoux CCM Acquisition Corp., and E La Carte, Inc. (&quot;Old Presto&quot;), the Issuer acquired Old Presto (the &quot;Business Combination&quot;). Pursuant to the terms of the Merger Agreement, each share of Old Presto common stock, option or restricted stock unit, as applicable, outstanding immediately prior to the closing of the Business Combination was entitled to receive 0.8099 shares of Issuer common stock, option, or restricted stock unit, respectively, and certain earnout shares (&quot;Earn-Out Shares&quot;). The Business Combination closed on September 21, 2022 (the &quot;Closing Date&quot;).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ilya Golubovich</signatureName>
+        <signatureDate>2023-03-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

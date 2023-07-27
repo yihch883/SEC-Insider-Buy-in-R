@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0001326160-23-000061.txt : 20230224
+<SEC-HEADER>0001326160-23-000061.hdr.sgml : 20230224
+<ACCEPTANCE-DATETIME>20230224161713
+ACCESSION NUMBER:		0001326160-23-000061
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230222
+FILED AS OF DATE:		20230224
+DATE AS OF CHANGE:		20230224
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Glenn Robert Alexander
+		CENTRAL INDEX KEY:			0001861335
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32853
+		FILM NUMBER:		23667530
+
+	MAIL ADDRESS:	
+		STREET 1:		550 S. TRYON STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Duke Energy CORP
+		CENTRAL INDEX KEY:			0001326160
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		IRS NUMBER:				202777218
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		526 SOUTH CHURCH STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202-1803
+		BUSINESS PHONE:		704-382-3853
+
+	MAIL ADDRESS:	
+		STREET 1:		526 SOUTH CHURCH STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202-1803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Duke Energy Holding Corp.
+		DATE OF NAME CHANGE:	20050628
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Deer Holding Corp.
+		DATE OF NAME CHANGE:	20050504
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_167727340904345.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-22</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001326160</issuerCik>
+        <issuerName>Duke Energy CORP</issuerName>
+        <issuerTradingSymbol>DUK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001861335</rptOwnerCik>
+            <rptOwnerName>Glenn Robert Alexander</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>526 S. CHURCH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHARLOTTE</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>28202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP &amp; CEO DEF &amp; Midwest</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4165</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>97.47</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16204</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4947</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>401(k)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person received restricted stock units (&quot;RSUs&quot;) granted under the Duke Energy Corporation 2015 Long-Term Incentive Plan, which RSUs are settled in common stock on a one-for-one-basis upon vesting.  1/3rd of the RSUs vest each year over a 3-year period beginning on the first anniversary of the grant date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>David S. Maltz, attorney-in-fact for Robert Alexander Glenn</signatureName>
+        <signatureDate>2023-02-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

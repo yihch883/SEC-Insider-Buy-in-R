@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0001213900-23-006165.txt : 20230130
+<SEC-HEADER>0001213900-23-006165.hdr.sgml : 20230130
+<ACCEPTANCE-DATETIME>20230130211331
+ACCESSION NUMBER:		0001213900-23-006165
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230126
+FILED AS OF DATE:		20230130
+DATE AS OF CHANGE:		20230130
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Constellation Sponsor GmbH & Co. KG
+		CENTRAL INDEX KEY:			0001841951
+		STATE OF INCORPORATION:			2M
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39945
+		FILM NUMBER:		23569991
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O MC INVESTMENTS GMBH
+		STREET 2:		TUERKENSTRASSE 7
+		CITY:			MUNICH
+		STATE:			2M
+		ZIP:			80333
+		BUSINESS PHONE:		49 (0)89 5480299-0
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MC INVESTMENTS GMBH
+		STREET 2:		TUERKENSTRASSE 7
+		CITY:			MUNICH
+		STATE:			2M
+		ZIP:			80333
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Constellation Acquisition Corp I
+		CENTRAL INDEX KEY:			0001834032
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		PO BOX 309, UGLAND HOUSE
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+		BUSINESS PHONE:		1 917 215 2091
+
+	MAIL ADDRESS:	
+		STREET 1:		MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		PO BOX 309, UGLAND HOUSE
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-26</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001834032</issuerCik>
+        <issuerName>Constellation Acquisition Corp I</issuerName>
+        <issuerTradingSymbol>CSTA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001841951</rptOwnerCik>
+            <rptOwnerName>Constellation Sponsor GmbH &amp; Co. KG</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>181 WESTCHESTER AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 407A</rptOwnerStreet2>
+            <rptOwnerCity>PORT CHESTER</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B ordinary shares</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7633750</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7633750</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person previously held 7,633,750 Class B ordinary shares of the Issuer (&quot;Class B Shares&quot;). The Class B Shares will automatically convert into Class A ordinary shares of the Issuer (&quot;Class A Shares&quot;) at a ratio of no less than one-to-one on the first business day following the consummation of the Issuer's initial business combination, with the actual such conversion rate as described in the section entitled &quot;Description of Securities&quot; in the Issuer's Registration Statement on Form S-1 (File No. 333-251974) filed with the Securities and Exchange Commission on January 22, 2021. The Class B Shares have no expiration date.</footnote>
+        <footnote id="F2">On January 26, 2023, the Reporting Person was liquidated pursuant to applicable law and all 7,633,750 Class B Shares held by the Reporting Person were distributed by operation of law to its sole limited partner, Constellation Sponsor LP, an affiliate of the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Martin Weckwerth, authorized signatory</signatureName>
+        <signatureDate>2023-01-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

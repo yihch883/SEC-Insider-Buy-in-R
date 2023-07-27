@@ -1,0 +1,241 @@
+<SEC-DOCUMENT>0001493152-23-005214.txt : 20230215
+<SEC-HEADER>0001493152-23-005214.hdr.sgml : 20230215
+<ACCEPTANCE-DATETIME>20230215163023
+ACCESSION NUMBER:		0001493152-23-005214
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230213
+FILED AS OF DATE:		20230215
+DATE AS OF CHANGE:		20230215
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Trumbach Andrew
+		CENTRAL INDEX KEY:			0001910652
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21477
+		FILM NUMBER:		23635767
+
+	MAIL ADDRESS:	
+		STREET 1:		4405 PETERS ROAD
+		CITY:			PLANTATION
+		STATE:			FL
+		ZIP:			33304
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Awaysis Capital, Inc.
+		CENTRAL INDEX KEY:			0001021917
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATORS OF NONRESIDENTIAL BUILDINGS [6512]
+		IRS NUMBER:				270514566
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3400 LAKESIDE DR
+		STREET 2:		SUITE 100
+		CITY:			MIRAMAR
+		STATE:			FL
+		ZIP:			33027
+		BUSINESS PHONE:		954-931-9244
+
+	MAIL ADDRESS:	
+		STREET 1:		3400 LAKESIDE DR
+		STREET 2:		SUITE 100
+		CITY:			MIRAMAR
+		STATE:			FL
+		ZIP:			33027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JV GROUP, INC.
+		DATE OF NAME CHANGE:	20121102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASPI, INC.
+		DATE OF NAME CHANGE:	20091015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASPEON INC
+		DATE OF NAME CHANGE:	20000214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-13</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001021917</issuerCik>
+        <issuerName>Awaysis Capital, Inc.</issuerName>
+        <issuerTradingSymbol>AWCA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001910652</rptOwnerCik>
+            <rptOwnerName>Trumbach Andrew</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AWAYSIS CAPITAL, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>3400 LAKESIDE DRIVE, SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>MIRAMAR</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-13</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>98008000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Harthorne Capital Inc.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.32</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-13</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11250000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-02-13</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-02-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>11250000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11250000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Pursuant to the Reporting Person's Employment Agreement with the Issuer dated as of February 13, 2023, the Reporting Person was granted restricted shares of Company common stock equal in value to $500,000 and at an assumed per share value of the $0.01 par value of the shares.</footnote>
+        <footnote id="F2">The reporting person is the President, CFO and an executive director of Harthorne Capital Inc. (&quot;Harthorne&quot;). As such, the reporting person has voting and dispositive control over 98,008,000 shares owned by Harthorne. The reporting person disclaims beneficial ownership of these securities, except to the extent of his pecuniary interest therein, and this report shall not be deemed an admission that the reporting person is the beneficial owner of such securities for purposes of Section 16 or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Andrew Trumbach</signatureName>
+        <signatureDate>2023-02-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

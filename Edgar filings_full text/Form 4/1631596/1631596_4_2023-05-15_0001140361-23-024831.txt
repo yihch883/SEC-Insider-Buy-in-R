@@ -1,0 +1,188 @@
+<SEC-DOCUMENT>0001140361-23-024831.txt : 20230515
+<SEC-HEADER>0001140361-23-024831.hdr.sgml : 20230515
+<ACCEPTANCE-DATETIME>20230515183257
+ACCESSION NUMBER:		0001140361-23-024831
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230512
+FILED AS OF DATE:		20230515
+DATE AS OF CHANGE:		20230515
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lee Christen E.J.
+		CENTRAL INDEX KEY:			0001704701
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38082
+		FILM NUMBER:		23924966
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KKR Real Estate Finance Trust Inc.
+		CENTRAL INDEX KEY:			0001631596
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				472009094
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 HUDSON YARDS
+		STREET 2:		SUITE 7500
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		212-750-8300
+
+	MAIL ADDRESS:	
+		STREET 1:		30 HUDSON YARDS
+		STREET 2:		SUITE 7500
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001631596</issuerCik>
+        <issuerName>KKR Real Estate Finance Trust Inc.</issuerName>
+        <issuerTradingSymbol>KREF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001704701</rptOwnerCik>
+            <rptOwnerName>Lee Christen E.J.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KKR REAL ESTATE FINANCE TRUST INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>30 HUDSON YARDS, SUITE 7500</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.1662</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>263281.07</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3730</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote.</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported is a weighted average price per share of Common Stock of the Issuer purchased by the Reporting Person. These shares were purchased in multiple transactions at prices ranging from $10.08 to $10.33, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote.</footnote>
+        <footnote id="F2">Held by the Reporting Person's children.</footnote>
+        <footnote id="F3">Held by the Reporting Person's spouse.</footnote>
+    </footnotes>
+
+    <remarks>Pursuant to Rule 16a-1(a)(4) under the Securities Exchange Act of 1934, as amended, the Reporting Person states that this filing shall not be an admission that the Reporting Person is the beneficial owner of any of the securities reported herein as indirectly owned, and the Reporting Person disclaims beneficial ownership of such securities except to the extent of the Reporting Person's pecuniary interest therein.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Vincent J. Napolitano, as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-05-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0001415889-23-006448.txt : 20230411
+<SEC-HEADER>0001415889-23-006448.hdr.sgml : 20230411
+<ACCEPTANCE-DATETIME>20230411171419
+ACCESSION NUMBER:		0001415889-23-006448
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230406
+FILED AS OF DATE:		20230411
+DATE AS OF CHANGE:		20230411
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Corbin Patrick E.
+		CENTRAL INDEX KEY:			0001464681
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39325
+		FILM NUMBER:		23814020
+
+	MAIL ADDRESS:	
+		STREET 1:		999 WATERSIDE DR., STE. 200
+		CITY:			NORFOLK
+		STATE:			VA
+		ZIP:			23510
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Atlantic Union Bankshares Corp
+		CENTRAL INDEX KEY:			0000883948
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				540412820
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1051 EAST CARY STREET
+		STREET 2:		SUITE 1200
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23219
+		BUSINESS PHONE:		800-990-4828
+
+	MAIL ADDRESS:	
+		STREET 1:		1051 EAST CARY STREET
+		STREET 2:		SUITE 1200
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23219
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Union Bankshares Corp
+		DATE OF NAME CHANGE:	20140430
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNION FIRST MARKET BANKSHARES CORP
+		DATE OF NAME CHANGE:	20140424
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Union Bankshares Corp
+		DATE OF NAME CHANGE:	20140424
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-04112023_090413.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-06</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000883948</issuerCik>
+        <issuerName>Atlantic Union Bankshares Corp</issuerName>
+        <issuerTradingSymbol>AUB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001464681</rptOwnerCik>
+            <rptOwnerName>Corbin Patrick E.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ATLANTIC UNION BANKSHARES CORP</rptOwnerStreet1>
+            <rptOwnerStreet2>1051 E. CARY STREET, STE 1200</rptOwnerStreet2>
+            <rptOwnerCity>RICHMOND</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>23219</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-06</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2023-04-10</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>312.406</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>33.21</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>312.406</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20614.3760</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trustee of Non-Qualified Plan (deferred comp)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of phantom stock is the economic equivalent of one share of common stock. The shares of phantom stock become payable, in cash or common stock, at the time elected by the reporting person in the reporting person's deferred compensation election form; provided, that if the reporting person elected to receive distributions under the Company's non-qualified deferred compensation plan in installments, such amounts are payable only in cash.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Rachael R. Lape, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

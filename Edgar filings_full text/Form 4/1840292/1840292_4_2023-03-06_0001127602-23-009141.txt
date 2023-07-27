@@ -1,0 +1,148 @@
+<SEC-DOCUMENT>0001127602-23-009141.txt : 20230306
+<SEC-HEADER>0001127602-23-009141.hdr.sgml : 20230306
+<ACCEPTANCE-DATETIME>20230306175350
+ACCESSION NUMBER:		0001127602-23-009141
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230302
+FILED AS OF DATE:		20230306
+DATE AS OF CHANGE:		20230306
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lazarus Roger
+		CENTRAL INDEX KEY:			0001893242
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40209
+		FILM NUMBER:		23710231
+
+	MAIL ADDRESS:	
+		STREET 1:		100 EL CAMINO REAL
+		STREET 2:		GROUND SUITE
+		CITY:			BURLINGAME
+		STATE:			CA
+		ZIP:			94010
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Heliogen, Inc.
+		CENTRAL INDEX KEY:			0001840292
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				854204953
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		130 W UNION ST.
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91103
+		BUSINESS PHONE:		9709240446
+
+	MAIL ADDRESS:	
+		STREET 1:		130 W UNION ST.
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Athena Technology Acquisition Corp.
+		DATE OF NAME CHANGE:	20210112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001840292</issuerCik>
+        <issuerName>Heliogen, Inc.</issuerName>
+        <issuerTradingSymbol>HLGN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001893242</rptOwnerCik>
+            <rptOwnerName>Lazarus Roger</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O HELIOGEN, INC. 130 WEST UNION ST</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PASADENA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>75000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>75000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units (&quot;RSUs&quot;) granted to the Reporting Person under Issuer's 2021 Equity Incentive Plan (the &quot;Plan&quot;) vesting in three equal annual installments such that the RSUs are fully vested on March 2, 2026, subject to the Reporting Person's continuous service as defined in the Plan through each vesting date. The RSUs are payable in an equivalent number of shares of common stock of the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Deborah Chen, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-03-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

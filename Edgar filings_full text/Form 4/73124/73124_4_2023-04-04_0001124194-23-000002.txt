@@ -1,0 +1,214 @@
+<SEC-DOCUMENT>0001124194-23-000002.txt : 20230404
+<SEC-HEADER>0001124194-23-000002.hdr.sgml : 20230404
+<ACCEPTANCE-DATETIME>20230404152625
+ACCESSION NUMBER:		0001124194-23-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230401
+FILED AS OF DATE:		20230404
+DATE AS OF CHANGE:		20230404
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CROWN SUSAN
+		CENTRAL INDEX KEY:			0001124194
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36609
+		FILM NUMBER:		23796904
+
+	MAIL ADDRESS:	
+		STREET 1:		222 NORTH LASALLE STREET
+		STREET 2:		SUITE 2000
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTHERN TRUST CORP
+		CENTRAL INDEX KEY:			0000073124
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				362723087
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		50 S LASALLE ST
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60603
+		BUSINESS PHONE:		3126306000
+
+	MAIL ADDRESS:	
+		STREET 1:		50 S LASALLE ST
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORTRUST CORP
+		DATE OF NAME CHANGE:	19780525
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000073124</issuerCik>
+        <issuerName>NORTHERN TRUST CORP</issuerName>
+        <issuerTradingSymbol>NTRS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001124194</rptOwnerCik>
+            <rptOwnerName>CROWN SUSAN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>222 NORTH LASALLE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 2000</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60601</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock Units</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>70.67</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>88.13</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30784.67</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18400</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See ftn.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>339696</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See ftn.</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents common stock units payable automatically on a one-for-one basis in shares of NTRS stock upon termination of service as a director.</footnote>
+        <footnote id="F2">Owned by various trusts of which the children of the Reporting Person are the beneficiaries.</footnote>
+        <footnote id="F3">Owned by a limited liability company, HCNI II LLC, of which trusts for the benefit of the Reporting Person and the children of the Reporting Person are members.</footnote>
+    </footnotes>
+
+    <remarks>The Reporting Person disclaims beneficial ownership of the shares described in Footnotes 2 and 3, except to the extent of her beneficial ownership in the trusts and entity that own such shares.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Susan Crown</signatureName>
+        <signatureDate>2023-04-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

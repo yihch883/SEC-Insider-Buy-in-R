@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001493152-23-023353.txt : 20230703
+<SEC-HEADER>0001493152-23-023353.hdr.sgml : 20230703
+<ACCEPTANCE-DATETIME>20230703180012
+ACCESSION NUMBER:		0001493152-23-023353
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230703
+DATE AS OF CHANGE:		20230703
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Silva Raul R.
+		CENTRAL INDEX KEY:			0001883270
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40874
+		FILM NUMBER:		231066140
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CINGULATE INC.
+		STREET 2:		1901 W. 47TH PLACE
+		CITY:			KANSAS CITY
+		STATE:			KS
+		ZIP:			66205
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cingulate Inc.
+		CENTRAL INDEX KEY:			0001862150
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				863825535
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1901 W. 47TH PLACE
+		CITY:			KANSAS CITY
+		STATE:			KS
+		ZIP:			66205
+		BUSINESS PHONE:		(913) 942-2300
+
+	MAIL ADDRESS:	
+		STREET 1:		1901 W. 47TH PLACE
+		CITY:			KANSAS CITY
+		STATE:			KS
+		ZIP:			66205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001862150</issuerCik>
+        <issuerName>Cingulate Inc.</issuerName>
+        <issuerTradingSymbol>CING</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001883270</rptOwnerCik>
+            <rptOwnerName>Silva Raul R.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1901 W. 47TH PLACE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>KANSAS CITY</rptOwnerCity>
+            <rptOwnerState>KS</rptOwnerState>
+            <rptOwnerZipCode>66205</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP and CSO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.93</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-30</value>
+                <footnoteId id="F1"/>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-06-30</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-06-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The option was granted pursuant to the terms of Dr. Silva's Employment Agreement, as amended.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeff Bennett, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-07-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

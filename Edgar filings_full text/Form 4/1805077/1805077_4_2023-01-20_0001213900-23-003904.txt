@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0001213900-23-003904.txt : 20230120
+<SEC-HEADER>0001213900-23-003904.hdr.sgml : 20230120
+<ACCEPTANCE-DATETIME>20230120070026
+ACCESSION NUMBER:		0001213900-23-003904
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230118
+FILED AS OF DATE:		20230120
+DATE AS OF CHANGE:		20230120
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stidolph Russell Monoki
+		CENTRAL INDEX KEY:			0001833275
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39291
+		FILM NUMBER:		23538865
+
+	MAIL ADDRESS:	
+		STREET 1:		137 ROWAYTON AVENUE
+		CITY:			ROWAYTON
+		STATE:			CT
+		ZIP:			06853
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Eos Energy Enterprises, Inc.
+		CENTRAL INDEX KEY:			0001805077
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3920 PARK AVENUE
+		CITY:			EDISON
+		STATE:			NJ
+		ZIP:			08820
+		BUSINESS PHONE:		(732) 225-8400
+
+	MAIL ADDRESS:	
+		STREET 1:		3920 PARK AVENUE
+		CITY:			EDISON
+		STATE:			NJ
+		ZIP:			08820
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	B. Riley Principal Merger Corp. II
+		DATE OF NAME CHANGE:	20200227
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001805077</issuerCik>
+        <issuerName>Eos Energy Enterprises, Inc.</issuerName>
+        <issuerTradingSymbol>EOSE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001833275</rptOwnerCik>
+            <rptOwnerName>Stidolph Russell Monoki</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ALTENERGY LLC</rptOwnerStreet1>
+            <rptOwnerStreet2>137 ROWAYTON AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>ROWAYTON</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06853</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>26.5% Convertible Senior PIK Note</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.67</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>2025500</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>2025500</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-01-18</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-06-30</value>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1212874</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>2025500</value>
+                    <footnoteId id="F3"/>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The principal amount of the convertible note, plus any accrued interest, is convertible at the option of the holder into shares of common stock at any time prior to the close of business on the business day immediately preceding the maturity date at the conversion rate of 598.824 shares of common stock per $1,000 principal amount of notes (which is equal to approximately $1.67 per share), subject to customary anti-dilution and other adjustments.</footnote>
+        <footnote id="F2">Represents the date of maturity of the convertible note, unless earlier repurchased, converted or redeemed in accordance with its terms prior to such date.</footnote>
+        <footnote id="F3">Represents the principal amount of the convertible note and excludes interest that may accrue. The convertible note bears interest at a rate of 26.5% per annum.</footnote>
+        <footnote id="F4">The convertible notes reported in this Form 4 are convertible notes in which Mr. Stidolph has a pecuniary interest in that they are held directly by AE Convert, LLC. Mr. Stidolph is a manager of AE Convert, LLC, and has voting and dispositive power with respect to the securities owned by AE Convert, LLC. Mr. Stidolph disclaims beneficial ownership of convertible notes and the underlying shares of common stock of the issuer reported herein except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Russell Stidolph</signatureName>
+        <signatureDate>2023-01-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

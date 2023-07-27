@@ -1,0 +1,225 @@
+<SEC-DOCUMENT>0000899243-23-003769.txt : 20230202
+<SEC-HEADER>0000899243-23-003769.hdr.sgml : 20230202
+<ACCEPTANCE-DATETIME>20230202210327
+ACCESSION NUMBER:		0000899243-23-003769
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230131
+FILED AS OF DATE:		20230202
+DATE AS OF CHANGE:		20230202
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ALMGREN AKE
+		CENTRAL INDEX KEY:			0001283168
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39489
+		FILM NUMBER:		23583458
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ACTIVE POWER INC
+		STREET 2:		3125 W BRAKER LANE
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78758
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nuburu, Inc.
+		CENTRAL INDEX KEY:			0001814215
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7442 S TUSCON WAY
+		STREET 2:		SUITE 130
+		CITY:			CENTENNIAL
+		STATE:			CO
+		ZIP:			80112
+		BUSINESS PHONE:		(720) 767-1400
+
+	MAIL ADDRESS:	
+		STREET 1:		7442 S TUSCON WAY
+		STREET 2:		SUITE 130
+		CITY:			CENTENNIAL
+		STATE:			CO
+		ZIP:			80112
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tailwind Acquisition Corp.
+		DATE OF NAME CHANGE:	20200604
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001814215</issuerCik>
+        <issuerName>Nuburu, Inc.</issuerName>
+        <issuerTradingSymbol>BURU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001283168</rptOwnerCik>
+            <rptOwnerName>ALMGREN AKE</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NUBURU, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>7442 S TUCSON WAY, SUITE 130</rptOwnerStreet2>
+            <rptOwnerCity>CENTENNIAL</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80112</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12476</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12476</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series A Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>5.00</value>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12476</value>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-01-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>24952</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12476</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of securities acquired in connection with the transactions consummated on January 31, 2023 pursuant to that certain Business Combination Agreement, dated August 5, 2022 (as it has been and may be amended, supplemented or otherwise modified from time to time, the &quot;Business Combination Agreement&quot;), by and among Nuburu, Inc. (f/k/a Tailwind Acquisition Corp.) (the &quot;Issuer&quot;), Compass Merger Sub, Inc., a wholly owned subsidiary of the Issuer (&quot;Merger Sub&quot;), and Nuburu Subsidiary, Inc. (&quot;Legacy Nuburu&quot;), pursuant to which Merger Sub merged with and into Legacy Nuburu, with Legacy Nuburu as the surviving company and continuing as a wholly owned subsidiary of the Issuer (the &quot;Business Combination&quot;).</footnote>
+        <footnote id="F2">In connection with the closing of the Business Combination, each share of Legacy Nuburu common stock issued and outstanding immediately prior to the effective time of the merger was canceled and converted into the right to receive the number of shares of common stock, par value $0.0001 per share, of the Issuer (the &quot;Common Stock&quot;) of the Issuer equal to an exchange ratio calculated at closing.</footnote>
+        <footnote id="F3">The Series A Preferred Stock, par value $0.0001 per share, of the Issuer (&quot;Preferred Stock&quot;) is convertible into shares of Common Stock at a conversion rate equal to $10.00 (subject to equitable adjustment in the event of a stock split, stock consolidation, subdivision or certain other events of a similar nature that increase or decrease the number of shares of Preferred Stock outstanding) divided by the lesser of (i) $11.50 and (ii) the greater of (x) 115% of the lowest volume weighted average price per share of Common Stock as displayed under the heading Bloomberg VWAP for any consecutive ninety-trading day period prior to the calculation of such VWAP and (y) $5.00, in each case subject to adjustment as set forth in the Certificate of Designations of the Preferred Stock (the &quot;Certificate of Designations&quot;).</footnote>
+        <footnote id="F4">Consists of shares of Preferred Stock that were issued to certain holders of record of Common Stock as of the close of business on the closing date of the Business Combination, with one share of Preferred Stock issued in respect of each share of Common Stock.</footnote>
+        <footnote id="F5">The Preferred Stock has no expiration date. Pursuant to the Certificate of Designations and subject to certain limitations detailed therein, on January 31, 2025, the Issuer is required to either redeem the Preferred Stock for cash or convert the Preferred Stock to shares of Common Stock.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Brian Knaley, by power of attorney on behalf of Ake Almgren</signatureName>
+        <signatureDate>2023-02-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

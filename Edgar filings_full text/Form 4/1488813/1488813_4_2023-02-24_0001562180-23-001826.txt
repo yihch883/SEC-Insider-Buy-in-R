@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001562180-23-001826.txt : 20230224
+<SEC-HEADER>0001562180-23-001826.hdr.sgml : 20230224
+<ACCEPTANCE-DATETIME>20230224155050
+ACCESSION NUMBER:		0001562180-23-001826
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230223
+FILED AS OF DATE:		20230224
+DATE AS OF CHANGE:		20230224
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Leibold Carla A
+		CENTRAL INDEX KEY:			0001564189
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35542
+		FILM NUMBER:		23666615
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O 1999 K STREET, N.W., 4TH FLOOR
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20006
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Customers Bancorp, Inc.
+		CENTRAL INDEX KEY:			0001488813
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				272290659
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		701 READING AVENUE
+		CITY:			WEST READING
+		STATE:			PA
+		ZIP:			19611
+		BUSINESS PHONE:		484-359-7113
+
+	MAIL ADDRESS:	
+		STREET 1:		701 READING AVENUE
+		CITY:			WEST READING
+		STATE:			PA
+		ZIP:			19611
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Customers 1st Bancorp, Inc.
+		DATE OF NAME CHANGE:	20100408
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-23</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001488813</issuerCik>
+        <issuerName>Customers Bancorp, Inc.</issuerName>
+        <issuerTradingSymbol>CUBI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001564189</rptOwnerCik>
+            <rptOwnerName>Leibold Carla A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>701 READING AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WEST READING</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19611</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1103.00</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.92</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>66576.00</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares withheld for taxes upon vesting of previously issued restricted stock award.</footnote>
+        <footnote id="F2">Includes 13,783 Restricted Stock Units.</footnote>
+        <footnote id="F3">Includes 6,141 shares acquired pursuant to Customers Bancorp, Inc.'s Employee Stock Purchase Plan.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Carla A. Leibold by Andrew Sachs Under Power of Attorney</signatureName>
+        <signatureDate>2023-02-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,199 @@
+<SEC-DOCUMENT>0000899243-23-014957.txt : 20230608
+<SEC-HEADER>0000899243-23-014957.hdr.sgml : 20230608
+<ACCEPTANCE-DATETIME>20230608191735
+ACCESSION NUMBER:		0000899243-23-014957
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230607
+FILED AS OF DATE:		20230608
+DATE AS OF CHANGE:		20230608
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shany Gilad
+		CENTRAL INDEX KEY:			0001826218
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40048
+		FILM NUMBER:		231003422
+
+	MAIL ADDRESS:	
+		STREET 1:		89 MEDINAT HAYEHUDIM
+		CITY:			HERZLIYA
+		STATE:			L3
+		ZIP:			4676672
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Innovid Corp.
+		CENTRAL INDEX KEY:			0001835378
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 IRVING PLACE, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+		BUSINESS PHONE:		2129667555
+
+	MAIL ADDRESS:	
+		STREET 1:		30 IRVING PLACE, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ION Acquisition Corp 2 Ltd.
+		DATE OF NAME CHANGE:	20201207
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-07</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001835378</issuerCik>
+        <issuerName>Innovid Corp.</issuerName>
+        <issuerTradingSymbol>CTV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001826218</rptOwnerCik>
+            <rptOwnerName>Shany Gilad</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O INNOVID CORP</rptOwnerStreet1>
+            <rptOwnerStreet2>30 IRVING PLACE, 12TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10003</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-07</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>147059</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1220662</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Warrants to purchase Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.50</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-11-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>996283</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>996283</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units, 100% of which will vest on the earlier of (i) June 7, 2024, or (ii) the date of the next annual meeting of stockholders of the Issuer, subject to the Reporting Person's continued service to the Issuer. Each restricted stock unit represents a contingent right to receive one share of the Issuer's common stock.</footnote>
+        <footnote id="F2">Includes 881,979 shares of Common Stock acquired in a pro-rata distribution in-kind, the acquisition of which was exempt from reporting pursuant to Rule 16a-9.</footnote>
+        <footnote id="F3">The Warrants are currently exercisable.</footnote>
+        <footnote id="F4">Reflects warrants acquired in a pro-rata distribution in-kind, the acquisition of which was exempt from reporting pursuant to Rule 16a-9.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>By: Nick Williams, Attorney-in-fact For: Gilad Shany</signatureName>
+        <signatureDate>2023-06-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

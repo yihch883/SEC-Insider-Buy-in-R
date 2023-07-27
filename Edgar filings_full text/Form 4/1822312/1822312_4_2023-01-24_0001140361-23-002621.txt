@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001140361-23-002621.txt : 20230124
+<SEC-HEADER>0001140361-23-002621.hdr.sgml : 20230124
+<ACCEPTANCE-DATETIME>20230124214725
+ACCESSION NUMBER:		0001140361-23-002621
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230124
+FILED AS OF DATE:		20230124
+DATE AS OF CHANGE:		20230124
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hartnett Heather
+		CENTRAL INDEX KEY:			0001823710
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39602
+		FILM NUMBER:		23549597
+
+	MAIL ADDRESS:	
+		STREET 1:		386 PARK AVENUE SOUTH, FL 20
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10016
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Jack Creek Investment Corp.
+		CENTRAL INDEX KEY:			0001822312
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		386 PARK AVENUE SOUTH, FL 20
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10016
+		BUSINESS PHONE:		212-710-5060
+
+	MAIL ADDRESS:	
+		STREET 1:		386 PARK AVENUE SOUTH, FL 20
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10016
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-24</periodOfReport>
+
+    <notSubjectToSection16>true</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001822312</issuerCik>
+        <issuerName>Jack Creek Investment Corp.</issuerName>
+        <issuerTradingSymbol>JCIC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001823710</rptOwnerCik>
+            <rptOwnerName>Hartnett Heather</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O JACK CREEK INVESTMENT CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>386 PARK AVENUE SOUTH, FL 20</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10016</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares, par value $0.0001</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares, par value $0.0001</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Pursuant to the Amended and Restated Memorandum and Articles of Association, as amended, of Jack Creek Investment Corp. (the &quot;Issuer&quot;), the Class B Ordinary Shares, par value $0.0001 per share (&quot;Class B Shares&quot;), of the Issuer, were automatically convertible into Class A Ordinary Shares, par value $0.0001 per share, of the Issuer, on a one-for-one basis, subject to adjustment, on the day of the closing of the Issuer's initial business combination.</footnote>
+        <footnote id="F2">In connection with the consummation of the business combination and other transactions contemplated by the Agreement and Plan of Merger, dated as of August 3, 2022, by and among the Issuer, Wildfire New PubCo, Inc. (&quot;New Bridger&quot;), and the other parties thereto, the Class B Shares were automatically exchanged for shares of common stock of New Bridger, which became a publicly traded company and which changed its name to Bridger Aerospace Group Holdings, Inc. upon the closing of the transactions.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Heather Hartnett</signatureName>
+        <signatureDate>2023-01-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

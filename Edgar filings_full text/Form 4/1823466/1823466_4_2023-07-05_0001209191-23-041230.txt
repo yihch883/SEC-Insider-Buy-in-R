@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001209191-23-041230.txt : 20230705
+<SEC-HEADER>0001209191-23-041230.hdr.sgml : 20230705
+<ACCEPTANCE-DATETIME>20230705174657
+ACCESSION NUMBER:		0001209191-23-041230
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230705
+DATE AS OF CHANGE:		20230705
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Eidelman Vlad
+		CENTRAL INDEX KEY:			0001939428
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39672
+		FILM NUMBER:		231071001
+
+	MAIL ADDRESS:	
+		STREET 1:		1201 PENNSYLVANIA AVENUE NW
+		STREET 2:		6TH FLOOR
+		CITY:			WASHINGTON, D.C.
+		STATE:			DC
+		ZIP:			20004
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FiscalNote Holdings, Inc.
+		CENTRAL INDEX KEY:			0001823466
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1201 PENNSYLVANIA AVENUE NW, 6TH FLOOR
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		202 793-5300
+
+	MAIL ADDRESS:	
+		STREET 1:		1201 PENNSYLVANIA AVENUE NW, 6TH FLOOR
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Duddell Street Acquisition Corp.
+		DATE OF NAME CHANGE:	20200902
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001823466</issuerCik>
+        <issuerName>FiscalNote Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>NOTE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001939428</rptOwnerCik>
+            <rptOwnerName>Eidelman Vlad</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O FISCALNOTE HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1201 PENNSYLVANIA AVENUE NW, 6TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Technology Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value>E</value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2668</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.094</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>323188</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares were acquired under the Issuer's Employee Stock Purchase Plan in a transaction that was exempt under both Rule 16b-3(d) and Rule 16b-3(c).</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Todd Aman, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

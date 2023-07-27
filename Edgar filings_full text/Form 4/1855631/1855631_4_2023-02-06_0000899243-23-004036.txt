@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0000899243-23-004036.txt : 20230206
+<SEC-HEADER>0000899243-23-004036.hdr.sgml : 20230206
+<ACCEPTANCE-DATETIME>20230206161023
+ACCESSION NUMBER:		0000899243-23-004036
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230203
+FILED AS OF DATE:		20230206
+DATE AS OF CHANGE:		20230206
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Okabe Kensuke
+		CENTRAL INDEX KEY:			0001963477
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40734
+		FILM NUMBER:		23590759
+
+	MAIL ADDRESS:	
+		STREET 1:		#505, 7-4-4, KITAYAMATA,
+		STREET 2:		TSUZUKI-KU
+		CITY:			YOKOHAMA
+		STATE:			M0
+		ZIP:			0000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AERWINS Technologies Inc.
+		CENTRAL INDEX KEY:			0001855631
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIRCRAFT [3721]
+		IRS NUMBER:				862049355
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SHIBA KOEN ANNEX 6 F, 1-8,
+		STREET 2:		SHIBA KOEN 3-CHOME
+		CITY:			MINATO-KU, TOKYO
+		STATE:			M0
+		ZIP:			105-0011
+		BUSINESS PHONE:		813-6409-6761
+
+	MAIL ADDRESS:	
+		STREET 1:		SHIBA KOEN ANNEX 6 F, 1-8,
+		STREET 2:		SHIBA KOEN 3-CHOME
+		CITY:			MINATO-KU, TOKYO
+		STATE:			M0
+		ZIP:			105-0011
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Pono Capital Corp
+		DATE OF NAME CHANGE:	20210708
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PONO Capital Corp
+		DATE OF NAME CHANGE:	20210407
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001855631</issuerCik>
+        <issuerName>AERWINS Technologies Inc.</issuerName>
+        <issuerTradingSymbol>AWIN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001963477</rptOwnerCik>
+            <rptOwnerName>Okabe Kensuke</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>SHIBA KOEN ANNEX 6 F, 1-8,</rptOwnerStreet1>
+            <rptOwnerStreet2>SHIBA KOEN 3-CHOME, MINATO-KU</rptOwnerStreet2>
+            <rptOwnerCity>TOKYO</rptOwnerCity>
+            <rptOwnerState>M0</rptOwnerState>
+            <rptOwnerZipCode>105-0011</rptOwnerZipCode>
+            <rptOwnerStateDescription>JAPAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>469291</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-05-03</value>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-02-03</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>469291</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>469291</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The stock option has an exercise price of $0.00015 per share.</footnote>
+        <footnote id="F2">Represents an option to purchase shares of the issuer's common stock, acquired by the reporting person on February 3, 2023, upon the closing of a business combination (the &quot;Merger&quot;) pursuant to an Agreement and Plan of Merger, dated as of September 7, 2022, by and among Pono Capital Corp. (&quot;Pono&quot;), Pono Merger Sub, Inc., AERWINS Technologies Inc. (&quot;AERWINS&quot;), Mehana Equity LLC, and Shuhei Komatsu, as previously disclosed in the issuer's Current Report on Form 8-K filed with the Securities and Exchange Commission on September 7, 2022 (the &quot;Form 8-K&quot;), and as set forth in Exhibit 2.1 to the Form 8-K. Upon consummation of the Merger, the issuer changed its name to &quot;AERWINS Technologies Inc.&quot;</footnote>
+        <footnote id="F3">The stock option vests as follows: 1/3 on the 3-month anniversary of February 3, 2023 (the &quot;Award Date&quot;), 1/3 on the 15-month anniversary of the Award Date, and 1/3 on the 27-month anniversary of the Award Date.</footnote>
+        <footnote id="F4">As consideration for the Merger, the reporting person received a stock option to purchase the indicated number of shares of the issuer's common stock.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Kensuke Okabe</signatureName>
+        <signatureDate>2023-02-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

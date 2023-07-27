@@ -1,0 +1,328 @@
+<SEC-DOCUMENT>0001562180-23-005323.txt : 20230620
+<SEC-HEADER>0001562180-23-005323.hdr.sgml : 20230620
+<ACCEPTANCE-DATETIME>20230620110254
+ACCESSION NUMBER:		0001562180-23-005323
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230616
+FILED AS OF DATE:		20230620
+DATE AS OF CHANGE:		20230620
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mosca Alison
+		CENTRAL INDEX KEY:			0001835537
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39834
+		FILM NUMBER:		231023921
+
+	MAIL ADDRESS:	
+		STREET 1:		26 PATRIOT PLACE, SUITE 301
+		CITY:			FOXBORO
+		STATE:			MA
+		ZIP:			02035
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Clene Inc.
+		CENTRAL INDEX KEY:			0001822791
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				852828339
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6550 SOUTH MILLROCK DRIVE, SUITE G50
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+		BUSINESS PHONE:		801-676-9695
+
+	MAIL ADDRESS:	
+		STREET 1:		6550 SOUTH MILLROCK DRIVE, SUITE G50
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Chelsea Worldwide Inc.
+		DATE OF NAME CHANGE:	20200827
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-16</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001822791</issuerCik>
+        <issuerName>Clene Inc.</issuerName>
+        <issuerTradingSymbol>CLNN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001835537</rptOwnerCik>
+            <rptOwnerName>Mosca Alison</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6550 SOUTH MILLROCK DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE G50</rptOwnerStreet2>
+            <rptOwnerCity>SALT LAKE CITY</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84121</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2394375.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.80</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3238375.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By LLC</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>39476.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3006670.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By LP</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1459945.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By trust</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.50</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2394375.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-06-16</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2394375.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2394375.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.10</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2394375.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-06-16</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2394375.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2394375.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The securities are owned by Kensington Clene 2021, LLC.  Ms. Mosca is the sole manager of and owns a minority interest in Kensington Clene 2021, LLC.   The shares owned by Kensington Clene 2021, LLC may be deemed to be beneficially owned by Ms. Mosca. Ms. Mosca disclaims all shares owned by Kensington Clene 2021, LLC for which she does not have a pecuniary or profits interest.  Please note that Kensington Clene 2021, LLC had been incorrectly referred to in prior form 4s for Ms. Mosca as Kensington Clene, LLC; there is no such legal entity, only Kensington Clene 2021, LLC.</footnote>
+        <footnote id="F2">The securities are owned by the Kensington Investments, L.P.  Ms. Mosca is the chief executive officer of Kensington Investments, L.P.  The shares owned by the Kensington Investments, L.P.  may be deemed to be beneficially owned by Ms. Mosca.  Ms. Mosca disclaims all shares owned by Kensington Investments, L.P. , for which she does not have a pecuniary or profits interest.</footnote>
+        <footnote id="F3">The securities are owned by the Robert C. Gay 1998 Family Trust. Ms. Mosca is the trustee of the Robert C. Gay 1998 Family Trust.  The shares owned by the Robert C. Gay 1998 Family Trust may be deemed to be beneficially owned by Ms. Mosca.  Ms. Mosca has no pecuniary or profits interest in the shares held by the Robert C. Gay 1998 Family Trust.</footnote>
+        <footnote id="F4">The price for each Unit is $0.80; one Unit consists of one share of Common Stock of Clene, one Tranche A Warrant and one Tranche B Warrant.</footnote>
+        <footnote id="F5">Kensington Clene 2021, LLC purchased a unit consisting of one share of Common Stock of Clene Inc., one Tranche A Warrant, and one Tranche B Warrant.  The Tranche B Warrant is for 2,394,375 shares of Common Stock of Clene Inc. at an exercise price of $1.50 per share.  The Tranche B Warrant will expire on the earlier of (a) June 16, 2030, or (b) 60 days after the Food and Drug Administration approval of a New Drug Application from Clene Inc.  The shares owned by Kensington Clene 2021, LLC may be deemed to be beneficially owned by Ms. Mosca.  Ms. Mosca disclaims all shares owned by Kensington Clene 2021, LLC for which she does not have a pecuniary or profits interest.</footnote>
+        <footnote id="F6">Kensington Clene 2021, LLC purchased a unit consisting of one share of Common Stock of Clene Inc., one Tranche A Warrant, and one Tranche B Warrant.  The Tranche A Warrant is for 2,394,375 shares of Common Stock of Clene Inc. at an exercise price of $1.10 per share.  The Tranche A Warrant will expire on the earlier of (a) June 16, 2026, or (b) 60 days after the Food and Drug Administration accepts a New Drug Application from Clene Inc.  The shares owned by Kensington Clene 2021, LLC may be deemed to be beneficially owned by Ms. Mosca.  Ms. Mosca disclaims all shares owned by Kensington Clene 2021, LLC for which she does not have a pecuniary or profits interest.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jerry Miraglia POA</signatureName>
+        <signatureDate>2023-06-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

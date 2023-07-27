@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0001209191-23-019538.txt : 20230317
+<SEC-HEADER>0001209191-23-019538.hdr.sgml : 20230317
+<ACCEPTANCE-DATETIME>20230317130753
+ACCESSION NUMBER:		0001209191-23-019538
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230315
+FILED AS OF DATE:		20230317
+DATE AS OF CHANGE:		20230317
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Barajas Mike
+		CENTRAL INDEX KEY:			0001893326
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36559
+		FILM NUMBER:		23741711
+
+	MAIL ADDRESS:	
+		STREET 1:		12140 WICKCHESTER LN
+		STREET 2:		STE 100
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Via Renewables, Inc.
+		CENTRAL INDEX KEY:			0001606268
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		IRS NUMBER:				465453215
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12140 WICKCHESTER LANE
+		STREET 2:		SUITE 100
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+		BUSINESS PHONE:		(713) 600-2600
+
+	MAIL ADDRESS:	
+		STREET 1:		12140 WICKCHESTER LANE
+		STREET 2:		SUITE 100
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Spark Energy, Inc.
+		DATE OF NAME CHANGE:	20140423
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001606268</issuerCik>
+        <issuerName>Via Renewables, Inc.</issuerName>
+        <issuerTradingSymbol>VIA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001893326</rptOwnerCik>
+            <rptOwnerName>Barajas Mike</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>12140 WICKCHESTER LANE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77079</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2509</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.81</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2509</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>82952</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Restricted Stock Unit represents a right to receive, upon vesting, one share of Class A Common Stock, cash, or a combination of both. Each Restricted Stock Unit includes tandem dividend equivalents which will vest upon the same schedule as the underlying Restricted Stock Units.</footnote>
+        <footnote id="F2">These Restricted Stock Units accrued on outstanding Restricted Stock Units held by the reporting person as a result of a dividend equivalent payment made to the holder when the Company paid its most recent quarterly dividend on the Class A Common Stock.</footnote>
+        <footnote id="F3">These Restricted Stock Units vest ratably over four years in May of each year starting in the year following the grant.</footnote>
+        <footnote id="F4">The price is based on the closing price on March 1, 2023 of $5.81.</footnote>
+        <footnote id="F5">Balance includes original grants of Restricted Stock Units and dividend equivalents issued in additional Restricted Stock Units.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Mike Barajas, By Barbara Clay, attorney-in-fact</signatureName>
+        <signatureDate>2023-03-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

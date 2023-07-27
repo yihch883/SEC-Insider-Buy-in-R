@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001127602-23-001241.txt : 20230110
+<SEC-HEADER>0001127602-23-001241.hdr.sgml : 20230110
+<ACCEPTANCE-DATETIME>20230110172305
+ACCESSION NUMBER:		0001127602-23-001241
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230109
+FILED AS OF DATE:		20230110
+DATE AS OF CHANGE:		20230110
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			AKINS TERRY LAWSON
+		CENTRAL INDEX KEY:			0001462565
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15185
+		FILM NUMBER:		23521960
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST CONGRESS STREET
+		CITY:			LAFAYETTE
+		STATE:			LA
+		ZIP:			70501
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FIRST HORIZON CORP
+		CENTRAL INDEX KEY:			0000036966
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				620803242
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		165 MADISON AVENUE
+		CITY:			MEMPHIS
+		STATE:			TN
+		ZIP:			38103
+		BUSINESS PHONE:		9018186232
+
+	MAIL ADDRESS:	
+		STREET 1:		165 MADISON AVENUE
+		CITY:			MEMPHIS
+		STATE:			TN
+		ZIP:			38103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST HORIZON NATIONAL CORP
+		DATE OF NAME CHANGE:	20040422
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST TENNESSEE NATIONAL CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST TENNESSEE BANKS INC
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000036966</issuerCik>
+        <issuerName>FIRST HORIZON CORP</issuerName>
+        <issuerTradingSymbol>FHN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001462565</rptOwnerCik>
+            <rptOwnerName>AKINS TERRY LAWSON</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>165 MADISON AVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MEMPHIS</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>38103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Sr. EVP, Chief Risk Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3540</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>24.48</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>131075</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>401(K)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects mandatory withholding of shares to pay withholding taxes associated with vesting of restricted stock award granted previously.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John A. Niemoeller, attorney-in-fact</signatureName>
+        <signatureDate>2023-01-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001437749-23-009543.txt : 20230405
+<SEC-HEADER>0001437749-23-009543.hdr.sgml : 20230405
+<ACCEPTANCE-DATETIME>20230405163410
+ACCESSION NUMBER:		0001437749-23-009543
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230404
+FILED AS OF DATE:		20230405
+DATE AS OF CHANGE:		20230405
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KAVANAUGH SCOTT F
+		CENTRAL INDEX KEY:			0001218975
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39210
+		FILM NUMBER:		23803053
+
+	MAIL ADDRESS:	
+		STREET 1:		25342 DERBYHILL DR.
+		CITY:			LAGUNA HILLS
+		STATE:			CA
+		ZIP:			92653
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NexPoint Real Estate Finance, Inc.
+		CENTRAL INDEX KEY:			0001786248
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				842178264
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 CRESCENT COURT
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		214-276-6300
+
+	MAIL ADDRESS:	
+		STREET 1:		300 CRESCENT COURT
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001786248</issuerCik>
+        <issuerName>NexPoint Real Estate Finance, Inc.</issuerName>
+        <issuerTradingSymbol>NREF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001218975</rptOwnerCik>
+            <rptOwnerName>KAVANAUGH SCOTT F</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>300 CRESCENT COURT, SUITE 700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4274</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4274</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4274</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one share of common stock of NexPoint Real Estate Finance, Inc.</footnote>
+        <footnote id="F2">On April 4, 2023, the reporting person was granted 4,274 restricted stock units which will vest on April 4, 2024. Settlement will generally occur within 10 days of vesting and may at the discretion of the Compensation Committee be settled in cash.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Brian Mitts, as attorney-in-fact for Scott Kavanaugh</signatureName>
+        <signatureDate>2023-04-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

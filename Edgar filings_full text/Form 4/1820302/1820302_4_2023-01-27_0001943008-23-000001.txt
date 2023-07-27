@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001943008-23-000001.txt : 20230127
+<SEC-HEADER>0001943008-23-000001.hdr.sgml : 20230127
+<ACCEPTANCE-DATETIME>20230127155838
+ACCESSION NUMBER:		0001943008-23-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230125
+FILED AS OF DATE:		20230127
+DATE AS OF CHANGE:		20230127
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Elliot Mark Sonbolian
+		CENTRAL INDEX KEY:			0001943008
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39544
+		FILM NUMBER:		23562664
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BAKKT HOLDINGS INC.
+		STREET 2:		10000 AVALON BLVD., SUITE 1000
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30009
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bakkt Holdings, Inc.
+		CENTRAL INDEX KEY:			0001820302
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				981550750
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10000 AVALON BOULEVARD, SUITE 1000
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30009
+		BUSINESS PHONE:		678-534-5849
+
+	MAIL ADDRESS:	
+		STREET 1:		10000 AVALON BOULEVARD, SUITE 1000
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30009
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VPC Impact Acquisition Holdings
+		DATE OF NAME CHANGE:	20200805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001820302</issuerCik>
+        <issuerName>Bakkt Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>BKKT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001943008</rptOwnerCik>
+            <rptOwnerName>Elliot Mark Sonbolian</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BAKKT HOLDINGS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>10000 AVALON BLVD., SUITE 1000</rptOwnerStreet2>
+            <rptOwnerCity>ALPHARETTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30009</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Sales &amp; Mktg Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>16500</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.6939</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>303914</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported on this Form 4 were effectuated pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on 03/11/2022.</footnote>
+        <footnote id="F2">Represents a weighted-average price. These shares were sold in multiple transactions at prices ranging from $1.62 to $1.76, inclusive. For all transactions reported in this Form 4 utilizing a weighted-average price, the reporting person will provide to the issuer, any security holder of the issuer, or the SEC staff, upon request, information regarding the number of shares sold at each price within the range.</footnote>
+        <footnote id="F3">Includes 187,747 shares of Class A Common Stock subject to RSUs that remain subject to vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Marc D'Annunzio Attorney-in-Fact for Mark S. Elliot</signatureName>
+        <signatureDate>2023-01-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

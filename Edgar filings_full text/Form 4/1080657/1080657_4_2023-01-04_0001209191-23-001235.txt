@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001209191-23-001235.txt : 20230104
+<SEC-HEADER>0001209191-23-001235.hdr.sgml : 20230104
+<ACCEPTANCE-DATETIME>20230104173813
+ACCESSION NUMBER:		0001209191-23-001235
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230103
+FILED AS OF DATE:		20230104
+DATE AS OF CHANGE:		20230104
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DURFEY JAMES ROBERT
+		CENTRAL INDEX KEY:			0001797416
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34049
+		FILM NUMBER:		23508332
+
+	MAIL ADDRESS:	
+		STREET 1:		818 BUCCANEER PT.
+		CITY:			DECATUR
+		STATE:			IL
+		ZIP:			62521
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Presidio Property Trust, Inc.
+		CENTRAL INDEX KEY:			0001080657
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				330841255
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4995 MURPHY CANYON ROAD
+		STREET 2:		SUITE 300
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123
+		BUSINESS PHONE:		760-471-8536
+
+	MAIL ADDRESS:	
+		STREET 1:		4995 MURPHY CANYON ROAD
+		STREET 2:		SUITE 300
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NETREIT, INC.
+		DATE OF NAME CHANGE:	20100903
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NETREIT
+		DATE OF NAME CHANGE:	19990225
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001080657</issuerCik>
+        <issuerName>Presidio Property Trust, Inc.</issuerName>
+        <issuerTradingSymbol>SQFT,SQFTP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001797416</rptOwnerCik>
+            <rptOwnerName>DURFEY JAMES ROBERT</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O:  PRESIDIO PROPERTY TRUST, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>4995 MURPHY CANYON RD., SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>SAN DIEGO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92123</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock - Series A</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8117</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.03</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>75044</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted shares granted pursuant to the Company's 2017 Incentive Award Plan.  These shares vest evenly over a three (3) year period at the end of each calendar year.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Waleska Neris, Attorney in fact</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

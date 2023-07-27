@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0001279891-23-000014.txt : 20230518
+<SEC-HEADER>0001279891-23-000014.hdr.sgml : 20230518
+<ACCEPTANCE-DATETIME>20230518171025
+ACCESSION NUMBER:		0001279891-23-000014
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230518
+FILED AS OF DATE:		20230518
+DATE AS OF CHANGE:		20230518
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WOLVERINE ASSET MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001279891
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41081
+		FILM NUMBER:		23937050
+
+	BUSINESS ADDRESS:	
+		STREET 1:		175 W. JACKSON
+		STREET 2:		SUITE 340
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60064
+		BUSINESS PHONE:		3128844400
+
+	MAIL ADDRESS:	
+		STREET 1:		175 WEST JACKSON
+		STREET 2:		SUITE 340
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60604
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Crescera Capital Acquisition Corp.
+		CENTRAL INDEX KEY:			0001851230
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		R. ANIBAL DE MENDONCA
+		STREET 2:		27 - 2 ANDAR IPANEMA
+		CITY:			RIO DE JANEIRO
+		STATE:			D5
+		ZIP:			22410-050
+		BUSINESS PHONE:		55 (21) 3687 1500
+
+	MAIL ADDRESS:	
+		STREET 1:		R. ANIBAL DE MENDONCA
+		STREET 2:		27 - 2 ANDAR IPANEMA
+		CITY:			RIO DE JANEIRO
+		STATE:			D5
+		ZIP:			22410-050
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001851230</issuerCik>
+        <issuerName>Crescera Capital Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>crec</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001279891</rptOwnerCik>
+            <rptOwnerName>WOLVERINE ASSET MANAGEMENT LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>175 WEST JACKSON</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 340</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60604</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Former 10% owner</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20161</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.38</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Wolverine Asset Management, LLC as manager of Wolverine Flagship Fund Trading Limited</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Average price per share.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Kenneth Nadel, Chief Operating Officer</signatureName>
+        <signatureDate>2023-05-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

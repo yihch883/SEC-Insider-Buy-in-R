@@ -1,0 +1,202 @@
+<SEC-DOCUMENT>0001127602-23-012832.txt : 20230412
+<SEC-HEADER>0001127602-23-012832.hdr.sgml : 20230412
+<ACCEPTANCE-DATETIME>20230412153558
+ACCESSION NUMBER:		0001127602-23-012832
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230410
+FILED AS OF DATE:		20230412
+DATE AS OF CHANGE:		20230412
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Van Arsdell Stephen C
+		CENTRAL INDEX KEY:			0001699426
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15817
+		FILM NUMBER:		23815568
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PIERCE PLACE
+		STREET 2:		SUITE 1500
+		CITY:			ITASCA
+		STATE:			IL
+		ZIP:			60143
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OLD NATIONAL BANCORP /IN/
+		CENTRAL INDEX KEY:			0000707179
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				351539838
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MAIN ST
+		CITY:			EVANSVILLE
+		STATE:			IN
+		ZIP:			47708
+		BUSINESS PHONE:		8124641434
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MAIN ST
+		CITY:			EVANSVILLE
+		STATE:			IN
+		ZIP:			47708
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	O
+		DATE OF NAME CHANGE:	19950822
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000707179</issuerCik>
+        <issuerName>OLD NATIONAL BANCORP /IN/</issuerName>
+        <issuerTradingSymbol>ONB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001699426</rptOwnerCik>
+            <rptOwnerName>Van Arsdell Stephen C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE MAIN STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EVANSVILLE</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>47708</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Phantom Stock-FMBI NQ Def Comp Plan-Non-Employee Directors</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>14768</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14768</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock - ONB Directors Deferred Compensation Plan</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1802</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.78</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1802</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1802</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of phantom stock acquired pursuant to the First Midwest Bancorp, Inc. Deferred Compensation Plan for Nonemployee Directors (the &quot;Plan&quot;) as a result of the deferral of quarterly directors fees paid in cash to the participant. The shares of phantom stock represent shares of First Midwest Bancorp, Inc. common stock on a 1-for-1 basis and are payable in cash upon distribution to the participant in accordance with the terms of the Plan.</footnote>
+        <footnote id="F2">Between March 15, 2022 and March 15, 2023, the Reporting Person acquired 623 shares of Old National Bancorp common stock pursuant to the Dividend Reinvestment feature of the Plan.</footnote>
+        <footnote id="F3">Represents shares of phantom stock acquired pursuant to the Old National Bancorp Directors' Deferred Compensation Plan (the &quot;Plan&quot;) for nonemployee directors as a result of the deferral of quarterly director fees paid in cash to the participant. The shares of phantom stock represent shares of Old National Bancorp common stock on a 1-for-1 basis and are payable in cash upon distribution to the participant in accordance with the terms of the Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Sharon K. Brantley, Paralegal, Attorney-in-Fact for Stephen C. Van Arsdelll</signatureName>
+        <signatureDate>2023-04-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

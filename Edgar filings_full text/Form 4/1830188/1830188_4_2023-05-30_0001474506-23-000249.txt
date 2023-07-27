@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001474506-23-000249.txt : 20230530
+<SEC-HEADER>0001474506-23-000249.hdr.sgml : 20230530
+<ACCEPTANCE-DATETIME>20230530180536
+ACCESSION NUMBER:		0001474506-23-000249
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230525
+FILED AS OF DATE:		20230530
+DATE AS OF CHANGE:		20230530
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CLEMENTS JAMES P
+		CENTRAL INDEX KEY:			0001818924
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39936
+		FILM NUMBER:		23978194
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O UNITED COMMUNITY BANKS, INC.
+		STREET 2:		PO BOX 398
+		CITY:			BLAIRSVILLE
+		STATE:			GA
+		ZIP:			30514
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			United Homes Group, Inc.
+		CENTRAL INDEX KEY:			0001830188
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATIVE BUILDERS [1531]
+		IRS NUMBER:				853460766
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		250 PARK AVE. 7TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10177
+		BUSINESS PHONE:		212-572-6260
+
+	MAIL ADDRESS:	
+		STREET 1:		250 PARK AVE. 7TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10177
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DiamondHead Holdings Corp.
+		DATE OF NAME CHANGE:	20201027
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001830188</issuerCik>
+        <issuerName>United Homes Group, Inc.</issuerName>
+        <issuerTradingSymbol>UHG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001818924</rptOwnerCik>
+            <rptOwnerName>CLEMENTS JAMES P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>90 N ROYAL TOWER DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>IRMO</rptOwnerCity>
+            <rptOwnerState>SC</rptOwnerState>
+            <rptOwnerZipCode>29063</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.64</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-05-25</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The option will become exercisable in four equal annual installments beginning on 05/25/2024.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James P. Clements, By Erin Reeves McGinnis through Power of Attorney</signatureName>
+        <signatureDate>2023-05-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

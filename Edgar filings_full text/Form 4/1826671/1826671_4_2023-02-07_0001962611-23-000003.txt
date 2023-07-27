@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001962611-23-000003.txt : 20230207
+<SEC-HEADER>0001962611-23-000003.hdr.sgml : 20230207
+<ACCEPTANCE-DATETIME>20230207174214
+ACCESSION NUMBER:		0001962611-23-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230207
+FILED AS OF DATE:		20230207
+DATE AS OF CHANGE:		20230207
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ross Blake
+		CENTRAL INDEX KEY:			0001962611
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39843
+		FILM NUMBER:		23596294
+
+	MAIL ADDRESS:	
+		STREET 1:		1887 WHITNEY MESA DRIVE
+		STREET 2:		#2070
+		CITY:			HENDERSON
+		STATE:			NV
+		ZIP:			89014
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KLUDEIN I ACQUISITION CORP
+		CENTRAL INDEX KEY:			0001826671
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		855 EL CAMINO REAL NUM 13A-385
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94301
+		BUSINESS PHONE:		4155092370
+
+	MAIL ADDRESS:	
+		STREET 1:		855 EL CAMINO REAL NUM 13A-385
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94301
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-07</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001826671</issuerCik>
+        <issuerName>KLUDEIN I ACQUISITION CORP</issuerName>
+        <issuerTradingSymbol>INKA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001962611</rptOwnerCik>
+            <rptOwnerName>Ross Blake</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1887 WHITNEY MESA DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>#2070</rptOwnerStreet2>
+            <rptOwnerCity>HENDERSON</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89014</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>115109</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.6</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $10.45 to $10.90. The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote (1) to this Form 4.</footnote>
+        <footnote id="F2">The shares are owned by the Blake Ross Family Trust, dated 5/4/2012, for which the reporting person is the trustee and has voting and dispositive power over the shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Blake Ross</signatureName>
+        <signatureDate>2023-02-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

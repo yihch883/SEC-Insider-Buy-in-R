@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001127602-23-012830.txt : 20230412
+<SEC-HEADER>0001127602-23-012830.hdr.sgml : 20230412
+<ACCEPTANCE-DATETIME>20230412152843
+ACCESSION NUMBER:		0001127602-23-012830
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230410
+FILED AS OF DATE:		20230412
+DATE AS OF CHANGE:		20230412
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Salmon Tom
+		CENTRAL INDEX KEY:			0001559208
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15817
+		FILM NUMBER:		23815540
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BERRY PLASTICS GROUP, INC.
+		STREET 2:		101 OAKLEY ST.
+		CITY:			EVANSVILLE
+		STATE:			IN
+		ZIP:			47710
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OLD NATIONAL BANCORP /IN/
+		CENTRAL INDEX KEY:			0000707179
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				351539838
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MAIN ST
+		CITY:			EVANSVILLE
+		STATE:			IN
+		ZIP:			47708
+		BUSINESS PHONE:		8124641434
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MAIN ST
+		CITY:			EVANSVILLE
+		STATE:			IN
+		ZIP:			47708
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	O
+		DATE OF NAME CHANGE:	19950822
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000707179</issuerCik>
+        <issuerName>OLD NATIONAL BANCORP /IN/</issuerName>
+        <issuerTradingSymbol>ONB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001559208</rptOwnerCik>
+            <rptOwnerName>Salmon Tom</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE MAIN STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EVANSVILLE</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>47708</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock - ONB Directors Deferred Compensation Plan</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2496</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.8718</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2496</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28438</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of phantom stock acquired pursuant to the Old National Bancorp Directors' Deferred Compensation Plan (the &quot;Plan&quot;) for nonemployee directors as a result of the deferral of quarterly director fees paid in cash to the participant. The shares of phantom stock represent shares of Old National Bancorp common stock on a 1-for-1 basis and are payable in cash upon distribution to the participant in accordance with the terms of the Plan.</footnote>
+        <footnote id="F2">Between December 15, 2022 and March 15, 2023, the Reporting Person acquired 441 shares of Old National Bancorp common stock pursuant to the Dividend Reinvestment feature of the Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Sharon K. Brantley, Paralegal, Attorney-in-Fact for Thomas E. Salmon</signatureName>
+        <signatureDate>2023-04-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

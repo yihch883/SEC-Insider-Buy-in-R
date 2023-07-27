@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0000899243-23-005099.txt : 20230214
+<SEC-HEADER>0000899243-23-005099.hdr.sgml : 20230214
+<ACCEPTANCE-DATETIME>20230214205520
+ACCESSION NUMBER:		0000899243-23-005099
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230210
+FILED AS OF DATE:		20230214
+DATE AS OF CHANGE:		20230214
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Valani Riaz
+		CENTRAL INDEX KEY:			0001965769
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39463
+		FILM NUMBER:		23633291
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O OUSTER, INC.
+		STREET 2:		350 TREAT AVENUE
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94110
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ouster, Inc.
+		CENTRAL INDEX KEY:			0001816581
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT, NEC [3569]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		350 TREAT AVENUE
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94110
+		BUSINESS PHONE:		(415) 987-6972
+
+	MAIL ADDRESS:	
+		STREET 1:		350 TREAT AVENUE
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Colonnade Acquisition Corp.
+		DATE OF NAME CHANGE:	20200701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001816581</issuerCik>
+        <issuerName>Ouster, Inc.</issuerName>
+        <issuerTradingSymbol>OUST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001965769</rptOwnerCik>
+            <rptOwnerName>Valani Riaz</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>350 TREAT AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94110</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>186254</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>186254</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>975890</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By LLC</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents Company restricted stock units (&quot;RSUs&quot;). Each RSU represents a contingent right to receive one share of the Company's common stock. The RSUs vest as to 1/5 of the the total number of RSUs on each of the first five quarterly anniversaries of the grant date, subject to the Reporting Person's continued service through the applicable vesting date. The RSUs have no expiration date.</footnote>
+        <footnote id="F2">Riaz Valani (the &quot;Reporting Person&quot;) is the sole manager of GAC Acquisition LLC, which owns 975,890 shares of the Company's common stock (the &quot;Shares&quot;). As the sole manager, the Reporting Person has both a pecuniary and voting interest in the Shares.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Megan Chung, as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-02-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

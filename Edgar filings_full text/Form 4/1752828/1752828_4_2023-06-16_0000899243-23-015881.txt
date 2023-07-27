@@ -1,0 +1,221 @@
+<SEC-DOCUMENT>0000899243-23-015881.txt : 20230616
+<SEC-HEADER>0000899243-23-015881.hdr.sgml : 20230616
+<ACCEPTANCE-DATETIME>20230616210327
+ACCESSION NUMBER:		0000899243-23-015881
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230614
+FILED AS OF DATE:		20230616
+DATE AS OF CHANGE:		20230616
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kehler Dean C
+		CENTRAL INDEX KEY:			0001322745
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38914
+		FILM NUMBER:		231023081
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TRIMARAN CAPITAL PARTNERS
+		STREET 2:		622 THIRD AVENUE, 35TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Celularity Inc
+		CENTRAL INDEX KEY:			0001752828
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				831702591
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		170 PARK AVE
+		CITY:			FLORHAM PARK
+		STATE:			NJ
+		ZIP:			07932
+		BUSINESS PHONE:		(908) 768-2170
+
+	MAIL ADDRESS:	
+		STREET 1:		170 PARK AVE
+		CITY:			FLORHAM PARK
+		STATE:			NJ
+		ZIP:			07932
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GX Acquisition Corp.
+		DATE OF NAME CHANGE:	20180912
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001752828</issuerCik>
+        <issuerName>Celularity Inc</issuerName>
+        <issuerTradingSymbol>CELU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001322745</rptOwnerCik>
+            <rptOwnerName>Kehler Dean C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CELULARITY INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>170 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>FLORHAM PARK</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07932</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>199921</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>236066</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.7503</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>277778</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-06-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>277778</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>277778</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares represent restricted stock units (&quot;RSUs&quot;) granted under the Celularity Inc. 2021 Equity Incentive Plan (the &quot;2021 Plan&quot;), with each RSU representing a right to receive one share of the Issuer's Class A common stock.  The RSUs shall vest and become exercisable on the earlier of the one-year anniversary of the date of grant, June 14, 2023, and the next annual stockholder meeting, subject to the Reporting Person's continuous service with the Issuer through such date.</footnote>
+        <footnote id="F2">Includes 199,921 RSUs granted under the 2021 Plan, with each RSU representing a right to receive one share of the Issuer's Class A common stock.  The RSUs shall vest and become exercisable on the earlier of the one-year anniversary of the date of grant, June 14, 2023, and the next annual stockholder meeting, subject to the Reporting Person's continuous service with the Issuer through such date.</footnote>
+        <footnote id="F3">This option was granted under the 2021 Plan and shall vest and become exercisable on the earlier of the one-year anniversary of the date of grant, June 14, 2023, and the next annual stockholder meeting, subject to the Reporting Person's continuous service with the Issuer through such date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Kyle Fletcher, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-06-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

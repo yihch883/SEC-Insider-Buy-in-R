@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001183740-23-000048.txt : 20230324
+<SEC-HEADER>0001183740-23-000048.hdr.sgml : 20230324
+<ACCEPTANCE-DATETIME>20230324181552
+ACCESSION NUMBER:		0001183740-23-000048
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230323
+FILED AS OF DATE:		20230324
+DATE AS OF CHANGE:		20230324
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bridge G Michael
+		CENTRAL INDEX KEY:			0001302200
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38612
+		FILM NUMBER:		23761044
+
+	MAIL ADDRESS:	
+		STREET 1:		14400 N 87TH ST
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85260
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ELECTRAMECCANICA VEHICLES CORP.
+		CENTRAL INDEX KEY:			0001637736
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8057 NORTH FRASER WAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5M8
+		BUSINESS PHONE:		604-428-7656
+
+	MAIL ADDRESS:	
+		STREET 1:		8057 NORTH FRASER WAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5M8
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001637736</issuerCik>
+        <issuerName>ELECTRAMECCANICA VEHICLES CORP.</issuerName>
+        <issuerTradingSymbol>SOLO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001302200</rptOwnerCik>
+            <rptOwnerName>Bridge G Michael</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>15345 N. SCOTTSDALE RD, UNIT 3050</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SCOTTSDALE</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85254</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>General Counsel &amp; Corp. Sec</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Options (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.535</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-03-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>500000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>500000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Granted pursuant to and in accordance with the Issuer's 2022 Stock Incentive Plan.</footnote>
+        <footnote id="F2">Options vest over a 3-year period (one-third on each day that is 1, 2 and 3 years from the date of grant)</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael G Bridge</signatureName>
+        <signatureDate>2023-03-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

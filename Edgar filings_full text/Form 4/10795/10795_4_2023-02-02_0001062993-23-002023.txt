@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001062993-23-002023.txt : 20230202
+<SEC-HEADER>0001062993-23-002023.hdr.sgml : 20230202
+<ACCEPTANCE-DATETIME>20230202180743
+ACCESSION NUMBER:		0001062993-23-002023
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230202
+FILED AS OF DATE:		20230202
+DATE AS OF CHANGE:		20230202
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jones Christopher Ian Montague
+		CENTRAL INDEX KEY:			0001292762
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04802
+		FILM NUMBER:		23582706
+
+	MAIL ADDRESS:	
+		STREET 1:		110, BANBURY ROAD
+		CITY:			OXFORD
+		STATE:			X0
+		ZIP:			OX2 6JU
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BECTON DICKINSON & CO
+		CENTRAL INDEX KEY:			0000010795
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				220760120
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BECTON DR
+		CITY:			FRANKLIN LAKES
+		STATE:			NJ
+		ZIP:			07417-1880
+		BUSINESS PHONE:		2018476800
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BECTON DR
+		CITY:			FRANKLIN LAKE
+		STATE:			NJ
+		ZIP:			07417
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000010795</issuerCik>
+        <issuerName>BECTON DICKINSON &amp; CO</issuerName>
+        <issuerTradingSymbol>BDX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001292762</rptOwnerCik>
+            <rptOwnerName>Jones Christopher Ian Montague</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BECTON, DICKINSON AND COMPANY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>FRANKLIN LAKES</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07417</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Rights to Common Stock Under BD Deferred Compensation Plan</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>205</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>252.22</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>205</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9086</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The securities convert to common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">The securities are distributed following termination of the reporting person's service as a director, or on the date or dates specified by the reporting person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Donna Kalazdy, by power of attorney for Christopher Jones</signatureName>
+        <signatureDate>2023-02-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

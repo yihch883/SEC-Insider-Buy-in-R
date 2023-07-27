@@ -1,0 +1,190 @@
+<SEC-DOCUMENT>0001562180-23-003306.txt : 20230404
+<SEC-HEADER>0001562180-23-003306.hdr.sgml : 20230404
+<ACCEPTANCE-DATETIME>20230404112319
+ACCESSION NUMBER:		0001562180-23-003306
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230404
+DATE AS OF CHANGE:		20230404
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NIELSEN RAYMOND A
+		CENTRAL INDEX KEY:			0001194348
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1230
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34096
+		FILM NUMBER:		23795807
+
+	MAIL ADDRESS:	
+		STREET 1:		BRIDGE BANCORP INC
+		STREET 2:		2200 MONTAUK HIGHWAY
+		CITY:			BRIDGEHAMPTON
+		STATE:			NY
+		ZIP:			11932
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Dime Community Bancshares, Inc. /NY/
+		CENTRAL INDEX KEY:			0000846617
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				112934195
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		898 VETERANS MEMORIAL HIGHWAY
+		STREET 2:		SUITE 560
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+		BUSINESS PHONE:		6315371000
+
+	MAIL ADDRESS:	
+		STREET 1:		898 VETERANS MEMORIAL HIGHWAY
+		STREET 2:		SUITE 560
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRIDGE BANCORP, INC.
+		DATE OF NAME CHANGE:	20190819
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRIDGE BANCORP INC
+		DATE OF NAME CHANGE:	19940715
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-31</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000846617</issuerCik>
+        <issuerName>Dime Community Bancshares, Inc. /NY/</issuerName>
+        <issuerTradingSymbol>DCOM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001194348</rptOwnerCik>
+            <rptOwnerName>NIELSEN RAYMOND A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>898 VETERANS MEMORIAL  HIGHWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 560</rptOwnerStreet2>
+            <rptOwnerCity>HAUPPAUGE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>11788</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2463.00</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>40109.683</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>520.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Wife</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted Stock Award.  Award cliff vests on the one year anniversary of the date of grant.</footnote>
+        <footnote id="F2">Reflects transactions not required to be reported pursuant to the Securities Exchange Act of 1934, as amended.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Alexandra Weeks, as attorney-in-fact</signatureName>
+        <signatureDate>2023-04-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

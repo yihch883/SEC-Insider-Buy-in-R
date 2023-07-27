@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001753926-23-000074.txt : 20230123
+<SEC-HEADER>0001753926-23-000074.hdr.sgml : 20230123
+<ACCEPTANCE-DATETIME>20230123210614
+ACCESSION NUMBER:		0001753926-23-000074
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230119
+FILED AS OF DATE:		20230123
+DATE AS OF CHANGE:		20230123
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Le Truc
+		CENTRAL INDEX KEY:			0001940176
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36747
+		FILM NUMBER:		23545659
+
+	MAIL ADDRESS:	
+		STREET 1:		1905 WEST RED FOX ROAD
+		CITY:			SANTA ANA
+		STATE:			CA
+		ZIP:			92704
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vivani Medical, Inc.
+		CENTRAL INDEX KEY:			0001266806
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS [3845]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5858 HORTON STREET, SUITE 280
+		CITY:			EMERYVILLE
+		STATE:			CA
+		ZIP:			94608
+		BUSINESS PHONE:		818-833-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		5858 HORTON STREET, SUITE 280
+		CITY:			EMERYVILLE
+		STATE:			CA
+		ZIP:			94608
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SECOND SIGHT MEDICAL PRODUCTS INC
+		DATE OF NAME CHANGE:	20031010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-19</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001266806</issuerCik>
+        <issuerName>Vivani Medical, Inc.</issuerName>
+        <issuerTradingSymbol>VANI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001940176</rptOwnerCik>
+            <rptOwnerName>Le Truc</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O 5858 HORTON ST, SUITE 280</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EMERYVILLE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94608</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>COO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Common Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.27</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-19</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>160000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2024-01-19</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-01-19</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>160000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>160000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The stock options have a 10-year term and vest 25% at one-year and monthly for 36 months thereafter on an equal basis.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Truc Le</signatureName>
+        <signatureDate>2023-01-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

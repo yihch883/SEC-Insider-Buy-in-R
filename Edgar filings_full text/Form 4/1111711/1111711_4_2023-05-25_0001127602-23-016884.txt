@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001127602-23-016884.txt : 20230525
+<SEC-HEADER>0001127602-23-016884.hdr.sgml : 20230525
+<ACCEPTANCE-DATETIME>20230525164456
+ACCESSION NUMBER:		0001127602-23-016884
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230523
+FILED AS OF DATE:		20230525
+DATE AS OF CHANGE:		20230525
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Candris Aristides S
+		CENTRAL INDEX KEY:			0001547949
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16189
+		FILM NUMBER:		23961528
+
+	MAIL ADDRESS:	
+		STREET 1:		801 E. 86TH AVENUE
+		CITY:			MERRILLVILLE
+		STATE:			IN
+		ZIP:			46410
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NISOURCE INC.
+		CENTRAL INDEX KEY:			0001111711
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		IRS NUMBER:				352108964
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		801 EAST 86TH AVE
+		CITY:			MERRILLVILLE
+		STATE:			IN
+		ZIP:			46410-6272
+		BUSINESS PHONE:		2196475200
+
+	MAIL ADDRESS:	
+		STREET 1:		801 EAST 86TH AVE
+		CITY:			MERRILLVILLE
+		STATE:			IN
+		ZIP:			46410-6272
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NISOURCE INC/DE
+		DATE OF NAME CHANGE:	20001103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEW NISOURCE INC
+		DATE OF NAME CHANGE:	20000412
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-23</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001111711</issuerCik>
+        <issuerName>NISOURCE INC.</issuerName>
+        <issuerTradingSymbol>NI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001547949</rptOwnerCik>
+            <rptOwnerName>Candris Aristides S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>801 E. 86TH AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MERRILLVILLE</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>46410</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6031</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>27.36</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>76437.456</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents an award of restricted stock units (&quot;RSU&quot;) granted as part of the non-employee director's annual compensation and which vests in full on the last day of the director's annual term for which the RSUs are awarded, subject to certain acceleration conditions. RSUs represent a contingent right to receive one share of the Company's common stock upon vesting pursuant to the Company's 2020 Omnibus Plan.</footnote>
+        <footnote id="F2">This amount includes RSUs received pursuant to the dividend equivalent provisions of the RSU awards, and which are subject to the same vesting conditions as the underlying RSUs.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Kimberly S. Cuccia, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-05-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

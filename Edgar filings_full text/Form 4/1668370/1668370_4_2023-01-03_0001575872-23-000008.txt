@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001575872-23-000008.txt : 20230103
+<SEC-HEADER>0001575872-23-000008.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103094400
+ACCESSION NUMBER:		0001575872-23-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221228
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Keeler Joshua
+		CENTRAL INDEX KEY:			0001690327
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38739
+		FILM NUMBER:		23500597
+
+	MAIL ADDRESS:	
+		STREET 1:		655 NORTH CENTRAL AVE
+		STREET 2:		1727
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91203
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Toughbuilt Industries, Inc
+		CENTRAL INDEX KEY:			0001668370
+		STANDARD INDUSTRIAL CLASSIFICATION:	CUTLERY, HANDTOOLS & GENERAL HARDWARE [3420]
+		IRS NUMBER:				460820877
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		25371 COMMERCENTRE DRIVE
+		STREET 2:		SUITE 200
+		CITY:			LAKE FOREST
+		STATE:			CA
+		ZIP:			92630
+		BUSINESS PHONE:		(949) 528-3100
+
+	MAIL ADDRESS:	
+		STREET 1:		25371 COMMERCENTRE DRIVE
+		STREET 2:		SUITE 200
+		CITY:			LAKE FOREST
+		STATE:			CA
+		ZIP:			92630
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001668370</issuerCik>
+        <issuerName>Toughbuilt Industries, Inc</issuerName>
+        <issuerTradingSymbol>TBLT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001690327</rptOwnerCik>
+            <rptOwnerName>Keeler Joshua</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>8669 RESEARCH DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>IRVINE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92618</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Design Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Incentive Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.79</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-12-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>360000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0001</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2022-12-28</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2032-12-28</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>360000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>360000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Fifty percent (50%) of the option vests on the grant date; with remaining fifty percent (50%) vesting in equal installments on the last day of each of the thirty-six (36) full calendar months thereafter, which may be exercised in lots of a minimum of two hundred (200) shares of the Company's common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Josh Keeler</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001209191-23-019276.txt : 20230316
+<SEC-HEADER>0001209191-23-019276.hdr.sgml : 20230316
+<ACCEPTANCE-DATETIME>20230316161521
+ACCESSION NUMBER:		0001209191-23-019276
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230314
+FILED AS OF DATE:		20230316
+DATE AS OF CHANGE:		20230316
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Schwartz Mark Joseph
+		CENTRAL INDEX KEY:			0001494796
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39453
+		FILM NUMBER:		23738984
+
+	MAIL ADDRESS:	
+		STREET 1:		4104 24TH STREET #345
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94114
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Markforged Holding Corp
+		CENTRAL INDEX KEY:			0001816613
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		480 PLEASANT STREET
+		CITY:			WATERTOWN
+		STATE:			MA
+		ZIP:			02472
+		BUSINESS PHONE:		(866) 496-1805
+
+	MAIL ADDRESS:	
+		STREET 1:		480 PLEASANT STREET
+		CITY:			WATERTOWN
+		STATE:			MA
+		ZIP:			02472
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	one
+		DATE OF NAME CHANGE:	20200701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001816613</issuerCik>
+        <issuerName>Markforged Holding Corp</issuerName>
+        <issuerTradingSymbol>MKFG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001494796</rptOwnerCik>
+            <rptOwnerName>Schwartz Mark Joseph</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O MARKFORGED HOLDING CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>480 PLEASANT STREET</rptOwnerStreet2>
+            <rptOwnerCity>WATERTOWN</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02472</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.97</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1023446</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on September 14, 2021.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. The shares were sold in multiple transactions at prices ranging from $0.95 to $1.02, inclusive. The reporting person undertakes to provide to the issuer, any stockholder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephen Karp, as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-03-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

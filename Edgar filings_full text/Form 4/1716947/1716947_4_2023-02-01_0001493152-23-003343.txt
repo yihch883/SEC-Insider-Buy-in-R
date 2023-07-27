@@ -1,0 +1,219 @@
+<SEC-DOCUMENT>0001493152-23-003343.txt : 20230201
+<SEC-HEADER>0001493152-23-003343.hdr.sgml : 20230201
+<ACCEPTANCE-DATETIME>20230201180645
+ACCESSION NUMBER:		0001493152-23-003343
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221209
+FILED AS OF DATE:		20230201
+DATE AS OF CHANGE:		20230201
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GOWER BOB G
+		CENTRAL INDEX KEY:			0001136466
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38306
+		FILM NUMBER:		23578122
+
+	MAIL ADDRESS:	
+		STREET 1:		402 TIMBERWILDE LANE
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77024
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ensysce Biosciences, Inc.
+		CENTRAL INDEX KEY:			0001716947
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				822755287
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7946 IVANHOE AVENUE
+		STREET 2:		SUITE 201
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+		BUSINESS PHONE:		(858) 263-4196
+
+	MAIL ADDRESS:	
+		STREET 1:		7946 IVANHOE AVENUE
+		STREET 2:		SUITE 201
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Leisure Acquisition Corp.
+		DATE OF NAME CHANGE:	20170913
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001716947</issuerCik>
+        <issuerName>Ensysce Biosciences, Inc.</issuerName>
+        <issuerTradingSymbol>ENSC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001136466</rptOwnerCik>
+            <rptOwnerName>GOWER BOB G</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ENSYSCE BIOSCIENCES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>7946 IVANHOE AVENUE, SUITE 201</rptOwnerStreet2>
+            <rptOwnerCity>LA JOLLA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92037</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>357143</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.40</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>753095</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.40</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-12-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>714286</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-12-09</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>714286</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>716365</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On October 28, 2022, Ensysce Biosciences, Inc. (the &quot;Company&quot;), pursuant to an amendment to the Company's Third Amended and Restated Certificate of Incorporation, effectuated a one-for-twenty reverse stock split of the Company's common stock, par value $0.0001 (the &quot;Common Stock&quot;).</footnote>
+        <footnote id="F2">On December 9, 2022, Mr. Gower purchased 357,143 shares of Common Stock at a price of $1.40 per share.</footnote>
+        <footnote id="F3">On December 9, 2022, Mr. Gower purchased 357,143 warrants to purchase 714,286 shares of Common Stock with an exercise price of $1.40 per share (the &quot;Warrants&quot;) in an underwritten offering further described on the Company's Prospectus filed pursuant to Rule 424(b)(4) (File No. 333-268038) filed with the Commission on December 9, 2022. The Warrants are immediately exercisable and may be exercised until five years from the date of issuance.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Bob G Gower</signatureName>
+        <signatureDate>2023-02-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

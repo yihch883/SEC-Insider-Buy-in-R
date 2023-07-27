@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001225208-23-004950.txt : 20230424
+<SEC-HEADER>0001225208-23-004950.hdr.sgml : 20230424
+<ACCEPTANCE-DATETIME>20230424165151
+ACCESSION NUMBER:		0001225208-23-004950
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230420
+FILED AS OF DATE:		20230424
+DATE AS OF CHANGE:		20230424
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bridges Dorothy J
+		CENTRAL INDEX KEY:			0001754491
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06880
+		FILM NUMBER:		23840702
+
+	MAIL ADDRESS:	
+		STREET 1:		800 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			US BANCORP \DE\
+		CENTRAL INDEX KEY:			0000036104
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				410255900
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		U.S. BANCORP
+		STREET 2:		800 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402-7020
+		BUSINESS PHONE:		651-466-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		U.S. BANCORP
+		STREET 2:		800 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402-7020
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST BANK SYSTEM INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST BANK STOCK CORP
+		DATE OF NAME CHANGE:	19720317
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000036104</issuerCik>
+        <issuerName>US BANCORP \DE\</issuerName>
+        <issuerTradingSymbol>USB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001754491</rptOwnerCik>
+            <rptOwnerName>Bridges Dorothy J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O U.S. BANCORP</rptOwnerStreet1>
+            <rptOwnerStreet2>800 NICOLLET MALL</rptOwnerStreet2>
+            <rptOwnerCity>MINNEAPOLIS</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55402</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5035.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-04-20</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, $0.01 par value</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5035.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5035.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock units convert into common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">The restricted stock units were fully vested at the time of grant. Units are payable in common stock when the reporting person ceases to serve on the Board of Directors and is not providing services to the Company as an independent contractor, except that all units are forfeited if the holder's service is terminated for cause.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>James L. Chosy by power of attorney for Dorothy J. Bridges</signatureName>
+        <signatureDate>2023-04-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

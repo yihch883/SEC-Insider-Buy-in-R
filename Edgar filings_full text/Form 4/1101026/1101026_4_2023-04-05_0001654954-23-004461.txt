@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001654954-23-004461.txt : 20230405
+<SEC-HEADER>0001654954-23-004461.hdr.sgml : 20230405
+<ACCEPTANCE-DATETIME>20230405171044
+ACCESSION NUMBER:		0001654954-23-004461
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230403
+FILED AS OF DATE:		20230405
+DATE AS OF CHANGE:		20230405
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PAYNE JOHN BERNARD
+		CENTRAL INDEX KEY:			0001582392
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40449
+		FILM NUMBER:		23803423
+
+	MAIL ADDRESS:	
+		STREET 1:		9900 NE 114TH CIRCLE
+		CITY:			VANCOUVER
+		STATE:			WA
+		ZIP:			98662
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Zivo Bioscience, Inc.
+		CENTRAL INDEX KEY:			0001101026
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				870699977
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		21 E. LONG LAKE ROAD
+		STREET 2:		SUITE 100
+		CITY:			BLOOMFIELD HILLS
+		STATE:			MI
+		ZIP:			48304
+		BUSINESS PHONE:		(248) 452 9866
+
+	MAIL ADDRESS:	
+		STREET 1:		21 E. LONG LAKE ROAD
+		STREET 2:		SUITE 100
+		CITY:			BLOOMFIELD HILLS
+		STATE:			MI
+		ZIP:			48304
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HEALTH ENHANCEMENT PRODUCTS INC
+		DATE OF NAME CHANGE:	20040202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WESTERN GLORY HOLE INC
+		DATE OF NAME CHANGE:	19991215
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>section16.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001101026</issuerCik>
+        <issuerName>Zivo Bioscience, Inc.</issuerName>
+        <issuerTradingSymbol>ZIVO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001582392</rptOwnerCik>
+            <rptOwnerName>PAYNE JOHN BERNARD</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>9900 NE 114TH CIRCLE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>VANCOUVER</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98662</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Common Stock Purchase Warrant</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.91</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>390000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-04-03</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-04-02</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>390000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>390000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The warrant was issued in connection with a private placement and purchase of a promissory note by Mr. Payne in the principal amount of $1,000,000.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John B. Payne</signatureName>
+        <signatureDate>2023-04-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

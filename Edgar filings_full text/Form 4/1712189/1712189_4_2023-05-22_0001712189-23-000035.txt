@@ -1,0 +1,242 @@
+<SEC-DOCUMENT>0001712189-23-000035.txt : 20230522
+<SEC-HEADER>0001712189-23-000035.hdr.sgml : 20230522
+<ACCEPTANCE-DATETIME>20230522163929
+ACCESSION NUMBER:		0001712189-23-000035
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230521
+FILED AS OF DATE:		20230522
+DATE AS OF CHANGE:		20230522
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Vlacich Jason Paul
+		CENTRAL INDEX KEY:			0001763039
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38343
+		FILM NUMBER:		23945115
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TARGET HOSPITALITY
+		STREET 2:		2170 BUCKTHORNE PLACE, SUITE 440
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Target Hospitality Corp.
+		CENTRAL INDEX KEY:			0001712189
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS, ROOMING HOUSE, CAMPS & OTHER LODGING PLACES [7000]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9320 LAKESIDE BLVD.
+		STREET 2:		SUITE 300
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+		BUSINESS PHONE:		832 709-2563
+
+	MAIL ADDRESS:	
+		STREET 1:		9320 LAKESIDE BLVD.
+		STREET 2:		SUITE 300
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Platinum Eagle Acquisition Corp.
+		DATE OF NAME CHANGE:	20170718
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001712189</issuerCik>
+        <issuerName>Target Hospitality Corp.</issuerName>
+        <issuerTradingSymbol>TH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001763039</rptOwnerCik>
+            <rptOwnerName>Vlacich Jason Paul</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>9320 LAKESIDE BLVD., STE 300</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>THE WOODLANDS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77381</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>Chief Accounting Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2309</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>24557</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>908</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.6</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>23649</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2309</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2309</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>74229</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Restricted Stock Unit represents a contingent right to receive upon vesting one share of common stock of the Issuer, par value $0.0001 per share (&quot;Common Stock&quot;), or its cash equivalent.</footnote>
+        <footnote id="F2">Restricted stock units withheld for payment of tax liability upon vesting of 2,309 RSUs on 05/21/2023.  Stock price reflects closing stock price as of May 19, 2023, the last business day prior to vest.</footnote>
+        <footnote id="F3">Total includes unvested RSUs from the following grants: 7,692 RSUs granted on March 1, 2023 which vest in four equal installments on each of the first four anniversaries of the grant date beginning on March 1, 2024; 49,834 RSUs granted on February 24, 2022 which vest in four equal installments on each of the first four anniversaries of the grant date beginning on February 24, 2023; 47,619 RSUs granted on February 25, 2021 which vest 50% on the second anniversary of the grant date and the remaining 50% on the third anniversary of the grant date; and 21,414 RSUs granted on March 4, 2020 which vest in four equal installments on each of the first four anniversaries of the grant date beginning on March 4, 2021.  Awards are subject to the terms of the respective RSU award agreements and subject to the Target Hospitality Corp. 2019 Incentive Award Plan, as amended.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Heidi D. Lewis, as Attorney-in-Fact on behalf of Jason Vlacich</signatureName>
+        <signatureDate>2023-05-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

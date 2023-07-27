@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001835378-23-000103.txt : 20230608
+<SEC-HEADER>0001835378-23-000103.hdr.sgml : 20230608
+<ACCEPTANCE-DATETIME>20230608161914
+ACCESSION NUMBER:		0001835378-23-000103
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230607
+FILED AS OF DATE:		20230608
+DATE AS OF CHANGE:		20230608
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hughes Brian F.
+		CENTRAL INDEX KEY:			0001825326
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40048
+		FILM NUMBER:		231002167
+
+	MAIL ADDRESS:	
+		STREET 1:		124 COLONIAL RIDGE DRIVE
+		CITY:			HADDONFIELD
+		STATE:			NJ
+		ZIP:			08033
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Innovid Corp.
+		CENTRAL INDEX KEY:			0001835378
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 IRVING PLACE, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+		BUSINESS PHONE:		2129667555
+
+	MAIL ADDRESS:	
+		STREET 1:		30 IRVING PLACE, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ION Acquisition Corp 2 Ltd.
+		DATE OF NAME CHANGE:	20201207
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-07</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001835378</issuerCik>
+        <issuerName>Innovid Corp.</issuerName>
+        <issuerTradingSymbol>CTV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001825326</rptOwnerCik>
+            <rptOwnerName>Hughes Brian F.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O INNOVID CORP</rptOwnerStreet1>
+            <rptOwnerStreet2>30 IRVING PLACE, 12TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10003</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>147059</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>414293</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units, 100% of which will vest on the earlier of (i) June 7, 2024, or (ii) the date of the next annual meeting of stockholders of the Issuer, subject to the Reporting Person's continued service to the Issuer. Each restricted stock unit represents a contingent right to receive one share of the Issuer's common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Nick Williams, Attorney-in-fact For: Brian Hughes</signatureName>
+        <signatureDate>2023-06-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

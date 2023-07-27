@@ -1,0 +1,148 @@
+<SEC-DOCUMENT>0001062993-23-001666.txt : 20230131
+<SEC-HEADER>0001062993-23-001666.hdr.sgml : 20230131
+<ACCEPTANCE-DATETIME>20230131151713
+ACCESSION NUMBER:		0001062993-23-001666
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230127
+FILED AS OF DATE:		20230131
+DATE AS OF CHANGE:		20230131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Dyer Slade
+		CENTRAL INDEX KEY:			0001955934
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53767
+		FILM NUMBER:		23572258
+
+	MAIL ADDRESS:	
+		STREET 1:		33219 BROWN CRESCENT
+		CITY:			MISSION
+		STATE:			A1
+		ZIP:			V2V 2R3
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Wolverine Resources Corp.
+		CENTRAL INDEX KEY:			0001424404
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0531
+
+	BUSINESS ADDRESS:	
+		STREET 1:		UNIT #55, 11020 WILLIAMS ROAD
+		CITY:			RICHMOND
+		STATE:			A1
+		ZIP:			V7A 1X8
+		BUSINESS PHONE:		(778) 297-4409
+
+	MAIL ADDRESS:	
+		STREET 1:		UNIT #55, 11020 WILLIAMS ROAD
+		CITY:			RICHMOND
+		STATE:			A1
+		ZIP:			V7A 1X8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Wolverine Technologies Corp.
+		DATE OF NAME CHANGE:	20150811
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Wolverine Exploration Inc.
+		DATE OF NAME CHANGE:	20080118
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001424404</issuerCik>
+        <issuerName>Wolverine Resources Corp.</issuerName>
+        <issuerTradingSymbol>WOLV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001955934</rptOwnerCik>
+            <rptOwnerName>Dyer Slade</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>33219 BROWN CRESCENT</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MISSION</rptOwnerCity>
+            <rptOwnerState>A1</rptOwnerState>
+            <rptOwnerZipCode>V2V 2R3</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRITISH COLUMBIA, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>400000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.02</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1190000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Slade Dyer</signatureName>
+        <signatureDate>2023-01-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

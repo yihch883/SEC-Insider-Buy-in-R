@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001213900-23-026311.txt : 20230403
+<SEC-HEADER>0001213900-23-026311.hdr.sgml : 20230403
+<ACCEPTANCE-DATETIME>20230403162253
+ACCESSION NUMBER:		0001213900-23-026311
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230403
+DATE AS OF CHANGE:		20230403
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PARSONS GARY
+		CENTRAL INDEX KEY:			0001259114
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40985
+		FILM NUMBER:		23792963
+
+	MAIL ADDRESS:	
+		STREET 1:		1775 TYSONS BLVD., 5TH FLOOR
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEXTNAV INC.
+		CENTRAL INDEX KEY:			0001865631
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1775 TYSONS BLVD., 5TH FLOOR
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+		BUSINESS PHONE:		800-775-0982
+
+	MAIL ADDRESS:	
+		STREET 1:		1775 TYSONS BLVD., 5TH FLOOR
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Spartacus Acquisition Shelf Corp.
+		DATE OF NAME CHANGE:	20210603
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001865631</issuerCik>
+        <issuerName>NEXTNAV INC.</issuerName>
+        <issuerTradingSymbol>NN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001259114</rptOwnerCik>
+            <rptOwnerName>PARSONS GARY</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1775 TYSONS BLVD., 5TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MCLEAN</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14302</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1334191</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>143541</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a grant of unrestricted shares.</footnote>
+        <footnote id="F2">Represents common stock held by the Parsons Family Generation Skipping Trust, of which Gary Parsons's spouse is the sole trustee. The Reporting Person disclaims beneficial ownership of these securities, and the filing of this report is not an admission that the Reporting Person is the beneficial owner of these securities for purposes of Section 16 or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christian Gates by power of attorney</signatureName>
+        <signatureDate>2023-04-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

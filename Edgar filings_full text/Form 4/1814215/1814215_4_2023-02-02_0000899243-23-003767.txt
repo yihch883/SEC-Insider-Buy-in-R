@@ -1,0 +1,287 @@
+<SEC-DOCUMENT>0000899243-23-003767.txt : 20230202
+<SEC-HEADER>0000899243-23-003767.hdr.sgml : 20230202
+<ACCEPTANCE-DATETIME>20230202210237
+ACCESSION NUMBER:		0000899243-23-003767
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230131
+FILED AS OF DATE:		20230202
+DATE AS OF CHANGE:		20230202
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Zediker Mark
+		CENTRAL INDEX KEY:			0001952797
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39489
+		FILM NUMBER:		23583455
+
+	MAIL ADDRESS:	
+		STREET 1:		7442 SOUTH TUCSON WAY
+		STREET 2:		#130
+		CITY:			CENTENNIAL
+		STATE:			CO
+		ZIP:			80112
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nuburu, Inc.
+		CENTRAL INDEX KEY:			0001814215
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7442 S TUSCON WAY
+		STREET 2:		SUITE 130
+		CITY:			CENTENNIAL
+		STATE:			CO
+		ZIP:			80112
+		BUSINESS PHONE:		(720) 767-1400
+
+	MAIL ADDRESS:	
+		STREET 1:		7442 S TUSCON WAY
+		STREET 2:		SUITE 130
+		CITY:			CENTENNIAL
+		STATE:			CO
+		ZIP:			80112
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tailwind Acquisition Corp.
+		DATE OF NAME CHANGE:	20200604
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001814215</issuerCik>
+        <issuerName>Nuburu, Inc.</issuerName>
+        <issuerTradingSymbol>BURU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001952797</rptOwnerCik>
+            <rptOwnerName>Zediker Mark</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NUBURU, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>7442 S TUCSON WAY, SUITE 130</rptOwnerStreet2>
+            <rptOwnerCity>CENTENNIAL</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80112</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4308203</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4308203</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.86</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>998946</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2021-08-01</value>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-10-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>998946</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>998946</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.36</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5153</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2018-04-01</value>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-04-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5153</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5153</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of securities acquired in connection with the transactions consummated on January 31, 2023 pursuant to that certain Business Combination Agreement, dated August 5, 2022 (as it has been and may be amended, supplemented or otherwise modified from time to time, the &quot;Business Combination Agreement&quot;), by and among Nuburu, Inc. (f/k/a Tailwind Acquisition Corp.) (the &quot;Issuer&quot;), Compass Merger Sub, Inc., a wholly owned subsidiary of the Issuer (&quot;Merger Sub&quot;), and Nuburu Subsidiary, Inc. (&quot;Legacy Nuburu&quot;), pursuant to which Merger Sub merged with and into Legacy Nuburu, with Legacy Nuburu as the surviving company and continuing as a wholly owned subsidiary of the Issuer (the &quot;Business Combination&quot;).</footnote>
+        <footnote id="F2">In connection with the closing of the Business Combination, each share of Legacy Nuburu common stock, par value $0.0001 per share (&quot;Legacy Nuburu Common Stock&quot;), issued and outstanding immediately prior to the effective time of the merger was canceled and converted into the right to receive the number of shares of Common Stock of the Issuer equal to an exchange ratio calculated at closing (the &quot;Common Stock Exchange Ratio&quot;).</footnote>
+        <footnote id="F3">1/4th of the shares subject to the option became vested and exercisable on the Exercisable Date set forth above, and 1/48th vested or will vest each month thereafter on the same day of the month subject to Dr. Zediker continuing to serve as a service provider to the Issuer through the applicable vesting date.</footnote>
+        <footnote id="F4">In connection with the closing of the Business Combination, each outstanding option to purchase shares of Legacy Nuburu Common Stock, whether vested or unvested, was exchanged for comparable options to purchase Common Stock based on the Common Stock Exchange Ratio.</footnote>
+        <footnote id="F5">100% of the shares subject to the option became vested and exercisable on the Exercisable Date set forth above.</footnote>
+        <footnote id="F6">The option is held directly by Dr. Zediker's spouse. Dr. Zediker may be deemed to share voting and investment control over the option; however, Dr. Zediker disclaims beneficial ownership of the option except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/ s/ Brian Knaley, by power of attorney on behalf of Mark Zediker</signatureName>
+        <signatureDate>2023-02-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

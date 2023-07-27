@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001628280-23-014979.txt : 20230502
+<SEC-HEADER>0001628280-23-014979.hdr.sgml : 20230502
+<ACCEPTANCE-DATETIME>20230502204124
+ACCESSION NUMBER:		0001628280-23-014979
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230428
+FILED AS OF DATE:		20230502
+DATE AS OF CHANGE:		20230502
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SMITH STEPHEN M
+		CENTRAL INDEX KEY:			0001185340
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40074
+		FILM NUMBER:		23881341
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Movella Holdings Inc.
+		CENTRAL INDEX KEY:			0001839132
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3535 EXECUTIVE TERMINAL DRIVE
+		STREET 2:		SUITE 110
+		CITY:			HENDERSON
+		STATE:			NV
+		ZIP:			89052
+		BUSINESS PHONE:		310-481-1800
+
+	MAIL ADDRESS:	
+		STREET 1:		3535 EXECUTIVE TERMINAL DRIVE
+		STREET 2:		SUITE 110
+		CITY:			HENDERSON
+		STATE:			NV
+		ZIP:			89052
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Pathfinder Acquisition Corp
+		DATE OF NAME CHANGE:	20210106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Arrowhead Growth Acquisition Corp
+		DATE OF NAME CHANGE:	20210105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_168307447197468.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001839132</issuerCik>
+        <issuerName>Movella Holdings Inc.</issuerName>
+        <issuerTradingSymbol>MVLA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001185340</rptOwnerCik>
+            <rptOwnerName>SMITH STEPHEN M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3535 EXECUTIVE TERMINAL DRIVE, SUITE 110</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HENDERSON</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89052</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee stock option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.36</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>166807</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-04-28</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>166807.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>166807</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The option vests in thirty-six equal monthly installments beginning on April 28, 2023.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Dennis Calderon, Attorney-in-fact for
+Stephen M. Smith</signatureName>
+        <signatureDate>2023-05-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,211 @@
+<SEC-DOCUMENT>0001567619-23-004127.txt : 20230302
+<SEC-HEADER>0001567619-23-004127.hdr.sgml : 20230302
+<ACCEPTANCE-DATETIME>20230302122905
+ACCESSION NUMBER:		0001567619-23-004127
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230228
+FILED AS OF DATE:		20230302
+DATE AS OF CHANGE:		20230302
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Huestis Timothy Howard
+		CENTRAL INDEX KEY:			0001799319
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39309
+		FILM NUMBER:		23697467
+
+	MAIL ADDRESS:	
+		STREET 1:		150 3RD AVENUE SOUTH STE 900
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PINNACLE FINANCIAL PARTNERS INC
+		CENTRAL INDEX KEY:			0001115055
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				621812853
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 THIRD AVENUE SOUTH
+		STREET 2:		SUITE 900
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37201
+		BUSINESS PHONE:		6157443700
+
+	MAIL ADDRESS:	
+		STREET 1:		150 THIRD AVENUE SOUTH
+		STREET 2:		SUITE 900
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001115055</issuerCik>
+        <issuerName>PINNACLE FINANCIAL PARTNERS INC</issuerName>
+        <issuerTradingSymbol>PNFP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001799319</rptOwnerCik>
+            <rptOwnerName>Huestis Timothy Howard</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>150 THIRD AVENUE SOUTH</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 900</rptOwnerStreet2>
+            <rptOwnerCity>NASHVILLE</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>37201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Credit Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>PNFP Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>650</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>00.00</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6768</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>PNFP Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>159</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>74.93</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6609</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>PNFP Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>820</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>401K Plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On January 24, 2018, the reporting person was granted 650 performance units eligible to vest at target levels of performance(with vesting of more or less units possible based on actual performance) based on the extent to which certain ROATA metrics were met for 2018, 2019 and 2020 and so long as the ratio of Pinnacle Bank's nonperforming assets to its loans plus other real estate owned (&quot;NPA ratio&quot;) at December 31, 2022 was not greater than 3.00%.Based upon the performance of Pinnacle Financial Partners, Inc.(the &quot;Company&quot;) for 2018, 2019 and 2020 and the NPA ratio at December 31, 2022, as reflected in the Company's Annual Report on Form 10-K for 2022, the reporting person earned 650 performance units, which units vested and were settled in 650 shares of Company common stock. As described in footnote 3, a portion of those 650 shares of common stock were retained by the Company to cover withholding taxes owed by the reporting person.</footnote>
+        <footnote id="F2">Performance units are settled in shares of common stock on a one-for-one basis. Accordingly, no purchase price was paid for the shares by the reporting person.</footnote>
+        <footnote id="F3">Represents shares retained by the Company to cover withholding taxes due upon the vesting of the performance units and issuance of the common shares described in footnote 1.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Timothy Howard Huestis</signatureName>
+        <signatureDate>2023-03-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

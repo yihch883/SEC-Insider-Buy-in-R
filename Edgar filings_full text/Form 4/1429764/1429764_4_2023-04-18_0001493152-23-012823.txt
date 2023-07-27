@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001493152-23-012823.txt : 20230418
+<SEC-HEADER>0001493152-23-012823.hdr.sgml : 20230418
+<ACCEPTANCE-DATETIME>20230418180017
+ACCESSION NUMBER:		0001493152-23-012823
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230414
+FILED AS OF DATE:		20230418
+DATE AS OF CHANGE:		20230418
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RAMA MICHAEL P
+		CENTRAL INDEX KEY:			0001253554
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38392
+		FILM NUMBER:		23827979
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AVATAR HOLDINGS INC
+		STREET 2:		201 ALHAMBRA CIRCLE 12TH FLOOR
+		CITY:			CORAL GABLES
+		STATE:			FL
+		ZIP:			33134
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Blink Charging Co.
+		CENTRAL INDEX KEY:			0001429764
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS TRANSPORTATION EQUIPMENT [3790]
+		IRS NUMBER:				030608147
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		407 LINCOLN ROAD, SUITE 704
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33139
+		BUSINESS PHONE:		(305) 521-0200
+
+	MAIL ADDRESS:	
+		STREET 1:		407 LINCOLN ROAD, SUITE 704
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33139
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Car Charging Group, Inc.
+		DATE OF NAME CHANGE:	20091207
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEW IMAGE CONCEPTS, INC
+		DATE OF NAME CHANGE:	20080313
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001429764</issuerCik>
+        <issuerName>Blink Charging Co.</issuerName>
+        <issuerTradingSymbol>BLNK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001253554</rptOwnerCik>
+            <rptOwnerName>RAMA MICHAEL P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BLINK CHARGING CO.</rptOwnerStreet1>
+            <rptOwnerStreet2>605 LINCOLN ROAD, 5TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>MIAMI BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33139</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1725</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.27</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>106682</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction represents the withholding of shares of Common Stock to satisfy the tax withholding obligations following the vesting of shares of restricted stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael P. Rama</signatureName>
+        <signatureDate>2023-04-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

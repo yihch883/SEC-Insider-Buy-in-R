@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0001415889-23-001950.txt : 20230203
+<SEC-HEADER>0001415889-23-001950.hdr.sgml : 20230203
+<ACCEPTANCE-DATETIME>20230203171704
+ACCESSION NUMBER:		0001415889-23-001950
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230202
+FILED AS OF DATE:		20230203
+DATE AS OF CHANGE:		20230203
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shellberg Jeffrey D.
+		CENTRAL INDEX KEY:			0001732717
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38412
+		FILM NUMBER:		23587324
+
+	MAIL ADDRESS:	
+		STREET 1:		4450 EXCELSIOR BLVD.
+		STREET 2:		SUITE 100
+		CITY:			ST. LOUIS PARK
+		STATE:			MN
+		ZIP:			55416
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bridgewater Bancshares Inc
+		CENTRAL INDEX KEY:			0001341317
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4450 EXCELSIOR BLVD.
+		STREET 2:		SUITE 100
+		CITY:			ST. LOUIS PARK
+		STATE:			MN
+		ZIP:			55416
+		BUSINESS PHONE:		(952) 893-6868
+
+	MAIL ADDRESS:	
+		STREET 1:		4450 EXCELSIOR BLVD.
+		STREET 2:		SUITE 100
+		CITY:			ST. LOUIS PARK
+		STATE:			MN
+		ZIP:			55416
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-02032023_100252.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001341317</issuerCik>
+        <issuerName>Bridgewater Bancshares Inc</issuerName>
+        <issuerTradingSymbol>BWB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001732717</rptOwnerCik>
+            <rptOwnerName>Shellberg Jeffrey D.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BRIDGEWATER BANCSHARES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>4450 EXCELSIOR BLVD., SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>ST. LOUIS PARK</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55416</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP AND CHIEF CREDIT OFFICER</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10797</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>305375</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>172000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>288890</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares of common stock are held by Mr. Shellberg as co-trustee of the Susan K. Shellberg Trust under agreement dated October 1, 2014. Mr. Shellberg possesses shared voting and investment power with respect to the shares of common stock held by the Susan K. Shellberg Trust under agreement dated October 1, 2014.</footnote>
+        <footnote id="F2">Shares of common stock are held by Mr. Shellberg as co-trustee of the Jeffrey D. Shellberg Trust under agreement dated October 1, 2014. Mr. Shellberg possesses shared voting and investment power with respect to the shares of common stock held by the Jeffrey D. Shellberg Trust under agreement dated October 1, 2014.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ben Klocke, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-02-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

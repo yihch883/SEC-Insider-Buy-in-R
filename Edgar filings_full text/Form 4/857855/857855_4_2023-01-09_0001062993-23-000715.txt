@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001062993-23-000715.txt : 20230109
+<SEC-HEADER>0001062993-23-000715.hdr.sgml : 20230109
+<ACCEPTANCE-DATETIME>20230109162137
+ACCESSION NUMBER:		0001062993-23-000715
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230105
+FILED AS OF DATE:		20230109
+DATE AS OF CHANGE:		20230109
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			EDWARDS ROBERT A.
+		CENTRAL INDEX KEY:			0001443717
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35095
+		FILM NUMBER:		23518355
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O UNITED COMMUNITY BANKS, INC.
+		STREET 2:		PO BOX 398
+		CITY:			BLAIRSVILLE
+		STATE:			GA
+		ZIP:			30514
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Edwards Robert A.
+		DATE OF NAME CHANGE:	20080822
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNITED COMMUNITY BANKS INC
+		CENTRAL INDEX KEY:			0000857855
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				581807304
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 398, 59 HIGHWAY 515
+		CITY:			BLAIRSVILLE
+		STATE:			GA
+		ZIP:			30512
+		BUSINESS PHONE:		5818073041
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 398
+		STREET 2:		HIGHWAY 515
+		CITY:			BLAIRSVILLE
+		STATE:			GA
+		ZIP:			30512
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNION BANCSHARES INC /GA/
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-05</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000857855</issuerCik>
+        <issuerName>UNITED COMMUNITY BANKS INC</issuerName>
+        <issuerTradingSymbol>UCBI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001443717</rptOwnerCik>
+            <rptOwnerName>EDWARDS ROBERT A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O UNITED COMMUNITY BANKS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>PO BOX 398</rptOwnerStreet2>
+            <rptOwnerCity>BLAIRSVILLE</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30514</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, CHIEF RISK OFFICER</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3034</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>65235</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents grant of restricted stock units which will vest at 25% on February 15, 2024, 2025, 2026, and 2027.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Melinda Davis Lux, as Attorney in Fact</signatureName>
+        <signatureDate>2023-01-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

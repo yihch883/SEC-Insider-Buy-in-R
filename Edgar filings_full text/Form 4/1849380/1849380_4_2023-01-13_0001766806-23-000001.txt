@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001766806-23-000001.txt : 20230113
+<SEC-HEADER>0001766806-23-000001.hdr.sgml : 20230113
+<ACCEPTANCE-DATETIME>20230113112441
+ACCESSION NUMBER:		0001766806-23-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230112
+FILED AS OF DATE:		20230113
+DATE AS OF CHANGE:		20230113
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shaolin Capital Management LLC
+		CENTRAL INDEX KEY:			0001766806
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40386
+		FILM NUMBER:		23527750
+
+	BUSINESS ADDRESS:	
+		STREET 1:		230 NW 24TH STREET
+		STREET 2:		SUITE 603
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33127
+		BUSINESS PHONE:		2124334314
+
+	MAIL ADDRESS:	
+		STREET 1:		230 NW 24TH STREET
+		STREET 2:		SUITE 603
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33127
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Data Knights Acquisition Corp.
+		CENTRAL INDEX KEY:			0001849380
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		IRS NUMBER:				862076743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TRIDENT COURT, 1 OAKCROFT ROAD
+		STREET 2:		CHESSINGTON
+		CITY:			SURREY
+		STATE:			X0
+		ZIP:			KT9 1BD
+		BUSINESS PHONE:		011-44-208-090-2009
+
+	MAIL ADDRESS:	
+		STREET 1:		TRIDENT COURT, 1 OAKCROFT ROAD
+		STREET 2:		CHESSINGTON
+		CITY:			SURREY
+		STATE:			X0
+		ZIP:			KT9 1BD
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-12</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001849380</issuerCik>
+        <issuerName>Data Knights Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>DKDCA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001766806</rptOwnerCik>
+            <rptOwnerName>Shaolin Capital Management LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>230 NW 24TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 603</rptOwnerStreet2>
+            <rptOwnerCity>MIAMI</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33127</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Data Knights Acquisition Corp.</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.48</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>400000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Anthony Giraulo</signatureName>
+        <signatureDate>2023-01-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

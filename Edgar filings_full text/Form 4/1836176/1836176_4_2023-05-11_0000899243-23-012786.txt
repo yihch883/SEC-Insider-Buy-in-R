@@ -1,0 +1,228 @@
+<SEC-DOCUMENT>0000899243-23-012786.txt : 20230511
+<SEC-HEADER>0000899243-23-012786.hdr.sgml : 20230511
+<ACCEPTANCE-DATETIME>20230511214641
+ACCESSION NUMBER:		0000899243-23-012786
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230403
+FILED AS OF DATE:		20230511
+DATE AS OF CHANGE:		20230511
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Martin Ryan
+		CENTRAL INDEX KEY:			0001899961
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39994
+		FILM NUMBER:		23912957
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FATHOM DIGITAL MANUFACTURING CORP
+		STREET 2:		1050 WALNUT RIDGE DR.
+		CITY:			HARTLAND
+		STATE:			WI
+		ZIP:			HARTLAND
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Fathom Digital Manufacturing Corp
+		CENTRAL INDEX KEY:			0001836176
+		STANDARD INDUSTRIAL CLASSIFICATION:	FABRICATED STRUCTURAL METAL PRODUCTS [3440]
+		IRS NUMBER:				981571400
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1050 WALNUT RIDGE DRIVE
+		CITY:			HARTLAND
+		STATE:			WI
+		ZIP:			53209
+		BUSINESS PHONE:		262-367-8254
+
+	MAIL ADDRESS:	
+		STREET 1:		1050 WALNUT RIDGE DRIVE
+		CITY:			HARTLAND
+		STATE:			WI
+		ZIP:			53209
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Fathom Digital Manufacturing
+		DATE OF NAME CHANGE:	20211223
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Altimar Acquisition Corp. II
+		DATE OF NAME CHANGE:	20201211
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001836176</issuerCik>
+        <issuerName>Fathom Digital Manufacturing Corp</issuerName>
+        <issuerTradingSymbol>FATH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001899961</rptOwnerCik>
+            <rptOwnerName>Martin Ryan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O FATHOM DIGITAL MANUFACTURING CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>1050 WALNUT RIDGE DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>HARTLAND</rptOwnerCity>
+            <rptOwnerState>WI</rptOwnerState>
+            <rptOwnerZipCode>53029</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>352540</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2034116</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.60</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>661013</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-04-03</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>661013</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>661013</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction is being reported late due to inadvertent administrative error.</footnote>
+        <footnote id="F2">Represents shares of Class A Common Stock underlying Restricted Stock Units (&quot;RSUs&quot;) issued under the Fathom Digital Manufacturing Corporation 2021 Omnibus Incentive Plan, as amended and/or restated from time to time. Each RSU represents the contingent right to receive one share of the Issuer's Class A Common Stock. These RSUs vest ratably over three years.</footnote>
+        <footnote id="F3">Represents stock options issued under the Fathom Digital Manufacturing Corporation 2021 Omnibus Incentive Plan, as amended and/or restated from time to time. Each stock option represents the right to purchase one share of the Issuer's Class A Common Stock. The stock options vest ratably over three years and become exercisable as to 100% of the shares of Class A Common Stock on the third anniversary of the grant date, April 3, 2026. The options expire on April 3, 2030.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/Ryan Martin, by James R. Brown as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-05-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

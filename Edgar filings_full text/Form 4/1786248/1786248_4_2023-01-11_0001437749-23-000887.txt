@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001437749-23-000887.txt : 20230111
+<SEC-HEADER>0001437749-23-000887.hdr.sgml : 20230111
+<ACCEPTANCE-DATETIME>20230111170748
+ACCESSION NUMBER:		0001437749-23-000887
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230109
+FILED AS OF DATE:		20230111
+DATE AS OF CHANGE:		20230111
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DONDERO JAMES D
+		CENTRAL INDEX KEY:			0001228922
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39210
+		FILM NUMBER:		23524181
+
+	MAIL ADDRESS:	
+		STREET 1:		300 CRESCENT COURT
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NexPoint Real Estate Finance, Inc.
+		CENTRAL INDEX KEY:			0001786248
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				842178264
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 CRESCENT COURT
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		214-276-6300
+
+	MAIL ADDRESS:	
+		STREET 1:		300 CRESCENT COURT
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001786248</issuerCik>
+        <issuerName>NexPoint Real Estate Finance, Inc.</issuerName>
+        <issuerTradingSymbol>NREF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001228922</rptOwnerCik>
+            <rptOwnerName>DONDERO JAMES D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>300 CRESCENT COURT, SUITE 700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <officerTitle>President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>8.50% Series A Cumulative Redeemable Preferred Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>510</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>20.25</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>29810</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>8.50% Series A Cumulative Redeemable Preferred Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19511</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares are held by a trust, of which Mr. Dondero is the beneficiary. Mr. Dondero disclaims beneficial ownership of such shares</footnote>
+        <footnote id="F2">These shares are held by Drugcrafters (&quot;Drugcrafters&quot;). Mr. Dondero is the sole managing member of the general partner of Drugcrafters, and may be deemed to be an indirect beneficial owner of shares held by Drugcrafters. Mr. Dondero disclaims beneficial ownership of such shares except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James Dondero</signatureName>
+        <signatureDate>2023-01-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

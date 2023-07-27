@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0000899243-23-016387.txt : 20230623
+<SEC-HEADER>0000899243-23-016387.hdr.sgml : 20230623
+<ACCEPTANCE-DATETIME>20230623170253
+ACCESSION NUMBER:		0000899243-23-016387
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230623
+FILED AS OF DATE:		20230623
+DATE AS OF CHANGE:		20230623
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			STATE FARM MUTUAL AUTOMOBILE INSURANCE CO
+		CENTRAL INDEX KEY:			0000315032
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40244
+		FILM NUMBER:		231038568
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE STATE FARM PLAZA
+		CITY:			BLOOMINGTON
+		STATE:			IL
+		ZIP:			61710
+		BUSINESS PHONE:		309-766-8411
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE STATE FARM PLAZA
+		CITY:			BLOOMINGTON
+		STATE:			IL
+		ZIP:			61710
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hagerty, Inc.
+		CENTRAL INDEX KEY:			0001840776
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSURANCE AGENTS BROKERS & SERVICES [6411]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		121 DRIVERS EDGE
+		CITY:			TRAVERSE CITY
+		STATE:			MI
+		ZIP:			49684
+		BUSINESS PHONE:		800-922-4050
+
+	MAIL ADDRESS:	
+		STREET 1:		121 DRIVERS EDGE
+		CITY:			TRAVERSE CITY
+		STATE:			MI
+		ZIP:			49684
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Aldel Financial Inc.
+		DATE OF NAME CHANGE:	20210115
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001840776</issuerCik>
+        <issuerName>Hagerty, Inc.</issuerName>
+        <issuerTradingSymbol>HGTY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000315032</rptOwnerCik>
+            <rptOwnerName>STATE FARM MUTUAL AUTOMOBILE INSURANCE CO</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE STATE FARM PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BLOOMINGTON</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>61710</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series A Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.79</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5302226</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.43</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-06-23</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4241780</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5302226</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Series A Preferred Stock has no stated maturity and therefore has no expiration date.</footnote>
+        <footnote id="F2">On June 23, 2023, the Reporting Person acquired 5,302,226 shares of Series A Preferred Stock convertible into 4,241,780 shares of Class A common stock, subject to customary anti-dilution adjustments, for total consideration of $49,999,991.18.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jon C. Farney, Senior Vice President, Treasurer and Chief Financial Officer</signatureName>
+        <signatureDate>2023-06-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

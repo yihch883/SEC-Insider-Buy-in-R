@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0001104659-23-054230.txt : 20230501
+<SEC-HEADER>0001104659-23-054230.hdr.sgml : 20230501
+<ACCEPTANCE-DATETIME>20230501150232
+ACCESSION NUMBER:		0001104659-23-054230
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230427
+FILED AS OF DATE:		20230501
+DATE AS OF CHANGE:		20230501
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Horizon II Sponsor, LLC
+		CENTRAL INDEX KEY:			0001821580
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39631
+		FILM NUMBER:		23872957
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 STEAMBOAT ROAD, SUITE 200
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		(212) 446-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		600 STEAMBOAT ROAD, SUITE 200
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Horizon Acquisition Corp II
+		CENTRAL INDEX KEY:			0001821788
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		HORIZON ACQUISITION CORPORATION II
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		(212) 446-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		HORIZON ACQUISITION CORPORATION II
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2314284-1_4seq1.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001821788</issuerCik>
+        <issuerName>Horizon Acquisition Corp II</issuerName>
+        <issuerTradingSymbol>HZON</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001821580</rptOwnerCik>
+            <rptOwnerName>Horizon II Sponsor, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>600 STEAMBOAT ROAD, SUITE 200</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GREENWICH</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06830</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A ordinary shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.33</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">In connection with the liquidation of Horizon Acquisition Corporation II (the &quot;Company&quot;) and in accordance with its Amended and Restated Memorandum and Articles of Association, the Company distributed to the holders of its Class A ordinary shares issued in its initial public offering their pro-rata portion of the funds held in the trust account established for the benefit of such shareholders, as described in the current report on Form 8-K filed by the Company on April 11, 2023. In connection with the liquidation, the Company redeemed 15,100,000 shares of Class A ordinary shares of the Company held by the Reporting Person at $11.32830420 per share on April 27, 2023.</footnote>
+        <footnote id="F2">This Form 4 is being filed by Sponsor. Sponsor is controlled by Todd Boehly.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Horizon II Sponsor, LLC, By: /s/ Todd Boehly, Title: Chief Executive Officer</signatureName>
+        <signatureDate>2023-05-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

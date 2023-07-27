@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0000947871-23-000404.txt : 20230331
+<SEC-HEADER>0000947871-23-000404.hdr.sgml : 20230331
+<ACCEPTANCE-DATETIME>20230331145304
+ACCESSION NUMBER:		0000947871-23-000404
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230331
+DATE AS OF CHANGE:		20230331
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hastings Brandt
+		CENTRAL INDEX KEY:			0001879555
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39508
+		FILM NUMBER:		23786813
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VOLTA INDUSTRIES, INC.
+		STREET 2:		155 DE HARO STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Volta Inc.
+		CENTRAL INDEX KEY:			0001819584
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS TRANSPORTATION EQUIPMENT [3790]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 DE HARO STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+		BUSINESS PHONE:		(415) 583-3805
+
+	MAIL ADDRESS:	
+		STREET 1:		155 DE HARO STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tortoise Acquisition Corp. II
+		DATE OF NAME CHANGE:	20200729
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-31</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001819584</issuerCik>
+        <issuerName>Volta Inc.</issuerName>
+        <issuerTradingSymbol>VLTA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001879555</rptOwnerCik>
+            <rptOwnerName>Hastings Brandt</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>155 DE HARO STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Commercial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>567148</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.86</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of Class A Common Stock (&quot;Shares&quot;), which were cancelled in exchange for the cash merger consideration equal to $0.86 per Share pursuant to that certain Agreement and Plan of Merger between issuer, Shell USA, Inc., and SEV Subsidiary, Inc., dated January 17, 2023 and includes 456,839 Shares underlying restricted stock unit awards. The merger became effective on March 31, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Brandt Hastings</signatureName>
+        <signatureDate>2023-03-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

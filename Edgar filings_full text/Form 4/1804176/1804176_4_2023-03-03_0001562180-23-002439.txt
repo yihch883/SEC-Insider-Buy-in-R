@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0001562180-23-002439.txt : 20230303
+<SEC-HEADER>0001562180-23-002439.hdr.sgml : 20230303
+<ACCEPTANCE-DATETIME>20230303180044
+ACCESSION NUMBER:		0001562180-23-002439
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230301
+FILED AS OF DATE:		20230303
+DATE AS OF CHANGE:		20230303
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Weiss Lawrence T
+		CENTRAL INDEX KEY:			0001930293
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39292
+		FILM NUMBER:		23706372
+
+	MAIL ADDRESS:	
+		STREET 1:		530 OLD WHITFIELD STREET
+		CITY:			GUILFOD
+		STATE:			CT
+		ZIP:			06437
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Butterfly Network, Inc.
+		CENTRAL INDEX KEY:			0001804176
+		STANDARD INDUSTRIAL CLASSIFICATION:	X-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS [3844]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1600 DISTRICT AVENUE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+		BUSINESS PHONE:		781-557-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		1600 DISTRICT AVENUE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Longview Acquisition Corp.
+		DATE OF NAME CHANGE:	20200220
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-01</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001804176</issuerCik>
+        <issuerName>Butterfly Network, Inc.</issuerName>
+        <issuerTradingSymbol>BFLY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001930293</rptOwnerCik>
+            <rptOwnerName>Weiss Lawrence T</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BUTTERFLY NETWORK, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1600 DISTRICT AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>BURLINGTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01803</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CLO, GC and Corp Sec</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>174000.00</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>864789.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>452000.00</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1316789.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of restricted stock units (&quot;RSUs&quot;). Each RSU represents the right to receive one share of common stock upon vesting. The RSUs vest as to 50% on July 1, 2023 with the remainder vesting on January 1, 2024, subject to Mr. Weiss's continued service through the applicable vesting date.</footnote>
+        <footnote id="F2">Consists of restricted stock units (&quot;RSUs&quot;). Each RSU represents the right to receive one share of common stock upon vesting. The RSUs vest as to 33.33% on each anniversary of the grant date, subject to Mr. Weiss's continued service through the applicable vesting date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s /Lawrence T. Weiss, Attorney-in-Fact for Lawrence T. Weiss</signatureName>
+        <signatureDate>2023-03-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

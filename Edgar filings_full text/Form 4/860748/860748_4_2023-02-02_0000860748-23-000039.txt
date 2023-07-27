@@ -1,0 +1,246 @@
+<SEC-DOCUMENT>0000860748-23-000039.txt : 20230202
+<SEC-HEADER>0000860748-23-000039.hdr.sgml : 20230202
+<ACCEPTANCE-DATETIME>20230202161229
+ACCESSION NUMBER:		0000860748-23-000039
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230131
+FILED AS OF DATE:		20230202
+DATE AS OF CHANGE:		20230202
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hunton Matthew A
+		CENTRAL INDEX KEY:			0001928725
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-18298
+		FILM NUMBER:		23581018
+
+	MAIL ADDRESS:	
+		STREET 1:		200 EAST RANDOLPH STREET
+		STREET 2:		SUITE 3300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KEMPER Corp
+		CENTRAL INDEX KEY:			0000860748
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				954255452
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 E. RANDOLPH ST.
+		STREET 2:		SUITE 3300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+		BUSINESS PHONE:		3126614600
+
+	MAIL ADDRESS:	
+		STREET 1:		200 E. RANDOLPH ST.
+		STREET 2:		SUITE 3300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITRIN INC
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_167537233558333.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000860748</issuerCik>
+        <issuerName>KEMPER Corp</issuerName>
+        <issuerTradingSymbol>KMPR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001928725</rptOwnerCik>
+            <rptOwnerName>Hunton Matthew A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 E. RANDOLPH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 3300</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60601</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>Sr. Vice President</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3236</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>23736</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option</value>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>58.73</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12941</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-01-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12941.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12941</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Award of restricted stock unit under the Kemper Corporation 2020 Omnibus Equity Plan (&quot;Plan&quot;), subject to forfeiture and other restrictions until vested pursuant to the Plan and the award agreement.</footnote>
+        <footnote id="F2">Option to buy stock with tandem stock appreciation right.</footnote>
+        <footnote id="F3">Option shares vested in three equal consecutive annual installments beginning on 1/31/2024.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Baird Allis, Attornet-in-Fact</signatureName>
+        <signatureDate>2023-02-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>huntonpoa-5422.htm
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+<!-- Document created using Workiva -->
+<html>
+<body>
+<pre>
+
+POWER OF ATTORNEY
+
+With this Power of Attorney, the undersigned, Matthew A. Hunton, hereby appoints each of Ismat Aziz, John M. Boschelli, C. Thomas Evans, Jr., Baird S. Allis and James J. McKinney, so long as such individual remains an officer of Kemper Corporation, as the undersigned's true and lawful attorney-in-fact with the power and authority individually to execute and file on the undersigned's behalf all Forms 3, 4, 5, and 144 (including any amendments, successor or related forms thereto) that the undersigned may from time to time be required to file with the United States Securities and Exchange Commission as a result of the undersigned's ownership of, or transactions in, securities of Kemper Corporation, and to take such other actions which such attorney-in-fact believes necessary or appropriate in connection with the filing of such forms.
+
+This Power of Attorney shall revoke any Power of Attorney relating to the same subject that was previously executed by the undersigned and shall continue until the undersigned is no longer required to file such forms or until earlier revoked in writing.  The undersigned acknowledges that none of the above-named persons nor Kemper Corporation is assuming any of the undersigned's responsibilities or obligations to comply with the Securities Act of 1933 or the Securities Exchange Act of 1934, each as amended, or any rules or regulations promulgated thereunder.
+
+
+
+
+/s/ Matthew A. Hunton
+Matthew A. Hunton
+
+Dated: May 4, 2022
+
+
+</pre>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

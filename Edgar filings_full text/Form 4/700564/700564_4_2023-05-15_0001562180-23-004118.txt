@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001562180-23-004118.txt : 20230515
+<SEC-HEADER>0001562180-23-004118.hdr.sgml : 20230515
+<ACCEPTANCE-DATETIME>20230515090403
+ACCESSION NUMBER:		0001562180-23-004118
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230511
+FILED AS OF DATE:		20230515
+DATE AS OF CHANGE:		20230515
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MCCOLLOM MARK R
+		CENTRAL INDEX KEY:			0001221995
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39680
+		FILM NUMBER:		23918828
+
+	MAIL ADDRESS:	
+		STREET 1:		1130 BERKSHIRE BOULEVARD
+		CITY:			WYOMISSING
+		STATE:			PA
+		ZIP:			19610
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FULTON FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000700564
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				232195389
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE PENN SQ
+		STREET 2:		PO BOX 4887
+		CITY:			LANCASTER
+		STATE:			PA
+		ZIP:			17604
+		BUSINESS PHONE:		7172912411
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PENN SQ
+		STREET 2:		PO BOX 4887
+		CITY:			LANCASTER
+		STATE:			PA
+		ZIP:			17604
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-11</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000700564</issuerCik>
+        <issuerName>FULTON FINANCIAL CORP</issuerName>
+        <issuerTradingSymbol>FULT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001221995</rptOwnerCik>
+            <rptOwnerName>MCCOLLOM MARK R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O FULTON FINANCIAL CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>P.O. BOX 4887, ONE PENN SQUARE</rptOwnerStreet2>
+            <rptOwnerCity>LANCASTER</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>170604</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Sr. EVP &amp; CFO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>$2.50 par value Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-11</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.74</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>71502.8871</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 10,000 shares held jointly with spouse.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>John R. Merva, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-05-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001225208-23-003791.txt : 20230313
+<SEC-HEADER>0001225208-23-003791.hdr.sgml : 20230313
+<ACCEPTANCE-DATETIME>20230313165918
+ACCESSION NUMBER:		0001225208-23-003791
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230309
+FILED AS OF DATE:		20230313
+DATE AS OF CHANGE:		20230313
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MAFFEI GREGORY B
+		CENTRAL INDEX KEY:			0001099636
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36713
+		FILM NUMBER:		23728022
+
+	MAIL ADDRESS:	
+		STREET 1:		12300 LIBERTY BLVD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Liberty Broadband Corp
+		CENTRAL INDEX KEY:			0001611983
+		STANDARD INDUSTRIAL CLASSIFICATION:	CABLE & OTHER PAY TELEVISION SERVICES [4841]
+		IRS NUMBER:				471211994
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12300 LIBERTY BLVD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+		BUSINESS PHONE:		720-875-5400
+
+	MAIL ADDRESS:	
+		STREET 1:		12300 LIBERTY BLVD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001611983</issuerCik>
+        <issuerName>Liberty Broadband Corp</issuerName>
+        <issuerTradingSymbol>LBRDA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001099636</rptOwnerCik>
+            <rptOwnerName>MAFFEI GREGORY B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>12300 LIBERTY BLVD.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ENGLEWOOD</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80112</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <officerTitle>President/CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option - LBRDK (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>80.1900</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>129149.0000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-12-29</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-03-09</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Series C Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>129149.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>129149.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This grant is made pursuant to the employment agreement between the reporting person and the Issuer, effective December 13, 2019 (the &quot;Agreement&quot;) and is a portion of the reporting person's Annual Equity Awards (as defined in the Agreement).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Brittany A. Uthoff as Attorney-in-Fact for Gregory B. Maffei</signatureName>
+        <signatureDate>2023-03-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

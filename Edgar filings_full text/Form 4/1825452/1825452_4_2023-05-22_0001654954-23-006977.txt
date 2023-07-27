@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001654954-23-006977.txt : 20230522
+<SEC-HEADER>0001654954-23-006977.hdr.sgml : 20230522
+<ACCEPTANCE-DATETIME>20230522105055
+ACCESSION NUMBER:		0001654954-23-006977
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230518
+FILED AS OF DATE:		20230522
+DATE AS OF CHANGE:		20230522
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wells Dominic Benjamin James
+		CENTRAL INDEX KEY:			0001825756
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41466
+		FILM NUMBER:		23943044
+
+	MAIL ADDRESS:	
+		STREET 1:		10F NO 136, LANE 162, JINGYESAN ROAD
+		STREET 2:		ZHONGSHAN DISTRICT
+		CITY:			TAIPEI CITY
+		STATE:			F5
+		ZIP:			104
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Onfolio Holdings, Inc
+		CENTRAL INDEX KEY:			0001825452
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1007 NORTH ORANGE STREET 4TH FLOOR
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+		BUSINESS PHONE:		(682) 990-6920
+
+	MAIL ADDRESS:	
+		STREET 1:		1007 NORTH ORANGE STREET 4TH FLOOR
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Onfolio Holdings Inc
+		DATE OF NAME CHANGE:	20200923
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Onfolio Holdings, Inc.
+		DATE OF NAME CHANGE:	20200921
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>section16.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-18</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001825452</issuerCik>
+        <issuerName>Onfolio Holdings, Inc</issuerName>
+        <issuerTradingSymbol>ONFOW</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001825756</rptOwnerCik>
+            <rptOwnerName>Wells Dominic Benjamin James</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1007 NORTH ORANGE STREET, 4TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WILMINGTON</rptOwnerCity>
+            <rptOwnerState>DE</rptOwnerState>
+            <rptOwnerZipCode>19801</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <officerTitle>CEO, CRO, Chair of Board</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants to Purchase Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>5</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>124969</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.1492</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-08-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>124969</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>187969</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Immediate</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Dominic Wells</signatureName>
+        <signatureDate>2023-05-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

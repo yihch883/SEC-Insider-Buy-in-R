@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001213900-23-046249.txt : 20230605
+<SEC-HEADER>0001213900-23-046249.hdr.sgml : 20230605
+<ACCEPTANCE-DATETIME>20230605170911
+ACCESSION NUMBER:		0001213900-23-046249
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230601
+FILED AS OF DATE:		20230605
+DATE AS OF CHANGE:		20230605
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Fulop Ric
+		CENTRAL INDEX KEY:			0001472305
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39384
+		FILM NUMBER:		23993684
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DESKTOP METAL, INC.
+		STREET 2:		63 THIRD AVENUE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vicarious Surgical Inc.
+		CENTRAL INDEX KEY:			0001812173
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		78 FOURTH AVENUE
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+		BUSINESS PHONE:		(617) 868-1700
+
+	MAIL ADDRESS:	
+		STREET 1:		78 FOURTH AVENUE
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	D8 Holdings Corp.
+		DATE OF NAME CHANGE:	20200514
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001812173</issuerCik>
+        <issuerName>Vicarious Surgical Inc.</issuerName>
+        <issuerTradingSymbol>RBOT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001472305</rptOwnerCik>
+            <rptOwnerName>Fulop Ric</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VICARIOUS SURGICAL INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>78 FOURTH AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>WALTHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02451</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>65974</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>113629</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of restricted stock units (&quot;RSUs&quot;). Each RSU represents the right to receive one share of Class A common stock upon vesting. The RSUs vest in twelve equal monthly installments following the date of grant, subject to the Reporting Person's continued service to Vicarious Surgical Inc. through the applicable vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ June Morris, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-06-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

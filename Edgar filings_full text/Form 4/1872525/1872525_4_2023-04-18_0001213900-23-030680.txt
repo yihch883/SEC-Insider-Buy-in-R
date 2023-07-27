@@ -1,0 +1,213 @@
+<SEC-DOCUMENT>0001213900-23-030680.txt : 20230418
+<SEC-HEADER>0001213900-23-030680.hdr.sgml : 20230418
+<ACCEPTANCE-DATETIME>20230418163120
+ACCESSION NUMBER:		0001213900-23-030680
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230414
+FILED AS OF DATE:		20230418
+DATE AS OF CHANGE:		20230418
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Paradiso Stephen
+		CENTRAL INDEX KEY:			0001901878
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41038
+		FILM NUMBER:		23827214
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O STRAN & COMPANY, INC.,
+		STREET 2:		2 HERITAGE DRIVE, SUITE 600
+		CITY:			QUINCY
+		STATE:			MA
+		ZIP:			02171
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Stran & Company, Inc.
+		CENTRAL INDEX KEY:			0001872525
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING AGENCIES [7311]
+		IRS NUMBER:				043297200
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 HERITAGE DRIVE
+		STREET 2:		SUITE 600
+		CITY:			QUINCY
+		STATE:			MA
+		ZIP:			02171
+		BUSINESS PHONE:		8008333309
+
+	MAIL ADDRESS:	
+		STREET 1:		2 HERITAGE DRIVE
+		STREET 2:		SUITE 600
+		CITY:			QUINCY
+		STATE:			MA
+		ZIP:			02171
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001872525</issuerCik>
+        <issuerName>Stran &amp; Company, Inc.</issuerName>
+        <issuerTradingSymbol>STRN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001901878</rptOwnerCik>
+            <rptOwnerName>Paradiso Stephen</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O STRAN &amp; COMPANY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2 HERITAGE DRIVE, SUITE 600</rptOwnerStreet2>
+            <rptOwnerCity>QUINCY</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02171</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief of Staff</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>75000</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.72</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-04-14</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-12-05</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>75000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On December 6, 2021, the reporting person was granted 62,500 shares of restricted common stock subject to vesting conditions. One-eighth of the 62,500 shares of restricted stock vests at the end of every full quarter following their grant effective as of December 6, 2021 that the reporting person is employed by the issuer.</footnote>
+        <footnote id="F2">On December 6, 2021, the reporting person was granted an option to purchase 125,000 shares for $4.72 per share. The option vests and becomes exercisable as to one-eighth of 62,500 of the shares of common stock under the option at the end of each full quarter following December 6, 2021, subject to a separate restriction on transfer which lapsed on June 30, 2022. The stock option vests and becomes exercisable as to 40,000 shares subject to the issuer's attainment of certain respective performance-based conditions. The stock option vests and becomes exercisable as to 22,500 shares subject to the reporting person's satisfaction of certain respective service-based conditions. On April 14, 2023, the Compensation Committee of the issuer determined that the performance-based conditions under the option had been met for the vesting of the option as to 10,000 shares, and that the service-based conditions under the option had been met for the vesting of the option as to 2,500 shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephen Paradiso</signatureName>
+        <signatureDate>2023-04-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

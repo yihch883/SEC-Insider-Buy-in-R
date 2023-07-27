@@ -1,0 +1,221 @@
+<SEC-DOCUMENT>0001415889-23-008272.txt : 20230518
+<SEC-HEADER>0001415889-23-008272.hdr.sgml : 20230518
+<ACCEPTANCE-DATETIME>20230518161522
+ACCESSION NUMBER:		0001415889-23-008272
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230517
+FILED AS OF DATE:		20230518
+DATE AS OF CHANGE:		20230518
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Singh Nanhi
+		CENTRAL INDEX KEY:			0001928855
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35588
+		FILM NUMBER:		23936253
+
+	MAIL ADDRESS:	
+		STREET 1:		109 INNOVATION COURT
+		STREET 2:		SUITE J
+		CITY:			DELAWARE
+		STATE:			OH
+		ZIP:			43015
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Franchise Group, Inc.
+		CENTRAL INDEX KEY:			0001528930
+		STANDARD INDUSTRIAL CLASSIFICATION:	PATENT OWNERS & LESSORS [6794]
+		IRS NUMBER:				273561876
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1230
+
+	BUSINESS ADDRESS:	
+		STREET 1:		109 INNOVATION COURT
+		STREET 2:		SUITE J
+		CITY:			DELAWARE
+		STATE:			OH
+		ZIP:			43015
+		BUSINESS PHONE:		508-630-4426
+
+	MAIL ADDRESS:	
+		STREET 1:		109 INNOVATION COURT
+		STREET 2:		SUITE J
+		CITY:			DELAWARE
+		STATE:			OH
+		ZIP:			43015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Liberty Tax, Inc.
+		DATE OF NAME CHANGE:	20140714
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JTH Holding, Inc.
+		DATE OF NAME CHANGE:	20110830
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-05182023_040508.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001528930</issuerCik>
+        <issuerName>Franchise Group, Inc.</issuerName>
+        <issuerTradingSymbol>FRG FRGAP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001928855</rptOwnerCik>
+            <rptOwnerName>Singh Nanhi</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>109 INNOVATION COURT, SUITE J</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DELAWARE</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>43015</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2160</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2160</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2160</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2160</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the conversion upon vesting of restricted stock units into Common Stock. On May 17, 2022, the reporting person was granted 2160 restricted stock units, of which all of the shares subject to the restricted stock units vested on May 17, 2023. Such restricted stock units were previously reported in Table II on the Form 4 filed with the Securities and Exchange Commission on May 19, 2022.</footnote>
+        <footnote id="F2">Each restricted stock unit represents the right to receive, upon vesting, one share of Common Stock.</footnote>
+        <footnote id="F3">The restricted stock unit award was granted on May 17, 2022 and vested in full on May 17, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nanhi Singh</signatureName>
+        <signatureDate>2023-05-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

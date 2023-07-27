@@ -1,0 +1,296 @@
+<SEC-DOCUMENT>0000899243-23-009076.txt : 20230320
+<SEC-HEADER>0000899243-23-009076.hdr.sgml : 20230320
+<ACCEPTANCE-DATETIME>20230320151300
+ACCESSION NUMBER:		0000899243-23-009076
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230310
+FILED AS OF DATE:		20230320
+DATE AS OF CHANGE:		20230320
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Aimfinity Investment LLC
+		CENTRAL INDEX KEY:			0001920515
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41361
+		FILM NUMBER:		23746177
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 ROCKEFELLER PLAZA
+		STREET 2:		11TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+		BUSINESS PHONE:		201-563-0932
+
+	MAIL ADDRESS:	
+		STREET 1:		1 ROCKEFELLER PLAZA
+		STREET 2:		11TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aimfinity Investment Corp. I
+		CENTRAL INDEX KEY:			0001903464
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 ROCKEFELLER PLAZA, 11TH FLOOR
+		CITY:			NY
+		STATE:			NY
+		ZIP:			10020
+		BUSINESS PHONE:		6467222971
+
+	MAIL ADDRESS:	
+		STREET 1:		1 ROCKEFELLER PLAZA, 11TH FLOOR
+		CITY:			NY
+		STATE:			NY
+		ZIP:			10020
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001903464</issuerCik>
+        <issuerName>Aimfinity Investment Corp. I</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001920515</rptOwnerCik>
+            <rptOwnerName>Aimfinity Investment LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>I/C/O AIMFINITY INVESTMENT CORP. I</rptOwnerStreet1>
+            <rptOwnerStreet2>221 W 9TH ST, PMB 235</rptOwnerStreet2>
+            <rptOwnerCity>WILMINGTON</rptOwnerCity>
+            <rptOwnerState>DE</rptOwnerState>
+            <rptOwnerZipCode>19801</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>492000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>280000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>280000</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1652500</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Share</value>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F5"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>40000</value>
+                    <footnoteId id="F5"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.01</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>40000</value>
+                    <footnoteId id="F5"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1692500</value>
+                    <footnoteId id="F6"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">1.	Pursuant to a resolution by all members and manager of Aimfinity Investment LLC (the &quot;Sponsor&quot;) on March 10, 2023, the Sponsor distributed 492,000 private placement units, each unit consisting of one Class A ordinary shares, one  Class 1 warrant and one-half of one Class 2 warrant, and 280,000 Class B ordinary shares of the Issuer held under the Sponsor's record to Imperii Strategies LLC, a member of the Sponsor.</footnote>
+        <footnote id="F2">Including (i) 492,000 Class A Ordinary Shares underlying units (each unit having a price of $10.00 and consisting of one Class A Ordinary Share and one redeemable warrant, with each whole warrant entitling the holder to purchase one Class A Ordinary Share at a price of $11.50 per share) that were acquired by the Reporting Person in a private placement effected concurrently with the closing of the Issuer's initial public offering, based on the exercise of the underwriters' over-allotment option in full, on April 28, 2022; and (ii) the distribution of the 492,000 Class A Ordinary Shares that the Sponsor distributed to Imperii Strategies LLC on March 10, 2023.</footnote>
+        <footnote id="F3">The Class B ordinary shares will automatically convert into Class A ordinary shares concurrently with or immediately following the consummation of the Issuer's initial business combination on a one-for-one basis, subject to adjustment, and have no expiration date.</footnote>
+        <footnote id="F4">Including (i) 1,932,500 Class B Ordinary Shares that were acquired by the Reporting Person in a private placement before the Issuer's IPO; (ii) the distribution of the 280,000 Class B Ordinary Shares by the Sponsor to Imperii Strategies LLC on March 10, 2023.</footnote>
+        <footnote id="F5">Representing 40,000 Class B Ordinary Shares the Sponsor acquired from certain directors and officer of the Issuer pursuant to certain securities transfer agreement dated March 17, 2023.</footnote>
+        <footnote id="F6">Including (i) 1,932,500 Class B Ordinary Shares that were acquired by the Reporting Person in a private placement before the Issuer's IPO; (ii) the distribution of the 280,000 Class B Ordinary Shares by the Sponsor to Imperii Strategies LLC on March 10, 2023; (iii) the purchase of 40,000 Class B Ordinary Shares by the Sponsor from certain directors and officer of the Issuer pursuant to certain securities transfer agreement dated March 17, 2023.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ I-Fa Chang</signatureName>
+        <signatureDate>2023-03-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

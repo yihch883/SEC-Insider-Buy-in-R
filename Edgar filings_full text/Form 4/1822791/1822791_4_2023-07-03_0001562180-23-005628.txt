@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001562180-23-005628.txt : 20230703
+<SEC-HEADER>0001562180-23-005628.hdr.sgml : 20230703
+<ACCEPTANCE-DATETIME>20230703134926
+ACCESSION NUMBER:		0001562180-23-005628
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230629
+FILED AS OF DATE:		20230703
+DATE AS OF CHANGE:		20230703
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mortenson Mark
+		CENTRAL INDEX KEY:			0001835427
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39834
+		FILM NUMBER:		231064589
+
+	MAIL ADDRESS:	
+		STREET 1:		500 PRINCIPIO PARKWAY WEST
+		STREET 2:		SUITE 400
+		CITY:			NORTH EAST
+		STATE:			MD
+		ZIP:			21901
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Clene Inc.
+		CENTRAL INDEX KEY:			0001822791
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				852828339
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6550 SOUTH MILLROCK DRIVE, SUITE G50
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+		BUSINESS PHONE:		801-676-9695
+
+	MAIL ADDRESS:	
+		STREET 1:		6550 SOUTH MILLROCK DRIVE, SUITE G50
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Chelsea Worldwide Inc.
+		DATE OF NAME CHANGE:	20200827
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-29</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001822791</issuerCik>
+        <issuerName>Clene Inc.</issuerName>
+        <issuerTradingSymbol>CLNN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001835427</rptOwnerCik>
+            <rptOwnerName>Mortenson Mark</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6550 SOUTH MILLROCK DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE G50</rptOwnerStreet2>
+            <rptOwnerCity>SALT LAKE CITY</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84121</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Science Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.90</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-29</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>800000.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-06-29</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>800000.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>800000.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This option was granted on June 29, 2023 as an option for 800,000 shares of Common Stock under the Clene Inc. Amended 2020 Stock Plan at an exercise price of $0.90 per share. The options vest with respect to the first 25% of such shares on June 29, 2024 and then in 36 equal installments of the balance of the shares of Common Stock on the last day of each calendar month beginning July 29, 2024 until such shares are fully vested. If Clene Inc. has an NDA accepted by the FDA, 50% of the option shares shall vest on that date. If the FDA approves the  accepted NDA, the then remaining unvested option shares shall vest on that date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jerry Miraglia POA</signatureName>
+        <signatureDate>2023-07-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

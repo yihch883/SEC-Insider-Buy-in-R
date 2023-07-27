@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001493152-23-002789.txt : 20230127
+<SEC-HEADER>0001493152-23-002789.hdr.sgml : 20230127
+<ACCEPTANCE-DATETIME>20230127164334
+ACCESSION NUMBER:		0001493152-23-002789
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230125
+FILED AS OF DATE:		20230127
+DATE AS OF CHANGE:		20230127
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Monroe Jason L.
+		CENTRAL INDEX KEY:			0001923895
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41355
+		FILM NUMBER:		23563821
+
+	MAIL ADDRESS:	
+		STREET 1:		14527 LINDALE ROSE LANE
+		CITY:			HUMBLE
+		STATE:			TX
+		ZIP:			77379
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sharps Technology Inc.
+		CENTRAL INDEX KEY:			0001737995
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				823751728
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		105 MAXESS ROAD
+		STREET 2:		STE. 124
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+		BUSINESS PHONE:		(631) 574 -4436
+
+	MAIL ADDRESS:	
+		STREET 1:		105 MAXESS ROAD
+		STREET 2:		STE. 124
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001737995</issuerCik>
+        <issuerName>Sharps Technology Inc.</issuerName>
+        <issuerTradingSymbol>STSS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001923895</rptOwnerCik>
+            <rptOwnerName>Monroe Jason L.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O SHARPS TECHNOLOGY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>105 MAXESS ROAD, STE. 124</rptOwnerStreet2>
+            <rptOwnerCity>MELVILLE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>11747</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.37</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>90000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-01-25</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>90000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>90000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Option vests over a two year period with 25% on date of grant and 37.5% after each 12 months and 24 months.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jason Monroe</signatureName>
+        <signatureDate>2023-01-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

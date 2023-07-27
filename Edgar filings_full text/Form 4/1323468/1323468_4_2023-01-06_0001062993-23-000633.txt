@@ -1,0 +1,202 @@
+<SEC-DOCUMENT>0001062993-23-000633.txt : 20230106
+<SEC-HEADER>0001062993-23-000633.hdr.sgml : 20230106
+<ACCEPTANCE-DATETIME>20230106170218
+ACCESSION NUMBER:		0001062993-23-000633
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230104
+FILED AS OF DATE:		20230106
+DATE AS OF CHANGE:		20230106
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Global GP LLC
+		CENTRAL INDEX KEY:			0001339396
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32593
+		FILM NUMBER:		23515788
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 SOUTH STREET, SUITE 500
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+		BUSINESS PHONE:		(781) 784-8800
+
+	MAIL ADDRESS:	
+		STREET 1:		800 SOUTH STREET, SUITE 500
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GLOBAL PARTNERS LP
+		CENTRAL INDEX KEY:			0001323468
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-PETROLEUM BULK STATIONS & TERMINALS [5171]
+		IRS NUMBER:				743140887
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P.O. BOX 9161
+		STREET 2:		800 SOUTH STREET, SUITE 500
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02454
+		BUSINESS PHONE:		(781) 894-8800
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 9161
+		STREET 2:		800 SOUTH STREET, SUITE 500
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02454
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Global Partners LP
+		DATE OF NAME CHANGE:	20050411
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001323468</issuerCik>
+        <issuerName>GLOBAL PARTNERS LP</issuerName>
+        <issuerTradingSymbol>GLP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001339396</rptOwnerCik>
+            <rptOwnerName>Global GP LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O GLOBAL PARTNERS LP</rptOwnerStreet1>
+            <rptOwnerStreet2>800 SOUTH STREET, SUITE 500</rptOwnerStreet2>
+            <rptOwnerCity>WALTHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02453</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>General Partner</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common units representing limited partner interests</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>61787</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>34.66</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common units representing limited partner interests</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13534</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>34.66</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9791</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person is delivering common units representing limited partner interests in the Issuer (&quot;Common Units&quot;) under the Global Partners LP Long-Term Incentive Plan (&quot;LTIP&quot;) to satisfy its obligations pursuant to grant agreements dated June 8, 2022 and October 14, 2022.</footnote>
+        <footnote id="F2">The Reporting Person disclaims any pecuniary interest in the Common Units and this report shall not be deemed an admission that the Reporting Person is the beneficial owner of the Common Units for purposes of Section 16.</footnote>
+        <footnote id="F3">The Reporting Person withheld Common Units from certain grant award recipients who elected a cashless exercise to satisfy their respective tax withholding obligations.  As a result, the Reporting Person held 9,791 Common Units after giving effect to the delivery of 61,787 Common Units to satisfy its obligations under the grant agreements less 13,534 Common Units that were withheld by the Reporting Person for tax purposes prior to such delivery.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Amy J. Gould, Attorney-in-Fact for Global GP LLC</signatureName>
+        <signatureDate>2023-01-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

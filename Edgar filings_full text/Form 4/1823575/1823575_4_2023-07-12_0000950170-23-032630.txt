@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0000950170-23-032630.txt : 20230712
+<SEC-HEADER>0000950170-23-032630.hdr.sgml : 20230712
+<ACCEPTANCE-DATETIME>20230712125224
+ACCESSION NUMBER:		0000950170-23-032630
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230711
+FILED AS OF DATE:		20230712
+DATE AS OF CHANGE:		20230712
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stewart Barbara Lynn
+		CENTRAL INDEX KEY:			0001981366
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39722
+		FILM NUMBER:		231083700
+
+	MAIL ADDRESS:	
+		STREET 1:		5798 ANEGADA DRIVE
+		CITY:			NAPLES
+		STATE:			FL
+		ZIP:			34113
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZeroFox Holdings, Inc.
+		CENTRAL INDEX KEY:			0001823575
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1834 S. CHARLES ST.
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21230
+		BUSINESS PHONE:		1-855-936-9369
+
+	MAIL ADDRESS:	
+		STREET 1:		1834 S. CHARLES ST.
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21230
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ZeroFox Holdings Inc.
+		DATE OF NAME CHANGE:	20220804
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	L&F Acquisition Corp.
+		DATE OF NAME CHANGE:	20200903
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001823575</issuerCik>
+        <issuerName>ZeroFox Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>ZFOX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001981366</rptOwnerCik>
+            <rptOwnerName>Stewart Barbara Lynn</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ZEROFOX HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1834 S. CHARLES STREET</rptOwnerStreet2>
+            <rptOwnerCity>BALTIMORE</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>21230</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>51000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.9804</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>51000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $0.9795 to $0.9946, inclusive. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer, or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas P. FitzGerald as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-07-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,196 @@
+<SEC-DOCUMENT>0001567619-23-000211.txt : 20230104
+<SEC-HEADER>0001567619-23-000211.hdr.sgml : 20230104
+<ACCEPTANCE-DATETIME>20230104160902
+ACCESSION NUMBER:		0001567619-23-000211
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230102
+FILED AS OF DATE:		20230104
+DATE AS OF CHANGE:		20230104
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sung Miyun
+		CENTRAL INDEX KEY:			0001726231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12803
+		FILM NUMBER:		23506393
+
+	MAIL ADDRESS:	
+		STREET 1:		4-75 48TH AVENUE #705
+		CITY:			LONG ISLAND CITY
+		STATE:			NY
+		ZIP:			11109
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			URSTADT BIDDLE PROPERTIES INC
+		CENTRAL INDEX KEY:			0001029800
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				042458042
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O URSTADT BIDDLE PROPERTIES INC.
+		STREET 2:		321 RAILROAD AVENUE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		2038638200
+
+	MAIL ADDRESS:	
+		STREET 1:		321 RAILROAD AVENUE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HRE PROPERTIES INC
+		DATE OF NAME CHANGE:	19961230
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001029800</issuerCik>
+        <issuerName>URSTADT BIDDLE PROPERTIES INC</issuerName>
+        <issuerTradingSymbol>UBA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001726231</rptOwnerCik>
+            <rptOwnerName>Sung Miyun</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>321 RAILROAD AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GREENWICH</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06830</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP and CLO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3687</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>18.95</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>59547</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>79547</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">3,687 shares of Class A Common Stock were withheld by the Company to satisfy Miyun Sung (the &quot;Reporting Person&quot;)'s tax obligation upon vesting of 8,000 shares on January 2, 2023.  The closing price of Class A Common Stock on December 30, 2022 was $18.95.</footnote>
+        <footnote id="F2">On January 3, 2023, the Issuer entered into an agreement with Miyun Sung (the &quot;Reporting Person&quot;) whereby the Reporting Person was granted a restricted stock award of 20,000 shares of Class A Common Stock that vests on January 3, 2028, pursuant to the Issuer's Amended and Restated Restricted Stock Award Plan (the &quot;Restricted Stock Award Plan&quot;).</footnote>
+        <footnote id="F3">Of such shares, 70,000 are restricted shares, subject to vesting, issued pursuant to the Restricted Award Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Miyun Sung</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

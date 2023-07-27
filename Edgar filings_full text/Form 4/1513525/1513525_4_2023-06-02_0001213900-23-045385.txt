@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001213900-23-045385.txt : 20230602
+<SEC-HEADER>0001213900-23-045385.hdr.sgml : 20230602
+<ACCEPTANCE-DATETIME>20230602075235
+ACCESSION NUMBER:		0001213900-23-045385
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230523
+FILED AS OF DATE:		20230602
+DATE AS OF CHANGE:		20230602
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Johnson Bankole A.
+		CENTRAL INDEX KEY:			0001718158
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38323
+		FILM NUMBER:		23986764
+
+	MAIL ADDRESS:	
+		STREET 1:		1180 SEMINOLE TRAIL
+		STREET 2:		SUITE 495
+		CITY:			CHARLOTTESVILLE
+		STATE:			VA
+		ZIP:			22901
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADIAL PHARMACEUTICALS, INC.
+		CENTRAL INDEX KEY:			0001513525
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				800667150
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1180 SEMINOLE TRAIL
+		STREET 2:		SUITE 495
+		CITY:			CHARLOTTESVILLE
+		STATE:			VA
+		ZIP:			22901
+		BUSINESS PHONE:		434-422-9800
+
+	MAIL ADDRESS:	
+		STREET 1:		1180 SEMINOLE TRAIL
+		STREET 2:		SUITE 495
+		CITY:			CHARLOTTESVILLE
+		STATE:			VA
+		ZIP:			22901
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ADial Pharmaceuticals, L.L.C.
+		DATE OF NAME CHANGE:	20170515
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Adial Pharmaceuticals, L.L.C.
+		DATE OF NAME CHANGE:	20110218
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001513525</issuerCik>
+        <issuerName>ADIAL PHARMACEUTICALS, INC.</issuerName>
+        <issuerTradingSymbol>ADIL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001718158</rptOwnerCik>
+            <rptOwnerName>Johnson Bankole A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1395 BRICKELL AVE,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>MIAMI,</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.3025</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>40000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-05-23</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-05-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>40000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>40000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Dr. Bankole Johnson</signatureName>
+        <signatureDate>2023-05-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

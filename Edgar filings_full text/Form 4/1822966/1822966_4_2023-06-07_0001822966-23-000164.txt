@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001822966-23-000164.txt : 20230607
+<SEC-HEADER>0001822966-23-000164.hdr.sgml : 20230607
+<ACCEPTANCE-DATETIME>20230607150051
+ACCESSION NUMBER:		0001822966-23-000164
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230606
+FILED AS OF DATE:		20230607
+DATE AS OF CHANGE:		20230607
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Chung Bum-Jin
+		CENTRAL INDEX KEY:			0001956517
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39736
+		FILM NUMBER:		23998723
+
+	MAIL ADDRESS:	
+		STREET 1:		6650 SW REDWOOD LANE, SUITE 210
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97224
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NUSCALE POWER Corp
+		CENTRAL INDEX KEY:			0001822966
+		STANDARD INDUSTRIAL CLASSIFICATION:	FABRICATED PLATE WORK (BOILER SHOPS) [3443]
+		IRS NUMBER:				852715384
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6650 SW REDWOOD LANE, SUITE 210
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97224
+		BUSINESS PHONE:		(971) 371-1592
+
+	MAIL ADDRESS:	
+		STREET 1:		6650 SW REDWOOD LANE, SUITE 210
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97224
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SPRING VALLEY ACQUISITION CORP.
+		DATE OF NAME CHANGE:	20200828
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1686164441.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-06</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001822966</issuerCik>
+        <issuerName>NUSCALE POWER Corp</issuerName>
+        <issuerTradingSymbol>SMR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001956517</rptOwnerCik>
+            <rptOwnerName>Chung Bum-Jin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6650 SW REDWOOD LANE, SUITE 210</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PORTLAND</rptOwnerCity>
+            <rptOwnerState>OR</rptOwnerState>
+            <rptOwnerZipCode>97224</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>841</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.59</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5249</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>841</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>841</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8410</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The amount beneficially owned was previously over reported by one share.  Mr. Chung beneficially owns 5,249 shares.</footnote>
+        <footnote id="F2">Each restricted stock unit represents a contingent right to receive one share of Class A Common Stock.</footnote>
+        <footnote id="F3">On December 1, 2022, Mr. Chung joined the board. The board awarded him 7,339 restricted stock units as the 2022 annual award that will vest quarterly beginning March 1, 2023, until it is vested after one year, and 10,091 restricted stock units as a one-time award that will vest quarterly beginning March 1, 2023, over three years. All units not vested and nonforfeitable will be forfeited to the Company upon termination of service. On May 26, 2023, the board approved the accelerated vesting of all shares under the annual award through May 26, 2023, and canceled the remainder of the award.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Patrick C. Cannon, attorney-in-fact for Bum-Jin Chung</signatureName>
+        <signatureDate>2023-06-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

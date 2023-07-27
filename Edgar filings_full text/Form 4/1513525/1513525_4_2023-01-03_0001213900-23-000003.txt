@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001213900-23-000003.txt : 20230103
+<SEC-HEADER>0001213900-23-000003.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103060237
+ACCESSION NUMBER:		0001213900-23-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221230
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stilley William B. III
+		CENTRAL INDEX KEY:			0001718069
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38323
+		FILM NUMBER:		23500040
+
+	MAIL ADDRESS:	
+		STREET 1:		1180 SEMINOLE TRAIL, SUITE 495
+		CITY:			CHARLOTTESVILLE
+		STATE:			VA
+		ZIP:			22901
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADIAL PHARMACEUTICALS, INC.
+		CENTRAL INDEX KEY:			0001513525
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				800667150
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1180 SEMINOLE TRAIL
+		STREET 2:		SUITE 495
+		CITY:			CHARLOTTESVILLE
+		STATE:			VA
+		ZIP:			22901
+		BUSINESS PHONE:		434-422-9800
+
+	MAIL ADDRESS:	
+		STREET 1:		1180 SEMINOLE TRAIL
+		STREET 2:		SUITE 495
+		CITY:			CHARLOTTESVILLE
+		STATE:			VA
+		ZIP:			22901
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ADial Pharmaceuticals, L.L.C.
+		DATE OF NAME CHANGE:	20170515
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Adial Pharmaceuticals, L.L.C.
+		DATE OF NAME CHANGE:	20110218
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001513525</issuerCik>
+        <issuerName>ADIAL PHARMACEUTICALS, INC.</issuerName>
+        <issuerTradingSymbol>ADIL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001718069</rptOwnerCik>
+            <rptOwnerName>Stilley William B. III</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1180 SEMINOLE TRAIL, SUITE 495</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHARLOTTESVILLE</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22901</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>166667</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1020979</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the cancellation of 166,667 previously outstanding shares of restricted common stock of Adial Pharmaceuticals, Inc. originally issued on February 23, 2022.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ William B. Stilley, III</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

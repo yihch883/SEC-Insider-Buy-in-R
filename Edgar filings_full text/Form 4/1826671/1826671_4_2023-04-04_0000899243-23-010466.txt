@@ -1,0 +1,241 @@
+<SEC-DOCUMENT>0000899243-23-010466.txt : 20230404
+<SEC-HEADER>0000899243-23-010466.hdr.sgml : 20230404
+<ACCEPTANCE-DATETIME>20230404175229
+ACCESSION NUMBER:		0000899243-23-010466
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230404
+DATE AS OF CHANGE:		20230404
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SEQUOIA CAPITAL INDIA III LTD.
+		CENTRAL INDEX KEY:			0001611414
+		STATE OF INCORPORATION:			O4
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39843
+		FILM NUMBER:		23799892
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+		BUSINESS PHONE:		650 854 3927
+
+	MAIL ADDRESS:	
+		STREET 1:		2800 SAND HILL RD, SUITE 101
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Near Intelligence, Inc.
+		CENTRAL INDEX KEY:			0001826671
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 W WALNUT ST., 4TH FLOOR
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91124
+		BUSINESS PHONE:		4155092370
+
+	MAIL ADDRESS:	
+		STREET 1:		100 W WALNUT ST., 4TH FLOOR
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91124
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KLUDEIN I ACQUISITION CORP
+		DATE OF NAME CHANGE:	20200930
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001826671</issuerCik>
+        <issuerName>Near Intelligence, Inc.</issuerName>
+        <issuerTradingSymbol>NIR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001611414</rptOwnerCik>
+            <rptOwnerName>SEQUOIA CAPITAL INDIA III LTD.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>EBENE ESPLANADE, 24 BANK STREET,</rptOwnerStreet1>
+            <rptOwnerStreet2>CYBERCITY</rptOwnerStreet2>
+            <rptOwnerCity>EBENE</rptOwnerCity>
+            <rptOwnerState>O4</rptOwnerState>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription>MAURITIUS</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Convertible Debentures</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>750000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>750000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18750</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>18750</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18750</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On March 31, 2023, the Reporting Person acquired $750,000 in principal amount of convertible notes (the &quot;Convertible Notes&quot;) and penny warrants for the purchase of 18,750 shares of Near Intelligence, Inc.'s (the &quot;Issuer&quot;) common stock (the &quot;Common Stock&quot;) from the Issuer for a purchase price of $750,000. The Convertible Notes can be converted to Common Stock at a conversion price, subject to customary adjustments, per share of Common Stock equal to the lower of $10.01 and 75% of the average of the daily volume weighted average prices during the 20 trading days immediately preceding the conversion date, provided that the conversion price cannot be lower than $2.06. The Convertible Notes accrue interest at an annual rate of 0.01%. Accrued interest may be added to the principal amount for purposes of determining the number of shares of Common Stock into which the Convertible Notes may be converted.</footnote>
+        <footnote id="F2">The Convertible Notes can be converted to Common Stock at the option of the holder at any time beginning on the 181st day following the issuance date and mature 90 days after the final maturity date of the term loans issued pursuant to that certain Financing Agreement, dated November 4, 2022, by and among Issuer certain of its subsidiaries party thereto as guarantors, the lenders party thereto, and Blue Torch Finance LLC.</footnote>
+        <footnote id="F3">The warrants have an exercise price of $0.01 and can be exercised at any time at the option of the holder. The warrants expire on March 31, 2027.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Satyadeo Bissessur</signatureName>
+        <signatureDate>2023-04-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

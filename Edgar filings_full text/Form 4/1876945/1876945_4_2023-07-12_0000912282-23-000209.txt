@@ -1,0 +1,146 @@
+<SEC-DOCUMENT>0000912282-23-000209.txt : 20230712
+<SEC-HEADER>0000912282-23-000209.hdr.sgml : 20230712
+<ACCEPTANCE-DATETIME>20230712150744
+ACCESSION NUMBER:		0000912282-23-000209
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230707
+FILED AS OF DATE:		20230712
+DATE AS OF CHANGE:		20230712
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Datcher Terence Troy
+		CENTRAL INDEX KEY:			0001768822
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56348
+		FILM NUMBER:		231084068
+
+	MAIL ADDRESS:	
+		STREET 1:		1221 BROADWAY
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94612
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Gold Flora Corp.
+		CENTRAL INDEX KEY:			0001876945
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE PRODUCTION - CROPS [0100]
+		IRS NUMBER:				932261104
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3165 RED HILL AVENUE
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92626
+		BUSINESS PHONE:		(949) 252-1908
+
+	MAIL ADDRESS:	
+		STREET 1:		3165 RED HILL AVENUE
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92626
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TPCO Holding Corp.
+		DATE OF NAME CHANGE:	20210804
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-07</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001876945</issuerCik>
+        <issuerName>Gold Flora Corp.</issuerName>
+        <issuerTradingSymbol>GRAM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001768822</rptOwnerCik>
+            <rptOwnerName>Datcher Terence Troy</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1221 BROADWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OAKLAND</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94612</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>732234</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>732234</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares were issued pursuant to a business combination involving TPCO Holding Corp. (&quot;TPCO&quot;), Gold Flora, LLC (&quot;Gold Flora&quot;), Stately Capital Corporation (&quot;Stately&quot;), Gold Flora Corporation (&quot;Issuer&quot;) and Golden Grizzly Bear LLC.  TPCO, Stately, and Issuer amalgamated to form a new corporation.  Issuer shares were issued in exchange for TPCO common shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Terence Troy Datcher</signatureName>
+        <signatureDate>2023-07-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0001127602-23-013367.txt : 20230421
+<SEC-HEADER>0001127602-23-013367.hdr.sgml : 20230421
+<ACCEPTANCE-DATETIME>20230421165056
+ACCESSION NUMBER:		0001127602-23-013367
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230420
+FILED AS OF DATE:		20230421
+DATE AS OF CHANGE:		20230421
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shaughnessy Maura
+		CENTRAL INDEX KEY:			0001873056
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12291
+		FILM NUMBER:		23836992
+
+	MAIL ADDRESS:	
+		STREET 1:		4300 WILSON BLVD.
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22203
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AES CORP
+		CENTRAL INDEX KEY:			0000874761
+		STANDARD INDUSTRIAL CLASSIFICATION:	COGENERATION SERVICES & SMALL POWER PRODUCERS [4991]
+		IRS NUMBER:				541163725
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4300 WILSON BOULEVARD
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22203
+		BUSINESS PHONE:		7035221315
+
+	MAIL ADDRESS:	
+		STREET 1:		4300 WILSON BOULEVARD
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AES CORPORATION
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000874761</issuerCik>
+        <issuerName>AES CORP</issuerName>
+        <issuerTradingSymbol>AES</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001873056</rptOwnerCik>
+            <rptOwnerName>Shaughnessy Maura</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>4300 WILSON BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ARLINGTON</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22203</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11521</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>23.87</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>11521</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32451</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each stock unit is the economic equivalent of one share of AES Common Stock. These units will be settled for shares of AES Common Stock after the date the reporting person terminates service on the Board in accordance with the Director's election form under The AES Corporation 2003 Long Term Compensation Plan, as amended on April 23, 2015.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jennifer Gillcrist, Attorney-in-fact</signatureName>
+        <signatureDate>2023-04-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

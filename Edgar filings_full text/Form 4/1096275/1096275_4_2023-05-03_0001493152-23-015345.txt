@@ -1,0 +1,289 @@
+<SEC-DOCUMENT>0001493152-23-015345.txt : 20230503
+<SEC-HEADER>0001493152-23-015345.hdr.sgml : 20230503
+<ACCEPTANCE-DATETIME>20230503212346
+ACCESSION NUMBER:		0001493152-23-015345
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230501
+FILED AS OF DATE:		20230503
+DATE AS OF CHANGE:		20230503
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rossi Steven F.
+		CENTRAL INDEX KEY:			0001626032
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40681
+		FILM NUMBER:		23886100
+
+	MAIL ADDRESS:	
+		STREET 1:		1895 CLEMENTS ROAD
+		CITY:			PICKERING
+		STATE:			A6
+		ZIP:			M1P 4Y9
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Worksport Ltd
+		CENTRAL INDEX KEY:			0001096275
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				650782227
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7299 E. DANBRO CRES
+		CITY:			MISSISSAUGA
+		STATE:			A6
+		ZIP:			L5N 6P8
+		BUSINESS PHONE:		1-888-554-8789
+
+	MAIL ADDRESS:	
+		STREET 1:		7299 E. DANBRO CRES
+		CITY:			MISSISSAUGA
+		STATE:			A6
+		ZIP:			L5N 6P8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Worksport, Ltd
+		DATE OF NAME CHANGE:	20200702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Franchise Holdings International, Inc.
+		DATE OF NAME CHANGE:	20090512
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TMANGLOBAL COM INC
+		DATE OF NAME CHANGE:	19991005
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001096275</issuerCik>
+        <issuerName>Worksport Ltd</issuerName>
+        <issuerTradingSymbol>WKSP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001626032</rptOwnerCik>
+            <rptOwnerName>Rossi Steven F.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>7299 E DANBRO CRESCENT</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MISSISSAUGA</rptOwnerCity>
+            <rptOwnerState>A6</rptOwnerState>
+            <rptOwnerZipCode>L5N 6P8</rptOwnerZipCode>
+            <rptOwnerStateDescription>ONTARIO, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO, President and Secretary</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Stock Unit (&quot;PSU&quot;)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>400000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>400000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Unit (&quot;RSU&quot;)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1600000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1600000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Non-Qualified Stock Option (Right to Buy) (&quot;'NSO&quot;)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.74</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-05-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2000000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2000000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each PSU represented the right to receive, upon vesting, one share of common stock of WKSP. On November 11, 2022, 400,000 PSUs granted to Steven Rossi on December 29, 2021 were modified. The PSUs were to vest in 5% increments according to a schedule that correlates with the stock price of WKSP. The first 5% of the PSUs were to vest upon the stock price of WKSP closing at $2.25. 50% were to have vested at a closing price of $5.31 and 100% were to have vested at a closing price of $13.76. The PSUs were cancelled on May 1, 2023. As of the date of cancellation of the PSUs, none of the PSUs had vested.</footnote>
+        <footnote id="F2">Each RSU represented the right to receive, upon vesting, one share of common stock of WKSP. On November 11, 2022, WKSP granted Steven Rossi 1,600,000 RSUs that were to vest in equal installments of 200,000 pursuant to the completion of eight milestones. The RSUs were cancelled on May 1, 2023. As of the date of cancellation of the RSUs, none of the RSUs had vested.</footnote>
+        <footnote id="F3">On May 1, 2023, WKSP granted Steven Rossi 2,000,000 NSOs. The NSOs vest in 10% (200,000 shares) increments upon the achievement of milestones. Vesting is based upon the achievement of certain values regarding either WKSP's market capitalization or the share price of WKSP using the volume weighted average price of the common stock of WKSP for ten (10) consecutive trading days.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Steven Rossi</signatureName>
+        <signatureDate>2023-05-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

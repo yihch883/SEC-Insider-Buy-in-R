@@ -1,0 +1,283 @@
+<SEC-DOCUMENT>0001213900-23-006798.txt : 20230201
+<SEC-HEADER>0001213900-23-006798.hdr.sgml : 20230201
+<ACCEPTANCE-DATETIME>20230201183051
+ACCESSION NUMBER:		0001213900-23-006798
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230130
+FILED AS OF DATE:		20230201
+DATE AS OF CHANGE:		20230201
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ArcLight CTC Holdings II, L.P.
+		CENTRAL INDEX KEY:			0001842317
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40272
+		FILM NUMBER:		23578199
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 CLARENDON STREET, 55TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		617-531-6300
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CLARENDON STREET, 55TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OPAL Fuels Inc.
+		CENTRAL INDEX KEY:			0001842279
+		STANDARD INDUSTRIAL CLASSIFICATION:	GAS & OTHER SERVICES COMBINED [4932]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 CLARENDON STREET, 55TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		617-531-6300
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CLARENDON STREET, 55TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ArcLight Clean Transition Corp. II
+		DATE OF NAME CHANGE:	20210125
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001842279</issuerCik>
+        <issuerName>OPAL Fuels Inc.</issuerName>
+        <issuerTradingSymbol>OPAL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001842317</rptOwnerCik>
+            <rptOwnerName>ArcLight CTC Holdings II, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 CLARENDON ST, 55TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12200</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8895982</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F3"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>197258</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8698724</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14700</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.32</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8684024</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>258600</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.96</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8425424</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan.</footnote>
+        <footnote id="F2">8,908,182 shares of Class A common stock, par value $0.0001 per share (&quot;Class A common stock&quot;), of the Issuer are held directly by ArcLight CTC Holdings, L.P., a Delaware limited liability partnership (the &quot;Sponsor&quot;). Daniel R. Revers has voting and investment discretion with respect to the securities held by the Sponsor, and thus may be deemed to have beneficial ownership of such securities. Mr. Revers expressly disclaims any such beneficial ownership of such securities, except to the extent of his individual pecuniary interest therein.</footnote>
+        <footnote id="F3">Pursuant to, and in satisfaction of, such agreements with respect to the forfeiture of shares set forth in the letter agreement, as modified by that certain side letter agreement by and between the Reporting Person and the Issuer, dated January 23, 2023, the Reporting Person forfeited 197,258 Class A Shares (which amount included 47,258 Sponsor Earn-Out Shares).</footnote>
+        <footnote id="F4">The reported price is a volume weighted average price (&quot;VWAP&quot;). 250,000 shares were sold pursuant to a block trade for $7.00 per share and 8,600 shares were sold in open market transactions for a VWAP of $7.15 per share, net of commissions and other execution-related costs. The reporting person undertakes to provide the relevant amount of shares sold to the market at each price to the SEC, the Issuer or any stockholder of the Issuer upon request.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>ARCLIGHT CTC HOLDINGS II, L.P. By: ACTC HOLDINGS GP II, LLC, its General Partner By: ARCLIGHT CAPITAL HOLDINGS, LLC, its Manager By: ACHP II, L.P., its Managing Member By: ACH GP, LLC, its General Partner By: /s/ Daniel R. Revers Title: Manager</signatureName>
+        <signatureDate>2023-02-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

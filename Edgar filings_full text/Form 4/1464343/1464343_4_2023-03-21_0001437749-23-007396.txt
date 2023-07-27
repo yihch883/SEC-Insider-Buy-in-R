@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0001437749-23-007396.txt : 20230321
+<SEC-HEADER>0001437749-23-007396.hdr.sgml : 20230321
+<ACCEPTANCE-DATETIME>20230321163049
+ACCESSION NUMBER:		0001437749-23-007396
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230317
+FILED AS OF DATE:		20230321
+DATE AS OF CHANGE:		20230321
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			JAMES DENNIS H JR
+		CENTRAL INDEX KEY:			0001918871
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40485
+		FILM NUMBER:		23750078
+
+	MAIL ADDRESS:	
+		STREET 1:		FIVE CONCOURSE PARKWAY, SUITE 300
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30328
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Atlanticus Holdings Corp
+		CENTRAL INDEX KEY:			0001464343
+		STANDARD INDUSTRIAL CLASSIFICATION:	PERSONAL CREDIT INSTITUTIONS [6141]
+		IRS NUMBER:				582336689
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		FIVE CONCOURSE PARKWAY
+		STREET 2:		SUITE 300
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30328
+		BUSINESS PHONE:		770-828-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		FIVE CONCOURSE PARKWAY
+		STREET 2:		SUITE 300
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CompuCredit Holdings Corp
+		DATE OF NAME CHANGE:	20090515
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001464343</issuerCik>
+        <issuerName>Atlanticus Holdings Corp</issuerName>
+        <issuerTradingSymbol>ATLC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001918871</rptOwnerCik>
+            <rptOwnerName>JAMES DENNIS H JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ATLANTICUS HOLDINGS CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>FIVE CONCOURSE PARKWAY, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30328</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>410</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>23.72</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19578</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>160</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By IRA</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>660</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Children</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">In previous Section 16 filings, the reporting person inadvertently omitted 160 shares of common stock that he acquired before he became subject to Section 16 reporting obligations. This Form 4 reflects the correct number of shares of common stock beneficially owned by the reporting person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Dennis H. James, Jr.</signatureName>
+        <signatureDate>2023-03-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,245 @@
+<SEC-DOCUMENT>0000899243-23-004052.txt : 20230206
+<SEC-HEADER>0000899243-23-004052.hdr.sgml : 20230206
+<ACCEPTANCE-DATETIME>20230206164529
+ACCESSION NUMBER:		0000899243-23-004052
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230202
+FILED AS OF DATE:		20230206
+DATE AS OF CHANGE:		20230206
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Slam Sponsor, LLC
+		CENTRAL INDEX KEY:			0001838096
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40094
+		FILM NUMBER:		23591255
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10110
+		BUSINESS PHONE:		650-888-8066
+
+	MAIL ADDRESS:	
+		STREET 1:		500 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10110
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Slam Corp.
+		CENTRAL INDEX KEY:			0001838162
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10110
+		BUSINESS PHONE:		650-888-8066
+
+	MAIL ADDRESS:	
+		STREET 1:		500 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10110
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001838162</issuerCik>
+        <issuerName>Slam Corp.</issuerName>
+        <issuerTradingSymbol>SLAM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001838096</rptOwnerCik>
+            <rptOwnerName>Slam Sponsor, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O 55 HUDSON YARDS, 47TH FLOOR,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE C</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B ordinary shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>21000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.002</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A ordinary shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>21000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14236000</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B ordinary shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F5"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.00</value>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A ordinary shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14226000</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reported transaction represents the exempt exercise of an option to repurchase 21,000 Class B ordinary shares, par value $0.0001 (the &quot;Class B Shares&quot;) previously sold by Slam Sponsor, LLC (the &quot;Sponsor&quot;) to Barbara Byrne pursuant to that certain Securities Assignment Agreement dated January 31, 2021, among the Sponsor, the issuer and Barbara Byrne, which provided the Sponsor with an option to repurchase the Class B Shares upon Barbara Byrne's resignation from the Issuer's board of directors prior to vesting, at the original purchase price (approximately $0.002 per share) paid by Barbara Byrne.</footnote>
+        <footnote id="F2">As described in the issuer's registration statement on Form S-1 (File No. 333-252727) under the heading &quot;Description of Securities-Founder Shares&quot;, the Class B Shares will automatically convert into Class A ordinary shares, par value $0.0001, of the issuer at the time of the issuer's initial business combination transaction on a one-for-one basis, subject to adjustment for share splits, share capitalizations, reorganizations, recapitalizations and the like, and certain anti-dilution rights and have no expiration date.</footnote>
+        <footnote id="F3">The reported securities corrects an overstatement of 11,333,333 Class B Shares reported in a prior Form 4 filed by the Sponsor on March 11, 2022, and amended on March 17, 2022, which filings inadvertently included as Class B Shares, the 11,333,333 private placement warrants owned by the Sponsor.</footnote>
+        <footnote id="F4">Represents 10,000 Class B Shares sold by the Sponsor.</footnote>
+        <footnote id="F5">On February 2, 2023, the Sponsor sold 10,000 Class B Shares to Alex Zyngier for $10,000, or approximately $1.00 per share, in connection with Mr. Zyngier's appointment to the board of directors of the issuer.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Himanshu Gulati, as authorized signatory</signatureName>
+        <signatureDate>2023-02-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

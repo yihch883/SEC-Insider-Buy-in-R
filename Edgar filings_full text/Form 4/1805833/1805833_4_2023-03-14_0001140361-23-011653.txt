@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001140361-23-011653.txt : 20230314
+<SEC-HEADER>0001140361-23-011653.hdr.sgml : 20230314
+<ACCEPTANCE-DATETIME>20230314172704
+ACCESSION NUMBER:		0001140361-23-011653
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230313
+FILED AS OF DATE:		20230314
+DATE AS OF CHANGE:		20230314
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Trasimene Trebia, LP
+		CENTRAL INDEX KEY:			0001814422
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39331
+		FILM NUMBER:		23732133
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1701 VILLAGE CENTER CIRCLE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89134
+		BUSINESS PHONE:		702-323-7330
+
+	MAIL ADDRESS:	
+		STREET 1:		1701 VILLAGE CENTER CIRCLE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89134
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			System1, Inc.
+		CENTRAL INDEX KEY:			0001805833
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				981531250
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4235 REDWOOD AVENUE
+		CITY:			MARINA DEL REY
+		STATE:			CA
+		ZIP:			90066
+		BUSINESS PHONE:		310-924-6037
+
+	MAIL ADDRESS:	
+		STREET 1:		4235 REDWOOD AVENUE
+		CITY:			MARINA DEL RAY
+		STATE:			CA
+		ZIP:			90066
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Trebia Acquisition Corp.
+		DATE OF NAME CHANGE:	20200306
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-13</periodOfReport>
+
+    <notSubjectToSection16>true</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001805833</issuerCik>
+        <issuerName>System1, Inc.</issuerName>
+        <issuerTradingSymbol>SST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001814422</rptOwnerCik>
+            <rptOwnerName>Trasimene Trebia, LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O 1701 VILLAGE CENTER CIRCLE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89134</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A common stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1722235</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person distributed shares of Class A common stock on a pro-rata basis for no additional consideration.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael L. Gravelle, General Counsel and Corporate Secretary of Trasimene Trebia, LP</signatureName>
+        <signatureDate>2023-03-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

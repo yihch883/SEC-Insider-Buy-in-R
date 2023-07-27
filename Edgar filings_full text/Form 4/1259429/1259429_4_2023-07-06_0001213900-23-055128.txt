@@ -1,0 +1,241 @@
+<SEC-DOCUMENT>0001213900-23-055128.txt : 20230706
+<SEC-HEADER>0001213900-23-055128.hdr.sgml : 20230706
+<ACCEPTANCE-DATETIME>20230706152100
+ACCESSION NUMBER:		0001213900-23-055128
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230614
+FILED AS OF DATE:		20230706
+DATE AS OF CHANGE:		20230706
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ROSENTHAL SAUL B
+		CENTRAL INDEX KEY:			0001268529
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00638
+		FILM NUMBER:		231073376
+
+	MAIL ADDRESS:	
+		STREET 1:		8 SOUND SHORE DR STE 215
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Oxford Square Capital Corp.
+		CENTRAL INDEX KEY:			0001259429
+		IRS NUMBER:				200118736
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8 SOUND SHORE DR
+		STREET 2:		SUITE 255
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		2039835275
+
+	MAIL ADDRESS:	
+		STREET 1:		8 SOUND SHORE DRIVE
+		STREET 2:		SUITE 255
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Oxford Street Capital Corp.
+		DATE OF NAME CHANGE:	20180319
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TICC Capital Corp.
+		DATE OF NAME CHANGE:	20071203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TECHNOLOGY INVESTMENT CAPITAL CORP
+		DATE OF NAME CHANGE:	20030812
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001259429</issuerCik>
+        <issuerName>Oxford Square Capital Corp.</issuerName>
+        <issuerTradingSymbol>OXSQ</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001268529</rptOwnerCik>
+            <rptOwnerName>ROSENTHAL SAUL B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O OXFORD SQUARE CAPITAL CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>8 SOUND SHORE DRIVE, SUITE 255</rptOwnerStreet2>
+            <rptOwnerCity>GREENWICH</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06830</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President and COO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>X</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>514194</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.66</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2056776</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1102</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Transferable Subscription Rights (right to buy)</value>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.66</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>X</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>514194</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-05-24</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2023-06-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>514194</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares held by Oxford Funds, LLC, which may be deemed to be beneficially owned by Mr. Rosenthal by virtue of his ownership interest therein.</footnote>
+        <footnote id="F2">On May 10, 2023, Oxford Square Capital Corp. (the &quot;Company&quot;) announced the commencement of a pro rata offering (the &quot;Rights Offering&quot;) of transferable rights (the &quot;Rights&quot;) to holders of the Company's common shares, as of the record date of May 23, 2023 (&quot;Record Date Shareholder&quot;), entitling the holders of such rights to subscribe for up to an aggregate of 16,633,723 of the Company's common shares. Record Date Shareholders received one Right for every three common shares held on the record date. The Rights entitle their holders to purchase one new common share for every one Right held. The subscription price per common share is $2.66. The subscription rights expired if they were not exercised by 5:00 p.m. Eastern time on June 14, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Saul B. Rosenthal</signatureName>
+        <signatureDate>2023-07-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

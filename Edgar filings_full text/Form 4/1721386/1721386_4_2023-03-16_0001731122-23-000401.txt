@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001731122-23-000401.txt : 20230316
+<SEC-HEADER>0001731122-23-000401.hdr.sgml : 20230316
+<ACCEPTANCE-DATETIME>20230316192439
+ACCESSION NUMBER:		0001731122-23-000401
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230314
+FILED AS OF DATE:		20230316
+DATE AS OF CHANGE:		20230316
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Farhat Elias
+		CENTRAL INDEX KEY:			0001744195
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38545
+		FILM NUMBER:		23740300
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O LF CAPITAL ACQUISITION CORP
+		STREET 2:		600 MADISON AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Landsea Homes Corp
+		CENTRAL INDEX KEY:			0001721386
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATIVE BUILDERS [1531]
+		IRS NUMBER:				822196021
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		660 NEWPORT CENTER DRIVE
+		STREET 2:		SUITE 300
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+		BUSINESS PHONE:		(949) 345-8080
+
+	MAIL ADDRESS:	
+		STREET 1:		660 NEWPORT CENTER DRIVE
+		STREET 2:		SUITE 300
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LF Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20171101
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001721386</issuerCik>
+        <issuerName>Landsea Homes Corp</issuerName>
+        <issuerTradingSymbol>LSEA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001744195</rptOwnerCik>
+            <rptOwnerName>Farhat Elias</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O LANDSEA HOMES CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>660 NEWPORT CENTER DRIVE, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>NEWPORT BEACH</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92660</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14566</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>42655</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2227835</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represent 14,566 restricted stock units (&quot;RSUs&quot;) granted under the Landsea Homes Corporation 2020 Stock Incentive Plan. Each RSU represents the right to receive one share of the Issuer's common stock, par value $0.0001 per share. The RSUs will vest on the date of the Issuer's 2023 annual meeting of stockholders.</footnote>
+        <footnote id="F2">Level Field Capital, LLC is the record holder of the securities reported herein. Level Field Partners, LLC is the managing member of Level Field Capital, LLC. Level Field Management, LLC is the managing member of Level Field Partners, LLC. Elias Farhat manages Level Field Management, LLC as one of its members. Mr. Farhat disclaims beneficial ownership of the reported securities other than to the extent of any pecuniary interest he may have therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Franco Tenerelli, as Attorney-in-fact for Elias Farhat</signatureName>
+        <signatureDate>2023-03-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,188 @@
+<SEC-DOCUMENT>0000899243-23-000233.txt : 20230103
+<SEC-HEADER>0000899243-23-000233.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103163045
+ACCESSION NUMBER:		0000899243-23-000233
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221230
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RALES MITCHELL P
+		CENTRAL INDEX KEY:			0001015014
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08089
+		FILM NUMBER:		23502541
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11790 GLEN ROAD
+		CITY:			POTOMAC
+		STATE:			MD
+		ZIP:			20854
+		BUSINESS PHONE:		301-299-2225
+
+	MAIL ADDRESS:	
+		STREET 1:		11790 GLEN ROAD
+		CITY:			POTOMAC
+		STATE:			MD
+		ZIP:			20854
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DANAHER CORP /DE/
+		CENTRAL INDEX KEY:			0000313616
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				591995548
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 PENNSYLVANIA AVE. N.W.
+		STREET 2:		SUITE 800W
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20037-1701
+		BUSINESS PHONE:		2028280850
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 PENNSYLVANIA AVE. N.W.
+		STREET 2:		SUITE 800W
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20037-1701
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DMG INC
+		DATE OF NAME CHANGE:	19850221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000313616</issuerCik>
+        <issuerName>DANAHER CORP /DE/</issuerName>
+        <issuerTradingSymbol>DHR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001015014</rptOwnerCik>
+            <rptOwnerName>RALES MITCHELL P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11790 GLEN ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>POTOMAC</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20854</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chairman of Exec. Committee</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Danaher deferred contribution programs - Danaher Stock Fund</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.00</value>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-12-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1341.836</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>265.42</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $.01</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1341.836</value>
+                    <footnoteId id="F1"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4171.952</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the Reporting Person's contribution to the Danaher stock fund (the &quot;DCP Stock Fund&quot;) in the Danaher Deferred Compensation Plan. The contributions are deemed to be invested in a number of unfunded, notional shares of Danaher common stock.</footnote>
+        <footnote id="F2">The notional shares convert on a one-for-one basis.</footnote>
+        <footnote id="F3">All DCP Stock Fund deferrals are immediately vested.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Mitchell P. Rales</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

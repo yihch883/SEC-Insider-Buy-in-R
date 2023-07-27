@@ -1,0 +1,150 @@
+<SEC-DOCUMENT>0001607062-23-000099.txt : 20230215
+<SEC-HEADER>0001607062-23-000099.hdr.sgml : 20230215
+<ACCEPTANCE-DATETIME>20230215145851
+ACCESSION NUMBER:		0001607062-23-000099
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230101
+FILED AS OF DATE:		20230215
+DATE AS OF CHANGE:		20230215
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LUHUKAY JOSEPH FELLIPUS PETER
+		CENTRAL INDEX KEY:			0001940899
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39480
+		FILM NUMBER:		23635028
+
+	MAIL ADDRESS:	
+		STREET 1:		150 N. MACQUESTEN PKWY
+		CITY:			MOUNT VERNON
+		STATE:			NY
+		ZIP:			10550
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Applied UV, Inc.
+		CENTRAL INDEX KEY:			0001811109
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC LIGHTING & WIRING EQUIPMENT [3640]
+		IRS NUMBER:				844373308
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 N. MACQUESTEN PKWY
+		CITY:			MOUNT VERNON
+		STATE:			NY
+		ZIP:			10550
+		BUSINESS PHONE:		9292073751
+
+	MAIL ADDRESS:	
+		STREET 1:		150 N. MACQUESTEN PKWY
+		CITY:			MOUNT VERNON
+		STATE:			NY
+		ZIP:			10550
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001811109</issuerCik>
+        <issuerName>Applied UV, Inc.</issuerName>
+        <issuerTradingSymbol>AUVI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001940899</rptOwnerCik>
+            <rptOwnerName>LUHUKAY JOSEPH FELLIPUS PETER</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>150 N. MACQUESTEN PKWY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MOUNT VERNON</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10550</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7500</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">7,500 shares vest on an annual basis over a one-year period, commencing on January 1, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Joseph Luhukay</signatureName>
+        <signatureDate>2023-02-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

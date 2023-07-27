@@ -1,0 +1,243 @@
+<SEC-DOCUMENT>0001140361-23-013082.txt : 20230322
+<SEC-HEADER>0001140361-23-013082.hdr.sgml : 20230322
+<ACCEPTANCE-DATETIME>20230322163525
+ACCESSION NUMBER:		0001140361-23-013082
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230320
+FILED AS OF DATE:		20230322
+DATE AS OF CHANGE:		20230322
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kalamaras Eric
+		CENTRAL INDEX KEY:			0001472318
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38343
+		FILM NUMBER:		23753368
+
+	MAIL ADDRESS:	
+		STREET 1:		ATLAS PIPELINE PARTNERS, GP
+		STREET 2:		110 W. 7TH, SUITE 2300
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74119
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Target Hospitality Corp.
+		CENTRAL INDEX KEY:			0001712189
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS, ROOMING HOUSE, CAMPS & OTHER LODGING PLACES [7000]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9320 LAKESIDE BLVD.
+		STREET 2:		SUITE 300
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+		BUSINESS PHONE:		832 709-2563
+
+	MAIL ADDRESS:	
+		STREET 1:		9320 LAKESIDE BLVD.
+		STREET 2:		SUITE 300
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Platinum Eagle Acquisition Corp.
+		DATE OF NAME CHANGE:	20170718
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001712189</issuerCik>
+        <issuerName>Target Hospitality Corp.</issuerName>
+        <issuerTradingSymbol>TH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001472318</rptOwnerCik>
+            <rptOwnerName>Kalamaras Eric</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>9320 LAKESIDE BLVD.</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>THE WOODLANDS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77381</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>EVP and CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2190</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>4.51</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>83324</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2190</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>16.52</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>81134</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.51</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2190</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-03-04</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2190</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>126382</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Exercise and sale pursuant to 10b5-1 plan entered into January 5, 2023.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $16.50 to $16.56, inclusive. The Reporting Person undertakes to provide to Target Hospitality Corp., any security holder of Target Hospitality Corp., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote 2 to this Form 4.</footnote>
+        <footnote id="F3">The options reported in this footnote 3 represent the right upon vesting to buy shares of Common Stock pursuant to the terms and conditions of the Target Hospitality Corp. 2019 Incentive Award Plan (as amended, the &quot;Plan&quot;) and the Nonqualified Stock Option Award Agreement entered into between the Issuer and the Reporting Person as of March 4, 2020 (the &quot;Option Award Agreement&quot;). The options reported in this footnote 3 vest in equal installments on each of the first four anniversaries of the grant date beginning on March 4, 2021, subject to the terms and conditions of the Plan and Option Award Agreement.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Heidi D. Lewis, as Attorney-in-Fact on behalf of Eric T. Kalamaras</signatureName>
+        <signatureDate>2023-03-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

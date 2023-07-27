@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0001903601-23-000043.txt : 20230320
+<SEC-HEADER>0001903601-23-000043.hdr.sgml : 20230320
+<ACCEPTANCE-DATETIME>20230320160428
+ACCESSION NUMBER:		0001903601-23-000043
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230317
+FILED AS OF DATE:		20230320
+DATE AS OF CHANGE:		20230320
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FORD SCOTT T
+		CENTRAL INDEX KEY:			0001187377
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41485
+		FILM NUMBER:		23746410
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE ALLIED DRIVE
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Westrock Coffee Co
+		CENTRAL INDEX KEY:			0001806347
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		IRS NUMBER:				264767812
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4009 N. RODNEY PARHAM RD.
+		STREET 2:		3RD FLOOR
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72212
+		BUSINESS PHONE:		(501) 320-4880
+
+	MAIL ADDRESS:	
+		STREET 1:		4009 N. RODNEY PARHAM RD.
+		STREET 2:		3RD FLOOR
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72212
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Westrock Coffee Holdings, LLC
+		DATE OF NAME CHANGE:	20200311
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001806347</issuerCik>
+        <issuerName>Westrock Coffee Co</issuerName>
+        <issuerTradingSymbol>WEST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001187377</rptOwnerCik>
+            <rptOwnerName>FORD SCOTT T</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>4009 N. RODNEY PARHAM RD.</rptOwnerStreet1>
+            <rptOwnerStreet2>3RD FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>LITTLE ROCK</rptOwnerCity>
+            <rptOwnerState>AR</rptOwnerState>
+            <rptOwnerZipCode>72212</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CHIEF EXECUTIVE OFFICER</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>39000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.65</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>239000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>23163104</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $11.42 to $11.88, inclusive. The reporting person undertakes to provide to the issuer, any security holder of the issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within such range.</footnote>
+        <footnote id="F2">Consists of 23,163,104 shares of Common Stock, which are held of record by Westrock Group, LLC (&quot;Westrock Group&quot;). Greenbrier Holdings, LLC (&quot;Greenbrier&quot;) is the manager of Westrock Group and as such has voting and investment power over the shares of Common Stock held by Westrock Group.  Scott T. Ford is the sole member and manager of Greenbrier and as such may be deemed to exercise voting and investment control over the shares of Common Stock held by Westrock Group.  Mr. Ford disclaims beneficial ownership over all shares held by Westrock Group over which he does not have a pecuniary interest and this report shall not be deemed an admission that Mr. Ford is the beneficial owner of the disclaimed securities for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ BY: ROBERT P. MCKINNEY AS ATTORNEY-IN-FACT FOR SCOTT T. FORD</signatureName>
+        <signatureDate>2023-03-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

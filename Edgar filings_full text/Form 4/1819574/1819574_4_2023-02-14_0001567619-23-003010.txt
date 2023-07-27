@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001567619-23-003010.txt : 20230214
+<SEC-HEADER>0001567619-23-003010.hdr.sgml : 20230214
+<ACCEPTANCE-DATETIME>20230214204010
+ACCESSION NUMBER:		0001567619-23-003010
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230210
+FILED AS OF DATE:		20230214
+DATE AS OF CHANGE:		20230214
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sitaraman Narayanan
+		CENTRAL INDEX KEY:			0001878303
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39691
+		FILM NUMBER:		23633248
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE ORIGINAL BARK COMPANY
+		STREET 2:		221 CANAL ST., FL 6
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bark, Inc.
+		CENTRAL INDEX KEY:			0001819574
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
+		IRS NUMBER:				834109918
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		221 CANAL ST., FL 6
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+		BUSINESS PHONE:		(855) 501-2275
+
+	MAIL ADDRESS:	
+		STREET 1:		221 CANAL ST., FL 6
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Original Bark Co
+		DATE OF NAME CHANGE:	20210603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Northern Star Acquisition Corp.
+		DATE OF NAME CHANGE:	20200729
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001819574</issuerCik>
+        <issuerName>Bark, Inc.</issuerName>
+        <issuerTradingSymbol>BARK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001878303</rptOwnerCik>
+            <rptOwnerName>Sitaraman Narayanan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BARK, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>120 BROADWAY</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10271</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Technology Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1629</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.53</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>603187</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Issuer withheld the shares reported on this line to satisfy tax withholding obligations that arose in connection with a vesting and settlement event from a Restricted Stock Units award. Not an open market sale of securities.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Allison Koehler, Attorney in fact for Narayanan Sitaraman</signatureName>
+        <signatureDate>2023-02-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

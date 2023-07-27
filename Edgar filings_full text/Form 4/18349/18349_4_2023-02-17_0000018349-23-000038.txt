@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0000018349-23-000038.txt : 20230217
+<SEC-HEADER>0000018349-23-000038.hdr.sgml : 20230217
+<ACCEPTANCE-DATETIME>20230217162453
+ACCESSION NUMBER:		0000018349-23-000038
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230216
+FILED AS OF DATE:		20230217
+DATE AS OF CHANGE:		20230217
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Goodwine Sharon
+		CENTRAL INDEX KEY:			0001906698
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10312
+		FILM NUMBER:		23642974
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 BAY AVENUE
+		CITY:			COLUMBUS
+		STATE:			GA
+		ZIP:			31901
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SYNOVUS FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000018349
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				581134883
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 BAY AVENUE
+		STREET 2:		STE 500
+		CITY:			COLUMBUS
+		STATE:			GA
+		ZIP:			31901
+		BUSINESS PHONE:		7066492311
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 BAY AVENUE
+		STREET 2:		STE 500
+		CITY:			COLUMBUS
+		STATE:			GA
+		ZIP:			31901
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CB&T BANCSHARES INC
+		DATE OF NAME CHANGE:	19890912
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_167666905686873.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-16</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000018349</issuerCik>
+        <issuerName>SYNOVUS FINANCIAL CORP</issuerName>
+        <issuerTradingSymbol>SNV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001906698</rptOwnerCik>
+            <rptOwnerName>Goodwine Sharon</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 120</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>COLUMBUS</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>31902</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP Chief Human Resources Off</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4391</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>43.28</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18668</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6586</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-02-16</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6586.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6586</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares are subject to restricted stock units. The units vest 1/3 each year over a three-year period subject to the reporting person's continued employment with Synovus.</footnote>
+        <footnote id="F2">These shares are subject to performance stock units (the &quot;PSUs&quot;). The PSUs have a service-based vesting component as well as a performance vesting requirement. Under the service-based vesting component, the PSUs vest 100% after three years subject to the reporting person's continued employment with Synovus. Under the performance vesting component, two performance measures (weighted average return on tangible common equity and relative total shareholder return) are measured over a three-year performance period, with each measure impacting one-half of the PSUs awarded to the reporting person. The actual payout of the PSUs may range from 0% to 150% of the target amount based upon the results of the two performance measures during the performance period compared to the performance objective approved by the Compensation and Human Capital Committee of Synovus' Board of Directors.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Mary Maurice Young</signatureName>
+        <signatureDate>2023-02-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

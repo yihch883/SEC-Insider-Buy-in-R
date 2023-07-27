@@ -1,0 +1,383 @@
+<SEC-DOCUMENT>0001225208-23-006632.txt : 20230608
+<SEC-HEADER>0001225208-23-006632.hdr.sgml : 20230608
+<ACCEPTANCE-DATETIME>20230608111336
+ACCESSION NUMBER:		0001225208-23-006632
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230607
+FILED AS OF DATE:		20230608
+DATE AS OF CHANGE:		20230608
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Dowdle Jeffrey A
+		CENTRAL INDEX KEY:			0001541020
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09109
+		FILM NUMBER:		231001131
+
+	MAIL ADDRESS:	
+		STREET 1:		880 CARILLON PARKWAY
+		CITY:			ST. PETERSBURG
+		STATE:			FL
+		ZIP:			33716
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RAYMOND JAMES FINANCIAL INC
+		CENTRAL INDEX KEY:			0000720005
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		IRS NUMBER:				591517485
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		880 CARILLON PKWY
+		CITY:			ST PETERSBURG
+		STATE:			FL
+		ZIP:			33716
+		BUSINESS PHONE:		727-567-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		880 CARILLON PKWY
+		CITY:			ST. PETERSBURG
+		STATE:			FL
+		ZIP:			33716
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RJ FINANCIAL CORP/FL
+		DATE OF NAME CHANGE:	19870303
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-07</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000720005</issuerCik>
+        <issuerName>RAYMOND JAMES FINANCIAL INC</issuerName>
+        <issuerTradingSymbol>RJF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001541020</rptOwnerCik>
+            <rptOwnerName>Dowdle Jeffrey A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>880 CARILLON PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ST. PETERSBURG</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33716</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>COO &amp; Head of Asset Mgmt.</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5281.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>96.3613</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48314.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1125.0000</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by Daughter EC</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13331.0000</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>ESOP</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1125.0000</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>UTMA Custodian for Son GT</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person effected multiple same-way open market sale transactions on the same day at different prices through a trade order executed by a broker-dealer.  The reporting person has reported on a single line all such transactions that occurred within a one dollar price range.  The reporting person hereby undertakes to provide upon request by the Securities and Exchange Commission staff, the issuer or a shareholder of the issuer, full information regarding the number of shares sold at each separate price.</footnote>
+        <footnote id="F2">Reflects the weighted average sale price.  The range of prices for such transaction was $96.35 to $96.40.</footnote>
+        <footnote id="F3">The reporting person disclaims beneficial ownership of these securities, and the filing of this report is not an admission that the reporting person is the beneficial owner of these securities for purposes of Section 16 or for any other purpose.</footnote>
+        <footnote id="F4">Includes shares of common stock acquired under the reporting person's Employee Stock Ownership Plan (ESOP) account through June 7, 2023.</footnote>
+    </footnotes>
+
+    <remarks>This Form 4 reports the open market sale by the reporting person of shares of common stock.  dowdlepoa.txt</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey A. Dowdle by Jonathan J. Doyle as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-06-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>dowdlepoa.txt
+<TEXT>
+
+POWER OF ATTORNEY
+FOR
+SEC FILINGS UNDER SECTION 16 AND RULE 144
+
+
+   Know all by these presents, that the undersigned hereby
+constitutes and appoints each of:
+
+(a) Jonathan J. Doyle, Kary Bahr and Beth Suzanski, or any
+of them signing singly, and with full power of substitution,
+the undersigned's true and lawful attorney-in-fact to:
+
+1) prepare, execute in the undersigned's name and on the
+undersigned's behalf, and submit to the U.S. Securities and
+Exchange Commission (the "SEC") a Form ID, including amendments
+thereto, and any other documents necessary or appropriate to
+obtain codes and passwords enabling the undersigned to make
+electronic filings with the SEC of reports required by Section 16(a)
+of the Securities Exchange Act of 1934, as amended ("Section 16"),
+Rule 144 under the Securities Act of 1933, as amended ("Rule 144"),
+or any other rule or regulation of the SEC;
+
+2) execute, for and on behalf of the undersigned, in the
+undersigned's capacity as an officer and/or director of Raymond
+James Financial, Inc. (the "Company"), Forms 3, 4, and 5 in
+accordance with Section 16 and the rules thereunder, and any other
+forms or reports the undersigned may be required to file in
+connection with the undersigned's ownership, acquisition or
+disposition of securities of the Company;
+
+(b) Kelly Peterson, Mario Esposito, Tracey Cornelison, Mohammed
+Alshatri and Melissa Fisher, in his or her capacity as a duly
+authorized representative of Raymond James & Associates, Inc.,
+a Florida corporation and wholly-owned subsidiary of the Company
+(the "Broker"), or any of them signing singly, and with full power of
+substitution, the undersigned's true and lawful attorney-in-fact to:
+
+1) execute for and on behalf of the undersigned any Notice of
+Proposed Sale of Securities on Form 144 ("Form 144"), and any
+amendments thereto pursuant to Rule 144, and timely file such
+Form 144 with the SEC, in connection with the undersigned's
+disposition of securities of the Company; and
+
+2) seek or obtain, as the undersigned's representative and on the
+undersigned's behalf, information on transactions in securities of
+the Company from any third party, including brokers (including the
+Broker), employee benefit plan administrators and trustees, and the
+undersigned hereby authorizes any such person to release any such
+information to each of the undersigned's attorneys-in-fact appointed
+by this Power of Attorney, and hereby approves and ratifies any such
+release of such information; and
+
+(c) with respect to each of (a) and (b) hereinabove:
+
+1) do and perform any and all further acts, for and on behalf of the
+undersigned, which may be necessary or desirable to complete and
+execute any such Form 3, 4 and 5, Form 144, or other form or report,
+complete and execute any amendment or amendments thereto, and timely
+file such form or report with the SEC and, where applicable, the New
+York Stock Exchange or similar authority; and
+
+2) take any other action of any type whatsoever in connection with
+the foregoing which, in the opinion of such attorney-in-fact, may
+be of benefit to, in the best interest of, or legally required of,
+the undersigned, it being understood that the documents executed by
+such attorney-in-fact on behalf of the undersigned pursuant to this
+Power of Attorney shall be in such form and shall contain such
+terms and conditions as such attorney-in-fact may approve in such
+attorney-in-fact's discretion.
+
+   The undersigned hereby further grants to each such
+attorney-in-fact full power and authority to do and perform any
+and every act and thing whatsoever requisite, necessary, or proper
+to be done in the exercise of any of the rights and powers herein
+granted, as fully to all intents and purposes as the undersigned
+might or could do if personally present, with full power of
+substitution or revocation, hereby ratifying and confirming all
+that such attorney-in-fact, or such attorney-in-fact's substitute
+or substitutes, shall lawfully do or cause to be done by virtue
+of this Power of Attorney and the rights and powers herein granted.
+
+   The undersigned acknowledges that the foregoing
+attorneys-in-fact, in serving in such capacity at the request of
+the undersigned, are not assuming, nor is the Company or the
+Broker assuming, any of the undersigned's responsibilities to
+comply with Section 16, Rule 144, or the respective rules and
+regulations thereunder ("Law").  The undersigned further
+acknowledges that it is his/her responsibility to provide
+information to the attorneys-in-fact on a timely basis with
+respect to any proposed transaction that could require the
+filing of any Form 4 or 5, or Form 144, and to respond in a
+timely manner to all communications, notices and inquiries
+from the attorneys-in-fact, the Company or the Broker, or their
+respective representatives, with respect to any proposed
+transaction.  The undersigned further acknowledges that
+failure to provide information on a timely basis, or to
+respond in a timely manner to such notices, communications
+and inquiries, could result in the failure to make timely
+filing of these documents as required by Law, which could
+result in violations of Law by the undersigned, as well as
+public disclosure of delinquent filings by the undersigned.
+The undersigned further acknowledges that the responsibility
+for timely filing continues to be that of the undersigned and,
+in that regard, releases the attorneys-in-fact, the Company
+and the Broker from any liability with respect to any action
+taken or omitted in good faith by them in connection with
+such filings.
+
+   This Power of Attorney shall remain in full force and
+effect until the undersigned is no longer required to file
+Forms 3, 4 and 5, or Form 144, with respect to the
+undersigned's holdings of and transactions in securities
+issued by the Company, unless earlier revoked by the
+undersigned in a signed writing delivered to the foregoing
+attorneys-in-fact.
+
+   IN WITNESS WHEREOF, the undersigned has caused this Power of
+Attorney to be executed this 8th day of May, 2023.
+
+
+/s/ Jeffrey A. Dowdle
+________________________
+Signature
+
+Jeffrey A. Dowdle
+________________________
+Print Name
+
+WITNESSES:
+
+/s/ Gretchen Doane
+________________________
+Signature
+
+Gretchen Doane
+________________________
+Print Name
+
+
+/s/ Justyna Lomot
+________________________
+Signature
+
+Justyna Lomot
+________________________
+Print Name
+
+
+Signed before me this 8th day of May, 2023
+
+/s/ Cynthia A. Crane
+________________________
+Notary Public
+
+Notary Public, State of Florida
+Cynthia A. Crane
+My Commission # HH 096084
+Expires: June 22, 2025
+Bonded Thru Notary Public Underwriters
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

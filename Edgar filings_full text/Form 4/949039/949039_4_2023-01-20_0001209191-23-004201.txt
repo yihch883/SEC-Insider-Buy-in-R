@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001209191-23-004201.txt : 20230120
+<SEC-HEADER>0001209191-23-004201.hdr.sgml : 20230120
+<ACCEPTANCE-DATETIME>20230120134009
+ACCESSION NUMBER:		0001209191-23-004201
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230118
+FILED AS OF DATE:		20230120
+DATE AS OF CHANGE:		20230120
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Savarino Dominic A
+		CENTRAL INDEX KEY:			0001604910
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13926
+		FILM NUMBER:		23540269
+
+	MAIL ADDRESS:	
+		STREET 1:		757 N. ELDRIDGE PARKWAY
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIAMOND OFFSHORE DRILLING, INC.
+		CENTRAL INDEX KEY:			0000949039
+		STANDARD INDUSTRIAL CLASSIFICATION:	DRILLING OIL & GAS WELLS [1381]
+		IRS NUMBER:				760321760
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15415 KATY FREEWAY
+		STREET 2:		SUITE 100
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77094
+		BUSINESS PHONE:		281-492-5300
+
+	MAIL ADDRESS:	
+		STREET 1:		15415 KATY FREEWAY
+		STREET 2:		SUITE 100
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77094
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DIAMOND OFFSHORE DRILLING INC
+		DATE OF NAME CHANGE:	19950807
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000949039</issuerCik>
+        <issuerName>DIAMOND OFFSHORE DRILLING, INC.</issuerName>
+        <issuerTradingSymbol>DO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001604910</rptOwnerCik>
+            <rptOwnerName>Savarino Dominic A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>15415 KATY FREEWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77094</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Senior Vice President and CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>36963</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>36963</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36963</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one share of common stock.</footnote>
+        <footnote id="F2">The restricted stock units vest in three equal annual installments on January 18, 2024, January 18, 2025 and January 18, 2026.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Terence W. Waldorf, Attorney-in-Fact for Dominic A. Savarino</signatureName>
+        <signatureDate>2023-01-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

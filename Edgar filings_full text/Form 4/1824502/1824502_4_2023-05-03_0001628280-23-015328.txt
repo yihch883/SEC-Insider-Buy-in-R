@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001628280-23-015328.txt : 20230503
+<SEC-HEADER>0001628280-23-015328.hdr.sgml : 20230503
+<ACCEPTANCE-DATETIME>20230503180321
+ACCESSION NUMBER:		0001628280-23-015328
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230501
+FILED AS OF DATE:		20230503
+DATE AS OF CHANGE:		20230503
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Perkins Tosha
+		CENTRAL INDEX KEY:			0001797669
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39668
+		FILM NUMBER:		23885702
+
+	MAIL ADDRESS:	
+		STREET 1:		757 N. ELDRIDGE PARKWAY
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Archer Aviation Inc.
+		CENTRAL INDEX KEY:			0001824502
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIRCRAFT [3721]
+		IRS NUMBER:				852730902
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		190 WEST TASMAN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+		BUSINESS PHONE:		650-272-3233
+
+	MAIL ADDRESS:	
+		STREET 1:		190 WEST TASMAN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Atlas Crest Investment Corp.
+		DATE OF NAME CHANGE:	20200911
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_168315138001040.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001824502</issuerCik>
+        <issuerName>Archer Aviation Inc.</issuerName>
+        <issuerTradingSymbol>ACHR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001797669</rptOwnerCik>
+            <rptOwnerName>Perkins Tosha</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ARCHER AVIATION INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>190 WEST TASMAN DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>SAN JOSE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95134</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief People Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>316742</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>316742.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>316742</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one share of the issuer's Class A Common Stock, subject to the reporting person's continued status as a service provider to the issuer.</footnote>
+        <footnote id="F2">1/16th of the total award vests quarterly starting on May 15, 2023 and thereafter on each August 15th, November 15th, March 1st and May 15th.</footnote>
+        <footnote id="F3">These restricted stock units do not expire; they either vest or are cancelled prior to the vesting date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Andy Missan, Attorney-in-Fact for Tosha Perkins</signatureName>
+        <signatureDate>2023-05-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

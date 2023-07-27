@@ -1,0 +1,217 @@
+<SEC-DOCUMENT>0001535264-23-000052.txt : 20230404
+<SEC-HEADER>0001535264-23-000052.hdr.sgml : 20230404
+<ACCEPTANCE-DATETIME>20230404162122
+ACCESSION NUMBER:		0001535264-23-000052
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230404
+DATE AS OF CHANGE:		20230404
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			AWM Investment Company, Inc.
+		CENTRAL INDEX KEY:			0001535264
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39674
+		FILM NUMBER:		23797969
+
+	BUSINESS ADDRESS:	
+		STREET 1:		527 MADISON AVENUE
+		STREET 2:		SUITE 2600
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-319-6670
+
+	MAIL ADDRESS:	
+		STREET 1:		527 MADISON AVENUE
+		STREET 2:		SUITE 2600
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			G Medical Innovations Holdings Ltd.
+		CENTRAL INDEX KEY:			0001760764
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5 OPPENHEIMER ST.
+		CITY:			REHOVOT
+		STATE:			L3
+		ZIP:			7670105
+		BUSINESS PHONE:		972-89584777
+
+	MAIL ADDRESS:	
+		STREET 1:		5 OPPENHEIMER ST.
+		CITY:			REHOVOT
+		STATE:			L3
+		ZIP:			7670105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-31</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001760764</issuerCik>
+        <issuerName>G Medical Innovations Holdings Ltd.</issuerName>
+        <issuerTradingSymbol>GMVD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001535264</rptOwnerCik>
+            <rptOwnerName>AWM Investment Company, Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>527 MADISON AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 2600</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10022</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>437500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.0209</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1000000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Limited Partnerships</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>300000</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.7276</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>700000</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Limited Partnerships</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This is a weighted average price.</footnote>
+        <footnote id="F2">AWM Investment Company, Inc., a Delaware corporation (AWM), is the investment adviser to Special Situations Fund III QP, L.P. (SSFQP), Special Situations Cayman Fund, L.P. (CAY), Special Situations Private Equity Fund, L.P. (SSPE), Special Situations Technology Fund, L.P. (TECH),  Special Situations Technology Fund II, L.P. (TECH II) and Special Situations Life Sciences Fund, LP (SSLS).  (SSLS and together with SSFQP, CAY, SSPE, TECH and TECH II, the Funds).  As the investment adviser to the Funds, AWM holds sole voting and investment power over 289,100 shares of Common Stock of the Issuer (the Shares) held by SSFQP, 86,100 Shares held by Cay, 55,300 Shares held by SSPE, 25,200 Shares held by TECH, 137,200 Shares held by TECH II and 107,100 Shares held by SSLS.</footnote>
+        <footnote id="F3">David M. Greenhouse (Greenhouse) and Adam C. Stettner (Stettner) are the controlling principals of AWM. The reporting person disclaims beneficial ownership of the Shares, except to the extent of its pecuniary interest therein. This report shall not be deemed an admission that the reporting person is the beneficial owner of the securities reported herein for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Adam Stettner</signatureName>
+        <signatureDate>2023-04-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001203320-23-000004.txt : 20230616
+<SEC-HEADER>0001203320-23-000004.hdr.sgml : 20230616
+<ACCEPTANCE-DATETIME>20230616071751
+ACCESSION NUMBER:		0001203320-23-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230613
+FILED AS OF DATE:		20230616
+DATE AS OF CHANGE:		20230616
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DAVIDSON PETER WARNER
+		CENTRAL INDEX KEY:			0001763927
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38868
+		FILM NUMBER:		231019354
+
+	MAIL ADDRESS:	
+		STREET 1:		43 PIERREPONT ST.
+		CITY:			BROOKLYN
+		STATE:			NY
+		ZIP:			11201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Beam Global
+		CENTRAL INDEX KEY:			0001398805
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				208457250
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5660 EASTGATE DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		858-799-4583
+
+	MAIL ADDRESS:	
+		STREET 1:		5660 EASTGATE DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Envision Solar International, Inc.
+		DATE OF NAME CHANGE:	20100407
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Casita Enterprises, Inc.
+		DATE OF NAME CHANGE:	20070508
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-13</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001398805</issuerCik>
+        <issuerName>Beam Global</issuerName>
+        <issuerTradingSymbol>BEEM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001763927</rptOwnerCik>
+            <rptOwnerName>DAVIDSON PETER WARNER</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>43 PIERREPONT ST.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BROOKLYN</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>11201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6675</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.4</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>53109</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Company granted Mr. Davidson a restricted stock award of 6,675 shares of common stock which vests quarterly on the last day of each quarter retroactive to January 1, 2023. The shares vested are reduced by the number of unvested shares outstanding from Mr. Davidson's prior grant in October 2022 resulting in the vesting of 2,650 shares on June 30, 2023, 1,325 on September 30, 2023 and 2,700 on December 31, 2023, so long as Mr. Davidson is continuing to provide services to the Company.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Peter Davidson</signatureName>
+        <signatureDate>2023-06-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

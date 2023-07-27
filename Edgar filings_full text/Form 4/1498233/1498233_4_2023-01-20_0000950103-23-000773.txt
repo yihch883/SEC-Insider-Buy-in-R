@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0000950103-23-000773.txt : 20230120
+<SEC-HEADER>0000950103-23-000773.hdr.sgml : 20230120
+<ACCEPTANCE-DATETIME>20230120093419
+ACCESSION NUMBER:		0000950103-23-000773
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230119
+FILED AS OF DATE:		20230120
+DATE AS OF CHANGE:		20230120
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Koito Manufacturing Co., Ltd.
+		CENTRAL INDEX KEY:			0001890849
+		STATE OF INCORPORATION:			M0
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39959
+		FILM NUMBER:		23539084
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4-8-3, TAKANAWA, MINATO-KU
+		CITY:			TOKYO
+		STATE:			M0
+		ZIP:			1088711
+		BUSINESS PHONE:		81334475142
+
+	MAIL ADDRESS:	
+		STREET 1:		4-8-3, TAKANAWA, MINATO-KU
+		CITY:			TOKYO
+		STATE:			M0
+		ZIP:			1088711
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cepton, Inc.
+		CENTRAL INDEX KEY:			0001498233
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				272447291
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 WEST TRIMBLE ROAD
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+		BUSINESS PHONE:		408-459-7579
+
+	MAIL ADDRESS:	
+		STREET 1:		399 WEST TRIMBLE ROAD
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Growth Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20210910
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PinstripesNYS, Inc.
+		DATE OF NAME CHANGE:	20210910
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Growth Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20200225
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>dp186661_4-koito.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-19</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001498233</issuerCik>
+        <issuerName>Cepton, Inc.</issuerName>
+        <issuerTradingSymbol>CPTN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001890849</rptOwnerCik>
+            <rptOwnerName>Koito Manufacturing Co., Ltd.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>4-8-3, TAKANAWA, MINATO-KU</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TOKYO</rptOwnerCity>
+            <rptOwnerState>M0</rptOwnerState>
+            <rptOwnerZipCode>108-8711</rptOwnerZipCode>
+            <rptOwnerStateDescription>JAPAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series A Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.585</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-19</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2024-01-19</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>38684720</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Pursuant to the completion of the transactions contemplated by that certain Investment Agreement, dated as of October 27, 2022, by and between the Issuer and the Reporting Person, the Issuer issued and sold to the Reporting Person 100,000 shares of Series A Convertible Preferred Stock, par value $0.00001 per share (the &quot;Series A Preferred Stock&quot;), of the Issuer, convertible for common stock, par value $0.00001 per share (the &quot;Common Stock&quot;), of the Issuer, for a purchase price of $1,000 per share of Series A Preferred Stock, for an aggregate purchase price of $100,000,000.</footnote>
+        <footnote id="F2">Due to a 1000 character limit, Footnote 2 is a continuation of Footnote 1: Subject to certain anti-dilution adjustments, including with respect to certain issuances with an effective price below the then current Conversion Price (as defined in the Certificate of Designations for the Series A Preferred Stock), and customary provisions related to partial dividend periods, the Series A Preferred Stock is convertible at the option of the holders thereof at any time following January 19, 2024 into a number of shares of Common Stock equal to the Conversion Rate (as defined in the Certificate of Designations for the Series A Preferred Stock), which initially is approximately 386.8472:1 based on the initial Conversion Price of $2.585; provided that each converting holder will receive cash in lieu of fractional shares (if any).</footnote>
+        <footnote id="F3">The Series A Preferred Stock is perpetual and therefore has no expiration date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>KOITO MANUFACTURING CO., LTD. /s/ Hideharu Konagaya Senior Managing Director</signatureName>
+        <signatureDate>2023-01-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

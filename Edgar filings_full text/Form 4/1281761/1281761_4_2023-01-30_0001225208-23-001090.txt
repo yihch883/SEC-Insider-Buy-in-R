@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001225208-23-001090.txt : 20230130
+<SEC-HEADER>0001225208-23-001090.hdr.sgml : 20230130
+<ACCEPTANCE-DATETIME>20230130174714
+ACCESSION NUMBER:		0001225208-23-001090
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230127
+FILED AS OF DATE:		20230130
+DATE AS OF CHANGE:		20230130
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ritter William D.
+		CENTRAL INDEX KEY:			0001509493
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34034
+		FILM NUMBER:		23569371
+
+	MAIL ADDRESS:	
+		STREET 1:		1901 6TH AVENUE NORTH
+		STREET 2:		18TH FLOOR
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35203
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REGIONS FINANCIAL CORP
+		CENTRAL INDEX KEY:			0001281761
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				630589368
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1900 FIFTH AVENUE NORTH
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35203
+		BUSINESS PHONE:		800-734-4667
+
+	MAIL ADDRESS:	
+		STREET 1:		1900 FIFTH AVENUE NORTH
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEW REGIONS FINANCIAL CORP
+		DATE OF NAME CHANGE:	20040225
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001281761</issuerCik>
+        <issuerName>REGIONS FINANCIAL CORP</issuerName>
+        <issuerTradingSymbol>RF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001509493</rptOwnerCik>
+            <rptOwnerName>Ritter William D.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P. O. BOX 10247</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BIRMINGHAM</rptOwnerCity>
+            <rptOwnerState>AL</rptOwnerState>
+            <rptOwnerZipCode>35202-0247</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>SEVP</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13000.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>23.4197</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>24344.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1226.9761</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This price represents the weighted average sales price for multiple transactions reported on this line. The prices of the transactions reported on this line ranged from $23.36 to $23.495. Upon request by the Commission staff, the issuer or a security holder of the issuer, the reporting person will undertake to provide full information regarding the number of shares sold at each separate price.</footnote>
+        <footnote id="F2">Includes dividends acquired July 1, 2022; October 3, 2022; and January 3, 2023, pursuant to a dividend reinvestment feature of the Regions Financial Corporation 401(k) Plan.  The total amount reported is expressed as ownership units in the Plan's unitized employer stock fund, which is managed such that each unit is intended to approximate the economic value of one share of common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Lachelle S. Koon - Attorney -in-Fact</signatureName>
+        <signatureDate>2023-01-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

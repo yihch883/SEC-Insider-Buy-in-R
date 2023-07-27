@@ -1,0 +1,225 @@
+<SEC-DOCUMENT>0001209191-23-038100.txt : 20230616
+<SEC-HEADER>0001209191-23-038100.hdr.sgml : 20230616
+<ACCEPTANCE-DATETIME>20230616190057
+ACCESSION NUMBER:		0001209191-23-038100
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230608
+FILED AS OF DATE:		20230616
+DATE AS OF CHANGE:		20230616
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			TOLEDANO GABRIELLE B
+		CENTRAL INDEX KEY:			0001353810
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39757
+		FILM NUMBER:		231022820
+
+	MAIL ADDRESS:	
+		STREET 1:		209 REDWOOD SHORES PARKWAY
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Toledano Gabrielle B
+		DATE OF NAME CHANGE:	20060217
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Velo3D, Inc.
+		CENTRAL INDEX KEY:			0001825079
+		STANDARD INDUSTRIAL CLASSIFICATION:	SPECIAL INDUSTRY MACHINERY, NEC [3559]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		511 DIVISION ST.
+		CITY:			CAMPBELL
+		STATE:			CA
+		ZIP:			95008
+		BUSINESS PHONE:		(408) 610-3915
+
+	MAIL ADDRESS:	
+		STREET 1:		511 DIVISION ST.
+		CITY:			CAMPBELL
+		STATE:			CA
+		ZIP:			95008
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JAWS Spitfire Acquisition Corp
+		DATE OF NAME CHANGE:	20200921
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Spitfire Acquisition Corp
+		DATE OF NAME CHANGE:	20200916
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001825079</issuerCik>
+        <issuerName>Velo3D, Inc.</issuerName>
+        <issuerTradingSymbol>VLD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001353810</rptOwnerCik>
+            <rptOwnerName>TOLEDANO GABRIELLE B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VELO3D, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>511 DIVISION STREET</rptOwnerStreet2>
+            <rptOwnerCity>CAMPBELL</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95008</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18128</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>90550</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18128</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>18128</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Restricted Stock Unit (&quot;RSU&quot;) represents a contingent right to receive one (1) share of the Issuer's Common Stock upon settlement for no consideration.</footnote>
+        <footnote id="F2">The RSUs shall vest as to 25% of the total grant quarterly, commencing September 8, 2022, with the remainder of grant vesting on each subsequent December 8, 2022, March 8, 2023, and June 8, 2023, subject to the Reporting Person's continued service to the Issuer on each vesting date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ William D. McCombe as attorney-in-fact for Gabrielle Toledano</signatureName>
+        <signatureDate>2023-06-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

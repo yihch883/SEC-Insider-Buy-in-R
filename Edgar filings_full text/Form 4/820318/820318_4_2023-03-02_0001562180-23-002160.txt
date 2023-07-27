@@ -1,0 +1,196 @@
+<SEC-DOCUMENT>0001562180-23-002160.txt : 20230302
+<SEC-HEADER>0001562180-23-002160.hdr.sgml : 20230302
+<ACCEPTANCE-DATETIME>20230302170446
+ACCESSION NUMBER:		0001562180-23-002160
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230302
+FILED AS OF DATE:		20230302
+DATE AS OF CHANGE:		20230302
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RAYMOND MARY JANE
+		CENTRAL INDEX KEY:			0001192758
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39375
+		FILM NUMBER:		23700150
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O COHERENT CORP.
+		STREET 2:		375 SAXONBURG BLVD
+		CITY:			SAXONBURG
+		STATE:			PA
+		ZIP:			16056
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COHERENT CORP.
+		CENTRAL INDEX KEY:			0000820318
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPTICAL INSTRUMENTS & LENSES [3827]
+		IRS NUMBER:				251214948
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		375 SAXONBURG BLVD
+		CITY:			SAXONBURG
+		STATE:			PA
+		ZIP:			16056
+		BUSINESS PHONE:		724-352-4455
+
+	MAIL ADDRESS:	
+		STREET 1:		375 SAXONBURG BLVD
+		CITY:			SAXONBURG
+		STATE:			PA
+		ZIP:			16056
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	II-VI INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-02</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000820318</issuerCik>
+        <issuerName>COHERENT CORP.</issuerName>
+        <issuerTradingSymbol>COHR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001192758</rptOwnerCik>
+            <rptOwnerName>RAYMOND MARY JANE</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O COHERENT CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>375 SAXONBURG BLVD.</rptOwnerStreet2>
+            <rptOwnerCity>SAXONBURG</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>16056</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CFO &amp; Treasurer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3000.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>40.7288</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>176856.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>42.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>175856.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the weighted average of multiple sale transactions ranging in price from $40.58 to $41.00.  The reporting person agrees to provide full information regarding the number of shares sold at each separate price upon request by the SEC staff, the Company or a security holder of the Company.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey W. Acre, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-03-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,239 @@
+<SEC-DOCUMENT>0001140361-23-032852.txt : 20230703
+<SEC-HEADER>0001140361-23-032852.hdr.sgml : 20230703
+<ACCEPTANCE-DATETIME>20230703181523
+ACCESSION NUMBER:		0001140361-23-032852
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230512
+FILED AS OF DATE:		20230703
+DATE AS OF CHANGE:		20230703
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Coles Joanna
+		CENTRAL INDEX KEY:			0001699323
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39691
+		FILM NUMBER:		231066180
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SNAP INC.
+		STREET 2:		3000 31ST STREET
+		CITY:			SANTA MONICA
+		STATE:			CA
+		ZIP:			90405
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bark, Inc.
+		CENTRAL INDEX KEY:			0001819574
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
+		IRS NUMBER:				851872418
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 BROADWAY, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10271
+		BUSINESS PHONE:		(855) 501-2275
+
+	MAIL ADDRESS:	
+		STREET 1:		120 BROADWAY, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10271
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Original Bark Co
+		DATE OF NAME CHANGE:	20210603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Northern Star Acquisition Corp.
+		DATE OF NAME CHANGE:	20200729
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001819574</issuerCik>
+        <issuerName>Bark, Inc.</issuerName>
+        <issuerTradingSymbol>BARK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001699323</rptOwnerCik>
+            <rptOwnerName>Coles Joanna</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>221 CANAL STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10013</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2030237</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Northern Star Sponsor LLC</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>372726</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.5</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2279000</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2021-11-13</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-06-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2279000</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Northern Star Sponsor LLC</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">As previously reported, the reporting person had been a managing member of Northern Star Sponsor LLC (&quot;NS1 Sponsor&quot;) together with Jonathan Ledecky, and previously reported beneficial ownership of all shares of the Issuer's common stock (&quot;Common Stock&quot;) and warrants to purchase Common Stock (&quot;Warrants&quot;) held directly by NS1 Sponsor, disclaiming beneficial ownership of such securities except to the extent of her pecuniary interest therein.  The reporting person ceased to be a managing member of NS1 Sponsor effective May 12, 2023.</footnote>
+        <footnote id="F2">On May 12, 2023, NS1 Sponsor effected an in-kind distribution of all shares of Common Stock and Warrants held directly by NS1 Sponsor to its members.  With respect to the shares of Common Stock and Warrants allocable to the reporting person through her membership interests in NS1 Sponsor, on May 12, 2023, the reporting person entered into an agreement with NS1 Sponsor and Mr. Ledecky pursuant to which the parties agreed, among other things, that NS1 Sponsor would distribute in kind to Mr. Ledecky all of the shares of Common Stock and Warrants then held by NS1 Sponsor and allocable to the reporting person through her membership interests in NS1 Sponsor, except for 300,000 shares of such Common Stock to be distributed in kind to the reporting person, in exchange for cancellation of promissory notes valued at an aggregate of $14,625,000 that the reporting person had previously issued to Mr. Ledecky that were secured, in part, by her membership interests in NS1 Sponsor.</footnote>
+        <footnote id="F3">The remaining shares of Common Stock and Warrants distributed to the other members of NS1 Sponsor, in which the reporting person had no pecuniary interest, are not being reported herein, as the reporting person has no reporting obligation under Section 16 of the Securities Exchange Act of 1934, as amended (the &quot;Exchange Act&quot;) for transactions in such securities.</footnote>
+        <footnote id="F4">Includes 300,000 shares of Common Stock that were distributed in kind to the reporting person in a transaction exempt from Section 16 pursuant to Rule 16a-13 under the Exchange Act.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Allison Koehler, Attorney in fact for Joanna Coles</signatureName>
+        <signatureDate>2023-07-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

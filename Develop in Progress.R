@@ -26,8 +26,15 @@ read_filing_info <- function(file_path) {
   if ("P" %in% transactionCode) {
     trade_type <- transactionCode
     purchase_flag <- "Yes"
-  } else {
+  } 
+  else if("S" %in% transactionCode) {
     trade_type <- transactionCode
+    sell_flag <- "Yes"
+    purchase_flag <- "No"
+  }
+  else {
+    trade_type <- transactionCode
+    sell_flag <- "No"
     purchase_flag <- "No"
   }
   
@@ -41,7 +48,7 @@ read_filing_info <- function(file_path) {
 
   clean_price <- as.numeric(price)
   clean_price[is.na(clean_price)] <- 0
-
+  clean_price <- ifelse(trade_type == "S", -clean_price, clean_price)
 
   
   
@@ -53,6 +60,7 @@ read_filing_info <- function(file_path) {
     Insider_Name = insider_name,
     Trade_Type = trade_type,
     Insider_buy = purchase_flag,
+    Insider_sell = sell_flag,
     Price = unlist(clean_price),
     Qty = unlist(suppressWarnings(as.numeric(qty))),
     Value =value
@@ -101,6 +109,11 @@ insider_buy_filter <- function(all_data){
 }
 
 
+modify_column <- function(col1, col2) {
+  col2 <- ifelse(col1 == "S", -col2, col2)
+  return(col2)
+}
+all_data$Price <- mapply(modify_column, all_data$Trade_Type, all_data$Price)
 
 ###Examples###
 all_data<- construct_in_buy_df()

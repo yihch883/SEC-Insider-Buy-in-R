@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001127602-23-001485.txt : 20230117
+<SEC-HEADER>0001127602-23-001485.hdr.sgml : 20230117
+<ACCEPTANCE-DATETIME>20230117175957
+ACCESSION NUMBER:		0001127602-23-001485
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230113
+FILED AS OF DATE:		20230117
+DATE AS OF CHANGE:		20230117
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kelly Jason R
+		CENTRAL INDEX KEY:			0001845677
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40097
+		FILM NUMBER:		23532433
+
+	MAIL ADDRESS:	
+		STREET 1:		667 MADISON AVENUE
+		STREET 2:		C/O CORVEX MANAGEMENT LP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10065
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ginkgo Bioworks Holdings, Inc.
+		CENTRAL INDEX KEY:			0001830214
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				872652913
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		27 DRYDOCK AVENUE
+		STREET 2:		8TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+		BUSINESS PHONE:		(877) 442-5362
+
+	MAIL ADDRESS:	
+		STREET 1:		27 DRYDOCK AVENUE
+		STREET 2:		8TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Soaring Eagle Acquisition Corp.
+		DATE OF NAME CHANGE:	20210210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Spinning Eagle Acquisition Corp.
+		DATE OF NAME CHANGE:	20201027
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-13</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001830214</issuerCik>
+        <issuerName>Ginkgo Bioworks Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>DNA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001845677</rptOwnerCik>
+            <rptOwnerName>Kelly Jason R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O GINKGO BIOWORKS HOLDINGS</rptOwnerStreet1>
+            <rptOwnerStreet2>27 DRYDOCK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02210</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>See remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>157627</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.773</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16324314</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of shares sold by the Reporting Person to cover tax withholding obligations in connection with the vesting of RSUs.  Sales to cover tax withholding obligations in connection with the vesting of such securities do not represent discretionary trades by the Reporting Person. The Issuer's equity incentive plans allow the Issuer to require that satisfaction of tax withholding obligations be funded by a &quot;sell to cover&quot; transaction.</footnote>
+    </footnotes>
+
+    <remarks>CEO &amp; Founder</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Karen Tepichin, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-01-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

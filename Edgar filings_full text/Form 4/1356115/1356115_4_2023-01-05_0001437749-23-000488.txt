@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001437749-23-000488.txt : 20230105
+<SEC-HEADER>0001437749-23-000488.hdr.sgml : 20230105
+<ACCEPTANCE-DATETIME>20230105161545
+ACCESSION NUMBER:		0001437749-23-000488
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230104
+FILED AS OF DATE:		20230105
+DATE AS OF CHANGE:		20230105
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NORRIS DUSTIN DAVID
+		CENTRAL INDEX KEY:			0001617176
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32921
+		FILM NUMBER:		23511484
+
+	MAIL ADDRESS:	
+		STREET 1:		2515 MCKINNEY AVENUE
+		STREET 2:		SUITE 1100
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Norris Dustin
+		DATE OF NAME CHANGE:	20140819
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEXPOINT DIVERSIFIED REAL ESTATE TRUST
+		CENTRAL INDEX KEY:			0001356115
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				800139099
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 CRESCENT COURT
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		214-276-6300
+
+	MAIL ADDRESS:	
+		STREET 1:		300 CRESCENT COURT
+		STREET 2:		SUITE 700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NexPoint Strategic Opportunities Fund
+		DATE OF NAME CHANGE:	20180319
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NexPoint Credit Strategies Fund
+		DATE OF NAME CHANGE:	20120702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Pyxis Credit Strategies Fund
+		DATE OF NAME CHANGE:	20120109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001356115</issuerCik>
+        <issuerName>NEXPOINT DIVERSIFIED REAL ESTATE TRUST</issuerName>
+        <issuerTradingSymbol>NXDT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001617176</rptOwnerCik>
+            <rptOwnerName>NORRIS DUSTIN DAVID</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>300 CRESCENT COURT, SUITE 700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8910</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.30</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30695</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>27954</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes shares acquired under a dividend reinvestment plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Dustin Norris</signatureName>
+        <signatureDate>2023-01-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

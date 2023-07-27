@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001213900-23-043578.txt : 20230526
+<SEC-HEADER>0001213900-23-043578.hdr.sgml : 20230526
+<ACCEPTANCE-DATETIME>20230526170058
+ACCESSION NUMBER:		0001213900-23-043578
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230524
+FILED AS OF DATE:		20230526
+DATE AS OF CHANGE:		20230526
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ahn Phillip J.
+		CENTRAL INDEX KEY:			0001574572
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37503
+		FILM NUMBER:		23970049
+
+	MAIL ADDRESS:	
+		STREET 1:		21255 BURBANK BOULEVARD
+		STREET 2:		SUITE 400
+		CITY:			WOODLAND HILLS
+		STATE:			CA
+		ZIP:			91367
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Ahn Phillip
+		DATE OF NAME CHANGE:	20130416
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			B. Riley Financial, Inc.
+		CENTRAL INDEX KEY:			0001464790
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		IRS NUMBER:				270223495
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD
+		STREET 2:		SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		818-884-3737
+
+	MAIL ADDRESS:	
+		STREET 1:		11100 SANTA MONICA BLVD
+		STREET 2:		SUITE 800
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Great American Group, Inc.
+		DATE OF NAME CHANGE:	20090522
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001464790</issuerCik>
+        <issuerName>B. Riley Financial, Inc.</issuerName>
+        <issuerTradingSymbol>RILY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001574572</rptOwnerCik>
+            <rptOwnerName>Ahn Phillip J.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O B. RILEY FINANCIAL, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>11100 SANTA MONICA BLVD., SUITE 800</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CFO &amp; Chief Operating Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2765</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>36.83</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>285014</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld by the Company and remitted on behalf of the Reporting Person for payment of taxes in connection with the vesting of shares from Restricted Stock Units granted on May 21, 2020.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Phillip J. Ahn</signatureName>
+        <signatureDate>2023-05-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

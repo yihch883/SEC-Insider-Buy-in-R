@@ -1,0 +1,195 @@
+<SEC-DOCUMENT>0001415889-23-004708.txt : 20230313
+<SEC-HEADER>0001415889-23-004708.hdr.sgml : 20230313
+<ACCEPTANCE-DATETIME>20230313095406
+ACCESSION NUMBER:		0001415889-23-004708
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230309
+FILED AS OF DATE:		20230313
+DATE AS OF CHANGE:		20230313
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HOSLER C WILLIAM
+		CENTRAL INDEX KEY:			0001189684
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36408
+		FILM NUMBER:		23726082
+
+	MAIL ADDRESS:	
+		STREET 1:		PACWEST BANCORP
+		STREET 2:		9701 WILSHIRE BOULEVARD, SUITE 700
+		CITY:			BEVERLY HILLS
+		STATE:			CA
+		ZIP:			90212
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PACWEST BANCORP
+		CENTRAL INDEX KEY:			0001102112
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				330885320
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		130 S. STATE COLLEGE BLVD.
+		CITY:			BREA
+		STATE:			CA
+		ZIP:			92821
+		BUSINESS PHONE:		(310) 887-8500
+
+	MAIL ADDRESS:	
+		STREET 1:		130 S. STATE COLLEGE BLVD.
+		CITY:			BREA
+		STATE:			CA
+		ZIP:			92821
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST COMMUNITY BANCORP /CA/
+		DATE OF NAME CHANGE:	19991229
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-03132023_010301.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001102112</issuerCik>
+        <issuerName>PACWEST BANCORP</issuerName>
+        <issuerTradingSymbol>PACW</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001189684</rptOwnerCik>
+            <rptOwnerName>HOSLER C WILLIAM</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>9701 WILSHIRE BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 700</rptOwnerStreet2>
+            <rptOwnerCity>BEVERLY HILLS</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90212</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>20.66</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>56720</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Depositary Shares of Series A Preferred Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2250</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>21.96</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Depositary Share represents a 1/40th interest in a share of 7.75% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A (&quot;Series A Preferred Stock&quot;).</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These Depositary Shares of Series A Preferred Stock were purchased in multiple transactions at prices ranging from $21.93 to $21.99, inclusive. The reporting person undertakes to provide to PacWest Bancorp, any security holder of PacWest Bancorp, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of Depositary Shares of Series A Preferred Stock purchased at each separate price within the range set forth in footnote (2) to this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Angela M.W. Kelley, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-03-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

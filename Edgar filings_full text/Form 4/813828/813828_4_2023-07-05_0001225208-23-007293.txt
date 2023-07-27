@@ -1,0 +1,225 @@
+<SEC-DOCUMENT>0001225208-23-007293.txt : 20230705
+<SEC-HEADER>0001225208-23-007293.hdr.sgml : 20230705
+<ACCEPTANCE-DATETIME>20230705175459
+ACCESSION NUMBER:		0001225208-23-007293
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230701
+FILED AS OF DATE:		20230705
+DATE AS OF CHANGE:		20230705
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MCHALE JUDITH
+		CENTRAL INDEX KEY:			0001134405
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09553
+		FILM NUMBER:		231071051
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O RALPH LAUREN CORPORATION
+		STREET 2:		650 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Paramount Global
+		CENTRAL INDEX KEY:			0000813828
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEVISION BROADCASTING STATIONS [4833]
+		IRS NUMBER:				042949533
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1515 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		212-258-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		1515 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ViacomCBS Inc.
+		DATE OF NAME CHANGE:	20191204
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CBS CORP
+		DATE OF NAME CHANGE:	20060109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VIACOM INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000813828</issuerCik>
+        <issuerName>Paramount Global</issuerName>
+        <issuerTradingSymbol>PARAA,PARA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001134405</rptOwnerCik>
+            <rptOwnerName>MCHALE JUDITH</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1515 BROADWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Class A Common Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>42.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>18.5600</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A common stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>42.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2966.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Class B Common Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>49.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.9100</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class B common stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>49.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3426.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents cash dividends credited during the previous quarter on Phantom Class A Common Stock Units and Phantom Class B Common Stock Units resulting from cash fees previously deferred by the Reporting Person pursuant to the Issuer's deferred compensation arrangement for directors. The dividends are deemed invested at the beginning of each calendar quarter into Phantom Class A Common Stock Units and Phantom Class B Common Stock Units based on the closing price of the Issuer's Class A Common Stock and Class B Common Stock, as applicable, on the day of the deemed investment, or, if that day is not a business day, on the last preceding business day. The cash value of the Phantom Common Stock Units is paid out after the Reporting Person's retirement from the Board.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christa A. D'Alimonte, Attorney-in-Fact for Judith McHale</signatureName>
+        <signatureDate>2023-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

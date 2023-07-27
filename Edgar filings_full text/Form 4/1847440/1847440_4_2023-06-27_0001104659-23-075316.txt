@@ -1,0 +1,216 @@
+<SEC-DOCUMENT>0001104659-23-075316.txt : 20230627
+<SEC-HEADER>0001104659-23-075316.hdr.sgml : 20230627
+<ACCEPTANCE-DATETIME>20230627165653
+ACCESSION NUMBER:		0001104659-23-075316
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230626
+FILED AS OF DATE:		20230627
+DATE AS OF CHANGE:		20230627
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			You Harry L.
+		CENTRAL INDEX KEY:			0001432602
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40514
+		FILM NUMBER:		231048177
+
+	MAIL ADDRESS:	
+		STREET 1:		EMC CORPORATION
+		STREET 2:		176 SOUTH STREET
+		CITY:			HOPKINTON
+		STATE:			MA
+		ZIP:			01748
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Coliseum Acquisition Corp.
+		CENTRAL INDEX KEY:			0001847440
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1180 NORTH TOWN CENTER DRIVE
+		STREET 2:		SUITE 100
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89144
+		BUSINESS PHONE:		(702) 781-4313
+
+	MAIL ADDRESS:	
+		STREET 1:		1180 NORTH TOWN CENTER DRIVE
+		STREET 2:		SUITE 100
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89144
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2319757-2_4seq1.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-26</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001847440</issuerCik>
+        <issuerName>Coliseum Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>MITA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001432602</rptOwnerCik>
+            <rptOwnerName>You Harry L.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1180 NORTH TOWN CENTER DRIVE, SUITE 100</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89144</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2624999</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2624999</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Class B ordinary shares of the Issuer are convertible into the Issuer's Class A ordinary shares as described under the heading &quot;Description of Securities&quot; in the Issuer's Registration Statement on Form S-1 (File No. 333-254513), as amended, and have no expiration date.</footnote>
+        <footnote id="F2">The 2,624,999 Class A ordinary shares and 1 Class B ordinary share reported herein (collectively, the &quot;Shares&quot;) were acquired by the Reporting Person pursuant to the Purchase Agreement, dated as of June 15, 2023 (&quot;Purchase Agreement&quot;), by and between the Issuer, Coliseum Acquisition Sponsor LLC, and Berto LLC, an affiliate of the Reporting Person. On June 26, 2023, the transactions contemplated by the Purchase Agreement were consummated and the Reporting Person purchased the Shares for an aggregate purchase price of $1.00 plus Berto LLC's agreement to advance funds to the Issuer in connection with the shareholder vote to approve an extension to the time that the Issuer has to complete an initial business combination.</footnote>
+    </footnotes>
+
+    <remarks>Chief Executive Officer and Chief Financial Officer</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Harry L. You</signatureName>
+        <signatureDate>2023-06-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

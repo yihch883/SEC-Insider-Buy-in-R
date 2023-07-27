@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001127602-23-000554.txt : 20230104
+<SEC-HEADER>0001127602-23-000554.hdr.sgml : 20230104
+<ACCEPTANCE-DATETIME>20230104165113
+ACCESSION NUMBER:		0001127602-23-000554
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230101
+FILED AS OF DATE:		20230104
+DATE AS OF CHANGE:		20230104
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			TRAQUINA PERRY M
+		CENTRAL INDEX KEY:			0001228062
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11840
+		FILM NUMBER:		23507392
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O EBAY INC.
+		STREET 2:		2025 HAMILTON AVENUE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95125
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALLSTATE CORP
+		CENTRAL INDEX KEY:			0000899051
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				363871531
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3100 SANDERS ROAD
+		CITY:			NORTHBROOK
+		STATE:			IL
+		ZIP:			60062
+		BUSINESS PHONE:		8474025000
+
+	MAIL ADDRESS:	
+		STREET 1:		3100 SANDERS ROAD
+		CITY:			NORTHBROOK
+		STATE:			IL
+		ZIP:			60062
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000899051</issuerCik>
+        <issuerName>ALLSTATE CORP</issuerName>
+        <issuerTradingSymbol>ALL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001228062</rptOwnerCik>
+            <rptOwnerName>TRAQUINA PERRY M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3100 SANDERS ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>C/O THE ALLSTATE CORPORATION</rptOwnerStreet2>
+            <rptOwnerCity>NORTHBROOK</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60062</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>285</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>135.60</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2374.776</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Common Share Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7138.315</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7138.315</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Stock acquired pursuant to election to receive stock in lieu of cash compensation under The Allstate Corporation 2017 Equity Compensation Plan for Non-Employee Directors.</footnote>
+        <footnote id="F2">These common share units were acquired pursuant to The Allstate Corporation Amended and Restated Deferred Compensation Plan for Non-Employee Directors and represent director's fees deferred under the Plan and converted into units based on the market value of The Allstate Corporation's common shares. The units are credited with amounts representing dividends on common shares, as declared, which are also converted into units. For the period of October 3, 2022 through January 1, 2023, the reporting person acquired 46.988 of common share units representing those dividends.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel G. Gordon, attorney-in-fact for Mr. Traquina</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

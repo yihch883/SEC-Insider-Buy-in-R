@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0001209191-23-004142.txt : 20230119
+<SEC-HEADER>0001209191-23-004142.hdr.sgml : 20230119
+<ACCEPTANCE-DATETIME>20230119205723
+ACCESSION NUMBER:		0001209191-23-004142
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230117
+FILED AS OF DATE:		20230119
+DATE AS OF CHANGE:		20230119
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Schwimmer Howard
+		CENTRAL INDEX KEY:			0001581296
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36008
+		FILM NUMBER:		23538738
+
+	MAIL ADDRESS:	
+		STREET 1:		11620 WILSHIRE BOULEVARD, SUITE 300
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rexford Industrial Realty, Inc.
+		CENTRAL INDEX KEY:			0001571283
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				462024407
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11620 WILSHIRE BOULEVARD, SUITE 1000
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		310-966-1680
+
+	MAIL ADDRESS:	
+		STREET 1:		11620 WILSHIRE BOULEVARD, SUITE 1000
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rexford Industrial, Inc.
+		DATE OF NAME CHANGE:	20130305
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001571283</issuerCik>
+        <issuerName>Rexford Industrial Realty, Inc.</issuerName>
+        <issuerTradingSymbol>REXR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001581296</rptOwnerCik>
+            <rptOwnerName>Schwimmer Howard</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11620 WILSHIRE BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1000</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Co-CEO, Co-President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>LTIP Units</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>19367</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>19367</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>510171</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">LTIP Units are a class of limited partnership units in Rexford Industrial Realty, L.P. (the &quot;Operating Partnership&quot;). Initially, the LTIP Units do not
+have full parity with common limited partnership units of the Operating Partnership (&quot;OP Units&quot;) with respect to liquidating distributions. However,
+upon the occurrence of certain events described in the Operating Partnership's partnership agreement, the LTIP Units can over time achieve full
+parity with the OP Units for all purposes. If such parity is reached, vested LTIP Units may be converted into an equal number of OP Units on a one for one basis at any time at the request of the Reporting Person or the general partner of the Operating Partnership. OP Units are redeemable by the holder for an equivalent number of shares of the Issuer's common stock or for the cash value of such shares, at the Issuer's election.</footnote>
+        <footnote id="F2">(Continued from Footnote 1) The LTIP Units issued pursuant to the Second Amended and Restated Rexford Industrial Realty, Inc. and Rexford Industrial Realty, L.P. 2013 Incentive Award Plan are fully vested and nonforfeitable as of January 17, 2023.</footnote>
+        <footnote id="F3">The Reporting Person also owns the following derivative securities: (i) 472,178 Performance Units, a class of limited partnership units in the Operating Partnership, (ii) 162,139 OP Units, of which 7,275 OP Units are held by the Schwimmer Living Trust dated December 14, 2001 (the &quot;Living Trust&quot;) of which the Reporting Person is a trustee, and of which 42,002 OP Units are held by the Schwimmer Family Irrevocable Trust (the &quot;Family Trust&quot;) of which the Reporting Person is a trustee, and (iii) 66,295 Shares, of which 13,575 Shares are held by the Family Trust of which the Reporting Person is a trustee. The Reporting Person disclaims beneficial ownership of the OP Units held by the Living Trust and the Family Trust, except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Howard Schwimmer</signatureName>
+        <signatureDate>2023-01-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

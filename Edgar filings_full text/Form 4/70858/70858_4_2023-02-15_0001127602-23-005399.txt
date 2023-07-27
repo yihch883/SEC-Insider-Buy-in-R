@@ -1,0 +1,246 @@
+<SEC-DOCUMENT>0001127602-23-005399.txt : 20230215
+<SEC-HEADER>0001127602-23-005399.hdr.sgml : 20230215
+<ACCEPTANCE-DATETIME>20230215210904
+ACCESSION NUMBER:		0001127602-23-005399
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230215
+FILED AS OF DATE:		20230215
+DATE AS OF CHANGE:		20230215
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Borthwick Alastair M
+		CENTRAL INDEX KEY:			0001888495
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06523
+		FILM NUMBER:		23636946
+
+	MAIL ADDRESS:	
+		STREET 1:		100 NORTH TRYON STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BANK OF AMERICA CORP /DE/
+		CENTRAL INDEX KEY:			0000070858
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				560906609
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BANK OF AMERICA CORPORATE CENTER
+		STREET 2:		100 N TRYON ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+		BUSINESS PHONE:		7043868486
+
+	MAIL ADDRESS:	
+		STREET 1:		BANK OF AMERICA CORPORATE CENTER
+		STREET 2:		100 N TRYON ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BANKAMERICA CORP/DE/
+		DATE OF NAME CHANGE:	19981022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATIONSBANK CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NCNB CORP
+		DATE OF NAME CHANGE:	19920107
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000070858</issuerCik>
+        <issuerName>BANK OF AMERICA CORP /DE/</issuerName>
+        <issuerTradingSymbol>BAC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001888495</rptOwnerCik>
+            <rptOwnerName>Borthwick Alastair M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>100 NORTH TRYON STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHARLOTTE</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>28255</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>260057</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>2023 Performance Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>79101</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>79101</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>79101</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>2023 Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>79101</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-02-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>79101</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>79101</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each unit represents a contingent right to receive one share of Bank of America Corporation common stock.</footnote>
+        <footnote id="F2">Award under the Bank of America Corporation Equity Plan in a transaction that is exempt under Rule 16b-3(d). These units are subject to the attainment of pre-established performance goals. One-half of the units have performance goals based on the Company's three-year average return on assets and one-half of the units have performance goals based on the Company's three-year average growth in adjusted tangible book value, both beginning on January 1, 2023 and ending December 31, 2025. To the extent earned, the award will be settled in shares on March 1, 2026. The reported number of units represents the &quot;maximum&quot; amount of the award (i.e., 100%); the actual award upon vesting may range between 0% and 100% of the maximum, depending upon satisfaction of the performance goals.</footnote>
+        <footnote id="F3">Award under the Bank of America Corporation Equity Plan in a transaction that is exempt under Rule 16b-3(d). These units vest in four equal annual installments commencing February 15, 2024.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Alastair M. Borthwick / Michael P. Lapp POA</signatureName>
+        <signatureDate>2023-02-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0001140361-23-015376.txt : 20230331
+<SEC-HEADER>0001140361-23-015376.hdr.sgml : 20230331
+<ACCEPTANCE-DATETIME>20230331163040
+ACCESSION NUMBER:		0001140361-23-015376
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230327
+FILED AS OF DATE:		20230331
+DATE AS OF CHANGE:		20230331
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FEARON RICHARD H
+		CENTRAL INDEX KEY:			0001188586
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40846
+		FILM NUMBER:		23788282
+
+	MAIL ADDRESS:	
+		STREET 1:		EATON CENTER
+		STREET 2:		1111 SUPERIOR AVENUE
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44114
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hennessy Capital Investment Corp. VI
+		CENTRAL INDEX KEY:			0001842937
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				861626937
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3415 N. PINES WAY
+		STREET 2:		SUITE 204
+		CITY:			WILSON
+		STATE:			WY
+		ZIP:			83014
+		BUSINESS PHONE:		(307) 201-1903
+
+	MAIL ADDRESS:	
+		STREET 1:		3415 N. PINES WAY
+		STREET 2:		SUITE 204
+		CITY:			WILSON
+		STATE:			WY
+		ZIP:			83014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-27</periodOfReport>
+
+    <notSubjectToSection16>true</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001842937</issuerCik>
+        <issuerName>Hennessy Capital Investment Corp. VI</issuerName>
+        <issuerTradingSymbol>HCVI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001188586</rptOwnerCik>
+            <rptOwnerName>FEARON RICHARD H</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O HENNESSY CAPITAL INVESTMENT CORP. VI</rptOwnerStreet1>
+            <rptOwnerStreet2>3415 N. PINES WAY, SUITE 204</rptOwnerStreet2>
+            <rptOwnerCity>WILSON</rptOwnerCity>
+            <rptOwnerState>WY</rptOwnerState>
+            <rptOwnerZipCode>83014</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>145</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">As described in the registrant's registration statement on Form S-1 (File No. 333-254062) under the heading &quot;Description of Securities-Founder Shares,&quot; the shares of Class B common stock will automatically convert into shares of Class A common stock at the time of the registrant's initial business combination on a one-for-one basis, subject to certain adjustments described therein and have no expiration date.</footnote>
+        <footnote id="F2">The reporting person also has pecuniary interests in shares of Class B common stock through his membership interest in Hennessy Capital Partners VI LLC, over which the reporting person does not have voting or dispositive control.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nicholas A. Petruska as attorney-in-fact for Richard H. Fearon</signatureName>
+        <signatureDate>2023-03-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

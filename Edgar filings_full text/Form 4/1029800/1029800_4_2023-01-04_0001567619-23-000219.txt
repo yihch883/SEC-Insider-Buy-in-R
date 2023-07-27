@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0001567619-23-000219.txt : 20230104
+<SEC-HEADER>0001567619-23-000219.hdr.sgml : 20230104
+<ACCEPTANCE-DATETIME>20230104161733
+ACCESSION NUMBER:		0001567619-23-000219
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230103
+FILED AS OF DATE:		20230104
+DATE AS OF CHANGE:		20230104
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BIDDLE WILLING L
+		CENTRAL INDEX KEY:			0001070094
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12803
+		FILM NUMBER:		23506631
+
+	MAIL ADDRESS:	
+		STREET 1:		53 ELMWOOD ROAD
+		CITY:			SOUTH SALEM
+		STATE:			NY
+		ZIP:			10590
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			URSTADT BIDDLE PROPERTIES INC
+		CENTRAL INDEX KEY:			0001029800
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				042458042
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O URSTADT BIDDLE PROPERTIES INC.
+		STREET 2:		321 RAILROAD AVENUE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		2038638200
+
+	MAIL ADDRESS:	
+		STREET 1:		321 RAILROAD AVENUE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HRE PROPERTIES INC
+		DATE OF NAME CHANGE:	19961230
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001029800</issuerCik>
+        <issuerName>URSTADT BIDDLE PROPERTIES INC</issuerName>
+        <issuerTradingSymbol>UBA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001070094</rptOwnerCik>
+            <rptOwnerName>BIDDLE WILLING L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>321 RAILROAD AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GREEENWICH</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06830</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President and CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>52500</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3324</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On January 3, 2023, the Issuer entered into an agreement with Willing L. Biddle  (the &quot;Reporting Person&quot;), whereby the Reporting Person was granted a restricted stock award of 2,500 shares of Class A Common Stock that vests January 3, 2028,  pursuant to the Issuer's Amended and Restated Restricted Stock Award Plan (the &quot;Restricted Stock Award Plan&quot;).</footnote>
+        <footnote id="F2">Of such shares, 22,500 are restricted shares, subject to vesting, issued to the Reporting Person pursuant to the Restricted Award Plan.</footnote>
+        <footnote id="F3">Shares held by Catherine U. Biddle, spouse of the Reporting Person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Willing L. Biddle</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

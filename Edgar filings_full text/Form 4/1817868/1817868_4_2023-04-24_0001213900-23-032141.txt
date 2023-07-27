@@ -1,0 +1,211 @@
+<SEC-DOCUMENT>0001213900-23-032141.txt : 20230424
+<SEC-HEADER>0001213900-23-032141.hdr.sgml : 20230424
+<ACCEPTANCE-DATETIME>20230424181822
+ACCESSION NUMBER:		0001213900-23-032141
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230420
+FILED AS OF DATE:		20230424
+DATE AS OF CHANGE:		20230424
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KNOX ROBERT A
+		CENTRAL INDEX KEY:			0001071279
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-HOME FURNITURE, FURNISHINGS & EQUIPMENT STORES [5700]
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0201
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39505
+		FILM NUMBER:		23841209
+
+	MAIL ADDRESS:	
+		STREET 1:		TWO STAMFORD PLAZA
+		STREET 2:		281 TRESSER BLVD., 12TH FLOOR
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06901
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Jupiter Acquisition Corp
+		CENTRAL INDEX KEY:			0001817868
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				851508739
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11450 SE DIXIE HWY
+		CITY:			HOBE SOUND
+		STATE:			FL
+		ZIP:			33455
+		BUSINESS PHONE:		212-207-8884
+
+	MAIL ADDRESS:	
+		STREET 1:		11450 SE DIXIE HWY
+		CITY:			HOBE SOUND
+		STATE:			FL
+		ZIP:			33455
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001817868</issuerCik>
+        <issuerName>Jupiter Acquisition Corp</issuerName>
+        <issuerTradingSymbol>JAQC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001071279</rptOwnerCik>
+            <rptOwnerName>KNOX ROBERT A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O JUPITER ACQUISITION CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>11450 SE DIXIE HWY, SUITE 105</rptOwnerStreet2>
+            <rptOwnerCity>HOBE SOUND</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33455</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>21016</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>21016</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B common stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>21016</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A common stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>21016</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares of Class B common stock will automatically convert into shares of Class A common stock at the time of the Issuer's initial business combination, or earlier at the option of the holder, on a one-for-one basis, subject to adjustment as set forth in the Issuer's registration statement on Form S-1 (File No. 333-248411) and have no expiration date. On April 20, 2023, the reporting person exercised his right to convert 21,016 shares of Class B common stock into 21,016 shares of Class A common stock on a one-for-one basis.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Alan I. Annex, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

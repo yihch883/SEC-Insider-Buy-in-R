@@ -1,0 +1,223 @@
+<SEC-DOCUMENT>0001437749-23-000405.txt : 20230105
+<SEC-HEADER>0001437749-23-000405.hdr.sgml : 20230105
+<ACCEPTANCE-DATETIME>20230105094845
+ACCESSION NUMBER:		0001437749-23-000405
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230103
+FILED AS OF DATE:		20230105
+DATE AS OF CHANGE:		20230105
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Chong Kellie Hyon-Ok
+		CENTRAL INDEX KEY:			0001909330
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56238
+		FILM NUMBER:		23509939
+
+	MAIL ADDRESS:	
+		STREET 1:		6021 BECKENHAM WAY
+		CITY:			OAK RIDGE
+		STATE:			NC
+		ZIP:			27310
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Guerrilla RF, Inc.
+		CENTRAL INDEX KEY:			0001832487
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				853837067
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1196 PLEASANT RIDGE ROAD,
+		STREET 2:		SUITE 5
+		CITY:			GREENSBORO
+		STATE:			NC
+		ZIP:			27409
+		BUSINESS PHONE:		3365107840
+
+	MAIL ADDRESS:	
+		STREET 1:		1196 PLEASANT RIDGE ROAD,
+		STREET 2:		SUITE 5
+		CITY:			GREENSBORO
+		STATE:			NC
+		ZIP:			27409
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Laffin Acquisition Corp.
+		DATE OF NAME CHANGE:	20201116
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001832487</issuerCik>
+        <issuerName>Guerrilla RF, Inc.</issuerName>
+        <issuerTradingSymbol>GUER</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001909330</rptOwnerCik>
+            <rptOwnerName>Chong Kellie Hyon-Ok</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6021 BECKENHAM WAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OAK RIDGE</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>27310</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Business Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28819</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote.</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>75000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>75000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>75000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.0000</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2032-02-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>130000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>130000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the Reporting Person's proportionate pecuniary interest in the 144,094 shares of common stock held directly by Ninth Technology, LLC (&quot;Ninth Technology&quot;). The Reporting Person is a member and manager of Ninth Technology. The Reporting Person disclaims beneficial ownership of the shares held by Ninth Technology except to the extent of her proportionate pecuniary interest therein.</footnote>
+        <footnote id="F2">Each restricted stock unit represents a contingent right to receive one share of common stock upon vesting of the unit.</footnote>
+        <footnote id="F3">The restricted stock units vest as follows: (i) 25,000 on 1/1/2024; (ii) 25,000 on 1/1/2025; and (iii) 25,000 on 1/1/2026, in each case subject to the Reporting Person's continued service through the applicable vesting date.</footnote>
+        <footnote id="F4">No expiration date.</footnote>
+        <footnote id="F5">Represents shares of common stock granted under the Company's 2021 Equity Incentive Plan. The shares subject to the option will vest in four equal annual installments beginning on January 24, 2023, subject to the Reporting Person's continued service to the Company on each vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Corey Martens, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-01-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

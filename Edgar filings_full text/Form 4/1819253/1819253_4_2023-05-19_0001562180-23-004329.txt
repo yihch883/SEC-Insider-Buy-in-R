@@ -1,0 +1,232 @@
+<SEC-DOCUMENT>0001562180-23-004329.txt : 20230519
+<SEC-HEADER>0001562180-23-004329.hdr.sgml : 20230519
+<ACCEPTANCE-DATETIME>20230519185155
+ACCESSION NUMBER:		0001562180-23-004329
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230517
+FILED AS OF DATE:		20230519
+DATE AS OF CHANGE:		20230519
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MORRIS DEBRA L
+		CENTRAL INDEX KEY:			0001838995
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40128
+		FILM NUMBER:		23941980
+
+	MAIL ADDRESS:	
+		STREET 1:		11620 WILSHIRE BOULEVARD
+		STREET 2:		SUITE 1000
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			biote Corp.
+		CENTRAL INDEX KEY:			0001819253
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEDICINAL CHEMICALS & BOTANICAL PRODUCTS [2833]
+		IRS NUMBER:				851791125
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1875 W. WALNUT HILL LN #100
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75038
+		BUSINESS PHONE:		972-486-9346
+
+	MAIL ADDRESS:	
+		STREET 1:		1875 W. WALNUT HILL LN #100
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75038
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Haymaker Acquisition Corp. III
+		DATE OF NAME CHANGE:	20200727
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-17</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001819253</issuerCik>
+        <issuerName>biote Corp.</issuerName>
+        <issuerTradingSymbol>BTMD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001838995</rptOwnerCik>
+            <rptOwnerName>MORRIS DEBRA L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BIOTE CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>1875 W. WALNUT HILL LN #100</rptOwnerStreet2>
+            <rptOwnerCity>IRVING</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75038</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Settlement RSU</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9110.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>9110.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9110.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>5.83</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25007.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-05-16</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25007.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>88399.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Deferred Settlement RSU is the economic equivalent of one share of Issuer Class A Common Stock.</footnote>
+        <footnote id="F2">The Deferred Settlement RSUs are fully vested upon grant, but settlement will be deferred until the earlier of calendar year 2024 or the date of the Reporting Person's separation from service.</footnote>
+        <footnote id="F3">All shares subject to the option award shall vest on the earlier of May 17, 2024 or the day prior to the date of the Issuer's 2024 Annual Meeting of Stockholders, subject to the Reporting Person's continuous service through such vesting date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Marybeth Conlon, as Attorney-in-Fact for Debra L. Morris</signatureName>
+        <signatureDate>2023-05-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

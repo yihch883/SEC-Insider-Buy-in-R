@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001127602-23-016914.txt : 20230526
+<SEC-HEADER>0001127602-23-016914.hdr.sgml : 20230526
+<ACCEPTANCE-DATETIME>20230526094138
+ACCESSION NUMBER:		0001127602-23-016914
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230524
+FILED AS OF DATE:		20230526
+DATE AS OF CHANGE:		20230526
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BELGYA MARK R
+		CENTRAL INDEX KEY:			0001251529
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41040
+		FILM NUMBER:		23963611
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE STRAWBERRY LANE
+		CITY:			ORRVILLE
+		STATE:			OH
+		ZIP:			44667
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Fossil Group, Inc.
+		CENTRAL INDEX KEY:			0000883569
+		STANDARD INDUSTRIAL CLASSIFICATION:	WATCHES, CLOCKS, CLOCKWORK OPERATED DEVICES/PARTS [3873]
+		IRS NUMBER:				752018505
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		901 S CENTRAL EXPRESSWAY
+		CITY:			RICHARDSON
+		STATE:			TX
+		ZIP:			75080
+		BUSINESS PHONE:		9722342525
+
+	MAIL ADDRESS:	
+		STREET 1:		901 S CENTRAL EXPRESSWAY
+		CITY:			RICHARDSON
+		STATE:			TX
+		ZIP:			75080
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FOSSIL INC
+		DATE OF NAME CHANGE:	19940218
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000883569</issuerCik>
+        <issuerName>Fossil Group, Inc.</issuerName>
+        <issuerTradingSymbol>FOSL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001251529</rptOwnerCik>
+            <rptOwnerName>BELGYA MARK R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>901 S CENTRAL EXPRESSWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>RICHARDSON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75080</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>35476</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>74900</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted Stock Units that shall become one hundred percent (100%) vested and convertible into shares of Common Stock on the earlier of the first anniversary of the Date of Grant or the first Annual Stockholders Meeting following the Date of Grant.</footnote>
+        <footnote id="F2">Consists of 35,476 Restricted Stock Units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Randy S. Hyne, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-05-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

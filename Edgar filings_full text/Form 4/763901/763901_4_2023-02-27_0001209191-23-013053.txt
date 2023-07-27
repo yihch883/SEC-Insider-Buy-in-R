@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001209191-23-013053.txt : 20230227
+<SEC-HEADER>0001209191-23-013053.hdr.sgml : 20230227
+<ACCEPTANCE-DATETIME>20230227113948
+ACCESSION NUMBER:		0001209191-23-013053
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230223
+FILED AS OF DATE:		20230227
+DATE AS OF CHANGE:		20230227
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FERRER JAVIER D.
+		CENTRAL INDEX KEY:			0001621853
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34084
+		FILM NUMBER:		23671611
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 362708
+		CITY:			SAN JUAN
+		STATE:			PR
+		ZIP:			00936-2708
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			POPULAR, INC.
+		CENTRAL INDEX KEY:			0000763901
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				660667416
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		209 MUNOZ RIVERA AVE
+		STREET 2:		POPULAR CENTER BUILDING
+		CITY:			HATO REY
+		STATE:			PR
+		ZIP:			00918
+		BUSINESS PHONE:		7877659800
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 362708
+		CITY:			SAN JUAN
+		STATE:			PR
+		ZIP:			00936-2708
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	POPULAR INC
+		DATE OF NAME CHANGE:	19970428
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BANPONCE CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000763901</issuerCik>
+        <issuerName>POPULAR, INC.</issuerName>
+        <issuerTradingSymbol>BPOP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001621853</rptOwnerCik>
+            <rptOwnerName>FERRER JAVIER D.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P O BOX 362708</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN JUAN</rptOwnerCity>
+            <rptOwnerState>PR</rptOwnerState>
+            <rptOwnerZipCode>00936-2708</rptOwnerZipCode>
+            <rptOwnerStateDescription>PUERTO RICO</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Vice President &amp; COO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock Par Value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1145</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>70.63</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>52770.154</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock Par Value $0.01 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1167</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by wife</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 152.531 shares acquired pursuant to reinvestment of dividends paid by the Corporation. The shares were acquired in transaction exempt from Section 16 of the Securities Exchange Act of 1934 pursuant to Rule 16a-11 thereunder.</footnote>
+        <footnote id="F2">Mr. Ferrer disclaims beneficial ownership of Popular, Inc.'s shares held by his wife and has no investment authority over those shares.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Marie Reyes-Rodriguez, Attorney-in-fact</signatureName>
+        <signatureDate>2023-02-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

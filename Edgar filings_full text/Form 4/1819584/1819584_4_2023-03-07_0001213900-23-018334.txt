@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001213900-23-018334.txt : 20230307
+<SEC-HEADER>0001213900-23-018334.hdr.sgml : 20230307
+<ACCEPTANCE-DATETIME>20230307212515
+ACCESSION NUMBER:		0001213900-23-018334
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230306
+FILED AS OF DATE:		20230307
+DATE AS OF CHANGE:		20230307
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hastings Brandt
+		CENTRAL INDEX KEY:			0001879555
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39508
+		FILM NUMBER:		23714723
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VOLTA INDUSTRIES, INC.
+		STREET 2:		155 DE HARO STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Volta Inc.
+		CENTRAL INDEX KEY:			0001819584
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS TRANSPORTATION EQUIPMENT [3790]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 DE HARO STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+		BUSINESS PHONE:		(415) 583-3805
+
+	MAIL ADDRESS:	
+		STREET 1:		155 DE HARO STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tortoise Acquisition Corp. II
+		DATE OF NAME CHANGE:	20200729
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-06</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001819584</issuerCik>
+        <issuerName>Volta Inc.</issuerName>
+        <issuerTradingSymbol>VLTA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001879555</rptOwnerCik>
+            <rptOwnerName>Hastings Brandt</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>155 DE HARO STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Commercial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-06</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>47832</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.85</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>567148</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of shares of Class A common stock withheld by the Issuer to cover the Reporting Person's tax withholding obligations upon the vesting of Restricted Stock Units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michelle Kley, Attorney-In-Fact</signatureName>
+        <signatureDate>2023-03-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

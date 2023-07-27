@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001870910-23-000002.txt : 20230103
+<SEC-HEADER>0001870910-23-000002.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103182125
+ACCESSION NUMBER:		0001870910-23-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221223
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Alexander Karen
+		CENTRAL INDEX KEY:			0001870910
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39544
+		FILM NUMBER:		23503756
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BAKKT HOLDINGS, INC.
+		STREET 2:		5500 WINDWARD PKWY, SUITE 450
+		CITY:			ALPHARETTE
+		STATE:			GA
+		ZIP:			30005
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bakkt Holdings, Inc.
+		CENTRAL INDEX KEY:			0001820302
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				981550750
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10000 AVALON BOULEVARD, SUITE 1000
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30009
+		BUSINESS PHONE:		678-534-5849
+
+	MAIL ADDRESS:	
+		STREET 1:		10000 AVALON BOULEVARD, SUITE 1000
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30009
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VPC Impact Acquisition Holdings
+		DATE OF NAME CHANGE:	20200805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001820302</issuerCik>
+        <issuerName>Bakkt Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>BKKT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001870910</rptOwnerCik>
+            <rptOwnerName>Alexander Karen</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BAKKT HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>5500 WINDWARD PKWY, SUITE 450</rptOwnerStreet2>
+            <rptOwnerCity>ALPHARETTE</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30005</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11487</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.35</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>199968</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Disposition to satisfy the Reporting Person's tax withholding obligations in connection with the vesting of Restricted Stock Units (&quot;RSUs&quot;).</footnote>
+        <footnote id="F2">Includes 186,705 shares of Class A Common Stock subject to RSUs that remain subject to vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Marc D'Annunzio Attorney-in-Fact for Karen Alexander</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

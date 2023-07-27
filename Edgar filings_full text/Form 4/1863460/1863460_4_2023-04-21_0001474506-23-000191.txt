@@ -1,0 +1,225 @@
+<SEC-DOCUMENT>0001474506-23-000191.txt : 20230421
+<SEC-HEADER>0001474506-23-000191.hdr.sgml : 20230421
+<ACCEPTANCE-DATETIME>20230421172750
+ACCESSION NUMBER:		0001474506-23-000191
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230123
+FILED AS OF DATE:		20230421
+DATE AS OF CHANGE:		20230421
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stein Garry Richard
+		CENTRAL INDEX KEY:			0001866635
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40696
+		FILM NUMBER:		23837398
+
+	MAIL ADDRESS:	
+		STREET 1:		FLAT LB, 6/F, TOWER 3, AMBER HEMERA
+		STREET 2:		OF LOHAS PARK, 1 LOHAS PARK ROAD
+		CITY:			TSEUNG KWAN O, NEW TERRITORIES
+		STATE:			K3
+		ZIP:			00000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PHP Ventures Acquisition Corp.
+		CENTRAL INDEX KEY:			0001863460
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				863368971
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CT 10-06, LEVEL 10, CORPORATE TOWER
+		STREET 2:		SUBANG SQUARE, JALAN SS15/4G
+		CITY:			SUBANG JAYA, SELANGOR
+		STATE:			N8
+		ZIP:			47500
+		BUSINESS PHONE:		60122030407
+
+	MAIL ADDRESS:	
+		STREET 1:		CT 10-06, LEVEL 10, CORPORATE TOWER
+		STREET 2:		SUBANG SQUARE, JALAN SS15/4G
+		CITY:			SUBANG JAYA, SELANGOR
+		STATE:			N8
+		ZIP:			47500
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001863460</issuerCik>
+        <issuerName>PHP Ventures Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>PPHP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001866635</rptOwnerCik>
+            <rptOwnerName>Stein Garry Richard</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PHP VENTURES ACQUISITION CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>CT 10-06, LEVEL 10 CORPORATE TOWER</rptOwnerStreet2>
+            <rptOwnerCity>SUBANG SQUARE JALAN SS15/46</rptOwnerCity>
+            <rptOwnerState>F5</rptOwnerState>
+            <rptOwnerZipCode>1073</rptOwnerZipCode>
+            <rptOwnerStateDescription>TAIWAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>56000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>60000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares of Class B common stock have no expiration date and will automatically convert into shares of Class A common stock at the time of the issuer's initial business combination on a one-for-one basis, subject to adjustment as set forth in the issuer's registration statement on Form S-1 (File No. 333-256840).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Garry Richard Stein, by Nelson Mullins Riley &amp; Scarborough with Power of Attorney</signatureName>
+        <signatureDate>2023-04-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001213900-23-005750.txt : 20230127
+<SEC-HEADER>0001213900-23-005750.hdr.sgml : 20230127
+<ACCEPTANCE-DATETIME>20230127183311
+ACCESSION NUMBER:		0001213900-23-005750
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230125
+FILED AS OF DATE:		20230127
+DATE AS OF CHANGE:		20230127
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stack Kathleen Griffin
+		CENTRAL INDEX KEY:			0001836340
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39903
+		FILM NUMBER:		23564758
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AUTHENTIC EQUITY
+		STREET 2:		32 ELM PLACE, 2ND FLOOR
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Authentic Equity Acquisition Corp.
+		CENTRAL INDEX KEY:			0001827392
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		32 ELM PLACE, 2ND FLOOR
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+		BUSINESS PHONE:		646.357.3930
+
+	MAIL ADDRESS:	
+		STREET 1:		32 ELM PLACE, 2ND FLOOR
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-25</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001827392</issuerCik>
+        <issuerName>Authentic Equity Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>AEAC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001836340</rptOwnerCik>
+            <rptOwnerName>Stack Kathleen Griffin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>32 ELM PLACE, 2ND FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>RYE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10580</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On January 6, 2023, the Issuer announced that it will not consummate an initial business combination within the time period required. Pursuant to the Issuer's Amended and Restated Memorandum and Articles of Association (the &quot;Articles&quot;) and in connection with the winding up of the Issuer, the Class B ordinary shares, par value $0.0001, held by the Reporting Person were surrendered for no compensation on January 25, 2023.</footnote>
+    </footnotes>
+
+    <remarks>After giving effect to the Issuer's delisting and deregistration, the Reporting Persons will no longer be subject to Section 16 reporting obligations.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Todd Khoury as attorney-in-fact for Kathleen Griffin Stack</signatureName>
+        <signatureDate>2023-01-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

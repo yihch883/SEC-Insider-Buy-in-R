@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001127602-23-000154.txt : 20230103
+<SEC-HEADER>0001127602-23-000154.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103163604
+ACCESSION NUMBER:		0001127602-23-000154
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230101
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Baltimore Thomas J Jr
+		CENTRAL INDEX KEY:			0001390946
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16707
+		FILM NUMBER:		23502685
+
+	MAIL ADDRESS:	
+		STREET 1:		PARK HOTELS & RESORTS INC.
+		STREET 2:		1775 TYSONS BLVD, 7TH FLOOR
+		CITY:			TYSONS
+		STATE:			VA
+		ZIP:			22102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRUDENTIAL FINANCIAL INC
+		CENTRAL INDEX KEY:			0001137774
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		IRS NUMBER:				223703799
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		751 BROAD ST
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+		BUSINESS PHONE:		9738026000
+
+	MAIL ADDRESS:	
+		STREET 1:		751 BROAD ST
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001137774</issuerCik>
+        <issuerName>PRUDENTIAL FINANCIAL INC</issuerName>
+        <issuerTradingSymbol>PRU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001390946</rptOwnerCik>
+            <rptOwnerName>Baltimore Thomas J Jr</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>751 BROAD STREET, 5TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2>ATTN: REGULATORY FILINGS UNIT</rptOwnerStreet2>
+            <rptOwnerCity>NEWARK</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Notional Shares - Optional</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>384</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>99.46</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>384</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>62607</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each notional share - optional represents a deferred stock unit and entitles the holder thereof with the right to receive one share of Issuer common stock or the cash value thereof under the Issuer's deferred compensation plan for non-employee directors.</footnote>
+        <footnote id="F2">Such shares are payable in common stock or cash, at the election of the reporting person, with payment to begin, at the election of the reporting person provided that such date shall be at least two (2) years after the end of the plan year with respect to which such elective deferrals relate.   The reporting person may transfer his investment in the notional shares - optional to an alternative investment account, subject to the terms of the Issuer's deferred compensation plan for non-employee directors.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Danny Fiore, attorney-in-fact</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

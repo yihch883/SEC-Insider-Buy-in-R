@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001127602-23-020796.txt : 20230717
+<SEC-HEADER>0001127602-23-020796.hdr.sgml : 20230717
+<ACCEPTANCE-DATETIME>20230717155011
+ACCESSION NUMBER:		0001127602-23-020796
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230714
+FILED AS OF DATE:		20230717
+DATE AS OF CHANGE:		20230717
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nettles Cory L
+		CENTRAL INDEX KEY:			0001323628
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31343
+		FILM NUMBER:		231091600
+
+	MAIL ADDRESS:	
+		STREET 1:		411 E. WISCONSIN
+		STREET 2:		SUITE 2040
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202-4497
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASSOCIATED BANC-CORP
+		CENTRAL INDEX KEY:			0000007789
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				391098068
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+		BUSINESS PHONE:		920-491-7500
+
+	MAIL ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASSOCIATED BANK SERVICES INC
+		DATE OF NAME CHANGE:	19770626
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000007789</issuerCik>
+        <issuerName>ASSOCIATED BANC-CORP</issuerName>
+        <issuerTradingSymbol>ASB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001323628</rptOwnerCik>
+            <rptOwnerName>Nettles Cory L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ASSOCIATED BANC-CORP</rptOwnerStreet1>
+            <rptOwnerStreet2>433 MAIN STREET</rptOwnerStreet2>
+            <rptOwnerCity>GREEN BAY</rptOwnerCity>
+            <rptOwnerState>WI</rptOwnerState>
+            <rptOwnerZipCode>54301</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>653.026</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>17.227</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock $0.01 Par Value</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>653.026</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>29772.947</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">&quot;Share Units&quot; awarded under Directors' Deferred Compensation Plan.</footnote>
+        <footnote id="F2">Stock units are 100% vested at the time of the acquisition.</footnote>
+        <footnote id="F3">Phantom stock units will remain in the Director's Deferred Compensation Plan until such account balance is distributed pursuant to Insider's distribution elections(s) on file.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Lynn M. Floeter, attorney-in-fact for Cory L. Nettles</signatureName>
+        <signatureDate>2023-07-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

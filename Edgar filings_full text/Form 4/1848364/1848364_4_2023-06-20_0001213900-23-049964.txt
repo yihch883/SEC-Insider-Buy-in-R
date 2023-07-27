@@ -1,0 +1,331 @@
+<SEC-DOCUMENT>0001213900-23-049964.txt : 20230620
+<SEC-HEADER>0001213900-23-049964.hdr.sgml : 20230620
+<ACCEPTANCE-DATETIME>20230620140854
+ACCESSION NUMBER:		0001213900-23-049964
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230615
+FILED AS OF DATE:		20230620
+DATE AS OF CHANGE:		20230620
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Applbaum Isaac
+		CENTRAL INDEX KEY:			0001376613
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40476
+		FILM NUMBER:		231024493
+
+	MAIL ADDRESS:	
+		STREET 1:		65 CHALLENGER ROAD
+		STREET 2:		C/O VECTOR INTERSECT SECURITY ACQ. CORP.
+		CITY:			RIDGEFILED PARK
+		STATE:			NJ
+		ZIP:			07660
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			1P Management LLC
+		CENTRAL INDEX KEY:			0001849028
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40476
+		FILM NUMBER:		231024494
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3348 PEACHTREE ROAD
+		STREET 2:		SUITE 700
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30326
+		BUSINESS PHONE:		678-954-4822
+
+	MAIL ADDRESS:	
+		STREET 1:		3348 PEACHTREE ROAD
+		STREET 2:		SUITE 700
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30326
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Logistics Innovation Technologies Corp.
+		CENTRAL INDEX KEY:			0001848364
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				862157398
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3495 PIEDMONT ROAD NE
+		STREET 2:		ONE PIEDMONT CENTER, BLDG.11, STE. 710
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30305
+		BUSINESS PHONE:		731-723-3141
+
+	MAIL ADDRESS:	
+		STREET 1:		3495 PIEDMONT ROAD NE
+		STREET 2:		ONE PIEDMONT CENTER, BLDG.11, STE. 710
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30305
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001848364</issuerCik>
+        <issuerName>Logistics Innovation Technologies Corp.</issuerName>
+        <issuerTradingSymbol>LITT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001849028</rptOwnerCik>
+            <rptOwnerName>1P Management LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3495 PIEDMONT RD NE,</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE PIEDMONT CTR, BLD. 11, STE. 710</rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30305</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001376613</rptOwnerCik>
+            <rptOwnerName>Applbaum Isaac</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3495 PIEDMONT RD NE,</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE PIEDMONT CTR, BLD. 11, STE. 710</rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30305</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7305200</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7305200</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On May 26, 2023, the Issuer announced that its board of directors had determined to redeem all of its outstanding shares of Class A common stock sold in the Issuer's initial public offering (the &quot;Public Shares&quot;), effective as of June 15, 2023, because the Issuer will not be able to consummate an initial business combination within the time period required by its amended and restated certificate of incorporation. As of the close of business on June 15, 2023, the Public Shares were deemed cancelled and represented only the rights to receive the per-share redemption price. In connection with the redemption of the Public Shares and anticipated dissolution of the Issuer, on June 15, 2023, 1P Management LLC (&quot;1P&quot;) forfeited to the Issuer for no consideration 7,305,200 shares of Class B common stock and 5,361,412 warrants.</footnote>
+        <footnote id="F2">The shares of Class B common stock are convertible for shares of the Issuer's Class A common stock as described under the heading &quot;Description of Securities&quot; in the Issuer's Registration Statement on Form S-1 (File No. 333- 253949) (the &quot;Registration Statement&quot;) and have no expiration date.</footnote>
+        <footnote id="F3">1P is the record holder of the securities reported herein. Isaac Applbaum is the manager of 1P Management, LLC and has voting and investment discretion with respect to the securities held of record by 1P.</footnote>
+    </footnotes>
+
+    <remarks>See Exhibit 99.1 - Joint Filer Information, which is incorporated herein by reference and describes in further detail the relationships of the Reporting Persons to the Issuer.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Christina Min, Attorney-in-Fact for 1P Management LLC</signatureName>
+        <signatureDate>2023-06-20</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Christina Min, Attorney-in-Fact for Isaac Applbaum</signatureName>
+        <signatureDate>2023-06-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ea180618ex99-1_logistics.htm
+<DESCRIPTION>JOINT FILER INFORMATION
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 99.1</B></P>
+
+<P STYLE="margin: 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Joint Filer Information</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; font-size: 10pt"><FONT STYLE="font-size: 10pt">Name of Joint Filer:</FONT></TD>
+    <TD STYLE="width: 50%; font-size: 10pt"><FONT STYLE="font-size: 10pt">1P Management LLC</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Address of Joint Filer:</FONT></TD>
+    <TD>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">c/o Logistics Innovation Technologies Corp.</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">3495 Piedmont Rd NE</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">One Piedmont Center</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Bld. 11, Ste. 710</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Atlanta, Georgia 30305</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Relationship of Joint Filer to Issuer:</FONT></TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">10% Owner, Director (Director by Deputization). Mr. Applbaum serves as a member of the board of directors of the Issuer. 1P Management LLC may be deemed a director by deputization as a result of the service of Mr. Applbaum.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Issuer Name and Ticker of Trading Symbol:</FONT></TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Logistics Innovation Technologies Corp. [LITT]</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Date of Event Requiring Statement:<BR>
+(Month/Day/Year):</FONT></TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">06/15/2023</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Name of Joint Filer:</FONT></TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Isaac Applbaum</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Address of Joint Filer:</FONT></TD>
+    <TD>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">c/o Logistics Innovation Technologies Corp.</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">3495 Piedmont Rd NE</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">One Piedmont Center</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Bld. 11, Ste. 710</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Atlanta, Georgia 30305</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Relationship of Joint Filer to Issuer:</FONT></TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">10% Owner, Director, Officer (Chief Financial Officer)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Issuer Name and Ticker of Trading Symbol:</FONT></TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Logistics Innovation Technologies Corp. [LITT]</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Date of Event Requiring Statement:<BR>
+(Month/Day/Year):</FONT></TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">06/15/2023</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

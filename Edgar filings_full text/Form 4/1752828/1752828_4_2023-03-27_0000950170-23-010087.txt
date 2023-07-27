@@ -1,0 +1,208 @@
+<SEC-DOCUMENT>0000950170-23-010087.txt : 20230327
+<SEC-HEADER>0000950170-23-010087.hdr.sgml : 20230327
+<ACCEPTANCE-DATETIME>20230327202751
+ACCESSION NUMBER:		0000950170-23-010087
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230327
+FILED AS OF DATE:		20230327
+DATE AS OF CHANGE:		20230327
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hariri Robert J
+		CENTRAL INDEX KEY:			0001398815
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38914
+		FILM NUMBER:		23765946
+
+	MAIL ADDRESS:	
+		STREET 1:		341 MENDHAM ROAD
+		CITY:			BERNARDSVILLE
+		STATE:			NJ
+		ZIP:			07924
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Celularity Inc
+		CENTRAL INDEX KEY:			0001752828
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				831702591
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		170 PARK AVE
+		CITY:			FLORHAM PARK
+		STATE:			NJ
+		ZIP:			07932
+		BUSINESS PHONE:		(908) 768-2170
+
+	MAIL ADDRESS:	
+		STREET 1:		170 PARK AVE
+		CITY:			FLORHAM PARK
+		STATE:			NJ
+		ZIP:			07932
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GX Acquisition Corp.
+		DATE OF NAME CHANGE:	20180912
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001752828</issuerCik>
+        <issuerName>Celularity Inc</issuerName>
+        <issuerTradingSymbol>CELU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001398815</rptOwnerCik>
+            <rptOwnerName>Hariri Robert J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CELULARITY INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>170 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>FLORHAM PARK</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07932</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2084854</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.8343</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10159850</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.00</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2084854</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-03-27</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2084854</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2084854</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On March 27, 2023, the Reporting Person purchased directly from the Issuer (i) 2,084,854 shares of the Issuer's Class A common stock at a price of $0.8343 per share, and (ii) a 5-year immediately exercisable warrant to purchase 2,084,854 shares of the Issuer's Class A common stock at an exercise price of $3.00, at a price of $0.125 per whole share underlying the warrant, or an aggregate purchase price of $2.0 million pursuant to a securities purchase agreement dated March 20, 2023.</footnote>
+        <footnote id="F2">This includes 131,234 shares underlying restricted stock units subject to vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kyle Fletcher, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-03-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

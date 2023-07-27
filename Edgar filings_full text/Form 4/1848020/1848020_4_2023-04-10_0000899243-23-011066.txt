@@ -1,0 +1,229 @@
+<SEC-DOCUMENT>0000899243-23-011066.txt : 20230410
+<SEC-HEADER>0000899243-23-011066.hdr.sgml : 20230410
+<ACCEPTANCE-DATETIME>20230410182849
+ACCESSION NUMBER:		0000899243-23-011066
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230410
+FILED AS OF DATE:		20230410
+DATE AS OF CHANGE:		20230410
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bennett Rhett
+		CENTRAL INDEX KEY:			0001848231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40907
+		FILM NUMBER:		23812031
+
+	MAIL ADDRESS:	
+		STREET 1:		425 HOUSTON STREET
+		STREET 2:		SUITE 400
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Black Mountain Acquisition Corp.
+		CENTRAL INDEX KEY:			0001848020
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				862013849
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		425 HOUSTON STREET
+		STREET 2:		SUITE 400
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76102
+		BUSINESS PHONE:		(817) 698-9901
+
+	MAIL ADDRESS:	
+		STREET 1:		425 HOUSTON STREET
+		STREET 2:		SUITE 400
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001848020</issuerCik>
+        <issuerName>Black Mountain Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>BMAC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001848231</rptOwnerCik>
+            <rptOwnerName>Bennett Rhett</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>425 HOUSTON STREET, SUITE 400</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>FORT WORTH</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>76102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6810000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6810000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6810000</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6810000</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">In accordance with the amended and restated certificate of incorporation of Black Mountain Acquisition Corp. (&quot;BMAC&quot;), Black Mountain Sponsor LLC (&quot;Sponsor&quot;) elected to convert its shares of Class B Common Stock into shares of Class A Common Stock on a one-for-one basis.</footnote>
+        <footnote id="F2">The total shares reported includes 1,150,000 shares of Class B Common Stock issued to Sponsor as a result of a stock dividend of the shares of Class B Common Stock by BMAC in connection with BMAC's initial public offering which, as a result of a clerical error, were not previously included on the Reporting Person's Form 3 filed on October 13, 2021.</footnote>
+        <footnote id="F3">The shares of Class B Common Stock were (i) convertible into shares of Class A Common Stock at Sponsor's election on a one-for-one basis and (ii) automatically convertible into shares of Class A Common Stock at the time of the closing of BMAC's initial business combination on a one-for-one basis, subject to adjustment pursuant to certain anti-dilution rights (which rights were waived by Sponsor in connection with BMAC's proposed business combination), and had no expiration date.</footnote>
+        <footnote id="F4">Sponsor is the record holder of the securities reported herein. Sponsor is a limited liability company, of which the Reporting Person is a member and the sole manager. Because of the relationship between the Reporting Person and Sponsor, the Reporting Person may be deemed to beneficially own the securities held of record by Sponsor and reported herein to the extent of the greater of the Reporting Person's direct or indirect pecuniary interests in the profits or capital accounts of Sponsor. The Reporting Person disclaims beneficial ownership of the securities reported herein, except to the extent of the Reporting Person's pecuniary interest therein, if any, and this report shall not be deemed an admission that the Reporting Person is the beneficial owner of or has any pecuniary interest in such securities for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Rhett Bennett</signatureName>
+        <signatureDate>2023-04-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

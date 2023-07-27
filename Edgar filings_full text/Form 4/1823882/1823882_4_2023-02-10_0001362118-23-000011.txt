@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001362118-23-000011.txt : 20230210
+<SEC-HEADER>0001362118-23-000011.hdr.sgml : 20230210
+<ACCEPTANCE-DATETIME>20230210172040
+ACCESSION NUMBER:		0001362118-23-000011
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230208
+FILED AS OF DATE:		20230210
+DATE AS OF CHANGE:		20230210
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SMITH PETERSEN HENRIK
+		CENTRAL INDEX KEY:			0001252176
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39679
+		FILM NUMBER:		23613503
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRSPAN NETWORKS INC
+		STREET 2:		CAMBRIDGE HOUSE
+		CITY:			UXBRIDGE
+		STATE:			X0
+		ZIP:			999999999
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Airspan Networks Holdings Inc.
+		CENTRAL INDEX KEY:			0001823882
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				852642786
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		777 YAMATO DRIVE
+		STREET 2:		SUITE 310
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33431
+		BUSINESS PHONE:		561-893-8670
+
+	MAIL ADDRESS:	
+		STREET 1:		777 YAMATO DRIVE
+		STREET 2:		SUITE 310
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33431
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	New Beginnings Acquisition Corp.
+		DATE OF NAME CHANGE:	20200908
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001823882</issuerCik>
+        <issuerName>Airspan Networks Holdings Inc.</issuerName>
+        <issuerTradingSymbol>MIMO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001252176</rptOwnerCik>
+            <rptOwnerName>SMITH PETERSEN HENRIK</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AIRSPAN NETWORKS INC</rptOwnerStreet1>
+            <rptOwnerStreet2>CAMBRIDGE HOUSE</rptOwnerStreet2>
+            <rptOwnerCity>UXBRIDGE</rptOwnerCity>
+            <rptOwnerState>X0</rptOwnerState>
+            <rptOwnerZipCode>999999999</rptOwnerZipCode>
+            <rptOwnerStateDescription>UNITED KINGDOM</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Sales&amp;Marketing Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-08</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8768</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.38</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>686045</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Value attributed to each share in calculating tax withholding under RSUs.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christopher Riley, Power of Attorney</signatureName>
+        <signatureDate>2023-02-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001209191-23-024355.txt : 20230414
+<SEC-HEADER>0001209191-23-024355.hdr.sgml : 20230414
+<ACCEPTANCE-DATETIME>20230414170512
+ACCESSION NUMBER:		0001209191-23-024355
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230413
+FILED AS OF DATE:		20230414
+DATE AS OF CHANGE:		20230414
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Nelson Mark Joseph
+		CENTRAL INDEX KEY:			0001435748
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40125
+		FILM NUMBER:		23821941
+
+	MAIL ADDRESS:	
+		STREET 1:		LOCAL BOUNTI CORPORATION
+		STREET 2:		220 W MAIN STREET
+		CITY:			HAMILTON
+		STATE:			MT
+		ZIP:			59840
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Local Bounti Corporation/DE
+		CENTRAL INDEX KEY:			0001840780
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE PRODUCTION - CROPS [0100]
+		IRS NUMBER:				981584830
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 W. MAIN ST.
+		CITY:			HAMILTON
+		STATE:			MT
+		ZIP:			59840
+		BUSINESS PHONE:		406-361-3711
+
+	MAIL ADDRESS:	
+		STREET 1:		400 W. MAIN ST.
+		CITY:			HAMILTON
+		STATE:			MT
+		ZIP:			59840
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Leo Holdings III Corp.
+		DATE OF NAME CHANGE:	20210115
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-13</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001840780</issuerCik>
+        <issuerName>Local Bounti Corporation/DE</issuerName>
+        <issuerTradingSymbol>LOCL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001435748</rptOwnerCik>
+            <rptOwnerName>Nelson Mark Joseph</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O LOCAL BOUNTI CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>400 W. MAIN ST.</rptOwnerStreet2>
+            <rptOwnerCity>HAMILTON</rptOwnerCity>
+            <rptOwnerState>MT</rptOwnerState>
+            <rptOwnerZipCode>59840</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-13</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10125</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.5146</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>168614</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Sale effected pursuant to a Rule 10b5-1 sales plan, adopted by the Reporting Person on May 11, 2022.</footnote>
+        <footnote id="F2">This transaction was executed in multiple trades at prices ranging from $0.5 to $0.5319. The price reported above reflects the weighted average sale price. The Reporting Person hereby undertakes to provide, upon request, to the SEC staff, the Issuer or a security holder of the Issuer full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Kathleen Valiasek, as Attorney-in-Fact for Mark J. Nelson</signatureName>
+        <signatureDate>2023-04-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0001127602-23-016865.txt : 20230525
+<SEC-HEADER>0001127602-23-016865.hdr.sgml : 20230525
+<ACCEPTANCE-DATETIME>20230525161948
+ACCESSION NUMBER:		0001127602-23-016865
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230510
+FILED AS OF DATE:		20230525
+DATE AS OF CHANGE:		20230525
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LANE HARRY MERRITT III
+		CENTRAL INDEX KEY:			0001283113
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36872
+		FILM NUMBER:		23960865
+
+	MAIL ADDRESS:	
+		STREET 1:		835 UNION STREET
+		CITY:			NEW ORLEANS
+		STATE:			LA
+		ZIP:			70112
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HANCOCK WHITNEY CORP
+		CENTRAL INDEX KEY:			0000750577
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				640693170
+		STATE OF INCORPORATION:			MS
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE HANCOCK WHITNEY PLAZA
+		STREET 2:		P O BOX 4019
+		CITY:			GULFPORT
+		STATE:			MS
+		ZIP:			39501
+		BUSINESS PHONE:		5042995208
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE HANCOCK WHITNEY PLAZA
+		STREET 2:		P O BOX 4019
+		CITY:			GULFPORT
+		STATE:			MS
+		ZIP:			39501
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HANCOCK HOLDING CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000750577</issuerCik>
+        <issuerName>HANCOCK WHITNEY CORP</issuerName>
+        <issuerTradingSymbol>HWC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001283113</rptOwnerCik>
+            <rptOwnerName>LANE HARRY MERRITT III</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 4019</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GULFPORT</rptOwnerCity>
+            <rptOwnerState>MS</rptOwnerState>
+            <rptOwnerZipCode>39502</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4277.145</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>32.855</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Trust for M Lane III</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes></footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Harry Merritt Lane III by Trisha V. Carlson (POA)</signatureName>
+        <signatureDate>2023-05-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

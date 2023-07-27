@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001213900-23-050952.txt : 20230622
+<SEC-HEADER>0001213900-23-050952.hdr.sgml : 20230622
+<ACCEPTANCE-DATETIME>20230622160109
+ACCESSION NUMBER:		0001213900-23-050952
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230620
+FILED AS OF DATE:		20230622
+DATE AS OF CHANGE:		20230622
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shams Sammaad
+		CENTRAL INDEX KEY:			0001881628
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40985
+		FILM NUMBER:		231033285
+
+	MAIL ADDRESS:	
+		STREET 1:		1775 TYSONS BLVD., 5TH FLOOR
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEXTNAV INC.
+		CENTRAL INDEX KEY:			0001865631
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1775 TYSONS BLVD., 5TH FLOOR
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+		BUSINESS PHONE:		800-775-0982
+
+	MAIL ADDRESS:	
+		STREET 1:		1775 TYSONS BLVD., 5TH FLOOR
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Spartacus Acquisition Shelf Corp.
+		DATE OF NAME CHANGE:	20210603
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001865631</issuerCik>
+        <issuerName>NEXTNAV INC.</issuerName>
+        <issuerTradingSymbol>NN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001881628</rptOwnerCik>
+            <rptOwnerName>Shams Sammaad</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1775 TYSONS BLVD., 5TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MCLEAN</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>VP-Corporate Controller</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>120</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.89</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>38333</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of shares that had been sold to satisfy tax obligation upon vesting of the restricted stock units (&quot;RSU&quot;).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christian Gates by power of attorney</signatureName>
+        <signatureDate>2023-06-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

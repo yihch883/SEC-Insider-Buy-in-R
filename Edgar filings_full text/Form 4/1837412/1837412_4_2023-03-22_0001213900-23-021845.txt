@@ -1,0 +1,214 @@
+<SEC-DOCUMENT>0001213900-23-021845.txt : 20230322
+<SEC-HEADER>0001213900-23-021845.hdr.sgml : 20230322
+<ACCEPTANCE-DATETIME>20230322060326
+ACCESSION NUMBER:		0001213900-23-021845
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230317
+FILED AS OF DATE:		20230322
+DATE AS OF CHANGE:		20230322
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lillis Charles M.
+		CENTRAL INDEX KEY:			0001880461
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40090
+		FILM NUMBER:		23751183
+
+	MAIL ADDRESS:	
+		STREET 1:		13 CASTLE PINES DRIVE N
+		CITY:			CASTLE ROCK
+		STATE:			CO
+		ZIP:			80108
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SomaLogic, Inc.
+		CENTRAL INDEX KEY:			0001837412
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		IRS NUMBER:				854298912
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O CORVEX MANAGEMENT LP
+		STREET 2:		667 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10065
+		BUSINESS PHONE:		(212) 474 6724
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CORVEX MANAGEMENT LP
+		STREET 2:		667 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10065
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CM Life Sciences II Inc.
+		DATE OF NAME CHANGE:	20201221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001837412</issuerCik>
+        <issuerName>SomaLogic, Inc.</issuerName>
+        <issuerTradingSymbol>SLGC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001880461</rptOwnerCik>
+            <rptOwnerName>Lillis Charles M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O SOMALOGIC, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2945 WILDERNESS PLACE</rptOwnerStreet2>
+            <rptOwnerCity>BOULDER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80301</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3430</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>283433</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.30</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20600</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2024-03-17</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-03-16</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.0001</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>20600</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20600</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">100% of the shares underlying the option vest one year after the grant date, subject to the Reporting Person's continued service to the Issuer on each vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ruben Gutierrez, as attorney-in-fact</signatureName>
+        <signatureDate>2023-03-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

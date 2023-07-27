@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0001062993-23-003881.txt : 20230216
+<SEC-HEADER>0001062993-23-003881.hdr.sgml : 20230216
+<ACCEPTANCE-DATETIME>20230216201051
+ACCESSION NUMBER:		0001062993-23-003881
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230214
+FILED AS OF DATE:		20230216
+DATE AS OF CHANGE:		20230216
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Byers Michael B
+		CENTRAL INDEX KEY:			0001845788
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31792
+		FILM NUMBER:		23640027
+
+	MAIL ADDRESS:	
+		STREET 1:		11825 N PENNSYLVANIA ST
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CNO Financial Group, Inc.
+		CENTRAL INDEX KEY:			0001224608
+		STANDARD INDUSTRIAL CLASSIFICATION:	ACCIDENT & HEALTH INSURANCE [6321]
+		IRS NUMBER:				753108137
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11825 N PENNSYLVANIA ST
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+		BUSINESS PHONE:		3178176100
+
+	MAIL ADDRESS:	
+		STREET 1:		11825 NORTH PENNSYLVANIA STREET
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONSECO INC
+		DATE OF NAME CHANGE:	20030326
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001224608</issuerCik>
+        <issuerName>CNO Financial Group, Inc.</issuerName>
+        <issuerTradingSymbol>CNO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001845788</rptOwnerCik>
+            <rptOwnerName>Byers Michael B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CNO FINANCIAL GROUP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>11825 NORTH PENNSYLVANIA ST.</rptOwnerStreet2>
+            <rptOwnerCity>CARMEL</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>46032</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President, Worksite Division</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7700</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>25.57</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19087</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock units convert into common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">The restricted stock units vest in three equal annual installments beginning March 25, 2024.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Rachel J. Spehler, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-02-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

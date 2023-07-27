@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001846253-23-000041.txt : 20230411
+<SEC-HEADER>0001846253-23-000041.hdr.sgml : 20230411
+<ACCEPTANCE-DATETIME>20230411191122
+ACCESSION NUMBER:		0001846253-23-000041
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230407
+FILED AS OF DATE:		20230411
+DATE AS OF CHANGE:		20230411
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Berkman Charles S
+		CENTRAL INDEX KEY:			0001392266
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40720
+		FILM NUMBER:		23814389
+
+	MAIL ADDRESS:	
+		STREET 1:		11085 NORTH TORREY PINES ROAD
+		STREET 2:		SUITE 300
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OmniAb, Inc.
+		CENTRAL INDEX KEY:			0001846253
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5980 HORTON STREET
+		STREET 2:		SUITE 600
+		CITY:			EMERYVILLE
+		STATE:			CA
+		ZIP:			94608
+		BUSINESS PHONE:		510-250-7800
+
+	MAIL ADDRESS:	
+		STREET 1:		5980 HORTON STREET
+		STREET 2:		SUITE 600
+		CITY:			EMERYVILLE
+		STATE:			CA
+		ZIP:			94608
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Avista Public Acquisition Corp. II
+		DATE OF NAME CHANGE:	20210212
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-07</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001846253</issuerCik>
+        <issuerName>OmniAb, Inc.</issuerName>
+        <issuerTradingSymbol>OABI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001392266</rptOwnerCik>
+            <rptOwnerName>Berkman Charles S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>5980 HORTON STREET, STE 600</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EMERYVILLE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94608</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Legal Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>40625</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>414564</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.75</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>243750</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-04-07</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>243750</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>243750</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units (&quot;RSUs&quot;). Each RSU represents a contingent right to receive one share of the Issuer's Common Stock. The RSUs shall vest in three equal annual installments beginning on each anniversary following the Grant Date, subject to the Reporting Person's continued service to the Issuer through each such vesting date.</footnote>
+        <footnote id="F2">The Stock Option vests and is exercisable as to 12.5% of the underlying shares 6 months after the Grant Date, and in 42 substantially equal monthly installments thereafter.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Charles S. Berkman</signatureName>
+        <signatureDate>2023-04-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

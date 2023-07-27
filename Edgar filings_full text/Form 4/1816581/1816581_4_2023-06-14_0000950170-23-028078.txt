@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0000950170-23-028078.txt : 20230614
+<SEC-HEADER>0000950170-23-028078.hdr.sgml : 20230614
+<ACCEPTANCE-DATETIME>20230614214534
+ACCESSION NUMBER:		0000950170-23-028078
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230612
+FILED AS OF DATE:		20230614
+DATE AS OF CHANGE:		20230614
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WEINSWIG MARK
+		CENTRAL INDEX KEY:			0001265677
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39463
+		FILM NUMBER:		231015845
+
+	MAIL ADDRESS:	
+		STREET 1:		EMCORE CORP
+		STREET 2:		10420 RESEARCH ROAD, SE
+		CITY:			ALBUQUERQUE
+		STATE:			NM
+		ZIP:			87123
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ouster, Inc.
+		CENTRAL INDEX KEY:			0001816581
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT, NEC [3569]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		350 TREAT AVENUE
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94110
+		BUSINESS PHONE:		(415) 987-6972
+
+	MAIL ADDRESS:	
+		STREET 1:		350 TREAT AVENUE
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Colonnade Acquisition Corp.
+		DATE OF NAME CHANGE:	20200701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001816581</issuerCik>
+        <issuerName>Ouster, Inc.</issuerName>
+        <issuerTradingSymbol>OUST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001265677</rptOwnerCik>
+            <rptOwnerName>WEINSWIG MARK</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>350 TREAT AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94110</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2462</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.6614</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>180363</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects shares sold to cover withholding taxes incurred upon the vesting and settlement of restricted stock units (&quot;RSUs&quot;) in a trade that was initiated by the Issuer on the Reporting Person's behalf.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Megan Chung, as Attorney-in-Fact for Mark Weinswig</signatureName>
+        <signatureDate>2023-06-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

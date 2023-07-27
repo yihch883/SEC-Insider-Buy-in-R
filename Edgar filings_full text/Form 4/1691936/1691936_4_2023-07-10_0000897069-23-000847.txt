@@ -1,0 +1,149 @@
+<SEC-DOCUMENT>0000897069-23-000847.txt : 20230710
+<SEC-HEADER>0000897069-23-000847.hdr.sgml : 20230710
+<ACCEPTANCE-DATETIME>20230710171307
+ACCESSION NUMBER:		0000897069-23-000847
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230707
+FILED AS OF DATE:		20230710
+DATE AS OF CHANGE:		20230710
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Orellana Mauricio
+		CENTRAL INDEX KEY:			0001658048
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38785
+		FILM NUMBER:		231080549
+
+	MAIL ADDRESS:	
+		STREET 1:		250 WEST 57TH ST.
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10107
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STRYVE FOODS, INC.
+		CENTRAL INDEX KEY:			0001691936
+		STANDARD INDUSTRIAL CLASSIFICATION:	FOOD & KINDRED PRODUCTS [2000]
+		IRS NUMBER:				871760117
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5801 TENNYSON PARKWAY
+		STREET 2:		SUITE 275
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+		BUSINESS PHONE:		646-565-3861
+
+	MAIL ADDRESS:	
+		STREET 1:		5801 TENNYSON PARKWAY
+		STREET 2:		SUITE 275
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Andina Acquisition Corp. III
+		DATE OF NAME CHANGE:	20161208
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-07</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001691936</issuerCik>
+        <issuerName>STRYVE FOODS, INC.</issuerName>
+        <issuerTradingSymbol>SNAX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001658048</rptOwnerCik>
+            <rptOwnerName>Orellana Mauricio</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O STRYVE FOODS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>POST OFFICE BOX 864</rptOwnerStreet2>
+            <rptOwnerCity>FRISCO</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75034</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13419</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>165273</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Award of shares in lieu of cash fees for service as a Director.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mauricio Orellana by John J. Wolfel, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-07-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

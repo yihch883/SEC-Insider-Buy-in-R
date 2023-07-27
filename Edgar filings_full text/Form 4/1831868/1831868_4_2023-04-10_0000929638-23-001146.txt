@@ -1,0 +1,260 @@
+<SEC-DOCUMENT>0000929638-23-001146.txt : 20230410
+<SEC-HEADER>0000929638-23-001146.hdr.sgml : 20230410
+<ACCEPTANCE-DATETIME>20230410210913
+ACCESSION NUMBER:		0000929638-23-001146
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230406
+FILED AS OF DATE:		20230410
+DATE AS OF CHANGE:		20230410
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Russell Richard D.
+		CENTRAL INDEX KEY:			0001634290
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39927
+		FILM NUMBER:		23812203
+
+	MAIL ADDRESS:	
+		STREET 1:		3201 W BAY VISTA AVE
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33611
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SeaStar Medical Holding Corp
+		CENTRAL INDEX KEY:			0001831868
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				853681132
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3513 BRIGHTON BLVD
+		STREET 2:		SUITE 410
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80216
+		BUSINESS PHONE:		844-427-8100
+
+	MAIL ADDRESS:	
+		STREET 1:		3513 BRIGHTON BLVD
+		STREET 2:		SUITE 410
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80216
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LMF Acquisition Opportunities Inc
+		DATE OF NAME CHANGE:	20201109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-06</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001831868</issuerCik>
+        <issuerName>SeaStar Medical Holding Corp</issuerName>
+        <issuerTradingSymbol>ICU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001634290</rptOwnerCik>
+            <rptOwnerName>Russell Richard D.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O SEASTAR MEDICAL HOLDING CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>3513 BRIGHTON BLVD., SUITE 410</rptOwnerStreet2>
+            <rptOwnerCity>DENVER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80216</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7978</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7978</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.84</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11967</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-04-06</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>11967</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11967</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the Issuer's common stock subject to restricted stock units (RSUs), all of which will vest on the first anniversary of the date of grant.</footnote>
+        <footnote id="F2">All options reported herein will vest, subject to continued service, on the first anniversary of the date of grant.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Eric Schlorff, as attorney-in-fact</signatureName>
+        <signatureDate>2023-04-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poa.htm
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Morgan Lewis
+         Document created using Broadridge PROfile 23.3.1.5138
+         Copyright 1995 - 2023 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <font style="font-family: 'Times New Roman';">
+  </font>
+  <div>
+    <div style="text-align: right; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman'; font-weight: bold;">Exhibit 24</div>
+    <div style="text-align: center; margin-bottom: 12pt; font-family: 'Times New Roman'; font-weight: bold;"><u>POWER OF ATTORNEY</u></div>
+    <div style="text-indent: 36pt; margin-bottom: 12pt; font-family: Arial;"><font style="font-family: 'Times New Roman'; font-weight: bold;">KNOW ALL BY THESE PRESENTS</font><font style="font-family: 'Times New Roman';">, that the undersigned hereby constitutes and appoints each of the Chief Executive Officer and the Chief Financial Officer of SeaStar Medical Holding Corporation (the &#8220;Company&#8221;), signing singly, as
+        his or her true and lawful attorney-in-fact to:</font></div>
+    <div style="text-align: justify; text-indent: 36pt; margin-right: 36pt; margin-left: 36pt; margin-bottom: 12pt;"><font style="font-family: 'Times New Roman';">(1)</font><font class="TRGRRTFtoHTMLTab" style="text-indent: 0px; font-size: 5.14pt; font-family: 'Times New Roman';">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="font-family: 'Times New Roman';">execute for and on behalf of the undersigned, in the undersigned&#8217;s capacity as an officer or
+        director of the Company, Forms 3, 4, and 5 in accordance with Section 16(a) of the Securities Exchange Act of 1934, as amended, and the rules thereunder and any other forms or reports the undersigned may be required to file in connection with the
+        undersigned&#8217;s ownership, acquisition, or disposition of securities of the Company;</font></div>
+    <div style="text-align: justify; text-indent: 36pt; margin-right: 36pt; margin-left: 36pt; margin-bottom: 12pt;"><font style="font-family: 'Times New Roman';">(2)</font><font class="TRGRRTFtoHTMLTab" style="text-indent: 0px; font-size: 5.14pt; font-family: 'Times New Roman';">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="font-family: 'Times New Roman';">do and perform any and all acts for and on behalf of the undersigned which may be necessary or
+        desirable to complete and execute any such Form 3, 4, or 5, or other form or report, and timely file such form or report with the U.S. Securities and Exchange Commission and any stock exchange or similar authority; and</font></div>
+    <div style="text-align: justify; text-indent: 36pt; margin-right: 36pt; margin-left: 36pt; margin-bottom: 12pt;"><font style="font-family: 'Times New Roman';">(3)</font><font class="TRGRRTFtoHTMLTab" style="text-indent: 0px; font-size: 5.14pt; font-family: 'Times New Roman';">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="font-family: 'Times New Roman';">take any other action of any type whatsoever in connection with the foregoing which, in the
+        opinion of such attorneys-in-fact, may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorneys-in-fact on behalf of the undersigned, pursuant to this
+        Power of Attorney, shall be in such form and shall contain such terms and conditions as such attorneys-in-fact may approve in his or her discretion.</font></div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform each and every
+      act and thing whatsoever requisite, necessary, and proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of
+      substitution or revocation, hereby ratifying and confirming all that such attorneys-in-fact, or his or her substitute or substitutes, shall lawfully do or cause to be done by virtue of this Power of Attorney and the rights and powers herein granted.&#160;
+      The undersigned acknowledges that no such attorney-in-fact, in serving in such capacity at the request of the undersigned, is hereby assuming any of the undersigned&#8217;s responsibilities to comply with Section 13 and Section 16 of the Securities
+      Exchange Act of 1934, as amended, and the rules thereunder.</div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: 'Times New Roman';">This Power of Attorney shall remain in full force and effect until revoked by the undersigned in a signed writing
+      delivered to the foregoing attorneys-in-fact.</div>
+    <div style="text-align: center; margin-bottom: 12pt; font-family: 'Times New Roman';">[Signature Page Follows]</div>
+    <div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+      <div class="BRPFPageBreak" style="page-break-after: always;">
+        <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+    </div>
+    <div style="text-align: justify; text-indent: 36pt; margin-bottom: 12pt; font-family: Arial;"><font style="font-family: 'Times New Roman'; font-weight: bold;">IN WITNESS WHEREOF</font><font style="font-family: 'Times New Roman';">, the undersigned has caused this Power of Attorney to be executed as of this 10<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">th</sup> Day of April, 2023.</font></div>
+    <div style="font-family: 'Times New Roman';"><br>
+    </div>
+    <div style="font-family: 'Times New Roman';"><br>
+    </div>
+    <div style="margin-left: 234pt;"><font style="font-family: 'Times New Roman';"><u>/s/ Richard D. Russell</u></font><font class="TRGRRTFtoHTMLTab" style="text-indent: 0px; font-size: 5.06pt; font-family: 'Times New Roman';">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+    <div style="margin-left: 234pt; margin-bottom: 12pt; font-family: 'Times New Roman';">Richard D. Russell</div>
+  </div>
+  <font style="font-family: 'Times New Roman';">
+  </font>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,311 @@
+<SEC-DOCUMENT>0001209191-23-015894.txt : 20230303
+<SEC-HEADER>0001209191-23-015894.hdr.sgml : 20230303
+<ACCEPTANCE-DATETIME>20230303180544
+ACCESSION NUMBER:		0001209191-23-015894
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230303
+FILED AS OF DATE:		20230303
+DATE AS OF CHANGE:		20230303
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lawler John T.
+		CENTRAL INDEX KEY:			0001676526
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03950
+		FILM NUMBER:		23706414
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMERICAN ROAD
+		CITY:			DEARBORN
+		STATE:			MI
+		ZIP:			48126
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FORD MOTOR CO
+		CENTRAL INDEX KEY:			0000037996
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				380549190
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMERICAN ROAD
+		CITY:			DEARBORN
+		STATE:			MI
+		ZIP:			48126
+		BUSINESS PHONE:		3133223000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMERICAN RD
+		CITY:			DEARBORN
+		STATE:			MI
+		ZIP:			48126
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000037996</issuerCik>
+        <issuerName>FORD MOTOR CO</issuerName>
+        <issuerTradingSymbol>F</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001676526</rptOwnerCik>
+            <rptOwnerName>Lawler John T.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE AMERICAN ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DEARBORN</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48126</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Vice President, CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.01 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>29821</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.75</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>473504</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.01 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>29821</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.0654</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>443683</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>12.75</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>29821</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2023-03-03</value>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, $0.01 par value</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>29821</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This option became exercisable to the extent of 33% of the shares optioned after one year from the date of grant (03/04/2013), 66% after two years, and in full after three years.</footnote>
+        <footnote id="F2">The price shown is the weighted average sales price for the reported transaction. The range of prices at which common stock was sold for the reported transaction was $13.06 to $13.08.  A breakdown of each transaction will be provided upon request.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Victoria Pool,
+Attorney-in-Fact</signatureName>
+        <signatureDate>2023-03-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+POWER OF ATTORNEY
+
+I hereby constitute and appoint each of Douglas J. Cropsey, Jonathan E. Osgood,
+Victoria Pool, and David J. Witten as my true and lawful attorney-in-fact,
+effective immediately, to:
+
+1.	Do anything on my behalf that is necessary or desirable to prepare, complete,
+and file Forms 3, 4, 5, and 144, and any amendment to those Forms, with the
+United States Securities and Exchange Commission ("SEC") and any stock exchange
+or similar authority, and any other documents required of me under Section 16 of
+the Securities Exchange Act of 1934, as Amended ("Section 16"), or Rule 144
+under the Securities Act of 1933 ("Rule 144"), including completing and
+executing a Uniform Application for Access Codes to File on Edgar on Form ID;
+2.	Execute such Forms or other documents or any amendments to those Forms or
+other documents for me in my name and file such Forms and amendments with the
+SEC and any stock exchange or similar authority as required by law or rule on my
+behalf; and
+3.	Take any other action in connection with those Forms or other documents or
+amendments that may be legally required or appropriate, in the opinion of the
+attorney-in-fact taking the action.
+
+I give each attorney-in-fact the power and authority to do anything that is
+required or appropriate in using his or her powers as attorney-in-fact, to the
+extent that I could act if I were personally present, with full power of
+substitution.  I agree to, ratify, and confirm everything these
+attorneys-in-fact (including substitutes for them) do under this Power of
+Attorney that is consistent with its terms.  I acknowledge that the foregoing
+attorneys-in-fact, in serving in such capacity at my request, are not assuming,
+nor is Ford Motor Company (the "Company") assuming, any of my responsibilities
+to comply with Section 16 or Rule 144.
+
+This Power of Attorney shall remain in effect until I have notified you in
+writing of its termination or it is superseded by a new power of attorney
+regarding the purposes outlined in the first paragraph hereof dated as of a
+later date; provided that, in the event any attorney-in-fact listed herein
+ceases to be an employee of the Company, this Power of Attorney shall cease to
+have effect in relation to such attorney-in-fact upon such cessation but shall
+continue to be in full force and effect in relation to any remaining
+attorney-in-fact.
+
+
+Signed: /s/ John T. Lawler
+        __________________________
+
+
+December 1, 2022
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,219 @@
+<SEC-DOCUMENT>0001225208-23-005468.txt : 20230505
+<SEC-HEADER>0001225208-23-005468.hdr.sgml : 20230505
+<ACCEPTANCE-DATETIME>20230505162713
+ACCESSION NUMBER:		0001225208-23-005468
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230504
+FILED AS OF DATE:		20230505
+DATE AS OF CHANGE:		20230505
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LUDWIG EDWARD J
+		CENTRAL INDEX KEY:			0001221783
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11083
+		FILM NUMBER:		23894271
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BECTON DICKERSON & CO
+		STREET 2:		1 BECTON DR
+		CITY:			FRANKLIN LAKES
+		STATE:			NJ
+		ZIP:			07417
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BOSTON SCIENTIFIC CORP
+		CENTRAL INDEX KEY:			0000885725
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				042695240
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 BOSTON SCIENTIFIC WAY
+		CITY:			MARLBOROUGH
+		STATE:			MA
+		ZIP:			01752-1234
+		BUSINESS PHONE:		508-683-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		300 BOSTON SCIENTIFIC WAY
+		CITY:			MARLBOROUGH
+		STATE:			MA
+		ZIP:			01752-1234
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000885725</issuerCik>
+        <issuerName>BOSTON SCIENTIFIC CORP</issuerName>
+        <issuerTradingSymbol>BSX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001221783</rptOwnerCik>
+            <rptOwnerName>LUDWIG EDWARD J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>300 BOSTON SCIENTIFIC WAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MARLBOROUGH</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01752-1234</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3946.0000</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3946.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>41382.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2984.0000</value>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2984.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>44366.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each deferred stock unit represents the Company's commitment to issue one share of Boston Scientific common stock.</footnote>
+        <footnote id="F2">Reflects a value of $205,000 divided by the closing price of common stock on the date of grant.</footnote>
+        <footnote id="F3">Annual equity award in the form of deferred stock units vesting in full upon the next annual meeting of stockholders. Vested shares of stock will be issued to the reporting person following the reporting person's separation from Board of Director service in accordance with the Company's Non-Employee Director Deferred Compensation Plan.</footnote>
+        <footnote id="F4">Reflects a value of $155,000 divided by the closing price of common stock on the date of grant.</footnote>
+        <footnote id="F5">Deferred stock units were granted in lieu of quarterly cash compensation and vest in full upon the next annual meeting of stockholders. Vested shares of stock will be issued to the reporting person following the reporting person's separation from Board of Directors service in accordance with the Company's Non-Employee Director Deferred Compensation Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Susan Thompson, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-05-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

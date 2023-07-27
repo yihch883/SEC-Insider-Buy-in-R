@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001903596-23-000365.txt : 20230503
+<SEC-HEADER>0001903596-23-000365.hdr.sgml : 20230503
+<ACCEPTANCE-DATETIME>20230503213839
+ACCESSION NUMBER:		0001903596-23-000365
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230425
+FILED AS OF DATE:		20230503
+DATE AS OF CHANGE:		20230503
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Scott Arnold
+		CENTRAL INDEX KEY:			0001957265
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41443
+		FILM NUMBER:		23886130
+
+	MAIL ADDRESS:	
+		STREET 1:		14 CORTLAND AVE
+		CITY:			STRATHAM
+		STATE:			NH
+		ZIP:			03885
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Netcapital Inc.
+		CENTRAL INDEX KEY:			0001414767
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				870409951
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			0430
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 LINCOLN STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02111
+		BUSINESS PHONE:		(781) 925-1700
+
+	MAIL ADDRESS:	
+		STREET 1:		1 LINCOLN STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ValueSetters Inc.
+		DATE OF NAME CHANGE:	20140924
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ValueSetters Corp
+		DATE OF NAME CHANGE:	20071011
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001414767</issuerCik>
+        <issuerName>Netcapital Inc.</issuerName>
+        <issuerTradingSymbol>NCPL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001957265</rptOwnerCik>
+            <rptOwnerName>Scott Arnold</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1 LINCOLN STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.40</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2023-04-25</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>20000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The options were issued pursuant to the Issuer's 2023 Omnibus Equity Incentive Plan (the &quot;Plan&quot;) and vest and become exercisable in forty-eight (48) equal monthly installments commencing on April 25, 2023 and will become fully vested on April 25, 2027, subject to the Reporting Peron's continued service with the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Arnold Scott</signatureName>
+        <signatureDate>2023-05-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

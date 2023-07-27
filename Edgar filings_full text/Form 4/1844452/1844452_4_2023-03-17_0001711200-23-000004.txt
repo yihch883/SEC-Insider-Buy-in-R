@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001711200-23-000004.txt : 20230317
+<SEC-HEADER>0001711200-23-000004.hdr.sgml : 20230317
+<ACCEPTANCE-DATETIME>20230317134440
+ACCESSION NUMBER:		0001711200-23-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230315
+FILED AS OF DATE:		20230317
+DATE AS OF CHANGE:		20230317
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HGC Investment Management Inc.
+		CENTRAL INDEX KEY:			0001711200
+		STATE OF INCORPORATION:			A6
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40823
+		FILM NUMBER:		23741833
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1073 YONGE ST
+		STREET 2:		2ND FLOOR
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M4W 2L2
+		BUSINESS PHONE:		6477762200
+
+	MAIL ADDRESS:	
+		STREET 1:		1073 YONGE ST
+		STREET 2:		2ND FLOOR
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M4W 2L2
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Intuitive Machines, Inc.
+		CENTRAL INDEX KEY:			0001844452
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		34 EAST 51ST STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 319-1309
+
+	MAIL ADDRESS:	
+		STREET 1:		34 EAST 51ST STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Inflection Point Acquisition Corp.
+		DATE OF NAME CHANGE:	20210204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001844452</issuerCik>
+        <issuerName>Intuitive Machines, Inc.</issuerName>
+        <issuerTradingSymbol>lunr</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001711200</rptOwnerCik>
+            <rptOwnerName>HGC Investment Management Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1073 YONGE ST</rptOwnerStreet1>
+            <rptOwnerStreet2>2ND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>TORONTO</rptOwnerCity>
+            <rptOwnerState>A6</rptOwnerState>
+            <rptOwnerZipCode>M4W 2L2</rptOwnerZipCode>
+            <rptOwnerStateDescription>ONTARIO, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1250000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.4843</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>225000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>HGC Investment Management Inc., a company incorporated under the laws of Canada, which serves as the</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Warrants to purchase one share of Class A Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.5</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2023-04-14</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Warrants to purchase one share of Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>741333</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>741333</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote 1</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">HGC Investment Management Inc., a company incorporated under the laws of Canada, which serves as the investment manager to The HGC Fund LP, an Ontario limited partnership, with respect to the shares held by the Reporting Person on behalf of the Fund</footnote>
+        <footnote id="F2">The securities were disposed in connection with The HGC Fund LP's settlement of an equity prepaid forward transaction dated February 13, 2023 described in the Issuer's Form 8-K filed on February 13, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Stuart Grant</signatureName>
+        <signatureDate>2023-03-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

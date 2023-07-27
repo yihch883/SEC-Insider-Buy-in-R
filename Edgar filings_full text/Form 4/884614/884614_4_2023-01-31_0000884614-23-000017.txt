@@ -1,0 +1,233 @@
+<SEC-DOCUMENT>0000884614-23-000017.txt : 20230131
+<SEC-HEADER>0000884614-23-000017.hdr.sgml : 20230131
+<ACCEPTANCE-DATETIME>20230131175504
+ACCESSION NUMBER:		0000884614-23-000017
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230127
+FILED AS OF DATE:		20230131
+DATE AS OF CHANGE:		20230131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HERMANCE FRANK S
+		CENTRAL INDEX KEY:			0001190203
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11071
+		FILM NUMBER:		23574011
+
+	MAIL ADDRESS:	
+		STREET 1:		AMETEK, INC.
+		STREET 2:		1100 CASSATT ROAD
+		CITY:			BERWYN
+		STATE:			PA
+		ZIP:			19312
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UGI CORP /PA/
+		CENTRAL INDEX KEY:			0000884614
+		STANDARD INDUSTRIAL CLASSIFICATION:	GAS & OTHER SERVICES COMBINED [4932]
+		IRS NUMBER:				232668356
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		460 N GULPH RD
+		STREET 2:		P O BOX 858
+		CITY:			KING OF PRUSSIA
+		STATE:			PA
+		ZIP:			19406
+		BUSINESS PHONE:		6103371000
+
+	MAIL ADDRESS:	
+		STREET 1:		460 NORTH GULPH ROAD
+		CITY:			KING OF PRUSSIA
+		STATE:			PA
+		ZIP:			19406
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEW UGI CORP
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_167520568332231.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000884614</issuerCik>
+        <issuerName>UGI CORP /PA/</issuerName>
+        <issuerTradingSymbol>UGI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001190203</rptOwnerCik>
+            <rptOwnerName>HERMANCE FRANK S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>460 NORTH GULPH ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>KING OF PRUSSIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19406</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>UGI Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4640</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>56011</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Benefit Plan</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>UGI Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>465000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Options (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>39.81</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10120</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-01-27</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-01-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>UGI Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10120.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10120</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Total gives effect to dividend equivalent accruals.</footnote>
+        <footnote id="F2">Effective January 27, 2023, the reporting person was granted Stock Units under the UGI Corporation 2021 Incentive Award Plan. Each stock unit represents the right of the recipient to receive a share of Common Stock upon retirement or termination of service.</footnote>
+        <footnote id="F3">These options were granted under the UGI Corporation 2021 Incentive Award Plan and are fully vested on the effective date of the grant.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Pamela A. Meredith, Attorney-in-Fact for Frank S. Hermance</signatureName>
+        <signatureDate>2023-01-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

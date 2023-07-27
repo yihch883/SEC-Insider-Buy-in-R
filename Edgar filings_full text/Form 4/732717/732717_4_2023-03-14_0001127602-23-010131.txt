@@ -1,0 +1,193 @@
+<SEC-DOCUMENT>0001127602-23-010131.txt : 20230314
+<SEC-HEADER>0001127602-23-010131.hdr.sgml : 20230314
+<ACCEPTANCE-DATETIME>20230314182909
+ACCESSION NUMBER:		0001127602-23-010131
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230310
+FILED AS OF DATE:		20230314
+DATE AS OF CHANGE:		20230314
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gillespie Edward W
+		CENTRAL INDEX KEY:			0001810405
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08610
+		FILM NUMBER:		23732518
+
+	MAIL ADDRESS:	
+		STREET 1:		208 S. AKARD
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AT&T INC.
+		CENTRAL INDEX KEY:			0000732717
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				431301883
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		208 S. AKARD ST
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75202
+		BUSINESS PHONE:		2108214105
+
+	MAIL ADDRESS:	
+		STREET 1:		208 S. AKARD ST
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SBC COMMUNICATIONS INC
+		DATE OF NAME CHANGE:	19950501
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SOUTHWESTERN BELL CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000732717</issuerCik>
+        <issuerName>AT&amp;T INC.</issuerName>
+        <issuerTradingSymbol>T</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001810405</rptOwnerCik>
+            <rptOwnerName>Gillespie Edward W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>208 S. AKARD ST.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>SrEVP-Ext &amp; Legal Affairs</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12916.2535</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>18.32</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35076.679</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Benefit Plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2843.6384</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48394</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Mandatory tax withholding on distribution from benefit plan.</footnote>
+        <footnote id="F2">Reflects transfer of 17,295 shares owned indirectly by benefit plan to direct ownership due to distribution from benefit plan.</footnote>
+        <footnote id="F3">Based on a 401(k) plan statement dated 2/28/2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Johnell C. Holland, Attorney-in-fact</signatureName>
+        <signatureDate>2023-03-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

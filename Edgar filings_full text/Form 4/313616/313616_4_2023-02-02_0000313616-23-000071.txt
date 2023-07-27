@@ -1,0 +1,238 @@
+<SEC-DOCUMENT>0000313616-23-000071.txt : 20230202
+<SEC-HEADER>0000313616-23-000071.hdr.sgml : 20230202
+<ACCEPTANCE-DATETIME>20230202170929
+ACCESSION NUMBER:		0000313616-23-000071
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230201
+FILED AS OF DATE:		20230202
+DATE AS OF CHANGE:		20230202
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			King William
+		CENTRAL INDEX KEY:			0001608367
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08089
+		FILM NUMBER:		23582110
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 PENNSYLVANIA AVENUE, NW
+		STREET 2:		SUITE 800W
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20037
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DANAHER CORP /DE/
+		CENTRAL INDEX KEY:			0000313616
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				591995548
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 PENNSYLVANIA AVE. N.W.
+		STREET 2:		SUITE 800W
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20037-1701
+		BUSINESS PHONE:		2028280850
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 PENNSYLVANIA AVE. N.W.
+		STREET 2:		SUITE 800W
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20037-1701
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DMG INC
+		DATE OF NAME CHANGE:	19850221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_167537575132065.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000313616</issuerCik>
+        <issuerName>DANAHER CORP /DE/</issuerName>
+        <issuerTradingSymbol>DHR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001608367</rptOwnerCik>
+            <rptOwnerName>King William</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2200 PENNSYLVANIA AVENUE, NW, SUITE 800W</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20037</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP, Strategic Development</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2274</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>267.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31756</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12.152</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by 401k</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Danaher Deferred Compensation Programs - Danaher Stock Fund</value>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0</value>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>589.70</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>267.50</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>589.7</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19336.816</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction relates to the withholding of certain shares for tax purposes in connection with the distribution of performance-based restricted stock units.</footnote>
+        <footnote id="F2">Represents the Company's annual contribution to the Danaher stock fund in the reporting person's account under one or more of the plans that form part of Danaher's deferred compensation program. The Company contributions are deemed to be invested in a number of unfunded, notional shares of Danaher common stock. The price shown in Table II, Column 8 is the closing price per share of Danaher common stock as reported on the NYSE on the date used to determine the number of notional shares to be credited to the participant's account.</footnote>
+        <footnote id="F3">The notional shares convert on a one-for-one basis.</footnote>
+        <footnote id="F4">The vesting terms and manner and form of distribution of amounts contributed or deferred under the program are based upon the provisions of the respective plan, which provisions are summarized in the latest Danaher Corporation annual meeting proxy statement on Schedule 14A as filed with the Securities and Exchange Commission.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ James F. O'Reilly, attorney-in-fact for William King</signatureName>
+        <signatureDate>2023-02-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

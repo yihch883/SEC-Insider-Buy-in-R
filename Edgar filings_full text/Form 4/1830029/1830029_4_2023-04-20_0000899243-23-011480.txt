@@ -1,0 +1,252 @@
+<SEC-DOCUMENT>0000899243-23-011480.txt : 20230420
+<SEC-HEADER>0000899243-23-011480.hdr.sgml : 20230420
+<ACCEPTANCE-DATETIME>20230420163018
+ACCESSION NUMBER:		0000899243-23-011480
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230418
+FILED AS OF DATE:		20230420
+DATE AS OF CHANGE:		20230420
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Adit EdTech Sponsor, LLC
+		CENTRAL INDEX KEY:			0001839278
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39872
+		FILM NUMBER:		23833504
+
+	BUSINESS ADDRESS:	
+		STREET 1:		515 NORTH FLAGLER DRIVE
+		STREET 2:		SUITE P-300
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33401
+		BUSINESS PHONE:		(646) 840-4943
+
+	MAIL ADDRESS:	
+		STREET 1:		515 NORTH FLAGLER DRIVE
+		STREET 2:		SUITE P-300
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33401
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Adit EdTech Acquisition Corp.
+		CENTRAL INDEX KEY:			0001830029
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				853477678
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1345 AVENUE OF THE AMERICAS
+		STREET 2:		33RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10105
+		BUSINESS PHONE:		(917) 392-4707
+
+	MAIL ADDRESS:	
+		STREET 1:		1345 AVENUE OF THE AMERICAS
+		STREET 2:		33RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001830029</issuerCik>
+        <issuerName>Adit EdTech Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>ADEX.U</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001839278</rptOwnerCik>
+            <rptOwnerName>Adit EdTech Sponsor, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ADIT EDTECH ACQUISITION CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>1345 AVENUE OF THE AMERICAS, 33RD FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.33</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6832500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-19</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>600</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.40</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>700</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F4"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6832500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">As described in the Issuer's registration statement on Form S-1 (File No. 333-251641) (the &quot;Registration Statement&quot;) under the heading &quot;Description of Securities--Founder Shares.&quot;</footnote>
+        <footnote id="F2">Consists of 100 shares purchased by Adit Ventures LLC, which may be deemed to be controlled by the reporting person.</footnote>
+        <footnote id="F3">There are five directors of the reporting person's board of directors. Any action by the reporting person, including voting and dispositive decisions, requires a vote of four out of the five directors of the board of directors. Under the so-called &quot;rule of three,&quot; because voting and dispositive decisions are made by four out of the five directors of the board of directors, none of the directors is deemed to be a beneficial owner of shares held by the reporting person, even those in which he or she directly holds a pecuniary interest.</footnote>
+        <footnote id="F4">Consists of 100 shares purchased by each of Adit Ventures II LLC, Adit Ventures III LLC, Adit Ventures IV LLC, Adit Growth Equity I, Adit Growth Equity II, and Adit Growth Equity III, each of which may be deemed to be controlled by the reporting person.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Adit EdTech Sponsor, LLC, By: /s/ Eric L. Munson</signatureName>
+        <signatureDate>2023-04-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

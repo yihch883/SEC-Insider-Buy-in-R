@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001209191-23-012164.txt : 20230223
+<SEC-HEADER>0001209191-23-012164.hdr.sgml : 20230223
+<ACCEPTANCE-DATETIME>20230223161915
+ACCESSION NUMBER:		0001209191-23-012164
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230221
+FILED AS OF DATE:		20230223
+DATE AS OF CHANGE:		20230223
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SANTORO NICOLA JR
+		CENTRAL INDEX KEY:			0001571610
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35777
+		FILM NUMBER:		23659912
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FXCM INC
+		STREET 2:		55 WATER STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10041
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rithm Capital Corp.
+		CENTRAL INDEX KEY:			0001556593
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				453449660
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		799 BROADWAY
+		CITY:			New York
+		STATE:			NY
+		ZIP:			10003
+		BUSINESS PHONE:		(212) 850-7770
+
+	MAIL ADDRESS:	
+		STREET 1:		799 BROADWAY
+		CITY:			New York
+		STATE:			NY
+		ZIP:			10003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	New Residential Investment Corp.
+		DATE OF NAME CHANGE:	20121227
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	New Residential Investment LLC
+		DATE OF NAME CHANGE:	20121214
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Spinco Inc.
+		DATE OF NAME CHANGE:	20120821
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001556593</issuerCik>
+        <issuerName>Rithm Capital Corp.</issuerName>
+        <issuerTradingSymbol>RITM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001571610</rptOwnerCik>
+            <rptOwnerName>SANTORO NICOLA JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>799 BROADWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>8TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10003</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>65651</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>115651</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents time-based restricted stock units granted under the Rithm Capital Corp. Nonqualified Stock Option and Incentive Award Plan, which will vest in three equal annual installments on February 21 of each of 2024, 2025 and 2026, so long as the Reporting Person remains in continued employment with the Issuer.</footnote>
+        <footnote id="F2">Includes 65,651 unvested restricted stock units.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Nicola Santoro, Jr.</signatureName>
+        <signatureDate>2023-02-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

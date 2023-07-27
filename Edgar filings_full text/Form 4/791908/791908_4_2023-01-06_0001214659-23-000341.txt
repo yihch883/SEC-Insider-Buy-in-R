@@ -1,0 +1,295 @@
+<SEC-DOCUMENT>0001214659-23-000341.txt : 20230106
+<SEC-HEADER>0001214659-23-000341.hdr.sgml : 20230106
+<ACCEPTANCE-DATETIME>20230106163012
+ACCESSION NUMBER:		0001214659-23-000341
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230103
+FILED AS OF DATE:		20230106
+DATE AS OF CHANGE:		20230106
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sitko Bradley
+		CENTRAL INDEX KEY:			0001959809
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39801
+		FILM NUMBER:		23515440
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O XOMA CORPORATION
+		STREET 2:		2200 POWELL STREET, SUITE 310
+		CITY:			EMERYVILLE
+		STATE:			CA
+		ZIP:			94608
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XOMA Corp
+		CENTRAL INDEX KEY:			0000791908
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				522154066
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 POWELL STREET
+		STREET 2:		SUITE 310
+		CITY:			EMERYVILLE
+		STATE:			CA
+		ZIP:			94608
+		BUSINESS PHONE:		510-204-7239
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 POWELL STREET
+		STREET 2:		SUITE 310
+		CITY:			EMERYVILLE
+		STATE:			CA
+		ZIP:			94608
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	XOMA LTD /DE/
+		DATE OF NAME CHANGE:	19990107
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	XOMA CORP /DE/
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>marketforms-58089.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000791908</issuerCik>
+        <issuerName>XOMA Corp</issuerName>
+        <issuerTradingSymbol>XOMA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001959809</rptOwnerCik>
+            <rptOwnerName>Sitko Bradley</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O XOMA CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>2200 POWELL STREET, SUITE 310</rptOwnerStreet2>
+            <rptOwnerCity>EMERYVILLE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94608</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Investment Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>18.66</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>300000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-01-03</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>300000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>300000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>30.00</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>250000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-01-03</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>250000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>250000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares subject to this option shall vest over four years with a 25% vest on the one-year anniversary of vesting commencement date, and the remaining shares vest monthly over the following 36 months.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas Burns, Attorney-in-Fact for Bradley Sitko</signatureName>
+        <signatureDate>2023-01-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poa.htm
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+<html>
+  <body>
+    <pre>
+      LIMITED POWER OF ATTORNEY
+
+Know all by these presents, that the undersigned hereby constitutes and appoints
+each of Thomas Burns, Christine Theriault, and Christopher Baldwin,  signing
+individually, as the undersigned's true and lawful attorneys-in-fact to:
+(1)	Prepare, execute in the undersigned's name and on the undersigned's behalf,
+and submit to the U.S. Securities and Exchange Commission (the "SEC") a Form ID,
+including amendments thereto, and any other documents necessary or appropriate
+to obtain codes and passwords enabling the undersigned to make electronic
+filings with the SEC of reports required by Section 16(a) of the Securities
+Exchange Act of 1934 (the "Exchange Act")  or any rule or regulation of the SEC;
+(2)	Execute for and on behalf of the undersigned, in the undersigned's capacity
+as an officer, director and/or stockholder of XOMA Corporation (the "Company"),
+Forms 3, 4, and 5 and amendments thereto in accordance with Section 16(a) of the
+Exchange Act and the rules thereunder;
+(2)	Do and perform any and all acts for and on behalf of the undersigned which
+may be necessary or desirable to complete and execute any such Form 3, 4, or 5
+or amendment thereto and timely file such form with the SEC and any stock
+exchange or similar authority; and
+(3)	Take any other action of any type whatsoever which, in the opinion of any
+such attorney-in-fact, may be necessary or desirable in connection with the
+foregoing authority, it being understood that the documents executed by and such
+attorney-in-fact on behalf of the undersigned pursuant to this Limited Power of
+Attorney shall be in such form and shall contain such terms and conditions as
+such attorney-in-fact may approve in such attorney-in-fact's discretion.
+The undersigned hereby grants to each such attorney-in-fact full power and
+authority to do and perform any and every act and thing whatsoever required,
+necessary, or proper to be done in the exercise of any of the rights and powers
+herein granted, as fully to all intents and purposes as the undersigned might or
+could do if personally present, with full power of substitution or revocation,
+hereby ratifying and confirming all that such attorney-in-fact, or such
+attorney-in-fact's substitute or substitutes, shall lawfully do or cause to be
+done by virtue of this Limited Power of Attorney and the rights and powers
+herein granted.  The undersigned acknowledges that each of the foregoing
+attorney-in-facts, in serving in such capacity at the request of the
+undersigned, is not assuming, nor is any Company assuming, any of the
+undersigned's responsibilities to comply with Section 16 of the Exchange Act.
+This Limited Power of Attorney shall remain in full force and effect until the
+earlier to occur of (a) undersigned is no longer required to file Forms 3, 4,
+and 5 with respect to any securities issued by the Company, (b) revocation by
+the undersigned in a signed writing delivered to the foregoing attorney-in-fact
+and (c) as to any attorney-in-fact individually, until such attorney-in-fact is
+no longer employed by the Company.  This Limited Power of Attorney may be filed
+with the SEC as a confirming statement of the authority granted herein.
+IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be
+executed as of December 22, 2022.
+
+
+/s/ Bradley Sitko
+    </pre>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

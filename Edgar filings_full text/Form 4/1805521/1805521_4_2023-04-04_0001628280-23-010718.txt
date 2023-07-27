@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001628280-23-010718.txt : 20230404
+<SEC-HEADER>0001628280-23-010718.hdr.sgml : 20230404
+<ACCEPTANCE-DATETIME>20230404173303
+ACCESSION NUMBER:		0001628280-23-010718
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230404
+DATE AS OF CHANGE:		20230404
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sheng Jie
+		CENTRAL INDEX KEY:			0001959600
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39395
+		FILM NUMBER:		23799725
+
+	MAIL ADDRESS:	
+		STREET 1:		18455 S. FIGUEROA STREET
+		CITY:			GARDENA
+		STATE:			CA
+		ZIP:			90248
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FARADAY FUTURE INTELLIGENT ELECTRIC INC.
+		CENTRAL INDEX KEY:			0001805521
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				844720320
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		654 MADISON AVENUE, SUITE 1009
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10065
+		BUSINESS PHONE:		646 502 9845
+
+	MAIL ADDRESS:	
+		STREET 1:		654 MADISON AVENUE, SUITE 1009
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10065
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Property Solutions Acquisition Corp.
+		DATE OF NAME CHANGE:	20200304
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_168064396854694.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001805521</issuerCik>
+        <issuerName>FARADAY FUTURE INTELLIGENT ELECTRIC INC.</issuerName>
+        <issuerTradingSymbol>FFIE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001959600</rptOwnerCik>
+            <rptOwnerName>Sheng Jie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O FARADAY FUTURE INTELLIGENT ELECTRIC</rptOwnerStreet1>
+            <rptOwnerStreet2>18455 S. FIGUEROA STREET</rptOwnerStreet2>
+            <rptOwnerCity>GARDENA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90248</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>153816</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>153816.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>153816</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units (&quot;RSUs&quot;) granted to the reporting person on March 31, 2023 (the &quot;Grant Date&quot;). Each RSU represents the right to receive one share of Class A Common Stock of the Company</footnote>
+        <footnote id="F2">These RSUs vest in full on the earlier of the Company's Annual Shareholders Meeting date or one year from the Grant Date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jie Sheng</signatureName>
+        <signatureDate>2023-04-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

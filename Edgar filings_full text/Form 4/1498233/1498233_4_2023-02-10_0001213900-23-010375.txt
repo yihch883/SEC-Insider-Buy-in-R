@@ -1,0 +1,337 @@
+<SEC-DOCUMENT>0001213900-23-010375.txt : 20230210
+<SEC-HEADER>0001213900-23-010375.hdr.sgml : 20230210
+<ACCEPTANCE-DATETIME>20230210171530
+ACCESSION NUMBER:		0001213900-23-010375
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230208
+FILED AS OF DATE:		20230210
+DATE AS OF CHANGE:		20230210
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McCord Mark
+		CENTRAL INDEX KEY:			0001887877
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39959
+		FILM NUMBER:		23613386
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CEPTON, INC., 399 W. TRIMBLE ROAD
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cepton, Inc.
+		CENTRAL INDEX KEY:			0001498233
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				272447291
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 WEST TRIMBLE ROAD
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+		BUSINESS PHONE:		408-459-7579
+
+	MAIL ADDRESS:	
+		STREET 1:		399 WEST TRIMBLE ROAD
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Growth Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20210910
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PinstripesNYS, Inc.
+		DATE OF NAME CHANGE:	20210910
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Growth Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20200225
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001498233</issuerCik>
+        <issuerName>Cepton, Inc.</issuerName>
+        <issuerTradingSymbol>CPTN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001887877</rptOwnerCik>
+            <rptOwnerName>McCord Mark</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CEPTON, INC 399 W. TRIMBLE RD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN JOSE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Technology Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>43077</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>43077</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10409248</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Issuer awarded the Reporting Person 43,077 time-based restricted stock units (&quot;RSUs&quot;), each of which represents a contingent right to receive one share of the Issuer's common stock, that will vest in three equal installments on February 20, 2024, February 20, 2025 and February 20, 2026, in each case subject to early termination and adjustment as provided in the applicable award agreement.</footnote>
+        <footnote id="F2">The shares of Common Stock are held by the McCord Trust, of which the Reporting Person is a trustee.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit List: Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Ming Qiu, Attorney-in-Fact for Mark McCord</signatureName>
+        <signatureDate>2023-02-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>ea173218ex24_cepton.htm
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 24</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>POWER OF ATTORNEY</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FOR SEC FILINGS ON FORMS ID, 3, 4, 5 AND 144</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The undersigned hereby constitutes
+and appoints each of Ming Qiu and Richard Paek, the Controller and Director of Corporate Development, respectively, of Cepton, Inc. (the
+&ldquo;<U>Company</U>&rdquo;), so long as each is employed at the Company and Regina&nbsp;Braman of O&rsquo;Melveny &amp; Myers LLP (&ldquo;<U>OMM</U>&rdquo;),
+outside counsel to the Company, so long as she is employed at OMM, as his true and lawful attorney-in-fact and agent (each, an &ldquo;<U>Attorney-In-Fact</U>&rdquo;),
+with full power of substitution and resubstitution for him and in his name and stead in any and all capacities, to sign and file for and
+on his behalf, in respect of any acquisition, disposition or other change in ownership of any of the securities of the undersigned, the
+following:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.5in"></TD><TD STYLE="width: 0.5in">(i)</TD><TD STYLE="text-align: justify">any Form ID to be filed with the Securities and Exchange Commission (the &ldquo;<U>SEC</U>&rdquo;);</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.5in"></TD><TD STYLE="width: 0.5in">(ii)</TD><TD STYLE="text-align: justify">any Initial Statement of Beneficial Ownership of Securities on Form 3 to be filed with the SEC;</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.5in"></TD><TD STYLE="width: 0.5in">(iii)</TD><TD STYLE="text-align: justify">any Statement of Changes of Beneficial Ownership of Securities on Form 4 to be filed with the SEC;</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.5in"></TD><TD STYLE="width: 0.5in">(iv)</TD><TD STYLE="text-align: justify">any Annual Statement of Beneficial Ownership of Securities on Form 5 to be filed with the SEC;</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.5in"></TD><TD STYLE="width: 0.5in">(v)</TD><TD STYLE="text-align: justify">any Notice of Proposed Sale of Securities on Form 144 to be filed with the SEC; and</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.5in"></TD><TD STYLE="width: 0.5in">(vi)</TD><TD STYLE="text-align: justify">any and all agreements, certificates, receipts, or other documents in connection therewith.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The undersigned hereby gives
+full power and authority to each Attorney-In-Fact to seek and obtain as his representative and on his behalf, information on transactions
+in the securities of the undersigned from any third party, including brokers, employee benefit plan administrators and trustees, and the
+undersigned hereby authorizes any such third party to release such information to each Attorney-In-Fact and approves and ratifies any
+such release of information.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The undersigned hereby grants
+unto each Attorney-In-Fact full power and authority to do and perform each and every act and thing requisite and necessary in connection
+with such matters and hereby ratifies and confirms all that any such Attorney-In-Fact or substitute may do or cause to be done by virtue
+hereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The undersigned acknowledges
+that:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.5in"></TD><TD STYLE="width: 0.5in">(i)</TD><TD STYLE="text-align: justify">neither the Company nor any Attorney-In-Fact assumes (i) any liability for the undersigned&rsquo;s responsibility
+to comply with the requirement of the Securities Exchange Act of 1934, as amended (the &ldquo;<U>Exchange Act</U>&rdquo;), (ii) any liability
+of the undersigned for any failure to comply with such requirements or (iii) any obligation or liability of the undersigned for profit
+disgorgement under Section 16(b) of the Exchange Act; and</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.5in"></TD><TD STYLE="width: 0.5in">(ii)</TD><TD STYLE="text-align: justify">this Power of Attorney does not relieve the undersigned from responsibility for compliance with the undersigned&rsquo;s
+obligations under the Exchange Act, including without limitation the reporting requirements under Section 16 of the Exchange Act.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">This Power of Attorney shall
+remain in full force and effect with respect to the undersigned until revoked by the undersigned in a signed writing delivered to each
+Attorney-In-Fact.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-variant: small-caps">[Remainder
+of Page Intentionally Left Blank.]</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">IN WITNESS WHEREOF, the undersigned has caused
+this Power of Attorney to be executed as of this 11<SUP>th</SUP> day of July, 2022.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 2.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-bottom: 1.5pt; width: 60%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 40%; font-size: 10pt">/s/ Mark McCord</TD>
+    </TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-variant: small-caps"><B>Mark McCord</B></FONT></TD>
+    </TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 2.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 2.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><I>[Signature Page - Power of Attorney]</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 2.5in">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 0pt auto; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 2.5in"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

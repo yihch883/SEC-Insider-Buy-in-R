@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001835378-23-000088.txt : 20230526
+<SEC-HEADER>0001835378-23-000088.hdr.sgml : 20230526
+<ACCEPTANCE-DATETIME>20230526162907
+ACCESSION NUMBER:		0001835378-23-000088
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230525
+FILED AS OF DATE:		20230526
+DATE AS OF CHANGE:		20230526
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shany Gilad
+		CENTRAL INDEX KEY:			0001826218
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40048
+		FILM NUMBER:		23969430
+
+	MAIL ADDRESS:	
+		STREET 1:		89 MEDINAT HAYEHUDIM
+		CITY:			HERZLIYA
+		STATE:			L3
+		ZIP:			4676672
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Innovid Corp.
+		CENTRAL INDEX KEY:			0001835378
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 IRVING PLACE, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+		BUSINESS PHONE:		2129667555
+
+	MAIL ADDRESS:	
+		STREET 1:		30 IRVING PLACE, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ION Acquisition Corp 2 Ltd.
+		DATE OF NAME CHANGE:	20201207
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001835378</issuerCik>
+        <issuerName>Innovid Corp.</issuerName>
+        <issuerTradingSymbol>CTV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001826218</rptOwnerCik>
+            <rptOwnerName>Shany Gilad</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O INNOVID CORP</rptOwnerStreet1>
+            <rptOwnerStreet2>30 IRVING PLACE, 12TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10003</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>28328</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.1872</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>191624</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The purchase price reported is a weighted average price. These shares were purchased in multiple transactions in the open market, on the same trading day, at prices ranging from $1.18 to $1.19, inclusive.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Nick Williams, Attorney-in-fact For: Shany Gilad</signatureName>
+        <signatureDate>2023-05-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

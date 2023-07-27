@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001493152-23-011614.txt : 20230407
+<SEC-HEADER>0001493152-23-011614.hdr.sgml : 20230407
+<ACCEPTANCE-DATETIME>20230407201559
+ACCESSION NUMBER:		0001493152-23-011614
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230405
+FILED AS OF DATE:		20230407
+DATE AS OF CHANGE:		20230407
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Fernandez Charles M.
+		CENTRAL INDEX KEY:			0001509529
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40447
+		FILM NUMBER:		23809523
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FAIRHOLME CAPITAL MANAGEMENT, L.L.C.
+		STREET 2:		4400 BISCAYNE BOULEVARD, 9TH FLOOR
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33137
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NextPlat Corp
+		CENTRAL INDEX KEY:			0001058307
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				650783722
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3250 MARY ST
+		STREET 2:		SUITE 410
+		CITY:			COCONUT GROVE
+		STATE:			FL
+		ZIP:			33133
+		BUSINESS PHONE:		1-305-560-5355
+
+	MAIL ADDRESS:	
+		STREET 1:		3250 MARY ST
+		STREET 2:		SUITE 410
+		CITY:			COCONUT GROVE
+		STATE:			FL
+		ZIP:			33133
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ORBSAT CORP
+		DATE OF NAME CHANGE:	20190819
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Orbital Tracking Corp.
+		DATE OF NAME CHANGE:	20150128
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Great West Resources, Inc.
+		DATE OF NAME CHANGE:	20140514
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-05</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001058307</issuerCik>
+        <issuerName>NextPlat Corp</issuerName>
+        <issuerTradingSymbol>NXPL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001509529</rptOwnerCik>
+            <rptOwnerName>Fernandez Charles M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NEXTPLAT CORP, 3250 MARY ST.,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 410</rptOwnerStreet2>
+            <rptOwnerCity>COCONUT GROVE</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33133</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chairman &amp; CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-05</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>325000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3452667</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held by eApeiron Partners, LLC</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On April 3, 2023, the Compensation Committee and Board of the Issuer approved a restricted stock award for 325,000 shares of common stock to Mr. Fernandez under the Issuer's 2021 Incentive Award Plan. The restricted shares were then issued on April 5, 2023. The shares are fully vested.</footnote>
+        <footnote id="F2">Does not include 400,000 shares of restricted stock awarded on May 28, 2021, that vests in two equal tranches on the second and third year anniversaries of the grant date.</footnote>
+        <footnote id="F3">Mr. Fernandez is the sole member and managing partner of eAperion Partners LLC.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Charles M. Fernandez</signatureName>
+        <signatureDate>2023-04-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

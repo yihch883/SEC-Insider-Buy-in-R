@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001493152-23-002653.txt : 20230126
+<SEC-HEADER>0001493152-23-002653.hdr.sgml : 20230126
+<ACCEPTANCE-DATETIME>20230126202512
+ACCESSION NUMBER:		0001493152-23-002653
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230126
+FILED AS OF DATE:		20230126
+DATE AS OF CHANGE:		20230126
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Guzman Pablo A.
+		CENTRAL INDEX KEY:			0001963541
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41184
+		FILM NUMBER:		23559279
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ZYVERSA THERAPEUTICS, INC.
+		STREET 2:		2200 N. COMMERCE PARKWAY
+		CITY:			WESTON
+		STATE:			FL
+		ZIP:			33326
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZyVersa Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001859007
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				862685744
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		217 W. MAIN STREET
+		CITY:			SOMERVILLE
+		STATE:			NJ
+		ZIP:			08876
+		BUSINESS PHONE:		908-370-5102
+
+	MAIL ADDRESS:	
+		STREET 1:		217 W. MAIN STREET
+		CITY:			SOMERVILLE
+		STATE:			NJ
+		ZIP:			08876
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Larkspur Health Acquisition Corp.
+		DATE OF NAME CHANGE:	20210426
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-26</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001859007</issuerCik>
+        <issuerName>ZyVersa Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>ZVSA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001963541</rptOwnerCik>
+            <rptOwnerName>Guzman Pablo A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ZYVERSA THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2200 N. COMMERCE PARKWAY, SUITE 208</rptOwnerStreet2>
+            <rptOwnerCity>WESTON</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>26333</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Medical Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.11</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-01-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>100000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The option vests in 3 equal annual installments commencing on January 26, 2024.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Pablo Guzman</signatureName>
+        <signatureDate>2023-01-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

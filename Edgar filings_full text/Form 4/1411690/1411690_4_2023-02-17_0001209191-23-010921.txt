@@ -1,0 +1,247 @@
+<SEC-DOCUMENT>0001209191-23-010921.txt : 20230217
+<SEC-HEADER>0001209191-23-010921.hdr.sgml : 20230217
+<ACCEPTANCE-DATETIME>20230217192347
+ACCESSION NUMBER:		0001209191-23-010921
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230215
+FILED AS OF DATE:		20230217
+DATE AS OF CHANGE:		20230217
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Holmlin R. Erik
+		CENTRAL INDEX KEY:			0001579988
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38613
+		FILM NUMBER:		23644754
+
+	MAIL ADDRESS:	
+		STREET 1:		4088 COMMERCIAL AVE.
+		CITY:			NORTHBROOK
+		STATE:			IL
+		ZIP:			60062
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bionano Genomics, Inc.
+		CENTRAL INDEX KEY:			0001411690
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY ANALYTICAL INSTRUMENTS [3826]
+		IRS NUMBER:				261756290
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9540 TOWNE CENTRE DRIVE
+		STREET 2:		SUITE 100
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		(858) 888-7600
+
+	MAIL ADDRESS:	
+		STREET 1:		9540 TOWNE CENTRE DRIVE
+		STREET 2:		SUITE 100
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bionano Genomics, Inc
+		DATE OF NAME CHANGE:	20190308
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BioNano Genomics, Inc
+		DATE OF NAME CHANGE:	20120703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BioNanomatrix Inc
+		DATE OF NAME CHANGE:	20070906
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001411690</issuerCik>
+        <issuerName>Bionano Genomics, Inc.</issuerName>
+        <issuerTradingSymbol>BNGO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001579988</rptOwnerCik>
+            <rptOwnerName>Holmlin R. Erik</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BIONANO GENOMICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>9540 TOWNE CENTRE DRIVE, SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>SAN DIEGO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92121</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>300000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>841615</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5025</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Robert Erik Holmlin Traditional IRA</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.63</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1400000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-02-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1400000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1400000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock unit award granted under the Issuer's 2018 Equity Incentive Plan.</footnote>
+        <footnote id="F2">Includes 1,443 shares acquired under the Issuer's 2018 Employee Stock Purchase Plan (the &quot;ESPP&quot;) on June 10, 2022 and 1,616 shares acquired under the ESPP on December 10, 2022.</footnote>
+        <footnote id="F3">The shares subject to the option shall vest monthly over 48 months beginning on the one-month anniversary of February 15, 2023 (the &quot;Grant Date&quot;) such that the option shall be fully vested and exercisable on the four-year anniversary of the Grant Date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ R. Erik Holmlin</signatureName>
+        <signatureDate>2023-02-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001213900-23-043121.txt : 20230525
+<SEC-HEADER>0001213900-23-043121.hdr.sgml : 20230525
+<ACCEPTANCE-DATETIME>20230525164330
+ACCESSION NUMBER:		0001213900-23-043121
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230523
+FILED AS OF DATE:		20230525
+DATE AS OF CHANGE:		20230525
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Newman James W. Jr.
+		CENTRAL INDEX KEY:			0001718364
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38323
+		FILM NUMBER:		23961518
+
+	MAIL ADDRESS:	
+		STREET 1:		1180 SEMINOLE TRAIL, SUITE 495
+		CITY:			CHARLOTTESVILLE
+		STATE:			VA
+		ZIP:			22901
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADIAL PHARMACEUTICALS, INC.
+		CENTRAL INDEX KEY:			0001513525
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				800667150
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1180 SEMINOLE TRAIL
+		STREET 2:		SUITE 495
+		CITY:			CHARLOTTESVILLE
+		STATE:			VA
+		ZIP:			22901
+		BUSINESS PHONE:		434-422-9800
+
+	MAIL ADDRESS:	
+		STREET 1:		1180 SEMINOLE TRAIL
+		STREET 2:		SUITE 495
+		CITY:			CHARLOTTESVILLE
+		STATE:			VA
+		ZIP:			22901
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ADial Pharmaceuticals, L.L.C.
+		DATE OF NAME CHANGE:	20170515
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Adial Pharmaceuticals, L.L.C.
+		DATE OF NAME CHANGE:	20110218
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001513525</issuerCik>
+        <issuerName>ADIAL PHARMACEUTICALS, INC.</issuerName>
+        <issuerTradingSymbol>ADIL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001718364</rptOwnerCik>
+            <rptOwnerName>Newman James W. Jr.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1180 SEMINOLE TRAIL, SUITE 495</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHARLOTTESVILLE,</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22901</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.3025</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-05-23</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-05-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The option vests pro rata on a monthly basis over 36 months commencing May 23, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James W. Newman, Jr.</signatureName>
+        <signatureDate>2023-05-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

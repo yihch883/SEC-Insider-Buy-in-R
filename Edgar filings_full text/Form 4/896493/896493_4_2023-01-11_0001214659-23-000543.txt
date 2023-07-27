@@ -1,0 +1,227 @@
+<SEC-DOCUMENT>0001214659-23-000543.txt : 20230111
+<SEC-HEADER>0001214659-23-000543.hdr.sgml : 20230111
+<ACCEPTANCE-DATETIME>20230111200031
+ACCESSION NUMBER:		0001214659-23-000543
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230109
+FILED AS OF DATE:		20230111
+DATE AS OF CHANGE:		20230111
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bentz Jeffrey Allen
+		CENTRAL INDEX KEY:			0001719817
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12711
+		FILM NUMBER:		23524658
+
+	MAIL ADDRESS:	
+		STREET 1:		107 E BONITA WAY
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85281
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Bentz Jeff Acosta
+		DATE OF NAME CHANGE:	20171016
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ault Alliance, Inc.
+		CENTRAL INDEX KEY:			0000896493
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPONENTS, NEC [3679]
+		IRS NUMBER:				941721931
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11411 SOUTHERN HIGHLANDS PARKWAY
+		STREET 2:		SUITE 240
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89141
+		BUSINESS PHONE:		(949) 444-5464 3679
+
+	MAIL ADDRESS:	
+		STREET 1:		11411 SOUTHERN HIGHLANDS PARKWAY
+		STREET 2:		SUITE 240
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89141
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BitNile Holdings, Inc.
+		DATE OF NAME CHANGE:	20211213
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ault Global Holdings, Inc.
+		DATE OF NAME CHANGE:	20210119
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DPW Holdings, Inc.
+		DATE OF NAME CHANGE:	20171229
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>marketforms-58172.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000896493</issuerCik>
+        <issuerName>Ault Alliance, Inc.</issuerName>
+        <issuerTradingSymbol>AULT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001719817</rptOwnerCik>
+            <rptOwnerName>Bentz Jeffrey Allen</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11411 SOUTHERN HIGHLANDS PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 240</rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89141</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>150000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Grant</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2023-01-09</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the vesting of restricted stock.</footnote>
+        <footnote id="F2">Each restricted stock unit is the economic equivalent of one share of common stock, par value $0.001, of Ault Alliance, Inc. (formerly, BitNile Holdings, Inc.) (the &quot;Issuer&quot;).</footnote>
+        <footnote id="F3">On January 8, 2021, Mr. Bentz was granted 50,000 restricted shares of the Issuer's common stock, which initially vest in four equal installments on each of May 15, 2022, November 15, 2022, May 1, 2023 and November 15, 2023.  In November 2022, the Issuer's stockholders, at the Issuer's annual stockholder meeting, approved the acceleration of the vesting of the last two tranches, after approval by the NYSE American.  The final 25,000 shares of the Issuer's common stock were issued on January 9, 2023.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey Bentz</signatureName>
+        <signatureDate>2023-01-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

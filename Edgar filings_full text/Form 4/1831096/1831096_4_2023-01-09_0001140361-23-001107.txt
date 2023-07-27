@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001140361-23-001107.txt : 20230109
+<SEC-HEADER>0001140361-23-001107.hdr.sgml : 20230109
+<ACCEPTANCE-DATETIME>20230109192500
+ACCESSION NUMBER:		0001140361-23-001107
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230105
+FILED AS OF DATE:		20230109
+DATE AS OF CHANGE:		20230109
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Parmelee James P
+		CENTRAL INDEX KEY:			0001711322
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39832
+		FILM NUMBER:		23519427
+
+	MAIL ADDRESS:	
+		STREET 1:		100 UNION SQUARE DRIVE
+		CITY:			NEW HOPE
+		STATE:			PA
+		ZIP:			18938
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Great Elm Group, Inc.
+		CENTRAL INDEX KEY:			0001831096
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				853622015
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 SOUTH STREET, SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+		BUSINESS PHONE:		(617) 375-3006
+
+	MAIL ADDRESS:	
+		STREET 1:		800 SOUTH STREET, SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-05</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001831096</issuerCik>
+        <issuerName>Great Elm Group, Inc.</issuerName>
+        <issuerTradingSymbol>GEG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001711322</rptOwnerCik>
+            <rptOwnerName>Parmelee James P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O GREAT ELM GROUP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>800 SOUTH STREET, SUITE 230</rptOwnerStreet2>
+            <rptOwnerCity>WALTHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02453</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>29412</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>236837</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>38462</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>275299</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person was awarded 29,412 shares of restricted stock, which vest in equal monthly installments on the end of each month beginning on January 31, 2023 through December 31, 2023, contingent upon continued service as a member of the board of directors of Great Elm Group, Inc. (&quot;GEG&quot;).</footnote>
+        <footnote id="F2">The Reporting Person was awarded 38,462 shares of restricted stock, which vest in equal quarterly installments on the end of each quarter beginning on March 31, 2023 through December 31, 2023, contingent upon continued service as a member of the board of directors of GEG.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Adam M. Kleinman, attorney-in-fact</signatureName>
+        <signatureDate>2023-01-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0000950138-23-000019.txt : 20230118
+<SEC-HEADER>0000950138-23-000019.hdr.sgml : 20230118
+<ACCEPTANCE-DATETIME>20230118162059
+ACCESSION NUMBER:		0000950138-23-000019
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230114
+FILED AS OF DATE:		20230118
+DATE AS OF CHANGE:		20230118
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Pyatt Jeffrey B.
+		CENTRAL INDEX KEY:			0001794158
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39134
+		FILM NUMBER:		23534661
+
+	MAIL ADDRESS:	
+		STREET 1:		BROADMARK REALTY CAPITAL INC.
+		STREET 2:		1420 FIFTH AVENUE, SUITE 2000
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Broadmark Realty Capital Inc.
+		CENTRAL INDEX KEY:			0001784797
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				842620891
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1420 FIFTH AVENUE
+		STREET 2:		SUITE 2000
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+		BUSINESS PHONE:		206-971-0800
+
+	MAIL ADDRESS:	
+		STREET 1:		1420 FIFTH AVENUE
+		STREET 2:		SUITE 2000
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Trinity Sub Inc.
+		DATE OF NAME CHANGE:	20190806
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001784797</issuerCik>
+        <issuerName>Broadmark Realty Capital Inc.</issuerName>
+        <issuerTradingSymbol>BRMK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001794158</rptOwnerCik>
+            <rptOwnerName>Pyatt Jeffrey B.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BROADMARK REALTY CAPITAL INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1420 FIFTH AVENUE, SUITE 2000</rptOwnerStreet2>
+            <rptOwnerCity>SEATTLE</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>9801</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Interim CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3839</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>4.19</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>252988</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2487623</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Pyatt Lending Company, LLC</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld for payment of the tax liability associated with the vesting of 12,945 restricted stock units on January 14, 2023.</footnote>
+        <footnote id="F2">Mr. Pyatt and his spouse are considered beneficial owners of the shares of common stock of the Issuer held by Pyatt Lending Company, LLC, as they share voting and dispositive power over such shares.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Nevin Boparai, as attorney-in-fact for Jeffrey B. Pyatt</signatureName>
+        <signatureDate>2023-01-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

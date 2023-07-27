@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001062993-23-014330.txt : 20230703
+<SEC-HEADER>0001062993-23-014330.hdr.sgml : 20230703
+<ACCEPTANCE-DATETIME>20230703162247
+ACCESSION NUMBER:		0001062993-23-014330
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230701
+FILED AS OF DATE:		20230703
+DATE AS OF CHANGE:		20230703
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Edmonds David Bruce
+		CENTRAL INDEX KEY:			0001980582
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39332
+		FILM NUMBER:		231065497
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VERIFYME, INC.
+		STREET 2:		801 INTERNATIONAL PARKWAY, FIFTH FLOOR
+		CITY:			LAKE MARY
+		STATE:			FL
+		ZIP:			32746
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VerifyMe, Inc.
+		CENTRAL INDEX KEY:			0001104038
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				233023677
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		801 INTERNATIONAL PARKWAY
+		STREET 2:		FIFTH FLOOR
+		CITY:			LAKE MARY
+		STATE:			FL
+		ZIP:			32746
+		BUSINESS PHONE:		585-736-9400
+
+	MAIL ADDRESS:	
+		STREET 1:		801 INTERNATIONAL PARKWAY
+		STREET 2:		FIFTH FLOOR
+		CITY:			LAKE MARY
+		STATE:			FL
+		ZIP:			32746
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LASERLOCK TECHNOLOGIES INC
+		DATE OF NAME CHANGE:	20001004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001104038</issuerCik>
+        <issuerName>VerifyMe, Inc.</issuerName>
+        <issuerTradingSymbol>VRME</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001980582</rptOwnerCik>
+            <rptOwnerName>Edmonds David Bruce</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VERIFYME, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>801 INTERNATIONAL PARKWAY, FIFTH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>LAKE MARY</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>32746</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15217</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>84662</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15217</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.001 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>15217</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These restricted stock units convert into common stock on a one-for-one basis and become payable upon the Reporting Person's separation from service with VerifyMe, Inc. (the &quot;Issuer&quot;).</footnote>
+        <footnote id="F2">Includes the following (i) 69,445 shares of restricted stock that vest on 6/7/2024 and (ii) 15,217 vested restricted stock units that become payable, on a one-for-one basis, in shares of common stock of the Issuer upon the Reporting Person's separation from service with the Issuer.</footnote>
+        <footnote id="F3">These restricted stock units vested on 7/1/2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Margaret Gezerlis, Attorney-in-Fact for David B. Edmonds</signatureName>
+        <signatureDate>2023-07-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,221 @@
+<SEC-DOCUMENT>0001062993-23-014116.txt : 20230628
+<SEC-HEADER>0001062993-23-014116.hdr.sgml : 20230628
+<ACCEPTANCE-DATETIME>20230628175138
+ACCESSION NUMBER:		0001062993-23-014116
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230626
+FILED AS OF DATE:		20230628
+DATE AS OF CHANGE:		20230628
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SOFTBANK GROUP CORP.
+		CENTRAL INDEX KEY:			0001065521
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39768
+		FILM NUMBER:		231053658
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1-7-1 KAIGAN
+		STREET 2:		MINATO-KU
+		CITY:			TOKYO
+		STATE:			M0
+		ZIP:			105-7537
+		BUSINESS PHONE:		01181368892260
+
+	MAIL ADDRESS:	
+		STREET 1:		1-7-1 KAIGAN
+		STREET 2:		MINATO-KU
+		CITY:			TOKYO
+		STATE:			M0
+		ZIP:			105-7537
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	SOFTBANK GROUP CORP
+		DATE OF NAME CHANGE:	20150702
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	SOFTBANK CORP
+		DATE OF NAME CHANGE:	19980708
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Berkshire Grey, Inc.
+		CENTRAL INDEX KEY:			0001824734
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT, NEC [3569]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		140 SOUTH ROAD
+		CITY:			BEDFORD
+		STATE:			MA
+		ZIP:			01730
+		BUSINESS PHONE:		(833) 848-9900
+
+	MAIL ADDRESS:	
+		STREET 1:		140 SOUTH ROAD
+		CITY:			BEDFORD
+		STATE:			MA
+		ZIP:			01730
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Revolution Acceleration Acquisition Corp
+		DATE OF NAME CHANGE:	20201119
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Acceleration Acquisition Corp
+		DATE OF NAME CHANGE:	20200914
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001824734</issuerCik>
+        <issuerName>Berkshire Grey, Inc.</issuerName>
+        <issuerTradingSymbol>BGRY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001065521</rptOwnerCik>
+            <rptOwnerName>SOFTBANK GROUP CORP.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1-7-1 KAIGAN</rptOwnerStreet1>
+            <rptOwnerStreet2>MINATO-KU</rptOwnerStreet2>
+            <rptOwnerCity>TOKYO</rptOwnerCity>
+            <rptOwnerState>M0</rptOwnerState>
+            <rptOwnerZipCode>105-7537</rptOwnerZipCode>
+            <rptOwnerStateDescription>JAPAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>20% Convertible Senior Note</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.40</value>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F3"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>12000000</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>12000000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>8571428</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>24000000</value>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Backgammon Investment Corp.</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">SVF II BG (DE) LLC (&quot;SVF II BG&quot;) is the record holder of 65,567,317 shares of the Issuer's common stock. SoftBank Vision Fund II-2 L.P. is the sole limited partner of SVF II Aggregator (Jersey) L.P., which is the sole member of SVF II Holdings (DE) LLC, which is the sole member of SVF II BG. SB Global Advisers Limited has been appointed as manager and is exclusively responsible for making all final decisions related to the acquisition, structuring, financing and disposal of SoftBank Vision Fund II-2 L.P.'s investments, including as held by SVF II BG. As a result of entry into an Agreement and Plan of Merger (the &quot;Merger Agreement&quot;) by and among the Issuer, SoftBank Group Corp. (&quot;SoftBank&quot;) and Backgammon Acquisition Corp., a wholly owned subsidiary of SoftBank, and the transactions contemplated thereby, SoftBank may be deemed a member of a group with the entities noted above. SoftBank disclaims beneficial ownership of the securities held by SVF II BG.</footnote>
+        <footnote id="F2">The initial conversion price is approximately $1.40 per share of Class A Common Stock, subject to adjustment as set forth in the NPA (as defined in Footnote 3).</footnote>
+        <footnote id="F3">In connection with the execution of the Merger Agreement, on March 24, 2023, the Issuer and Backgammon Investment Corp. (&quot;BIC&quot;) entered into a Note Purchase Agreement (the &quot;NPA&quot;), pursuant to which, on June 26, 2023, BIC purchased $12 million principal amount of the 20% Convertible Senior Notes (the &quot;Convertible Notes&quot;) of the Issuer.</footnote>
+        <footnote id="F4">At any time after the Merger Agreement has been terminated without consummation of the merger, or in connection with the closing of the merger, the holder of any Convertible Notes may convert any or all of such holder's Convertible Notes into shares of Class A Common Stock.</footnote>
+        <footnote id="F5">The Convertible Notes will mature on the earlier of (i) six months following the termination of the Merger Agreement and (ii) June 30, 2024, unless earlier repurchased or converted.</footnote>
+        <footnote id="F6">Backgammon Investment Corp. is a wholly owned subsidiary of SoftBank.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Yuko Yamamoto, as Head of Corporate Legal Department</signatureName>
+        <signatureDate>2023-06-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

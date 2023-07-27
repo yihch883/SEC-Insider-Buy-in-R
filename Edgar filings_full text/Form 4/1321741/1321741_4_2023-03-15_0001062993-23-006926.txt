@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0001062993-23-006926.txt : 20230315
+<SEC-HEADER>0001062993-23-006926.hdr.sgml : 20230315
+<ACCEPTANCE-DATETIME>20230315142232
+ACCESSION NUMBER:		0001062993-23-006926
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230314
+FILED AS OF DATE:		20230315
+DATE AS OF CHANGE:		20230315
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DULLUM DAVID A R
+		CENTRAL INDEX KEY:			0001238279
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00704
+		FILM NUMBER:		23734593
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GLADSTONE CAPITAL CORP
+		STREET 2:		1521 WESTBRANCH DRIVE SUITE 200
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GLADSTONE INVESTMENT CORPORATION\DE
+		CENTRAL INDEX KEY:			0001321741
+		IRS NUMBER:				830423116
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1521 WESTBRANCH DRIVE
+		STREET 2:		SUITE 100
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+		BUSINESS PHONE:		7032875800
+
+	MAIL ADDRESS:	
+		STREET 1:		1521 WESTBRANCH DRIVE
+		STREET 2:		SUITE 100
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001321741</issuerCik>
+        <issuerName>GLADSTONE INVESTMENT CORPORATION\DE</issuerName>
+        <issuerTradingSymbol>GAIN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001238279</rptOwnerCik>
+            <rptOwnerName>DULLUM DAVID A R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1521 WESTBRANCH DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>MCLEAN</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.84</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>144916</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1349</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Mr. Dullum disclaims beneficial ownership of these 1,349 shares held by his spouse and this report shall not be deemed an admission that Mr. Dullum is the beneficial owner of the securities for purposes of Section 16 or any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael LiCalsi</signatureName>
+        <signatureDate>2023-03-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

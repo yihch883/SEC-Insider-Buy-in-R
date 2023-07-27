@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001493152-23-020850.txt : 20230612
+<SEC-HEADER>0001493152-23-020850.hdr.sgml : 20230612
+<ACCEPTANCE-DATETIME>20230612083020
+ACCESSION NUMBER:		0001493152-23-020850
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230608
+FILED AS OF DATE:		20230612
+DATE AS OF CHANGE:		20230612
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Henry Scott Robert
+		CENTRAL INDEX KEY:			0001961477
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41173
+		FILM NUMBER:		231007183
+
+	MAIL ADDRESS:	
+		STREET 1:		34A ATLANTIC AVE.
+		CITY:			COHASSET
+		STATE:			MA
+		ZIP:			02025
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEXGEL, INC.
+		CENTRAL INDEX KEY:			0001468929
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				264042544
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2150 CABOT BLVD WEST,
+		STREET 2:		SUITE B
+		CITY:			LANGHORNE
+		STATE:			PA
+		ZIP:			19047
+		BUSINESS PHONE:		215 702-8550
+
+	MAIL ADDRESS:	
+		STREET 1:		2150 CABOT BLVD WEST,
+		STREET 2:		SUITE B
+		CITY:			LANGHORNE
+		STATE:			PA
+		ZIP:			19047
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AquaMed Technologies, Inc.
+		DATE OF NAME CHANGE:	20090723
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001468929</issuerCik>
+        <issuerName>NEXGEL, INC.</issuerName>
+        <issuerTradingSymbol>NXGL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001961477</rptOwnerCik>
+            <rptOwnerName>Henry Scott Robert</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NEXGEL, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2150 CABOT BLVD, WEST, SUITE B</rptOwnerStreet2>
+            <rptOwnerCity>LANGHORNE</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19047</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3558</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.244</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>98558</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the weighted average of open market purchase transactions ranging from $2.23 to $2.25 per share. The Reporting Person undertakes to provide full information regarding the number of shares purchased at each separate price paid if requested by the Securities and Exchange Commission Staff, the Issuer or a security holder of the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Scott Robert Henry</signatureName>
+        <signatureDate>2023-06-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

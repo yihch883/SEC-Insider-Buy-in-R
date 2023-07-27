@@ -1,0 +1,266 @@
+<SEC-DOCUMENT>0001225208-23-007295.txt : 20230705
+<SEC-HEADER>0001225208-23-007295.hdr.sgml : 20230705
+<ACCEPTANCE-DATETIME>20230705175507
+ACCESSION NUMBER:		0001225208-23-007295
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230701
+FILED AS OF DATE:		20230705
+DATE AS OF CHANGE:		20230705
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PHILLIPS JR CHARLES E
+		CENTRAL INDEX KEY:			0001236185
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09553
+		FILM NUMBER:		231071054
+
+	MAIL ADDRESS:	
+		STREET 1:		113 WEST 88TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10024
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	PHILLIPS CHARLES E JR
+		DATE OF NAME CHANGE:	20030527
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Paramount Global
+		CENTRAL INDEX KEY:			0000813828
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEVISION BROADCASTING STATIONS [4833]
+		IRS NUMBER:				042949533
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1515 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		212-258-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		1515 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ViacomCBS Inc.
+		DATE OF NAME CHANGE:	20191204
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CBS CORP
+		DATE OF NAME CHANGE:	20060109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VIACOM INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000813828</issuerCik>
+        <issuerName>Paramount Global</issuerName>
+        <issuerTradingSymbol>PARAA,PARA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001236185</rptOwnerCik>
+            <rptOwnerName>PHILLIPS JR CHARLES E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1515 BROADWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class B common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>785.0000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>88013.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Class A Common Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>774.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>18.5600</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A common stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>774.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3995.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Class B Common Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>902.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.9100</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class B common stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>902.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4542.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the regular quarterly crediting of vested Restricted Share Units with a fair market value equal to the amount of cash dividends in such quarter attributable to previously vested Restricted Share Units, the settlement of which the Reporting Person elected to defer pursuant to the Issuer's deferred compensation arrangement for directors. On June 30, 2023, the last business day preceding July 1, 2023, the closing price of the Issuer's Class B Common Stock on The NASDAQ Global Select Market was $15.91 per share.</footnote>
+        <footnote id="F2">Reporting Person has elected to defer payment of Board/Committee fees, as applicable, pursuant to the Issuer's deferred compensation arrangement for directors. Deferred amounts (as well as any cash dividends credited to the account during the previous quarter) are deemed invested at the beginning of each calendar quarter into Phantom Class A Common Stock Units and Phantom Class B Common Stock Units based on the closing price of the Issuer's Class A Common Stock and Class B Common Stock, as applicable, on the day of the deemed investment, or, if that day is not a business day, on the last preceding business day. The cash value of the Phantom Common Stock Units is paid out after the Reporting Person's retirement from the Board.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/  Christa A. D'Alimonte, Attorney-in-Fact for Charles E. Phillips, Jr.</signatureName>
+        <signatureDate>2023-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

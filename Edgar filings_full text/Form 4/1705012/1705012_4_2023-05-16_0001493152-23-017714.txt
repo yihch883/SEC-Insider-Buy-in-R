@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001493152-23-017714.txt : 20230516
+<SEC-HEADER>0001493152-23-017714.hdr.sgml : 20230516
+<ACCEPTANCE-DATETIME>20230516135344
+ACCESSION NUMBER:		0001493152-23-017714
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230512
+FILED AS OF DATE:		20230516
+DATE AS OF CHANGE:		20230516
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Fog Cutter Holdings, LLC
+		CENTRAL INDEX KEY:			0001838658
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38250
+		FILM NUMBER:		23926608
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9720 WILSHIRE BLVD
+		STREET 2:		SUITE 500
+		CITY:			BEVERLY HILLS
+		STATE:			CA
+		ZIP:			90212
+		BUSINESS PHONE:		(310) 402-0601
+
+	MAIL ADDRESS:	
+		STREET 1:		9720 WILSHIRE BLVD
+		STREET 2:		SUITE 500
+		CITY:			BEVERLY HILLS
+		STATE:			CA
+		ZIP:			90212
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Fat Brands, Inc
+		CENTRAL INDEX KEY:			0001705012
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				821302696
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1226
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9720 WILSHIRE BLVD.,
+		STREET 2:		SUITE 500
+		CITY:			BEVERLY HILLS
+		STATE:			CA
+		ZIP:			90212
+		BUSINESS PHONE:		310-406-0600
+
+	MAIL ADDRESS:	
+		STREET 1:		9720 WILSHIRE BLVD.,
+		STREET 2:		SUITE 500
+		CITY:			BEVERLY HILLS
+		STATE:			CA
+		ZIP:			90212
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-12</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001705012</issuerCik>
+        <issuerName>Fat Brands, Inc</issuerName>
+        <issuerTradingSymbol>FAT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001838658</rptOwnerCik>
+            <rptOwnerName>Fog Cutter Holdings, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>9720 WILSHIRE BLVD, SUITE 500</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BEVERLY HILLS</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90212</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Series B Cumulative Preferred Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-12</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>14.75</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Allen Sussman, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-05-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001493152-23-013138.txt : 20230420
+<SEC-HEADER>0001493152-23-013138.hdr.sgml : 20230420
+<ACCEPTANCE-DATETIME>20230420172946
+ACCESSION NUMBER:		0001493152-23-013138
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230418
+FILED AS OF DATE:		20230420
+DATE AS OF CHANGE:		20230420
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GARRETT DIANE R
+		CENTRAL INDEX KEY:			0001170429
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38387
+		FILM NUMBER:		23834059
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NOVAGOLD RESOURCES INC.
+		STREET 2:		201 SOUTH MAIN, SUITE 400
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HYCROFT MINING HOLDING CORP
+		CENTRAL INDEX KEY:			0001718405
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		IRS NUMBER:				822657796
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4300 WATER CANYON ROAD
+		STREET 2:		UNIT 1
+		CITY:			WINNEMUCCA
+		STATE:			NV
+		ZIP:			89445
+		BUSINESS PHONE:		7753040260
+
+	MAIL ADDRESS:	
+		STREET 1:		4300 WATER CANYON ROAD
+		STREET 2:		UNIT 1
+		CITY:			WINNEMUCCA
+		STATE:			NV
+		ZIP:			89445
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Mudrick Capital Acquisition Corp
+		DATE OF NAME CHANGE:	20171002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001718405</issuerCik>
+        <issuerName>HYCROFT MINING HOLDING CORP</issuerName>
+        <issuerTradingSymbol>HYMC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001170429</rptOwnerCik>
+            <rptOwnerName>GARRETT DIANE R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O HYCROFT MINING HOLDING CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>4300 WATER CANYON ROAD, UNIT 1</rptOwnerStreet2>
+            <rptOwnerCity>WINNEMUCCA</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89445</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President and CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2205776</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Through spouse's IRA</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the award of restricted stock units (&quot;RSUs&quot;). Subject to the reporting person's continued employment with the issuer, 1/3 of the RSUs vest on each of April 18, 2024, April 18, 2025, and April 18, 2026. Each RSU represents a contingent right to receive one share of the issuer's Class A common stock (the &quot;Common Stock&quot;). On the respective vesting date, vested RSUs will convert into shares of Common Stock; provided, however, that if, on that conversion date, the reporting person is prohibited from trading in the issuer's securities pursuant to applicable securities laws or the Company's policies, the conversion date shall be, in the determination of the Compensation Committee of the issuer's Board of Directors, the 2nd trading day after the date the reporting person is no longer prohibited from such trading.</footnote>
+        <footnote id="F2">Of this amount, 1,998,470 are unvested RSUs.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Diane R. Garrett</signatureName>
+        <signatureDate>2023-04-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

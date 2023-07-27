@@ -1,0 +1,218 @@
+<SEC-DOCUMENT>0001822966-23-000151.txt : 20230531
+<SEC-HEADER>0001822966-23-000151.hdr.sgml : 20230531
+<ACCEPTANCE-DATETIME>20230531171017
+ACCESSION NUMBER:		0001822966-23-000151
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230531
+FILED AS OF DATE:		20230531
+DATE AS OF CHANGE:		20230531
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Colbert Chris
+		CENTRAL INDEX KEY:			0001912917
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39736
+		FILM NUMBER:		23981976
+
+	MAIL ADDRESS:	
+		STREET 1:		6650 SW REDWOOD LANE, SUITE 210
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97224
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NUSCALE POWER Corp
+		CENTRAL INDEX KEY:			0001822966
+		STANDARD INDUSTRIAL CLASSIFICATION:	FABRICATED PLATE WORK (BOILER SHOPS) [3443]
+		IRS NUMBER:				852715384
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6650 SW REDWOOD LANE, SUITE 210
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97224
+		BUSINESS PHONE:		(971) 371-1592
+
+	MAIL ADDRESS:	
+		STREET 1:		6650 SW REDWOOD LANE, SUITE 210
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97224
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SPRING VALLEY ACQUISITION CORP.
+		DATE OF NAME CHANGE:	20200828
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1685567401.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001822966</issuerCik>
+        <issuerName>NUSCALE POWER Corp</issuerName>
+        <issuerTradingSymbol>SMR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001912917</rptOwnerCik>
+            <rptOwnerName>Colbert Chris</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6650 SW REDWOOD LANE, SUITE 210</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PORTLAND</rptOwnerCity>
+            <rptOwnerState>OR</rptOwnerState>
+            <rptOwnerZipCode>97224</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>75585</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>75585</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Paired Interests</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>75585</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>75585</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The term &quot;Paired Interests&quot; is used herein to refer to the economic, non-voting Class B Units of NuScale Power, LLC (&quot;Class B Units&quot;) and an equal number of paired shares of non-economic, voting Class B Common Stock of the Issuer (&quot;Class B Common Stock&quot;). Pursuant to and subject to the applicable terms and conditions of the limited liability company agreement of NuScale Power, LLC or the certificate of incorporation of the Issuer (each as amended from time to time): (a) the holder of Class B Units has the right, and in certain circumstances the obligation, to exchange a Class B Unit on a one-for-one basis (subject to adjustment from time to time) for, at the option of the Issuer, (i) a share of Class A Common Stock of the Issuer or (ii) an equivalent value of cash in limited circumstances; and (b) upon such an exchange, the Issuer will cancel and retire, for no consideration, the paired share of Class B Common Stock.</footnote>
+        <footnote id="F2">The Reporting Person's Form 3 contained a typo.  75,586 shares should have been 75,585 shares.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Patrick C. Cannon, attorney-in-fact for Christopher J. Colbert</signatureName>
+        <signatureDate>2023-05-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

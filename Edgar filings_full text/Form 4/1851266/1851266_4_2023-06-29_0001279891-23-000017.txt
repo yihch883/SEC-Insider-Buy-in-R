@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001279891-23-000017.txt : 20230629
+<SEC-HEADER>0001279891-23-000017.hdr.sgml : 20230629
+<ACCEPTANCE-DATETIME>20230629100703
+ACCESSION NUMBER:		0001279891-23-000017
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230629
+FILED AS OF DATE:		20230629
+DATE AS OF CHANGE:		20230629
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WOLVERINE ASSET MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001279891
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41071
+		FILM NUMBER:		231055112
+
+	BUSINESS ADDRESS:	
+		STREET 1:		175 W. JACKSON
+		STREET 2:		SUITE 340
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60064
+		BUSINESS PHONE:		3128844400
+
+	MAIL ADDRESS:	
+		STREET 1:		175 WEST JACKSON
+		STREET 2:		SUITE 340
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60604
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LF Capital Acquisition Corp. II
+		CENTRAL INDEX KEY:			0001851266
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				862195674
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1909 WOODALL RODGERS FREEWAY
+		STREET 2:		SUITE 500
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		(214) 741-6105
+
+	MAIL ADDRESS:	
+		STREET 1:		1909 WOODALL RODGERS FREEWAY
+		STREET 2:		SUITE 500
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-29</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001851266</issuerCik>
+        <issuerName>LF Capital Acquisition Corp. II</issuerName>
+        <issuerTradingSymbol>LFAC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001279891</rptOwnerCik>
+            <rptOwnerName>WOLVERINE ASSET MANAGEMENT LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>175 WEST JACKSON</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 340</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60604</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Former 10% owner</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-29</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.68</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>549000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Wolverine Asset Management, LLC as manager of Wolverine Flagship Fund Trading Limited</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Kenneth Nadel, Chief Operating Officer</signatureName>
+        <signatureDate>2023-06-29</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

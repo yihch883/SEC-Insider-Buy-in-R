@@ -1,0 +1,283 @@
+<SEC-DOCUMENT>0001654954-23-008777.txt : 20230705
+<SEC-HEADER>0001654954-23-008777.hdr.sgml : 20230705
+<ACCEPTANCE-DATETIME>20230705170338
+ACCESSION NUMBER:		0001654954-23-008777
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230705
+DATE AS OF CHANGE:		20230705
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wu Hui-Lan
+		CENTRAL INDEX KEY:			0001901988
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41461
+		FILM NUMBER:		231070310
+
+	MAIL ADDRESS:	
+		STREET 1:		8880 RIO SAN DIEGO DRIVE
+		STREET 2:		SUITE 800
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92108
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ainos, Inc.
+		CENTRAL INDEX KEY:			0001014763
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				751974352
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AINOS, INC.
+		STREET 2:		8880 RIO SAN DIEGO DRIVE SUITE 800
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92108
+		BUSINESS PHONE:		858-869-2986
+
+	MAIL ADDRESS:	
+		STREET 1:		AINOS, INC.
+		STREET 2:		8880 RIO SAN DIEGO DRIVE SUITE 800
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92108
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMARILLO BIOSCIENCES INC
+		DATE OF NAME CHANGE:	19960516
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>section16.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001014763</issuerCik>
+        <issuerName>Ainos, Inc.</issuerName>
+        <issuerTradingSymbol>AIMD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001901988</rptOwnerCik>
+            <rptOwnerName>Wu Hui-Lan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>4F-1 NO 56 DAXUE RD</rptOwnerStreet1>
+            <rptOwnerStreet2>EAST DIST</rptOwnerStreet2>
+            <rptOwnerCity>HSINCHU CITY 300</rptOwnerCity>
+            <rptOwnerState>F5</rptOwnerState>
+            <rptOwnerZipCode>TOC</rptOwnerZipCode>
+            <rptOwnerStateDescription>TAIWAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5250</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.22</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>149783</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18905</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Daughter</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>RSU</value>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-10-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>35000</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-04-24</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>35000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>RSU issuance</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.22</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5250</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.22</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-06-30</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5250</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>29750</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Yun-Huan Liao is Hui-Lan Wu's daughter</footnote>
+        <footnote id="F2">This reported transaction represents the granting of 35,000 Restricted Stock Units (the &quot;RSUs&quot;). The RSUs were originally authorized pursuant to an employment Mandate Agreement dated March 17, 2022 (the &quot;Mandate agreement&quot;) and under the Company's 2023 Stock Incentive Plan. The RSUs will vest in increments of 15% on 4/24/23 and 10/24/23, 30% on 10/24/24 and 40% on 10/24/25, subject to normal and customary termination events.</footnote>
+        <footnote id="F3">This reported transaction represents the FINAL conversion of 5,250 Restricted Stock Units (the &quot;RSUs&quot;).  Hui-Lan Wu retired from her position as CFO of the Company on May 17 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John Junyong Lee POA for Hui-Lan Wu</signatureName>
+        <signatureDate>2023-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

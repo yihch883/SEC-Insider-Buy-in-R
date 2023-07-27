@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0000899243-23-006302.txt : 20230227
+<SEC-HEADER>0000899243-23-006302.hdr.sgml : 20230227
+<ACCEPTANCE-DATETIME>20230227210039
+ACCESSION NUMBER:		0000899243-23-006302
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230223
+FILED AS OF DATE:		20230227
+DATE AS OF CHANGE:		20230227
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Calogero Dario
+		CENTRAL INDEX KEY:			0001794965
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38320
+		FILM NUMBER:		23677919
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GIGCAPITAL, INC.
+		STREET 2:		2479 E. BAYSHORE RD., SUITE 200
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94303
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kaleyra, Inc.
+		CENTRAL INDEX KEY:			0001719489
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				823027430
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17 STATE STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+		BUSINESS PHONE:		(917) 508-9185
+
+	MAIL ADDRESS:	
+		STREET 1:		17 STATE STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GigCapital, Inc.
+		DATE OF NAME CHANGE:	20171012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001719489</issuerCik>
+        <issuerName>Kaleyra, Inc.</issuerName>
+        <issuerTradingSymbol>KLR.BC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001794965</rptOwnerCik>
+            <rptOwnerName>Calogero Dario</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KALEYRA, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>85 BROAD STREET</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10004</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>37164</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.05</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>731063</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5336081</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Maya Investments Ltd</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents withholding of shares of stock subject to RSUs at the time of vesting for the purposes of satisfying any tax withholding obligations which arise in connection with the vesting of such RSUs issued to Reporting Person.</footnote>
+        <footnote id="F2">Includes RSUs subject to vesting pursuant to previously disclosed vesting schedules.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Dario Calogero</signatureName>
+        <signatureDate>2023-02-27</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Dario Calogero Dario Calogero, as CEO of Maya Investments Ltd.</signatureName>
+        <signatureDate>2023-02-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

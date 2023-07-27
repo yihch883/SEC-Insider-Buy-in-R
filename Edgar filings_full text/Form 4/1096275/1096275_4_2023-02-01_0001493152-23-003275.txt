@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0001493152-23-003275.txt : 20230201
+<SEC-HEADER>0001493152-23-003275.hdr.sgml : 20230201
+<ACCEPTANCE-DATETIME>20230201134726
+ACCESSION NUMBER:		0001493152-23-003275
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230130
+FILED AS OF DATE:		20230201
+DATE AS OF CHANGE:		20230201
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SIEGEL NED L
+		CENTRAL INDEX KEY:			0001288179
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40681
+		FILM NUMBER:		23575986
+
+	MAIL ADDRESS:	
+		STREET 1:		600 WILSHIRE BOULEVARD
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Worksport Ltd
+		CENTRAL INDEX KEY:			0001096275
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				650782227
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7299 E. DANBRO CRES
+		CITY:			MISSISSAUGA
+		STATE:			A6
+		ZIP:			L5N 6P8
+		BUSINESS PHONE:		1-888-554-8789
+
+	MAIL ADDRESS:	
+		STREET 1:		7299 E. DANBRO CRES
+		CITY:			MISSISSAUGA
+		STATE:			A6
+		ZIP:			L5N 6P8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Worksport, Ltd
+		DATE OF NAME CHANGE:	20200702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Franchise Holdings International, Inc.
+		DATE OF NAME CHANGE:	20090512
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TMANGLOBAL COM INC
+		DATE OF NAME CHANGE:	19991005
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001096275</issuerCik>
+        <issuerName>Worksport Ltd</issuerName>
+        <issuerTradingSymbol>WKSP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001288179</rptOwnerCik>
+            <rptOwnerName>SIEGEL NED L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>851 BROKEN SOUND PARKWAY, NW, SUITE 230</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOCA RATON</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33487</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.66</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>120000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>120000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>120000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Non-qualified stock option granted under the Worksport Ltd 2022 Equity Incentive Plan (the &quot;2022 Plan&quot;). Option vests in six equal installments, commencing on the date of grant and each anniversary of the date of grant.</footnote>
+        <footnote id="F2">Option expires on 01/30/33 subject to the terms of the 2022 Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ned L. Siegel</signatureName>
+        <signatureDate>2023-02-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

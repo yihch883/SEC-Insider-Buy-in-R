@@ -1,0 +1,209 @@
+<SEC-DOCUMENT>0001062993-23-000845.txt : 20230111
+<SEC-HEADER>0001062993-23-000845.hdr.sgml : 20230111
+<ACCEPTANCE-DATETIME>20230111163156
+ACCESSION NUMBER:		0001062993-23-000845
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230110
+FILED AS OF DATE:		20230111
+DATE AS OF CHANGE:		20230111
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WALSH PAUL S
+		CENTRAL INDEX KEY:			0001197616
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40016
+		FILM NUMBER:		23523950
+
+	MAIL ADDRESS:	
+		STREET 1:		8 HENRIETTA PLACE
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			94111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vintage Wine Estates, Inc.
+		CENTRAL INDEX KEY:			0001834045
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		937 TAHOE BOULEVARD
+		STREET 2:		SUITE 210
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+		BUSINESS PHONE:		707-346-3640
+
+	MAIL ADDRESS:	
+		STREET 1:		937 TAHOE BOULEVARD
+		STREET 2:		SUITE 210
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bespoke Capital Acquisition Corp
+		DATE OF NAME CHANGE:	20201125
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001834045</issuerCik>
+        <issuerName>Vintage Wine Estates, Inc.</issuerName>
+        <issuerTradingSymbol>VWE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001197616</rptOwnerCik>
+            <rptOwnerName>WALSH PAUL S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>937 TAHOE BOULEVARD, SUITE 210</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>INCLINE VILLAGE</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89451</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>84388</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>217232</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants to purchase common stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.5</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F3"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14351</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2021-08-11</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-06-08</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>14351</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28702</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The transaction reported represents the receipt by the Reporting Person of an in-kind distribution, for no consideration, of shares of common stock of the Issuer from Bespoke Sponsor Capital LP.</footnote>
+        <footnote id="F2">Includes 20,956 RSUs that vest on 11/30/2023.</footnote>
+        <footnote id="F3">The transaction reported represents the receipt by the Reporting Person of an in-kind distribution, for no consideration, of warrants to purchase common stock of the Issuer from Bespoke Sponsor Capital LP.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Patrick A. Roney, Attorney-in-Fact for Paul S. Walsh</signatureName>
+        <signatureDate>2023-01-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

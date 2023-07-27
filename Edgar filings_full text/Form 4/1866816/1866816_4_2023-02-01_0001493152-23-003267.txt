@@ -1,0 +1,228 @@
+<SEC-DOCUMENT>0001493152-23-003267.txt : 20230201
+<SEC-HEADER>0001493152-23-003267.hdr.sgml : 20230201
+<ACCEPTANCE-DATETIME>20230201131212
+ACCESSION NUMBER:		0001493152-23-003267
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230131
+FILED AS OF DATE:		20230201
+DATE AS OF CHANGE:		20230201
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			OmniLit Sponsor, LLC
+		CENTRAL INDEX KEY:			0001891840
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41034
+		FILM NUMBER:		23575874
+
+	BUSINESS ADDRESS:	
+		STREET 1:		111 LINCOLN ROAD
+		STREET 2:		SUITE 500
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33139
+		BUSINESS PHONE:		617-894-5238
+
+	MAIL ADDRESS:	
+		STREET 1:		111 LINCOLN ROAD
+		STREET 2:		SUITE 500
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33139
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OmniLit Acquisition Corp.
+		CENTRAL INDEX KEY:			0001866816
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				870816957
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 LINCOLN ROAD
+		STREET 2:		SUITE 500
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33139
+		BUSINESS PHONE:		617-894-5238
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 LINCOLN ROAD
+		STREET 2:		SUITE 500
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33139
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001866816</issuerCik>
+        <issuerName>OmniLit Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>OLIT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001891840</rptOwnerCik>
+            <rptOwnerName>OmniLit Sponsor, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AL KAPOOR</rptOwnerStreet1>
+            <rptOwnerStreet2>1111 LINCOLN RD, SUITE 500</rptOwnerStreet2>
+            <rptOwnerCity>MIAMI BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33139</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1000000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by OmniLit Sponsor LLC</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1000000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by OmniLit Sponsor LLC</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Per amendment to the Amended and Restated certificate of incorporation, Class B Common Stock of the Company (&quot;Founder Shares&quot;) have the right to convert into Class A Common Stock on a one-for-one basis prior to the closing of a business combination at the election of the holder.</footnote>
+        <footnote id="F2">These shares are owned directly by OmniLit Sponsor LLC, a ten percent owner of the issuer, and indirectly by its managing member, Al Kapoor. Al Kapoor has voting and investment discretion with respect to the shares held by OmniLit Sponsor LLC, and as such, he may be deemed to have beneficial ownership of the Class B common stock held directly by OmniLit Sponsor LLC. Al Kapoor disclaims any beneficial ownership of the reported shares other than to the extent of any pecuniary interest he may have therein, directly or indirectly.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Al Kapoor Managing Member of OmniLit Sponsor LLC</signatureName>
+        <signatureDate>2023-02-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

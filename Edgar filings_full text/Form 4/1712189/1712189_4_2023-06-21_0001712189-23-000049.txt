@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0001712189-23-000049.txt : 20230621
+<SEC-HEADER>0001712189-23-000049.hdr.sgml : 20230621
+<ACCEPTANCE-DATETIME>20230621163428
+ACCESSION NUMBER:		0001712189-23-000049
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230619
+FILED AS OF DATE:		20230621
+DATE AS OF CHANGE:		20230621
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HERNANDEZ ALEJANDRO
+		CENTRAL INDEX KEY:			0001621235
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38343
+		FILM NUMBER:		231030359
+
+	MAIL ADDRESS:	
+		STREET 1:		12500 BALTIMORE AVENUE
+		CITY:			BELTSVILLE
+		STATE:			MD
+		ZIP:			20750
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Target Hospitality Corp.
+		CENTRAL INDEX KEY:			0001712189
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS, ROOMING HOUSE, CAMPS & OTHER LODGING PLACES [7000]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9320 LAKESIDE BLVD.
+		STREET 2:		SUITE 300
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+		BUSINESS PHONE:		832 709-2563
+
+	MAIL ADDRESS:	
+		STREET 1:		9320 LAKESIDE BLVD.
+		STREET 2:		SUITE 300
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Platinum Eagle Acquisition Corp.
+		DATE OF NAME CHANGE:	20170718
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-19</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001712189</issuerCik>
+        <issuerName>Target Hospitality Corp.</issuerName>
+        <issuerTradingSymbol>TH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001621235</rptOwnerCik>
+            <rptOwnerName>HERNANDEZ ALEJANDRO</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>9320 LAKESIDE BLVD., STE 300</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>THE WOODLANDS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77381</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-19</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6875</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6875</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6875</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Restricted Stock Unit represents a contingent right to receive upon vesting one share of common stock of the Issuer, par value $0.0001 per share (&quot;Common Stock&quot;), or its cash equivalent.</footnote>
+        <footnote id="F2">On June 19, 2023, the Reporting Person, as a newly appointed director to the Board of Directors, was granted 6,875 RSUs which vest in full on May 18, 2024, or, if earlier, the date of the 2024 annual meeting of the stockholders of the Issuer, subject to Target Hospitality Corp. 2019 Incentive Award Plan, as amended, and award agreement.  Subject to certain exceptions,  vested shares will be delivered upon separation of service from the Board of Directors.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Heidi D. Lewis, as Attorney-in-Fact on behalf of Alejandro Hernandez</signatureName>
+        <signatureDate>2023-06-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

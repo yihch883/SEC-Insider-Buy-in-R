@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001079973-23-000568.txt : 20230428
+<SEC-HEADER>0001079973-23-000568.hdr.sgml : 20230428
+<ACCEPTANCE-DATETIME>20230428083659
+ACCESSION NUMBER:		0001079973-23-000568
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230427
+FILED AS OF DATE:		20230428
+DATE AS OF CHANGE:		20230428
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			STERN LEE D
+		CENTRAL INDEX KEY:			0001268526
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39136
+		FILM NUMBER:		23860563
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AECOM TECHNOLOGY CORPORATION
+		STREET 2:		555 S. FLOWER STREET, SUITE 3700
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90071
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			micromobility.com Inc.
+		CENTRAL INDEX KEY:			0001788841
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				843015108
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		32 OLD SLIP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10005
+		BUSINESS PHONE:		917-675-7157
+
+	MAIL ADDRESS:	
+		STREET 1:		32 OLD SLIP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10005
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Helbiz, Inc.
+		DATE OF NAME CHANGE:	20210813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GreenVision Acquisition Corp.
+		DATE OF NAME CHANGE:	20190919
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001788841</issuerCik>
+        <issuerName>micromobility.com Inc.</issuerName>
+        <issuerTradingSymbol>MCOM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001268526</rptOwnerCik>
+            <rptOwnerName>STERN LEE D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>32 OLD SLIP</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10005</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Common Stock Warranrts</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.16</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>79662</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.16</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-04-27</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-04-27</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>79662</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>79662</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Lee D. Stern</signatureName>
+        <signatureDate>2023-04-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

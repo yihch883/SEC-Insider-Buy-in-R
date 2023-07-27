@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0001171843-23-001394.txt : 20230303
+<SEC-HEADER>0001171843-23-001394.hdr.sgml : 20230303
+<ACCEPTANCE-DATETIME>20230303183230
+ACCESSION NUMBER:		0001171843-23-001394
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230301
+FILED AS OF DATE:		20230303
+DATE AS OF CHANGE:		20230303
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Vig Ritu
+		CENTRAL INDEX KEY:			0001787703
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50796
+		FILM NUMBER:		23706611
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SP PLUS CORPORATION
+		STREET 2:		200 E. RANDOLPH ST., SUITE 7700
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SP Plus Corp
+		CENTRAL INDEX KEY:			0001059262
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AUTO RENTAL & LEASING (NO DRIVERS) [7510]
+		IRS NUMBER:				161171179
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 E. RANDOLPH STREET
+		STREET 2:		SUITE 7700
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601-7702
+		BUSINESS PHONE:		312-274-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 E. RANDOLPH STREET
+		STREET 2:		SUITE 7700
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601-7702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SP PLUS Corp
+		DATE OF NAME CHANGE:	20131202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD PARKING CORP
+		DATE OF NAME CHANGE:	20030506
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APCOA STANDARD PARKING INC /DE/
+		DATE OF NAME CHANGE:	20011126
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001059262</issuerCik>
+        <issuerName>SP Plus Corp</issuerName>
+        <issuerTradingSymbol>SP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001787703</rptOwnerCik>
+            <rptOwnerName>Vig Ritu</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O SP PLUS CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>200 E. RANDOLPH STREET, SUITE 7700</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60601</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President, Aviation Division</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6509</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28058</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents 6,509 restricted stock units (RSUs) granted pursuant to a Rule 16b-3 plan to the reporting person that vest on December 31, 2025.</footnote>
+        <footnote id="F2">Includes 21,443 RSUs of which 14,934 were previously granted to the reporting person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Patrick Kilmer-Lipinski, as attorney-in-fact for Ritu Vig</signatureName>
+        <signatureDate>2023-03-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,219 @@
+<SEC-DOCUMENT>0001213900-23-051022.txt : 20230622
+<SEC-HEADER>0001213900-23-051022.hdr.sgml : 20230622
+<ACCEPTANCE-DATETIME>20230622170127
+ACCESSION NUMBER:		0001213900-23-051022
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230505
+FILED AS OF DATE:		20230622
+DATE AS OF CHANGE:		20230622
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			New Providence Acquisition II LLC
+		CENTRAL INDEX KEY:			0001837933
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41023
+		FILM NUMBER:		231034046
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6500 RIVERPLACE BOULEVARD
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78730
+		BUSINESS PHONE:		917-969-4834
+
+	MAIL ADDRESS:	
+		STREET 1:		6500 RIVERPLACE BOULEVARD
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78730
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			New Providence Acquisition Corp. II
+		CENTRAL INDEX KEY:			0001837929
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6500 RIVERPLACE BOULEVARD
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78730
+		BUSINESS PHONE:		917-969-4834
+
+	MAIL ADDRESS:	
+		STREET 1:		6500 RIVERPLACE BOULEVARD
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78730
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-05</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001837929</issuerCik>
+        <issuerName>New Providence Acquisition Corp. II</issuerName>
+        <issuerTradingSymbol>NPAB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001837933</rptOwnerCik>
+            <rptOwnerName>New Providence Acquisition II LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>10900 RESEARCH BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 160C, PMB 1081</rptOwnerStreet2>
+            <rptOwnerCity>AUSTIN</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>78759</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A ordinary shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-05</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3000000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3000000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B ordinary shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-05</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A ordinary shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3000000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3200000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">As described in the issuer's registration statement on Form S-1 (File No. 333-253337) under the heading &quot;Description of Securities--Founder Shares&quot;, the shares of Class B common stock, par value $0.0001 per share, will automatically convert into shares of Class A common stock, par value $0.0001 per share, of the issuer at the time of the issuer's initial business combination, or earlier at the option of the holder, on a one-for-one basis, subject to adjustment for stock splits, stock dividends, reorganizations, recapitalizations and the like, and certain anti-dilution rights and have no expiration date. On May 5, 2023, the reporting person elected to convert 3,000,000 of its Class B common stock into shares of Class A common stock.</footnote>
+        <footnote id="F2">Alexander Coleman and Gary P. Smith are the directors of the reporting person, and as such have voting and investment discretion with respect to the securities held by the reporting person and may be deemed to have shared beneficial ownership of securities held directly by the reporting person. The business address of each of these individuals is c/o New Providence Acquisition Corp. II, 10900 Research Blvd, Suite 160C, PMB 1081, Austin, TX 78759.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Gary P. Smith, as Authorized Signatory</signatureName>
+        <signatureDate>2023-06-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

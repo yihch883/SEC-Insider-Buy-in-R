@@ -1,0 +1,205 @@
+<SEC-DOCUMENT>0000929638-23-001147.txt : 20230410
+<SEC-HEADER>0000929638-23-001147.hdr.sgml : 20230410
+<ACCEPTANCE-DATETIME>20230410210939
+ACCESSION NUMBER:		0000929638-23-001147
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230406
+FILED AS OF DATE:		20230410
+DATE AS OF CHANGE:		20230410
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lobo Andres
+		CENTRAL INDEX KEY:			0001949731
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39927
+		FILM NUMBER:		23812204
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SEASTAR MEDICAL, INC.
+		STREET 2:		3513 BRIGHTON BOULEVARD, SUITE 410
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80216
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SeaStar Medical Holding Corp
+		CENTRAL INDEX KEY:			0001831868
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				853681132
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3513 BRIGHTON BLVD
+		STREET 2:		SUITE 410
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80216
+		BUSINESS PHONE:		844-427-8100
+
+	MAIL ADDRESS:	
+		STREET 1:		3513 BRIGHTON BLVD
+		STREET 2:		SUITE 410
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80216
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LMF Acquisition Opportunities Inc
+		DATE OF NAME CHANGE:	20201109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-06</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001831868</issuerCik>
+        <issuerName>SeaStar Medical Holding Corp</issuerName>
+        <issuerTradingSymbol>ICU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001949731</rptOwnerCik>
+            <rptOwnerName>Lobo Andres</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O SEASTAR MEDICAL HOLDING CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>3513 BRIGHTON BLVD., SUITE 410</rptOwnerStreet2>
+            <rptOwnerCity>DENVER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80216</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7978</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7978</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.84</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11967</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-04-06</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>11967</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11967</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the Issuer's common stock subject to restricted stock units (RSUs), all of which will vest on the first anniversary of the date of grant.</footnote>
+        <footnote id="F2">All options reported herein will vest, subject to continued service, on the first anniversary of the date of grant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Eric Schlorff, as attorney-in-fact</signatureName>
+        <signatureDate>2023-04-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

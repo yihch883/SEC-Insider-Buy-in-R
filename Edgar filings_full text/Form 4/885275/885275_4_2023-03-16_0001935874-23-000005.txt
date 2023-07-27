@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001935874-23-000005.txt : 20230316
+<SEC-HEADER>0001935874-23-000005.hdr.sgml : 20230316
+<ACCEPTANCE-DATETIME>20230316105032
+ACCESSION NUMBER:		0001935874-23-000005
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230315
+FILED AS OF DATE:		20230316
+DATE AS OF CHANGE:		20230316
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Oakley Clark
+		CENTRAL INDEX KEY:			0001434114
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20402
+		FILM NUMBER:		23737662
+
+	MAIL ADDRESS:	
+		STREET 1:		623 WEST MAIN ST
+		CITY:			LEBANON
+		STATE:			TN
+		ZIP:			37087
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WILSON BANK HOLDING CO
+		CENTRAL INDEX KEY:			0000885275
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				621497076
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		623 W MAIN STREET
+		STREET 2:		P.O. BOX 768
+		CITY:			LEBANON
+		STATE:			TN
+		ZIP:			37087
+		BUSINESS PHONE:		6154442265
+
+	MAIL ADDRESS:	
+		STREET 1:		623 W MAIN STREET
+		STREET 2:		P.O. BOX 768
+		CITY:			LEBANON
+		STATE:			TN
+		ZIP:			37087
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000885275</issuerCik>
+        <issuerName>WILSON BANK HOLDING CO</issuerName>
+        <issuerTradingSymbol>none</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001434114</rptOwnerCik>
+            <rptOwnerName>Oakley Clark</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>623 WEST MAIN ST</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LEBANON</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>37087</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>67.85</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3017</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes shares issued pursuant to the dividend reinvestment plan</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Clark Oakley</signatureName>
+        <signatureDate>2023-03-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001575872-23-000009.txt : 20230103
+<SEC-HEADER>0001575872-23-000009.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103094440
+ACCESSION NUMBER:		0001575872-23-000009
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221228
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Galstyan Martin
+		CENTRAL INDEX KEY:			0001827736
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38739
+		FILM NUMBER:		23500599
+
+	MAIL ADDRESS:	
+		STREET 1:		6339 HARMAN DRIVE
+		CITY:			TUJUNGA
+		STATE:			CA
+		ZIP:			91042
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Toughbuilt Industries, Inc
+		CENTRAL INDEX KEY:			0001668370
+		STANDARD INDUSTRIAL CLASSIFICATION:	CUTLERY, HANDTOOLS & GENERAL HARDWARE [3420]
+		IRS NUMBER:				460820877
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		25371 COMMERCENTRE DRIVE
+		STREET 2:		SUITE 200
+		CITY:			LAKE FOREST
+		STATE:			CA
+		ZIP:			92630
+		BUSINESS PHONE:		(949) 528-3100
+
+	MAIL ADDRESS:	
+		STREET 1:		25371 COMMERCENTRE DRIVE
+		STREET 2:		SUITE 200
+		CITY:			LAKE FOREST
+		STATE:			CA
+		ZIP:			92630
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001668370</issuerCik>
+        <issuerName>Toughbuilt Industries, Inc</issuerName>
+        <issuerTradingSymbol>TBLT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001827736</rptOwnerCik>
+            <rptOwnerName>Galstyan Martin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>8669 RESEARCH DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>IRVINE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92618</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Incentive Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.79</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-12-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>112500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0001</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2022-12-28</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2032-12-28</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>112500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>112500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Option vests in equal installments on the last day of each of the thirty-six (36) calendar months following the date of grant, which may be exercised in lots of a minimum of two hundred (200) shares of the Company's common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Martin Galystan</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001127602-23-015167.txt : 20230511
+<SEC-HEADER>0001127602-23-015167.hdr.sgml : 20230511
+<ACCEPTANCE-DATETIME>20230511092039
+ACCESSION NUMBER:		0001127602-23-015167
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230509
+FILED AS OF DATE:		20230511
+DATE AS OF CHANGE:		20230511
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jones Wendy Elizabeth
+		CENTRAL INDEX KEY:			0001723472
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16707
+		FILM NUMBER:		23909182
+
+	MAIL ADDRESS:	
+		STREET 1:		2025 HAMILTON AVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95125
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRUDENTIAL FINANCIAL INC
+		CENTRAL INDEX KEY:			0001137774
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		IRS NUMBER:				223703799
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		751 BROAD ST
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+		BUSINESS PHONE:		9738026000
+
+	MAIL ADDRESS:	
+		STREET 1:		751 BROAD ST
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001137774</issuerCik>
+        <issuerName>PRUDENTIAL FINANCIAL INC</issuerName>
+        <issuerTradingSymbol>PRU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001723472</rptOwnerCik>
+            <rptOwnerName>Jones Wendy Elizabeth</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>751 BROAD STREET, 5TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2>ATTN: REGULATORY FILINGS UNIT</rptOwnerStreet2>
+            <rptOwnerCity>NEWARK</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>2023 Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1840</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1840</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1840</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one share of PRU common stock.</footnote>
+        <footnote id="F2">The restricted stock units vest the earlier of the annual meeting or in one year on May 9, 2024 and were deferred until retirement from the Board under the Prudential Financial, Inc. 2011 Deferred Compensation Plan for Non-Employee Directors.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Danny Fiore, attorney-in-fact</signatureName>
+        <signatureDate>2023-05-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

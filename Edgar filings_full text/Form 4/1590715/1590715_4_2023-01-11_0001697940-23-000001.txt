@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001697940-23-000001.txt : 20230111
+<SEC-HEADER>0001697940-23-000001.hdr.sgml : 20230111
+<ACCEPTANCE-DATETIME>20230111082330
+ACCESSION NUMBER:		0001697940-23-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230110
+FILED AS OF DATE:		20230111
+DATE AS OF CHANGE:		20230111
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jensen Mark C.
+		CENTRAL INDEX KEY:			0001697940
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38816
+		FILM NUMBER:		23522587
+
+	MAIL ADDRESS:	
+		STREET 1:		8856 SOUTH STREET
+		CITY:			FISHERS
+		STATE:			IN
+		ZIP:			46038
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			American Resources Corp
+		CENTRAL INDEX KEY:			0001590715
+		STANDARD INDUSTRIAL CLASSIFICATION:	BITUMINOUS COAL & LIGNITE MINING [1220]
+		IRS NUMBER:				463914127
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12115 VISIONARY WAY, SUITE 174
+		CITY:			FISHERS
+		STATE:			IN
+		ZIP:			46038
+		BUSINESS PHONE:		(317) 855-9926
+
+	MAIL ADDRESS:	
+		STREET 1:		12115 VISIONARY WAY, SUITE 174
+		CITY:			FISHERS
+		STATE:			IN
+		ZIP:			46038
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NGFC Equities, Inc.
+		DATE OF NAME CHANGE:	20150512
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NGFC Equities, INC.
+		DATE OF NAME CHANGE:	20150512
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATURAL GAS FUELING & CONVERSION INC.
+		DATE OF NAME CHANGE:	20131031
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001590715</issuerCik>
+        <issuerName>American Resources Corp</issuerName>
+        <issuerTradingSymbol>AREC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001697940</rptOwnerCik>
+            <rptOwnerName>Jensen Mark C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>12115 VISIONARY WAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 174</rptOwnerStreet2>
+            <rptOwnerCity>FISHERS</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>46038</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.3936</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5179896</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Purchased pursuant to Rule 10b5-1 under the Securities Exchange Act of 1934.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Mark C. Jensen</signatureName>
+        <signatureDate>2023-01-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

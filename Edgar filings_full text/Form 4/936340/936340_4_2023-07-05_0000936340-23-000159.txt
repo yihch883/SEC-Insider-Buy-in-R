@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0000936340-23-000159.txt : 20230705
+<SEC-HEADER>0000936340-23-000159.hdr.sgml : 20230705
+<ACCEPTANCE-DATETIME>20230705100404
+ACCESSION NUMBER:		0000936340-23-000159
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230703
+FILED AS OF DATE:		20230705
+DATE AS OF CHANGE:		20230705
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BRANDON DAVID
+		CENTRAL INDEX KEY:			0001065739
+		STATE OF INCORPORATION:			MI
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11607
+		FILM NUMBER:		231066942
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DOMINO PIZZZA
+		STREET 2:		30 FRANK LL0YD WRIGHT DR
+		CITY:			ANN ARBOR
+		STATE:			MI
+		ZIP:			48106
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DTE ENERGY CO
+		CENTRAL INDEX KEY:			0000936340
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				383217752
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE ENERGY PLAZA
+		CITY:			DETROIT
+		STATE:			MI
+		ZIP:			48226
+		BUSINESS PHONE:		3132354000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE ENERGY PLAZA
+		CITY:			DETROIT
+		STATE:			MI
+		ZIP:			48226
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DTE HOLDINGS INC
+		DATE OF NAME CHANGE:	19950127
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1688565836.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000936340</issuerCik>
+        <issuerName>DTE ENERGY CO</issuerName>
+        <issuerTradingSymbol>DTE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001065739</rptOwnerCik>
+            <rptOwnerName>BRANDON DAVID</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE ENERGY PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DETROIT</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48226</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock (Def Dir Fees)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>314.61</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>111.25</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>314.61</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13087.34</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">1 for 1</footnote>
+        <footnote id="F2">Payment of Director Fees.  The phantom stock will be settled for cash on a date selected by the reporting person as provided under the plan.</footnote>
+        <footnote id="F3">Includes phantom stock acquired through the dividend reinvestment feature of the DTE Energy Company Plan for Deferring the Payment of Non-Employee Director Fees.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/Kathrine M. Lorenz, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

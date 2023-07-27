@@ -1,0 +1,195 @@
+<SEC-DOCUMENT>0001213900-23-041960.txt : 20230522
+<SEC-HEADER>0001213900-23-041960.hdr.sgml : 20230522
+<ACCEPTANCE-DATETIME>20230522160127
+ACCESSION NUMBER:		0001213900-23-041960
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230518
+FILED AS OF DATE:		20230522
+DATE AS OF CHANGE:		20230522
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Oron Assaf
+		CENTRAL INDEX KEY:			0001792310
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38762
+		FILM NUMBER:		23944339
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BIOMX LTD.
+		STREET 2:		7 PINHAS SAPIR ST., FLOOR 2
+		CITY:			NESS ZIONA
+		STATE:			L3
+		ZIP:			7414002
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BiomX Inc.
+		CENTRAL INDEX KEY:			0001739174
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		22 EINSTEIN ST., 4TH FLOOR
+		CITY:			NESS ZIONA
+		STATE:			L3
+		ZIP:			7414003
+		BUSINESS PHONE:		(972) 72 394 2377
+
+	MAIL ADDRESS:	
+		STREET 1:		22 EINSTEIN ST., 4TH FLOOR
+		CITY:			NESS ZIONA
+		STATE:			L3
+		ZIP:			7414003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Chardan Healthcare Acquisition Corp.
+		DATE OF NAME CHANGE:	20180430
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001739174</issuerCik>
+        <issuerName>BiomX Inc.</issuerName>
+        <issuerTradingSymbol>PHGE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001792310</rptOwnerCik>
+            <rptOwnerName>Oron Assaf</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BIOMX INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>22 EINSTEIN ST., FLOOR 4</rptOwnerStreet2>
+            <rptOwnerCity>NESS ZIONA</rptOwnerCity>
+            <rptOwnerState>L3</rptOwnerState>
+            <rptOwnerZipCode>7414003</rptOwnerZipCode>
+            <rptOwnerStateDescription>ISRAEL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Business Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1201</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.2727</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1201</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-19</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6521</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.2809</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7722</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were acquired in multiple transactions at prices ranging from $0.2701 to $0.2750, inclusive. The reporting person undertakes to provide to the issuer, any security holder of the issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the above range.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were acquired in multiple transactions at prices ranging from $0.2752 to $0.2898, inclusive. The reporting person undertakes to provide to the issuer, any security holder of the issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the above range.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Assaf Oron</signatureName>
+        <signatureDate>2023-05-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

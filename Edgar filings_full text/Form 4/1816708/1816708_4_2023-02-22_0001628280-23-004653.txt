@@ -1,0 +1,234 @@
+<SEC-DOCUMENT>0001628280-23-004653.txt : 20230222
+<SEC-HEADER>0001628280-23-004653.hdr.sgml : 20230222
+<ACCEPTANCE-DATETIME>20230222204737
+ACCESSION NUMBER:		0001628280-23-004653
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230217
+FILED AS OF DATE:		20230222
+DATE AS OF CHANGE:		20230222
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Workman Kurt
+		CENTRAL INDEX KEY:			0001868338
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39516
+		FILM NUMBER:		23655617
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O OWLET, INC.
+		STREET 2:		2500 EXECUTIVE PARKWAY, SUITE 500
+		CITY:			LEHI
+		STATE:			UT
+		ZIP:			84043
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Owlet, Inc.
+		CENTRAL INDEX KEY:			0001816708
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1999 AVENUE OF THE STARS
+		STREET 2:		SUITE 2088
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+		BUSINESS PHONE:		424-208-8488
+
+	MAIL ADDRESS:	
+		STREET 1:		1999 AVENUE OF THE STARS
+		STREET 2:		SUITE 2088
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Sandbridge Acquisition Corp
+		DATE OF NAME CHANGE:	20200702
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_167711683146696.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001816708</issuerCik>
+        <issuerName>Owlet, Inc.</issuerName>
+        <issuerTradingSymbol>OWLT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001868338</rptOwnerCik>
+            <rptOwnerName>Workman Kurt</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O OWLET, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>3300 NORTH ASHTON BOULEVARD, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>LEHI</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84043</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Series A Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1000.0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-02-17</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1020408.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>500</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants (Right to Purchase Shares of Common Stock)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.333</value>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1836734</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-02-17</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-17</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1836734.0</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1836734</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Series A Convertible Preferred Stock is convertible into shares of Class A common stock, par value $0.0001 per share (the &quot;Common Stock&quot;), of Owlet, Inc. (the &quot;Company&quot;).  The conversion rate shall initially be 2,040.8163 shares of Common Stock per each share of Series A Convertible Preferred Stock, subject to adjustment from time to time pursuant to the terms and conditions of the Investment Agreement, dated February 17, 2023, by and among the Company and Mr. Workman, amongst others.</footnote>
+        <footnote id="F2">The Series A Convertible Preferred Stock does not have an expiration date.</footnote>
+        <footnote id="F3">As set forth in the Warrant to Purchase Shares of Common Stock of Owlet, Inc., dated February 17, 2023, by the Company and Mr. Workman (the &quot;Warrant&quot;), the exercise price and the number of shares of the Company's Common Stock issuable upon exercise are subject to adjustment upon the occurrence of certain events.  As such, the exercise price and the number of shares of Common Stock issuable upon exercise as reported on this Form 4 are subject to change upon the occurrence of future events in accordance with the terms of the Warrant.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Heidi M. Krings, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-02-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

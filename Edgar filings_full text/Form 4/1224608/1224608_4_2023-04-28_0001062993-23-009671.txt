@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0001062993-23-009671.txt : 20230428
+<SEC-HEADER>0001062993-23-009671.hdr.sgml : 20230428
+<ACCEPTANCE-DATETIME>20230428162849
+ACCESSION NUMBER:		0001062993-23-009671
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230427
+FILED AS OF DATE:		20230428
+DATE AS OF CHANGE:		20230428
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mead Michael E.
+		CENTRAL INDEX KEY:			0001959673
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31792
+		FILM NUMBER:		23866967
+
+	MAIL ADDRESS:	
+		STREET 1:		11825 N. PENNSYLVANIA ST.
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CNO Financial Group, Inc.
+		CENTRAL INDEX KEY:			0001224608
+		STANDARD INDUSTRIAL CLASSIFICATION:	ACCIDENT & HEALTH INSURANCE [6321]
+		IRS NUMBER:				753108137
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11825 N PENNSYLVANIA ST
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+		BUSINESS PHONE:		3178176100
+
+	MAIL ADDRESS:	
+		STREET 1:		11825 NORTH PENNSYLVANIA STREET
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONSECO INC
+		DATE OF NAME CHANGE:	20030326
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001224608</issuerCik>
+        <issuerName>CNO Financial Group, Inc.</issuerName>
+        <issuerTradingSymbol>CNO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001959673</rptOwnerCik>
+            <rptOwnerName>Mead Michael E.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11825 N. PENNSYLVANIA STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CARMEL</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>46032</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP and CIO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1406</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>21.92</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>45281</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares were surrendered to CNO Financial Group, Inc. to cover required tax withholding on vesting of restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Rachel J. Spehler, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

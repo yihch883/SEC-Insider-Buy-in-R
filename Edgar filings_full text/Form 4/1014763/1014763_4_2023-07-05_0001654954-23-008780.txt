@@ -1,0 +1,257 @@
+<SEC-DOCUMENT>0001654954-23-008780.txt : 20230705
+<SEC-HEADER>0001654954-23-008780.hdr.sgml : 20230705
+<ACCEPTANCE-DATETIME>20230705171926
+ACCESSION NUMBER:		0001654954-23-008780
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230705
+DATE AS OF CHANGE:		20230705
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			tsai chung-jung
+		CENTRAL INDEX KEY:			0001859356
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41461
+		FILM NUMBER:		231070674
+
+	MAIL ADDRESS:	
+		STREET 1:		8880 RIO SAN DIEGO DRIVE
+		STREET 2:		SUITE 800
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92108
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ainos, Inc.
+		CENTRAL INDEX KEY:			0001014763
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				751974352
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AINOS, INC.
+		STREET 2:		8880 RIO SAN DIEGO DRIVE SUITE 800
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92108
+		BUSINESS PHONE:		858-869-2986
+
+	MAIL ADDRESS:	
+		STREET 1:		AINOS, INC.
+		STREET 2:		8880 RIO SAN DIEGO DRIVE SUITE 800
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92108
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMARILLO BIOSCIENCES INC
+		DATE OF NAME CHANGE:	19960516
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>section16.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001014763</issuerCik>
+        <issuerName>Ainos, Inc.</issuerName>
+        <issuerTradingSymbol>AIMD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001859356</rptOwnerCik>
+            <rptOwnerName>tsai chung-jung</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>5F NO 215 SEC 4 NEW TAIPEI BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2>XINZHUANG DIST</rptOwnerStreet2>
+            <rptOwnerCity>NEW TAIPEI CITY</rptOwnerCity>
+            <rptOwnerState>F5</rptOwnerState>
+            <rptOwnerZipCode>242</rptOwnerZipCode>
+            <rptOwnerStateDescription>TAIWAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10500</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.06</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19432</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>RSU</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-11-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>70000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>70000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>70000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>RSU issuance</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.06</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.06</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-06-30</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>59500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This reported transaction represents the conversion of 10,500 Restricted Stock Units (the &quot;RSUs&quot;).</footnote>
+        <footnote id="F2">Reference is made to the RSUs granted under the 2023 Stock Incentive Plan.  Each RSU represents a right to receive one (1) share of common stock upon vesting and the expiration of any applicable restricted period or, if approved, the cash value thereof (or any combination thereof).  Holders of RSUs have no rights or privileges as a stockholder.  Except as otherwise agreed, if the Reporting Person's participation is terminated for any reason prior to the date that all of its RSU have vested, all vesting rights shall cease and all unvested RSU shall be forfeited for no consideration as of the date termination.  Vesting dates related to the 70,000 RSUs are as follows:  10,500 shares on 5/14/23 and 11/14/23, respectively, 21,000 shares on 11/14/24 and 28,000 shares on 11/14/25.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John Junyong Lee POA for Chung-Jung Tsai</signatureName>
+        <signatureDate>2023-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

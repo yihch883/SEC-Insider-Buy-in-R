@@ -1,0 +1,147 @@
+<SEC-DOCUMENT>0001140361-23-026411.txt : 20230524
+<SEC-HEADER>0001140361-23-026411.hdr.sgml : 20230524
+<ACCEPTANCE-DATETIME>20230524161831
+ACCESSION NUMBER:		0001140361-23-026411
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230522
+FILED AS OF DATE:		20230524
+DATE AS OF CHANGE:		20230524
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kenny John P.
+		CENTRAL INDEX KEY:			0001719325
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39486
+		FILM NUMBER:		23954372
+
+	MAIL ADDRESS:	
+		STREET 1:		3471 RIVER HILLS DRIVE
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45244
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Quantum-Si Inc
+		CENTRAL INDEX KEY:			0001816431
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		IRS NUMBER:				851388175
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		29 BUSINESS PARK DRIVE
+		CITY:			BRANFORD
+		STATE:			CT
+		ZIP:			06405
+		BUSINESS PHONE:		(203) 458-7100
+
+	MAIL ADDRESS:	
+		STREET 1:		29 BUSINESS PARK DRIVE
+		CITY:			BRANFORD
+		STATE:			CT
+		ZIP:			06405
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HighCape Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20200629
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-22</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001816431</issuerCik>
+        <issuerName>Quantum-Si Inc</issuerName>
+        <issuerTradingSymbol>QSI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001719325</rptOwnerCik>
+            <rptOwnerName>Kenny John P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O QUANTUM-SI INCORPORATED</rptOwnerStreet1>
+            <rptOwnerStreet2>29 BUSINESS PARK DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>BRANFORD</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06405</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>114285</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>114285</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of restricted stock units (&quot;RSUs&quot;). Each RSU represents the right to receive one share of common stock upon vesting. The RSUs vest in equal annual installments over three years beginning on May 22, 2024, subject to Mr. Kenny's continued service through the applicable vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christian LaPointe, Ph.D., Attorney-in-Fact</signatureName>
+        <signatureDate>2023-05-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

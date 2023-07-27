@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001127602-23-010710.txt : 20230317
+<SEC-HEADER>0001127602-23-010710.hdr.sgml : 20230317
+<ACCEPTANCE-DATETIME>20230317165011
+ACCESSION NUMBER:		0001127602-23-010710
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230315
+FILED AS OF DATE:		20230317
+DATE AS OF CHANGE:		20230317
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Tan Irving
+		CENTRAL INDEX KEY:			0001729518
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05224
+		FILM NUMBER:		23743412
+
+	MAIL ADDRESS:	
+		STREET 1:		170 WEST TASMAN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STANLEY BLACK & DECKER, INC.
+		CENTRAL INDEX KEY:			0000093556
+		STANDARD INDUSTRIAL CLASSIFICATION:	CUTLERY, HANDTOOLS & GENERAL HARDWARE [3420]
+		IRS NUMBER:				060548860
+		STATE OF INCORPORATION:			CT
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 STANLEY DR
+		STREET 2:		P O BOX 7000
+		CITY:			NEW BRITAIN
+		STATE:			CT
+		ZIP:			06053
+		BUSINESS PHONE:		8602255111
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 STANLEY DR
+		CITY:			NEW BRITAIN
+		STATE:			CT
+		ZIP:			06053
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANLEY WORKS
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000093556</issuerCik>
+        <issuerName>STANLEY BLACK &amp; DECKER, INC.</issuerName>
+        <issuerTradingSymbol>SWK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001729518</rptOwnerCik>
+            <rptOwnerName>Tan Irving</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1000 STANLEY DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW BRITAIN</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06053</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>442.7297</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>79.155</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>442.7297</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2973.3925</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents deferred shares acquired pursuant to the Stanley Black &amp; Decker Deferred Compensation Plan for Non-Employee Directors (the &quot;Plan&quot;) as a result of the deferral of quarterly director fees paid in cash to the reporting person. Each deferred share entitles the holder thereof to receive one share of common stock upon settlement. The deferred shares credited to the reporting person's account under the Plan will be settled in five approximately equal annual installments of common stock starting on the first business day of the calendar year immediately following the date on which the reporting person ceases to be a member of the Board of Directors.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Janet M. Link, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-03-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

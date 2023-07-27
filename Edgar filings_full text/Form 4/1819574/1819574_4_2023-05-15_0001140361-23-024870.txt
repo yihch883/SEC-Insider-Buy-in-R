@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001140361-23-024870.txt : 20230515
+<SEC-HEADER>0001140361-23-024870.hdr.sgml : 20230515
+<ACCEPTANCE-DATETIME>20230515210824
+ACCESSION NUMBER:		0001140361-23-024870
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230511
+FILED AS OF DATE:		20230515
+DATE AS OF CHANGE:		20230515
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Dodson Paulette R.
+		CENTRAL INDEX KEY:			0001517319
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39691
+		FILM NUMBER:		23925323
+
+	MAIL ADDRESS:	
+		STREET 1:		PETSMART, INC
+		STREET 2:		19601 N 27TH AVE
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85027
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bark, Inc.
+		CENTRAL INDEX KEY:			0001819574
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
+		IRS NUMBER:				851872418
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 BROADWAY, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10271
+		BUSINESS PHONE:		(855) 501-2275
+
+	MAIL ADDRESS:	
+		STREET 1:		120 BROADWAY, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10271
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Original Bark Co
+		DATE OF NAME CHANGE:	20210603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Northern Star Acquisition Corp.
+		DATE OF NAME CHANGE:	20200729
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001819574</issuerCik>
+        <issuerName>Bark, Inc.</issuerName>
+        <issuerTradingSymbol>BARK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001517319</rptOwnerCik>
+            <rptOwnerName>Dodson Paulette R.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BARK INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>120 BROADWAY</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10271</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>277778</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>277778</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person was granted restricted stock units (&quot;RSUs&quot;), which represent a contingent right to receive one share of Common Stock for each RSU. The RSUs are subject to a service-based vesting requirement, which shall vest 100% on the first year anniversary of the date of grant, or, at the Reporting Person's sole discretion, such later date on which the Reporting Person ceases to serve as a director of the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Allison Koehler, Attorney in fact for Paulette Dodson</signatureName>
+        <signatureDate>2023-05-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

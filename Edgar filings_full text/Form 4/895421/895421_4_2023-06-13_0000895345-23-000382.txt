@@ -1,0 +1,242 @@
+<SEC-DOCUMENT>0000895345-23-000382.txt : 20230613
+<SEC-HEADER>0000895345-23-000382.hdr.sgml : 20230613
+<ACCEPTANCE-DATETIME>20230613160416
+ACCESSION NUMBER:		0000895345-23-000382
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230609
+FILED AS OF DATE:		20230613
+DATE AS OF CHANGE:		20230613
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MORGAN STANLEY
+		CENTRAL INDEX KEY:			0000895421
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39943
+		FILM NUMBER:		231011260
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1585 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		212-761-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1585 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY DEAN WITTER & CO
+		DATE OF NAME CHANGE:	19980326
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	DEAN WITTER DISCOVER & CO
+		DATE OF NAME CHANGE:	19960315
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MS Capital Partners Adviser Inc
+		CENTRAL INDEX KEY:			0001535639
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39943
+		FILM NUMBER:		231011259
+
+	BUSINESS ADDRESS:	
+		STREET 1:		MORGAN STANLEY
+		STREET 2:		1585 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		2127618014
+
+	MAIL ADDRESS:	
+		STREET 1:		MORGAN STANLEY
+		STREET 2:		1585 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Mondee Holdings, Inc.
+		CENTRAL INDEX KEY:			0001828852
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRANSPORTATION SERVICES [4700]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10800 PECAN PARK BLVD, SUITE 315
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78750
+		BUSINESS PHONE:		(650) 646-3320
+
+	MAIL ADDRESS:	
+		STREET 1:		10800 PECAN PARK BLVD, SUITE 315
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78750
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ITHAX Acquisition Corp.
+		DATE OF NAME CHANGE:	20201019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001828852</issuerCik>
+        <issuerName>Mondee Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>MOND</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000895421</rptOwnerCik>
+            <rptOwnerName>MORGAN STANLEY</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1585 BROADWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001535639</rptOwnerCik>
+            <rptOwnerName>MS Capital Partners Adviser Inc</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1585 BROADWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1049889</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.45</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8456881</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8598</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This statement is filed by Morgan Stanley (&quot;MS Parent&quot;) and MS Capital Partners Adviser Inc. (&quot;Adviser&quot;). MS Parent is the indirect parent of the general partners of the funds (the &quot;Private Funds&quot;) that hold these shares of Class A Common Stock, par value $0.0001 per share (&quot;Common Stock&quot;). The Adviser, an indirect subsidiary of MS Parent, is the investment manager to the Private Funds. Each of MS Parent and the Adviser may be deemed to beneficially own the shares of Common Stock held by the Private Funds.</footnote>
+        <footnote id="F2">Each of MS Parent and the Adviser disclaims beneficial ownership of the shares of Common Stock included herein except to the extent of its pecuniary interest therein, if any, and the inclusion of the shares of Common Stock in this report shall not be deemed to constitute an admission of beneficial ownership of such shares of Common Stock for the purposes of Section 13(d) or Section 16 of the Securities Exchange Act of 1934, or for any other purpose.</footnote>
+        <footnote id="F3">These shares of Common Stock are held by an indirect subsidiary (the &quot;MS Reporting Unit&quot;) of MS Parent. As the indirect parent of the holder of these shares of Common Stock, MS Parent may be deemed to beneficially own shares of Common Stock beneficially owned by the MS Reporting Unit. This filing does not reflect securities, if any, beneficially owned by any operating units of MS Parent whose ownership of securities is disaggregated from that of the MS Reporting Unit in accordance with the Securities and Exchange Commission Release No. 34-39538 (January 12, 1998).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Morgan Stanley, By: /s/ Mustufa Salehbhai, as Authorized Signatory</signatureName>
+        <signatureDate>2023-06-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>MS Capital Partners Adviser Inc., By: Mustufa Salehbhai, as Authorized Signatory</signatureName>
+        <signatureDate>2023-06-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

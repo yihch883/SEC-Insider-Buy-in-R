@@ -1,0 +1,217 @@
+<SEC-DOCUMENT>0001271163-23-000008.txt : 20230328
+<SEC-HEADER>0001271163-23-000008.hdr.sgml : 20230328
+<ACCEPTANCE-DATETIME>20230328180734
+ACCESSION NUMBER:		0001271163-23-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230327
+FILED AS OF DATE:		20230328
+DATE AS OF CHANGE:		20230328
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GABELLI MARIO J
+		CENTRAL INDEX KEY:			0001185533
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-21969
+		FILM NUMBER:		23771011
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GAMCO INVESTORS, INC
+		STREET 2:		ONE CORPORATE CENTER
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GDL FUND
+		CENTRAL INDEX KEY:			0001378701
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE CORPORATE CENTER
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+		BUSINESS PHONE:		914-921-5100
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE CORPORATE CENTER
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Gabelli Global Deal Fund
+		DATE OF NAME CHANGE:	20061019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001378701</issuerCik>
+        <issuerName>GDL FUND</issuerName>
+        <issuerTradingSymbol>GDL.E</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001185533</rptOwnerCik>
+            <rptOwnerName>GABELLI MARIO J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O GAMCO INVESTORS, INC</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE CORPORATE CENTER</rptOwnerStreet2>
+            <rptOwnerCity>RYE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10580</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Control Person of Adviser</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Series E Cumulative Preferred Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>250000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>250000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Series E Cumulative Preferred Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>300000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>GAMCO Investors, Inc.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Series E Cumulative Preferred Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>240000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Associated Capital Group, Inc.</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Series E Cumulative Preferred Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>200000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>GGCP, Inc.</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares were surrendered in accordance with Right to Put to the Fund up to 100% of Outstanding Series E Cumulative Preferred Shares.</footnote>
+        <footnote id="F2">The shares reported reflect the total shares owned by GAMCO Investors, Inc. (GAMCO).  Mario J. Gabelli is the Chairman, Chief Executive Officer, and controlling shareholder of GAMCO.  Mr. Gabelli has less than a 100% interest in GAMCO and disclaims beneficial ownership of the shares held by it which are in excess of his indirect pecuniary interest.</footnote>
+        <footnote id="F3">The shares reported reflect the total shares owned by Associated Capital Group, Inc. (AC).  Mario J. Gabelli is the Executive Chair and controlling shareholder of AC.  Mr. Gabelli has less than a 100% interest in AC and disclaims beneficial ownership of the shares held by it which are in excess of his indirect pecuniary interest.</footnote>
+        <footnote id="F4">The shares reported reflect the total shares owned by GGCP, Inc. (GGCP).  Mario J. Gabelli is the Chief Executive Officer, a director, and the controlling shareholder of GGCP.   Mr. Gabelli has less than a 100% interest in GGCP and disclaims beneficial ownership of the shares held by it which are in excess of his indirect pecuniary interest.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Douglas R. Jamieson as Attorney-in-Fact for Mario J. Gabelli</signatureName>
+        <signatureDate>2023-03-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

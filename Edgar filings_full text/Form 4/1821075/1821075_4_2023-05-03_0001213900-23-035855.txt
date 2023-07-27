@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001213900-23-035855.txt : 20230503
+<SEC-HEADER>0001213900-23-035855.hdr.sgml : 20230503
+<ACCEPTANCE-DATETIME>20230503120030
+ACCESSION NUMBER:		0001213900-23-035855
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230327
+FILED AS OF DATE:		20230503
+DATE AS OF CHANGE:		20230503
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Laurence Christopher
+		CENTRAL INDEX KEY:			0001954155
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39758
+		FILM NUMBER:		23882554
+
+	MAIL ADDRESS:	
+		STREET 1:		1233 SNOW BERRY STREET
+		CITY:			PARK CITY
+		STATE:			UT
+		ZIP:			84098
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Appreciate Holdings, Inc.
+		CENTRAL INDEX KEY:			0001821075
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE AGENTS & MANAGERS (FOR OTHERS) [6531]
+		IRS NUMBER:				852426917
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6101 BAKER ROAD, SUITE 200
+		CITY:			MINNETONKA
+		STATE:			MN
+		ZIP:			55345
+		BUSINESS PHONE:		9524708888
+
+	MAIL ADDRESS:	
+		STREET 1:		6101 BAKER ROAD, SUITE 200
+		CITY:			MINNETONKA
+		STATE:			MN
+		ZIP:			55345
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PROPTECH INVESTMENT CORP. II
+		DATE OF NAME CHANGE:	20200813
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001821075</issuerCik>
+        <issuerName>Appreciate Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>SFR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001954155</rptOwnerCik>
+            <rptOwnerName>Laurence Christopher</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O APPRECIATE HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>6101 BAKER ROAD, SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>MINNETONKA</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55345</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>5.00</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-27</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2028-03-27</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-03-27</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-03-27</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>20000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Christopher Laurence</signatureName>
+        <signatureDate>2023-05-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

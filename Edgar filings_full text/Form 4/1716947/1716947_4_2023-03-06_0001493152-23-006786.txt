@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001493152-23-006786.txt : 20230306
+<SEC-HEADER>0001493152-23-006786.hdr.sgml : 20230306
+<ACCEPTANCE-DATETIME>20230306163315
+ACCESSION NUMBER:		0001493152-23-006786
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230302
+FILED AS OF DATE:		20230306
+DATE AS OF CHANGE:		20230306
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GOWER BOB G
+		CENTRAL INDEX KEY:			0001136466
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38306
+		FILM NUMBER:		23709369
+
+	MAIL ADDRESS:	
+		STREET 1:		402 TIMBERWILDE LANE
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77024
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ensysce Biosciences, Inc.
+		CENTRAL INDEX KEY:			0001716947
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				822755287
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7946 IVANHOE AVENUE
+		STREET 2:		SUITE 201
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+		BUSINESS PHONE:		(858) 263-4196
+
+	MAIL ADDRESS:	
+		STREET 1:		7946 IVANHOE AVENUE
+		STREET 2:		SUITE 201
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Leisure Acquisition Corp.
+		DATE OF NAME CHANGE:	20170913
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001716947</issuerCik>
+        <issuerName>Ensysce Biosciences, Inc.</issuerName>
+        <issuerTradingSymbol>ENSC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001136466</rptOwnerCik>
+            <rptOwnerName>GOWER BOB G</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ENSYSCE BIOSCIENCES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>7946 IVANHOE AVENUE, SUITE 201</rptOwnerStreet2>
+            <rptOwnerCity>LA JOLLA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92037</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>90287</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.4883</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1222682</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Bob G Gower</signatureName>
+        <signatureDate>2023-03-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

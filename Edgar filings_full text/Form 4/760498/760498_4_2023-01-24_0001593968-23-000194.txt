@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0001593968-23-000194.txt : 20230124
+<SEC-HEADER>0001593968-23-000194.hdr.sgml : 20230124
+<ACCEPTANCE-DATETIME>20230124152801
+ACCESSION NUMBER:		0001593968-23-000194
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230124
+FILED AS OF DATE:		20230124
+DATE AS OF CHANGE:		20230124
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BRAND DENNIS L
+		CENTRAL INDEX KEY:			0001187778
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14384
+		FILM NUMBER:		23547988
+
+	MAIL ADDRESS:	
+		STREET 1:		100 N BROADWAY
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BANCFIRST CORP /OK/
+		CENTRAL INDEX KEY:			0000760498
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				731221379
+		STATE OF INCORPORATION:			OK
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 NORTH BROADWAY AVE
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73102-8401
+		BUSINESS PHONE:		4052701000
+
+	MAIL ADDRESS:	
+		STREET 1:		100 NORTH BROADWAY AVE
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73102-8401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED COMMUNITY CORP
+		DATE OF NAME CHANGE:	19890401
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_01.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000760498</issuerCik>
+        <issuerName>BANCFIRST CORP /OK/</issuerName>
+        <issuerTradingSymbol>BANF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001187778</rptOwnerCik>
+            <rptOwnerName>BRAND DENNIS L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>100 N. BROADWAY AVE.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OKLAHOMA CITY</rptOwnerCity>
+            <rptOwnerState>OK</rptOwnerState>
+            <rptOwnerZipCode>73102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Executive Vice President and</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>83</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6129</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>ESOP</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ By: Kevin Lawrence For: Dennis Brand</signatureName>
+        <signatureDate>2023-01-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

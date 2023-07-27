@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0000899243-23-011344.txt : 20230417
+<SEC-HEADER>0000899243-23-011344.hdr.sgml : 20230417
+<ACCEPTANCE-DATETIME>20230417212053
+ACCESSION NUMBER:		0000899243-23-011344
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230413
+FILED AS OF DATE:		20230417
+DATE AS OF CHANGE:		20230417
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Fletcher Kyle
+		CENTRAL INDEX KEY:			0001937742
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38914
+		FILM NUMBER:		23825311
+
+	MAIL ADDRESS:	
+		STREET 1:		CELULARITY INC.
+		STREET 2:		170 PARK AVE.
+		CITY:			FLORHAM PARK
+		STATE:			NJ
+		ZIP:			07932
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Celularity Inc
+		CENTRAL INDEX KEY:			0001752828
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				831702591
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		170 PARK AVE
+		CITY:			FLORHAM PARK
+		STATE:			NJ
+		ZIP:			07932
+		BUSINESS PHONE:		(908) 768-2170
+
+	MAIL ADDRESS:	
+		STREET 1:		170 PARK AVE
+		CITY:			FLORHAM PARK
+		STATE:			NJ
+		ZIP:			07932
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GX Acquisition Corp.
+		DATE OF NAME CHANGE:	20180912
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-13</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001752828</issuerCik>
+        <issuerName>Celularity Inc</issuerName>
+        <issuerTradingSymbol>CELU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001937742</rptOwnerCik>
+            <rptOwnerName>Fletcher Kyle</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CELULARITY INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>170 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>FLORHAM PARK</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07932</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-13</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>201</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.7141</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>256799</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld by the Issuer to satisfy its tax withholding obligations associated with the vesting and settlement of restricted stock units (&quot;RSUs&quot;) granted under the Celularity Inc. 2021 Equity Incentive Plan (the &quot;2021 Plan&quot;) and does not represent a sale.</footnote>
+        <footnote id="F2">Includes 249,462 shares underlying RSUs granted under the 2021 Plan. Each RSU represents the right to receive one share of the Issuer's Class A common stock subject to vesting.</footnote>
+    </footnotes>
+
+    <remarks>Executive Vice President, General Counsel and Chief Compliance Officer</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Kyle Fletcher</signatureName>
+        <signatureDate>2023-04-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

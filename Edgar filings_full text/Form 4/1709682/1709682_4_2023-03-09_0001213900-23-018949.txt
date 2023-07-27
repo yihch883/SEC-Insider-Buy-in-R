@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001213900-23-018949.txt : 20230309
+<SEC-HEADER>0001213900-23-018949.hdr.sgml : 20230309
+<ACCEPTANCE-DATETIME>20230309194915
+ACCESSION NUMBER:		0001213900-23-018949
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230307
+FILED AS OF DATE:		20230309
+DATE AS OF CHANGE:		20230309
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Eperjesy Christopher J
+		CENTRAL INDEX KEY:			0001225634
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38186
+		FILM NUMBER:		23721275
+
+	MAIL ADDRESS:	
+		STREET 1:		505 HIGHWAY 169 NORTH
+		CITY:			PLYMOUTH
+		STATE:			MN
+		ZIP:			55441
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	EPERJESY CHRISTOPHER J
+		DATE OF NAME CHANGE:	20030402
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Custom Truck One Source, Inc.
+		CENTRAL INDEX KEY:			0001709682
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EQUIPMENT RENTAL & LEASING, NEC [7359]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7701 INDEPENDENCE AVENUE
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64125
+		BUSINESS PHONE:		(816) 241-4888
+
+	MAIL ADDRESS:	
+		STREET 1:		7701 INDEPENDENCE AVENUE
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64125
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NESCO HOLDINGS, INC.
+		DATE OF NAME CHANGE:	20190730
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Capitol Investment Corp. IV
+		DATE OF NAME CHANGE:	20170619
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-07</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001709682</issuerCik>
+        <issuerName>Custom Truck One Source, Inc.</issuerName>
+        <issuerTradingSymbol>CTOS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001225634</rptOwnerCik>
+            <rptOwnerName>Eperjesy Christopher J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>7701 INDEPENDENCE AVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>KANSAS CITY</rptOwnerCity>
+            <rptOwnerState>MO</rptOwnerState>
+            <rptOwnerZipCode>64125</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-07</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7470</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>37470</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents an award of performance stock units originally granted to the reporting person on August 15, 2022. On March 7, 2023, the compensation committee of the Issuer's board of directors certified the performance level applicable to the performance stock units, resulting in the satisfaction of the performance vesting condition with respect to the shares reported herein. Such shares remain subject to a time-based vesting condition, which will be satisfied on December 31, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Adam Haubenreich, Attorney-in-fact</signatureName>
+        <signatureDate>2023-03-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0001209191-23-038069.txt : 20230616
+<SEC-HEADER>0001209191-23-038069.hdr.sgml : 20230616
+<ACCEPTANCE-DATETIME>20230616181731
+ACCESSION NUMBER:		0001209191-23-038069
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230614
+FILED AS OF DATE:		20230616
+DATE AS OF CHANGE:		20230616
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hoke Dirk
+		CENTRAL INDEX KEY:			0001892840
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39493
+		FILM NUMBER:		231022672
+
+	MAIL ADDRESS:	
+		STREET 1:		251 RHODE ISLAND STREET
+		STREET 2:		SUITE 204
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Spire Global, Inc.
+		CENTRAL INDEX KEY:			0001816017
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATION SERVICES, NEC [4899]
+		IRS NUMBER:				851276957
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8000 TOWERS CRESCENT DRIVE
+		STREET 2:		SUITE 1225
+		CITY:			VIENNA
+		STATE:			VA
+		ZIP:			22182
+		BUSINESS PHONE:		(202) 301-5127
+
+	MAIL ADDRESS:	
+		STREET 1:		8000 TOWERS CRESCENT DRIVE
+		STREET 2:		SUITE 1225
+		CITY:			VIENNA
+		STATE:			VA
+		ZIP:			22182
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NavSight Holdings, Inc.
+		DATE OF NAME CHANGE:	20200624
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001816017</issuerCik>
+        <issuerName>Spire Global, Inc.</issuerName>
+        <issuerTradingSymbol>SPIR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001892840</rptOwnerCik>
+            <rptOwnerName>Hoke Dirk</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>8000 TOWERS CRESCENT DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1100</rptOwnerStreet2>
+            <rptOwnerCity>VIENNA</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22182</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.671</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>491573</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-06-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>491573</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>491573</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares subject to the option vest in full on the earlier of (i) the one-year anniversary of the grant date, or (ii) the date of the first annual meeting of stockholders following grant date, subject to the Reporting Person's continued service through such vesting date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas Krywe, by Power of Attorney for Dirk Hoke</signatureName>
+        <signatureDate>2023-06-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

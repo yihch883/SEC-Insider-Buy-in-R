@@ -1,0 +1,239 @@
+<SEC-DOCUMENT>0001840502-23-000026.txt : 20230104
+<SEC-HEADER>0001840502-23-000026.hdr.sgml : 20230104
+<ACCEPTANCE-DATETIME>20230104163045
+ACCESSION NUMBER:		0001840502-23-000026
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230101
+FILED AS OF DATE:		20230104
+DATE AS OF CHANGE:		20230104
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sundjaja Kristy
+		CENTRAL INDEX KEY:			0001951710
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40566
+		FILM NUMBER:		23506942
+
+	MAIL ADDRESS:	
+		STREET 1:		16 MADISON SQ W 7TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Taboola.com Ltd.
+		CENTRAL INDEX KEY:			0001840502
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		16 MADISON SQUARE WEST, 7TH FL.
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+		BUSINESS PHONE:		(212) 206-7663
+
+	MAIL ADDRESS:	
+		STREET 1:		16 MADISON SQUARE WEST, 7TH FL.
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001840502</issuerCik>
+        <issuerName>Taboola.com Ltd.</issuerName>
+        <issuerTradingSymbol>TBLA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001951710</rptOwnerCik>
+            <rptOwnerName>Sundjaja Kristy</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TABOOLA.COM LTD.</rptOwnerStreet1>
+            <rptOwnerStreet2>16 MADISON SQUARE WEST 7TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10010</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>Chief People Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12658</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.07</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>349373</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10575</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.08</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>338798</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Share Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.07</value>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12658</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12658</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>37981</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares were withheld to satisfy tax withholding and exercise price obligations in connection with the vesting of previously awarded Restricted Share Units (&quot;RSUs&quot;). No shares were sold.</footnote>
+        <footnote id="F2">Includes 104,022 ordinary shares.</footnote>
+        <footnote id="F3">Includes 10,465 RSUs which shall vest in equal quarterly installments through 2023, subject to the Reporting Person's provision of service to the Issuer on each vesting date. Each RSU represents the right to receive one ordinary share upon vesting and settlement.</footnote>
+        <footnote id="F4">Includes 224,311 RSUs which shall vest in equal quarterly installments through 2026, subject to the Reporting Person's provision of service to the Issuer on each vesting date. Each RSU represents the right to receive one ordinary share upon vesting and settlement.</footnote>
+        <footnote id="F5">The reported RSUs include the indicated exercise price at the time of grant.</footnote>
+        <footnote id="F6">The RSUs shall vest in equal quarterly installments through 2023, subject to the Reporting Person's provision of service to the Issuer on each vesting date and the closing share price of the Issuer's ordinary shares the day before vesting exceeding the exercise price. The RSUs will be forfeited if the closing share price of the Issuer's ordinary shares the day before vesting does not exceed the exercise price.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John Ferrantino, Attorney-in-fact</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

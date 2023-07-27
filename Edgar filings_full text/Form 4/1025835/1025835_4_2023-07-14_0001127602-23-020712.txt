@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001127602-23-020712.txt : 20230714
+<SEC-HEADER>0001127602-23-020712.hdr.sgml : 20230714
+<ACCEPTANCE-DATETIME>20230714094249
+ACCESSION NUMBER:		0001127602-23-020712
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230712
+FILED AS OF DATE:		20230714
+DATE AS OF CHANGE:		20230714
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RODRIGUES DANIEL A
+		CENTRAL INDEX KEY:			0001249019
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15373
+		FILM NUMBER:		231088188
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ENGINEERED SUPPORT SYSTEMS INC
+		STREET 2:		201 EVANS LANE
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ENTERPRISE FINANCIAL SERVICES CORP
+		CENTRAL INDEX KEY:			0001025835
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				431706259
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 NORTH MERAMEC
+		STREET 2:		150 NORTH MERAMEC
+		CITY:			CLAYTON
+		STATE:			MO
+		ZIP:			63105
+		BUSINESS PHONE:		3147255500
+
+	MAIL ADDRESS:	
+		STREET 1:		150 NORTH MERAMEC
+		STREET 2:		150 NORTH MERAMEC
+		CITY:			CLAYTON
+		STATE:			MO
+		ZIP:			63105
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENTERBANK HOLDINGS INC
+		DATE OF NAME CHANGE:	19961024
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001025835</issuerCik>
+        <issuerName>ENTERPRISE FINANCIAL SERVICES CORP</issuerName>
+        <issuerTradingSymbol>EFSC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001249019</rptOwnerCik>
+            <rptOwnerName>RODRIGUES DANIEL A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>150 N. MERAMEC</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CLAYTON</rptOwnerCity>
+            <rptOwnerState>MO</rptOwnerState>
+            <rptOwnerZipCode>63105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1617</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1617</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4916</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each phantom share represents the right to receive one share of common stock upon distribution from the Non-Management Director Stock Plan deferred compensation account.</footnote>
+        <footnote id="F2">Shares of common stock will be distributed following termination of the reporting person's services as an Independent Director of the Company.</footnote>
+        <footnote id="F3">Represents shares issued under the Non-Management Director Stock Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel A. Rodrigues</signatureName>
+        <signatureDate>2023-07-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

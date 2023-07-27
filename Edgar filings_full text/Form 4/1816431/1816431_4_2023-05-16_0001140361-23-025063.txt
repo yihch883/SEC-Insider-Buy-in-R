@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001140361-23-025063.txt : 20230516
+<SEC-HEADER>0001140361-23-025063.hdr.sgml : 20230516
+<ACCEPTANCE-DATETIME>20230516170141
+ACCESSION NUMBER:		0001140361-23-025063
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230512
+FILED AS OF DATE:		20230516
+DATE AS OF CHANGE:		20230516
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Makes Brigid
+		CENTRAL INDEX KEY:			0001375927
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39486
+		FILM NUMBER:		23928510
+
+	MAIL ADDRESS:	
+		STREET 1:		20245 SW 95TH AVENUE
+		CITY:			TUALATIN
+		STATE:			OR
+		ZIP:			97062
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Quantum-Si Inc
+		CENTRAL INDEX KEY:			0001816431
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		IRS NUMBER:				851388175
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		530 OLD WHITFIELD STREET
+		CITY:			GUILFORD
+		STATE:			CT
+		ZIP:			06437
+		BUSINESS PHONE:		(203) 458-7100
+
+	MAIL ADDRESS:	
+		STREET 1:		530 OLD WHITFIELD STREET
+		CITY:			GUILFORD
+		STATE:			CT
+		ZIP:			06437
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HighCape Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20200629
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001816431</issuerCik>
+        <issuerName>Quantum-Si Inc</issuerName>
+        <issuerTradingSymbol>QSI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001375927</rptOwnerCik>
+            <rptOwnerName>Makes Brigid</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O QUANTUM-SI INCORPORATED</rptOwnerStreet1>
+            <rptOwnerStreet2>530 OLD WHITFIELD STREET</rptOwnerStreet2>
+            <rptOwnerCity>GUILFORD</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06437</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.41</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>120481</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-05-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>120481</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>120481</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares underlying this option vest on the date of the Issuer's next regular annual stockholders meeting, subject to Ms. Makes' continued service through the applicable vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christian LaPointe, Ph.D., Attorney-in-Fact</signatureName>
+        <signatureDate>2023-05-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,213 @@
+<SEC-DOCUMENT>0001628280-23-009293.txt : 20230327
+<SEC-HEADER>0001628280-23-009293.hdr.sgml : 20230327
+<ACCEPTANCE-DATETIME>20230327165120
+ACCESSION NUMBER:		0001628280-23-009293
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230323
+FILED AS OF DATE:		20230327
+DATE AS OF CHANGE:		20230327
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blankenship Carolyn
+		CENTRAL INDEX KEY:			0001926488
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40031
+		FILM NUMBER:		23765115
+
+	MAIL ADDRESS:	
+		STREET 1:		1731 EMBARCADERO RD
+		STREET 2:		SUITE 200
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94303
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BigBear.ai Holdings, Inc.
+		CENTRAL INDEX KEY:			0001836981
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				854164597
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6811 BENJAMIN FRANKLIN DRIVE, SUITE 200
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21046
+		BUSINESS PHONE:		(410) 967-0335
+
+	MAIL ADDRESS:	
+		STREET 1:		6811 BENJAMIN FRANKLIN DRIVE, SUITE 200
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21046
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GigCapital4, Inc.
+		DATE OF NAME CHANGE:	20201217
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_167995026625967.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001836981</issuerCik>
+        <issuerName>BigBear.ai Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>BBAI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001926488</rptOwnerCik>
+            <rptOwnerName>Blankenship Carolyn</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BIGBEAR HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>6811 BENJAMIN FRANKLIN DRIVE, SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>COLUMBIA</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>21046</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>General Counsel and Secretary</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>47554</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>374005</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.84</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>59817</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-03-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>59817.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>59817</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit (&quot;RSU&quot;) represents a right to receive one share of the issuer's Common Stock, subject to the Reporting Person's continued service through the vesting date. The reported RSUs were granted on March 23, 2023 and vest as follows: 25% of the RSUs will vest on March 23, 2024 and the remaining 75% will vest in equal quarterly installments on the last day of each calendar quarter thereafter, such that the entire award will be vested on December 31, 2026 (subject to the reporting person's continued employment through each vesting date).</footnote>
+        <footnote id="F2">The option was granted on March 23, 2023 and vests as follows: 25% of the option will vest on March 23, 2024 and the remaining 75% will vest in equal quarterly installments on the last day of each calendar quarter thereafter, such that the entire award will be vested on December 31, 2026 (subject to the reporting person's continued employment through each vesting date).</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Carolyn Blankenship</signatureName>
+        <signatureDate>2023-03-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

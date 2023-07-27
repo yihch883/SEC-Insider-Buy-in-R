@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001062993-23-000843.txt : 20230111
+<SEC-HEADER>0001062993-23-000843.hdr.sgml : 20230111
+<ACCEPTANCE-DATETIME>20230111163015
+ACCESSION NUMBER:		0001062993-23-000843
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230110
+FILED AS OF DATE:		20230111
+DATE AS OF CHANGE:		20230111
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Proctor Timothy D
+		CENTRAL INDEX KEY:			0001380482
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40016
+		FILM NUMBER:		23523916
+
+	MAIL ADDRESS:	
+		STREET 1:		301 SOUTH COLLEGE STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28288-0630
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vintage Wine Estates, Inc.
+		CENTRAL INDEX KEY:			0001834045
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		937 TAHOE BOULEVARD
+		STREET 2:		SUITE 210
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+		BUSINESS PHONE:		707-346-3640
+
+	MAIL ADDRESS:	
+		STREET 1:		937 TAHOE BOULEVARD
+		STREET 2:		SUITE 210
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bespoke Capital Acquisition Corp
+		DATE OF NAME CHANGE:	20201125
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001834045</issuerCik>
+        <issuerName>Vintage Wine Estates, Inc.</issuerName>
+        <issuerTradingSymbol>VWE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001380482</rptOwnerCik>
+            <rptOwnerName>Proctor Timothy D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>937 TAHOE BOULEVARD, SUITE 210</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>INCLINE VILLAGE</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89451</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>830</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>39210</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The transaction reported represents the receipt by the Reporting Person of an in-kind distribution, for no consideration, of shares of common stock of the Issuer from Bespoke Sponsor Capital LP.</footnote>
+        <footnote id="F2">Due to an administrative error, the Reporting Person's previous Form 4 erroneously stated that the Reporting Person was granted 10,478 shares of restricted stock. The Reporting Person was granted 10,478 restricted stock units (&quot;RSUs&quot;). The 10,478 RSUs vest on 11/30/2023.</footnote>
+        <footnote id="F3">Includes 17,550 RSUs.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Patrick A. Roney, Attorney-in-Fact for Timothy D. Proctor</signatureName>
+        <signatureDate>2023-01-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

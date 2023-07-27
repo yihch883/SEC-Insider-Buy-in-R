@@ -1,0 +1,220 @@
+<SEC-DOCUMENT>0001493152-23-007032.txt : 20230308
+<SEC-HEADER>0001493152-23-007032.hdr.sgml : 20230308
+<ACCEPTANCE-DATETIME>20230308184022
+ACCESSION NUMBER:		0001493152-23-007032
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20220809
+FILED AS OF DATE:		20230308
+DATE AS OF CHANGE:		20230308
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mehana Capital LLC
+		CENTRAL INDEX KEY:			0001932779
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41462
+		FILM NUMBER:		23717596
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4348 WAIALAE AVE., #632
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96816
+		BUSINESS PHONE:		8088926611
+
+	MAIL ADDRESS:	
+		STREET 1:		4348 WAIALAE AVE., #632
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96816
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Pono Capital Two, Inc.
+		CENTRAL INDEX KEY:			0001930313
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				881263511
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4348 WAIALAE AVE., #632
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96816
+		BUSINESS PHONE:		8088926611
+
+	MAIL ADDRESS:	
+		STREET 1:		4348 WAIALAE AVE., #632
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96816
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-08-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001930313</issuerCik>
+        <issuerName>Pono Capital Two, Inc.</issuerName>
+        <issuerTradingSymbol>PTWO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001932779</rptOwnerCik>
+            <rptOwnerName>Mehana Capital LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>643 ILALO ST. #102</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HONOLULU</rptOwnerCity>
+            <rptOwnerState>HI</rptOwnerState>
+            <rptOwnerZipCode>96813</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-08-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>634375</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>634375</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants to purchase Class A Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.5</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-08-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>634375</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>634375</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>634375</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person acquired 634,375 units, each unit consisting of one share of Class A Common Stock and one redeemable warrant, with each warrant entitling the holder thereof to purchase one share of Class A Common Stock for $11.50 per share.</footnote>
+        <footnote id="F2">The securities are held directly by Mehana Capital LLC, the sponsor of the issuer (the &quot;Sponsor&quot;). Dustin Shindo, the registrant's chairman, is the manager of the Sponsor. Mr. Shindo may be deemed to beneficially own shares held by the Sponsor by virtue of his control over the Sponsor. Mr. Shindo disclaims beneficial ownership of the securities held by the Sponsor, except to the extent of his respective pecuniary interest.</footnote>
+        <footnote id="F3">The warrants become exercisable on the later of (i) 30 days after the completion of the registrant's initial business combination and (ii) 12 months from the effective date of the registration statement on Form S-1 (File No. 333-265571) for registrant's initial public offering.</footnote>
+        <footnote id="F4">The warrants expire 5 years after the completion of the registrant's initial business combination or earlier upon redemption or liquidation, as described in the registrant's prospectus filed with the SEC.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Mehana Capital LLC, by Dustin Shindo, Manager /s/ Dustin Shindo</signatureName>
+        <signatureDate>2023-03-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

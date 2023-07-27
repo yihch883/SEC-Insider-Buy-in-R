@@ -1,0 +1,214 @@
+<SEC-DOCUMENT>0000313616-23-000206.txt : 20230517
+<SEC-HEADER>0000313616-23-000206.hdr.sgml : 20230517
+<ACCEPTANCE-DATETIME>20230517170608
+ACCESSION NUMBER:		0000313616-23-000206
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230515
+FILED AS OF DATE:		20230517
+DATE AS OF CHANGE:		20230517
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Couchara Georgeann
+		CENTRAL INDEX KEY:			0001877108
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08089
+		FILM NUMBER:		23932716
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 PENNSYLVANIA AVENUE, NW
+		STREET 2:		SUITE 800W
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20037
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DANAHER CORP /DE/
+		CENTRAL INDEX KEY:			0000313616
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				591995548
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 PENNSYLVANIA AVE. N.W.
+		STREET 2:		SUITE 800W
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20037-1701
+		BUSINESS PHONE:		2028280850
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 PENNSYLVANIA AVE. N.W.
+		STREET 2:		SUITE 800W
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20037-1701
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DMG INC
+		DATE OF NAME CHANGE:	19850221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1684357554.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000313616</issuerCik>
+        <issuerName>DANAHER CORP /DE/</issuerName>
+        <issuerTradingSymbol>DHR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001877108</rptOwnerCik>
+            <rptOwnerName>Couchara Georgeann</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2200 PENNSYLVANIA AVENUE NW</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 800W</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20037</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP, Human Resources</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2204</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3769</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee stock option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>226.94</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6121</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-05-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6121</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6121</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On the date indicated, Danaher Corporation granted the reporting person restricted stock units (RSUs) in the amount indicated. Since the RSUs are payable solely in common stock, they are being reported in Table I of this Form 4. One fourth of the RSUs vest on each of the first four anniversaries of the grant date, which is May 15, 2023.</footnote>
+        <footnote id="F2">One fourth of the options granted become exercisable on each of the first four anniversaries of the grant date, which is May 15, 2023.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ James F. O'Reilly, attorney-in-fact for Georgeann Couchara</signatureName>
+        <signatureDate>2023-05-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

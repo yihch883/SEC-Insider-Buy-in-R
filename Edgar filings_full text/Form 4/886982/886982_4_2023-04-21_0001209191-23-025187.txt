@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001209191-23-025187.txt : 20230421
+<SEC-HEADER>0001209191-23-025187.hdr.sgml : 20230421
+<ACCEPTANCE-DATETIME>20230421163024
+ACCESSION NUMBER:		0001209191-23-025187
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230419
+FILED AS OF DATE:		20230421
+DATE AS OF CHANGE:		20230421
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			JOHNSON KEVIN R
+		CENTRAL INDEX KEY:			0001193107
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14965
+		FILM NUMBER:		23836754
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 UTAH AVE. S
+		STREET 2:		SUITE 800
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98134
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDMAN SACHS GROUP INC
+		CENTRAL INDEX KEY:			0000886982
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		IRS NUMBER:				134019460
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+		BUSINESS PHONE:		212-902-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GOLDMAN SACHS GROUP INC/
+		DATE OF NAME CHANGE:	20010104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-19</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000886982</issuerCik>
+        <issuerName>GOLDMAN SACHS GROUP INC</issuerName>
+        <issuerTradingSymbol>GS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001193107</rptOwnerCik>
+            <rptOwnerName>JOHNSON KEVIN R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O GOLDMAN SACHS &amp; CO. LLC</rptOwnerStreet1>
+            <rptOwnerStreet2>200 WEST STREET</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10282</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-19</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>75</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, par value $0.01 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>75</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>396</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted Stock Units (&quot;RSUs&quot;) granted in respect of the Reporting Person's 2023 Annual Retainer for service on the Issuer's Board of Directors are granted quarterly, in arrears. Shares of the Issuer's common stock underlying these RSUs will be delivered approximately 90 days after the retirement of the Reporting Person from the Issuer's Board of Directors.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Beverly L. O'Toole, Attorney-in-fact</signatureName>
+        <signatureDate>2023-04-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

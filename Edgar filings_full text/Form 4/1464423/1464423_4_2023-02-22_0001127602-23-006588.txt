@@ -1,0 +1,146 @@
+<SEC-DOCUMENT>0001127602-23-006588.txt : 20230222
+<SEC-HEADER>0001127602-23-006588.hdr.sgml : 20230222
+<ACCEPTANCE-DATETIME>20230222205845
+ACCESSION NUMBER:		0001127602-23-006588
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230217
+FILED AS OF DATE:		20230222
+DATE AS OF CHANGE:		20230222
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			STARK DEREK
+		CENTRAL INDEX KEY:			0001198631
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34416
+		FILM NUMBER:		23655644
+
+	MAIL ADDRESS:	
+		STREET 1:		4500 PARK GRANADA
+		CITY:			CALABASAS
+		STATE:			CA
+		ZIP:			91302
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PennyMac Mortgage Investment Trust
+		CENTRAL INDEX KEY:			0001464423
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				270186273
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3043 TOWNSGATE ROAD
+		CITY:			WESTLAKE VILLAGE
+		STATE:			CA
+		ZIP:			91361
+		BUSINESS PHONE:		(818) 224-7442
+
+	MAIL ADDRESS:	
+		STREET 1:		3043 TOWNSGATE ROAD
+		CITY:			WESTLAKE VILLAGE
+		STATE:			CA
+		ZIP:			91361
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001464423</issuerCik>
+        <issuerName>PennyMac Mortgage Investment Trust</issuerName>
+        <issuerTradingSymbol>PMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001198631</rptOwnerCik>
+            <rptOwnerName>STARK DEREK</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PENNYMAC MORTGAGE INVESTMENT TRUST</rptOwnerStreet1>
+            <rptOwnerStreet2>3043 TOWNSGATE ROAD</rptOwnerStreet2>
+            <rptOwnerCity>WESTLAKE VILLAGE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91361</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Legal Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares of Beneficial Interest</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>483</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>14.25</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25560</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld for taxes upon vesting of restricted share units.</footnote>
+        <footnote id="F2">The reported amount consists of 7,078 restricted share units and 18,482 common shares of beneficial interest. The restricted share units are to be settled in an equal number of common shares of beneficial interest upon vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Derek Stark</signatureName>
+        <signatureDate>2023-02-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001104659-23-082473.txt : 20230719
+<SEC-HEADER>0001104659-23-082473.hdr.sgml : 20230719
+<ACCEPTANCE-DATETIME>20230719203125
+ACCESSION NUMBER:		0001104659-23-082473
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230717
+FILED AS OF DATE:		20230719
+DATE AS OF CHANGE:		20230719
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Richardson Michael Paul
+		CENTRAL INDEX KEY:			0001971868
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38612
+		FILM NUMBER:		231097919
+
+	MAIL ADDRESS:	
+		STREET 1:		13715 OASIS TERRACE
+		CITY:			LAKEWOOD RANCH
+		STATE:			FL
+		ZIP:			34202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ELECTRAMECCANICA VEHICLES CORP.
+		CENTRAL INDEX KEY:			0001637736
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6060 SILVER DRIVE
+		STREET 2:		THIRD FLOOR
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5H 0H5
+		BUSINESS PHONE:		604-428-7656
+
+	MAIL ADDRESS:	
+		STREET 1:		6060 SILVER DRIVE
+		STREET 2:		THIRD FLOOR
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5H 0H5
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2321515d6_4.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001637736</issuerCik>
+        <issuerName>ELECTRAMECCANICA VEHICLES CORP.</issuerName>
+        <issuerTradingSymbol>SOLO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001971868</rptOwnerCik>
+            <rptOwnerName>Richardson Michael Paul</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>13715 OASIS TERRACE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LAKEWOOD RANCH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>34202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Share Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>26087</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>26087</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>26087</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each deferred share unit (&quot;DSU&quot;) represents a right to receive one share of the issuer's common stock (or, at the election of the reporting person and subject to the approval of the Plan Administrator (as defined in the issuer's 2020 Stock Incentive Plan (the &quot;Plan&quot;)), the cash value thereof) on the settlement date.</footnote>
+        <footnote id="F2">The DSUs reported in this Form 4 represent the annual equity grant in connection with service on the issuer's board of directors for fiscal year 2022, which were not previously granted due to an administrative oversight.</footnote>
+        <footnote id="F3">The DSUs vested in full upon grant and will be settled on the reporting person's Termination Date or Separation from Service, as applicable (each, as defined in the Plan).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael Bridge, as attorney-in-fact</signatureName>
+        <signatureDate>2023-07-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

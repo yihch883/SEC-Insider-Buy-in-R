@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001213900-23-050344.txt : 20230621
+<SEC-HEADER>0001213900-23-050344.hdr.sgml : 20230621
+<ACCEPTANCE-DATETIME>20230621125253
+ACCESSION NUMBER:		0001213900-23-050344
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230616
+FILED AS OF DATE:		20230621
+DATE AS OF CHANGE:		20230621
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Maury Justin Fontaine
+		CENTRAL INDEX KEY:			0001764884
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39500
+		FILM NUMBER:		231028883
+
+	MAIL ADDRESS:	
+		STREET 1:		75 STERLING BLVD APT. 543
+		CITY:			ENGLEWOOD
+		STATE:			NJ
+		ZIP:			07631
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Creatd, Inc.
+		CENTRAL INDEX KEY:			0001357671
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ALLIED TO MOTION PICTURE PRODUCTION [7819]
+		IRS NUMBER:				870645394
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		419 LAFAYETTE STREET, 6TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+		BUSINESS PHONE:		201-258-3770
+
+	MAIL ADDRESS:	
+		STREET 1:		419 LAFAYETTE STREET, 6TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Jerrick Media Holdings, Inc.
+		DATE OF NAME CHANGE:	20160304
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Great Plains Holdings, Inc.
+		DATE OF NAME CHANGE:	20131213
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LILM, INC.
+		DATE OF NAME CHANGE:	20060329
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-16</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001357671</issuerCik>
+        <issuerName>Creatd, Inc.</issuerName>
+        <issuerTradingSymbol>VOCL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001764884</rptOwnerCik>
+            <rptOwnerName>Maury Justin Fontaine</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CREATD, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>419 LAFAYETTE ST</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10003</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>COO &amp; President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6054848</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares (the &quot;Shares&quot;) were issued as an equity award to the key members of the Company's management team.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Justin Maury</signatureName>
+        <signatureDate>2023-06-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

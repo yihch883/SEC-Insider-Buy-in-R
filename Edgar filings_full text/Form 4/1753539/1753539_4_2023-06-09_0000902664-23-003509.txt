@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0000902664-23-003509.txt : 20230609
+<SEC-HEADER>0000902664-23-003509.hdr.sgml : 20230609
+<ACCEPTANCE-DATETIME>20230609162232
+ACCESSION NUMBER:		0000902664-23-003509
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230609
+FILED AS OF DATE:		20230609
+DATE AS OF CHANGE:		20230609
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			JANA PARTNERS LLC
+		CENTRAL INDEX KEY:			0001159159
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39113
+		FILM NUMBER:		231005603
+
+	BUSINESS ADDRESS:	
+		STREET 1:		767 FIFTH AVENUE
+		STREET 2:		8TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10153
+		BUSINESS PHONE:		(212) 455-0900
+
+	MAIL ADDRESS:	
+		STREET 1:		767 FIFTH AVENUE
+		STREET 2:		8TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10153
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BlackSky Technology Inc.
+		CENTRAL INDEX KEY:			0001753539
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				831833760
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13241 WOODLAND PARK ROAD
+		STREET 2:		SUITE 300
+		CITY:			HERNDON
+		STATE:			VA
+		ZIP:			20171
+		BUSINESS PHONE:		571-267-1571
+
+	MAIL ADDRESS:	
+		STREET 1:		13241 WOODLAND PARK ROAD
+		STREET 2:		SUITE 300
+		CITY:			HERNDON
+		STATE:			VA
+		ZIP:			20171
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Osprey Technology Acquisition Corp.
+		DATE OF NAME CHANGE:	20190619
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Osprey Energy Acquisition Corp. II
+		DATE OF NAME CHANGE:	20180928
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Osprey Acquisition Corp. II
+		DATE OF NAME CHANGE:	20180918
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-09</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001753539</issuerCik>
+        <issuerName>BlackSky Technology Inc.</issuerName>
+        <issuerTradingSymbol>BKSY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001159159</rptOwnerCik>
+            <rptOwnerName>JANA PARTNERS LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>767 FIFTH AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>8TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10153</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2975908</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction represents an in-kind distribution by an affiliate of JANA Partners LLC (&quot;JANA&quot;) to its members for no consideration.</footnote>
+        <footnote id="F2">JANA beneficially owns the securities reported herein through various accounts under its management and control. Barry Rosenstein is the Managing Partner of JANA. JANA and Barry Rosenstein each disclaim any beneficial ownership of any of the Issuer's securities reported herein except to the extent of their respective pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks>David DiDomenico is a partner of JANA. JANA may have been deemed to be a director by deputization for purposes of Section 16 under the Securities Exchange Act of 1934 by virtue of the fact that Mr. DiDomenico serves on the board of directors of the Issuer.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ JANA Partners LLC, by Jennifer Fanjiang, Partner, Chief Legal Officer and Chief Compliance Officer</signatureName>
+        <signatureDate>2023-06-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

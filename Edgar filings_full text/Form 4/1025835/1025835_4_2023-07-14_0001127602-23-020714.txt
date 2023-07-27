@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001127602-23-020714.txt : 20230714
+<SEC-HEADER>0001127602-23-020714.hdr.sgml : 20230714
+<ACCEPTANCE-DATETIME>20230714094412
+ACCESSION NUMBER:		0001127602-23-020714
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230712
+FILED AS OF DATE:		20230714
+DATE AS OF CHANGE:		20230714
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Young Lina A
+		CENTRAL INDEX KEY:			0001958388
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15373
+		FILM NUMBER:		231088190
+
+	MAIL ADDRESS:	
+		STREET 1:		150 N MERAMEC
+		CITY:			CLAYTON
+		STATE:			MO
+		ZIP:			63105
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ENTERPRISE FINANCIAL SERVICES CORP
+		CENTRAL INDEX KEY:			0001025835
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				431706259
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 NORTH MERAMEC
+		STREET 2:		150 NORTH MERAMEC
+		CITY:			CLAYTON
+		STATE:			MO
+		ZIP:			63105
+		BUSINESS PHONE:		3147255500
+
+	MAIL ADDRESS:	
+		STREET 1:		150 NORTH MERAMEC
+		STREET 2:		150 NORTH MERAMEC
+		CITY:			CLAYTON
+		STATE:			MO
+		ZIP:			63105
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENTERBANK HOLDINGS INC
+		DATE OF NAME CHANGE:	19961024
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001025835</issuerCik>
+        <issuerName>ENTERPRISE FINANCIAL SERVICES CORP</issuerName>
+        <issuerTradingSymbol>EFSC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001958388</rptOwnerCik>
+            <rptOwnerName>Young Lina A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>150 N. MERAMEC</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CLAYTON</rptOwnerCity>
+            <rptOwnerState>MO</rptOwnerState>
+            <rptOwnerZipCode>63105</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1548</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2010</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares issued under the Non-Management Director Stock Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Lina A Young</signatureName>
+        <signatureDate>2023-07-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

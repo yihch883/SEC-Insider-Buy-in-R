@@ -1,0 +1,211 @@
+<SEC-DOCUMENT>0000950170-23-033085.txt : 20230714
+<SEC-HEADER>0000950170-23-033085.hdr.sgml : 20230714
+<ACCEPTANCE-DATETIME>20230714203236
+ACCESSION NUMBER:		0000950170-23-033085
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230712
+FILED AS OF DATE:		20230714
+DATE AS OF CHANGE:		20230714
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Eaton David Daniel
+		CENTRAL INDEX KEY:			0001985549
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36247
+		FILM NUMBER:		231090310
+
+	MAIL ADDRESS:	
+		STREET 1:		1706 PASEO DE PERALTA
+		CITY:			SANTA FE
+		STATE:			NM
+		ZIP:			87501
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			META MATERIALS INC.
+		CENTRAL INDEX KEY:			0001431959
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				743237581
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 RESEARCH DRIVE
+		CITY:			DARTMOUTH
+		STATE:			A5
+		ZIP:			B2Y 4M9
+		BUSINESS PHONE:		1-902-482-5729
+
+	MAIL ADDRESS:	
+		STREET 1:		1 RESEARCH DRIVE
+		CITY:			DARTMOUTH
+		STATE:			A5
+		ZIP:			B2Y 4M9
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TORCHLIGHT ENERGY RESOURCES INC
+		DATE OF NAME CHANGE:	20110303
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Pole Perfect Studios, Inc.
+		DATE OF NAME CHANGE:	20080409
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001431959</issuerCik>
+        <issuerName>META MATERIALS INC.</issuerName>
+        <issuerTradingSymbol>MMAT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001985549</rptOwnerCik>
+            <rptOwnerName>Eaton David Daniel</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O META MATERIALS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>60 HIGHFIELD PARK DRIVE, SUITE 102</rptOwnerStreet2>
+            <rptOwnerCity>DARTMOUTH</rptOwnerCity>
+            <rptOwnerState>A5</rptOwnerState>
+            <rptOwnerZipCode>B3A 4R9</rptOwnerZipCode>
+            <rptOwnerStateDescription>NOVA SCOTIA, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Legal Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.1882</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>320000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-07-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>320000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>320000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reported shares are represented by restricted stock units (&quot;RSUs&quot;), and each RSU is the economic equivalent of one share of Meta Materials Inc. common stock. Subject to the reporting person continuing as a Service Provider (as defined in the Issuer's 2021 Equity Incentive Plan) from July 12, 2023, the RSUs will vest in equal annual installments over 4 years from July 12, 2023 such that the RSUs are fully vested on the 4-year anniversary of July 12, 2023.</footnote>
+        <footnote id="F2">Subject to the reporting person continuing to be a Service Provider (as defined in the Issuer's 2021 Equity Incentive Plan) from July 12, 2023, the shares subject to the stock option shall vest in equal annual installments over 4 years on the same date from July 12, 2023, such that the option is fully vested on the 4-year anniversary of July 12, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ David Daniel Eaton</signatureName>
+        <signatureDate>2023-07-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

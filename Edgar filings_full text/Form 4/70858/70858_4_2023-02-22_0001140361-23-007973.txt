@@ -1,0 +1,614 @@
+<SEC-DOCUMENT>0001140361-23-007973.txt : 20230222
+<SEC-HEADER>0001140361-23-007973.hdr.sgml : 20230222
+<ACCEPTANCE-DATETIME>20230222123337
+ACCESSION NUMBER:		0001140361-23-007973
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20230221
+FILED AS OF DATE:		20230222
+DATE AS OF CHANGE:		20230222
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BANK OF AMERICA CORP /DE/
+		CENTRAL INDEX KEY:			0000070858
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-22752
+		FILM NUMBER:		23651960
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BANK OF AMERICA CORPORATE CENTER
+		STREET 2:		100 N TRYON ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+		BUSINESS PHONE:		7043868486
+
+	MAIL ADDRESS:	
+		STREET 1:		BANK OF AMERICA CORPORATE CENTER
+		STREET 2:		100 N TRYON ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	BANKAMERICA CORP/DE/
+		DATE OF NAME CHANGE:	19981022
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NATIONSBANK CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	NCNB CORP
+		DATE OF NAME CHANGE:	19920107
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Banc of America Preferred Funding Corp
+		CENTRAL INDEX KEY:			0001565450
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-22752
+		FILM NUMBER:		23651959
+
+	BUSINESS ADDRESS:	
+		STREET 1:		214 NORTH TRYON STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+		BUSINESS PHONE:		(980) 386-4161
+
+	MAIL ADDRESS:	
+		STREET 1:		214 NORTH TRYON STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nuveen Intermediate Duration Municipal Term Fund
+		CENTRAL INDEX KEY:			0001557915
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MA
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 WEST WACKER DR.
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		312-917-8146
+
+	MAIL ADDRESS:	
+		STREET 1:		333 WEST WACKER DR.
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-21</periodOfReport>
+
+    <notSubjectToSection16>true</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001557915</issuerCik>
+        <issuerName>Nuveen Intermediate Duration Municipal Term Fund</issuerName>
+        <issuerTradingSymbol>NID</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000070858</rptOwnerCik>
+            <rptOwnerName>BANK OF AMERICA CORP /DE/</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>BANK OF AMERICA CORPORATE CENTER</rptOwnerStreet1>
+            <rptOwnerStreet2>100 N TRYON ST</rptOwnerStreet2>
+            <rptOwnerCity>CHARLOTTE</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>28255</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001565450</rptOwnerCik>
+            <rptOwnerName>Banc of America Preferred Funding Corp</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>214 NORTH TRYON STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHARLOTTE</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>28255</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Adjustable Rate MuniFund Term Preferred Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1750</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Subsidiary</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The 1,750 adjustable rate munifund term preferred shares reported as disposed of in Table I represent adjustable rate munifund term preferred shares of the Issuer (the &quot;AMTP Shares&quot;) that were beneficially owned by Banc of America Preferred Funding Corporation (&quot;BAPFC&quot;). The AMTP Shares were disposed of as a result of a redemption by the Issuer for a redemption price of $100,215.9726 per share (which includes a liquidation preference of $100,000.00 per share and accrued dividends of $215.9726 per share). BAPFC is a wholly owned subsidiary of Bank of America Corporation.</footnote>
+        <footnote id="F2">This statement is jointly filed by Bank of America Corporation (&quot;BAC&quot;) and BAPFC.  BAC holds an indirect interest in the securities listed in Table I (the &quot;Securities&quot;) by virtue of its 100% ownership of its subsidiary BAPFC.</footnote>
+        <footnote id="F3">Each reporting person declares that neither the filing of this statement nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) of the US Securities Exchange Act of 1934 or any other purpose, (i) acting (or has agreed or is agreeing to act together with any other person) as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Issuer or otherwise with respect to the Issuer or any securities of the Issuer or (ii) a member of any group with respect to the Issuer or any securities of the Issuer.</footnote>
+    </footnotes>
+
+    <remarks>Exhibits Index
+Exhibit 99.1 - Joint Filing Agreement
+Exhibit 99.2 - Joint Filer Information</remarks>
+
+    <ownerSignature>
+        <signatureName>BANK OF AMERICA CORPORATION
+by:
+/s/ Michael Jentis</signatureName>
+        <signatureDate>2023-02-22</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BANC OF AMERICA PREFERRED FUNDING CORPORATION
+by:
+/s/ Michael Jentis</signatureName>
+        <signatureDate>2023-02-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>brhc10048463_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Summit Financial
+         Document created using Broadridge PROfile 23.1.2.5118
+         Copyright 1995 - 2023 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <hr noshade="noshade" align="center" style="height: 4px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;">
+    <div style="text-align: right;">
+      <div style="font-weight: bold;">EXHIBIT 99.1</div>
+    </div>
+    <div style="text-align: right;">&#160;
+      <div style="text-align: center;">JOINT FILING AGREEMENT</div>
+      <div>&#160; <br>
+      </div>
+      <div style="text-align: justify; text-indent: 36pt;">Pursuant to and in accordance with the Securities Exchange Act of 1934, as amended (the &#8220;<font style="font-weight: bold;">Exchange Act</font>&#8221;), and the rules and regulations thereunder, each party
+        hereto hereby agrees to the joint filing, on behalf of each of them, of any filing required by such party under Section 13 or Section 16 of the Exchange Act or any rule or regulation thereunder (including any amendment, restatement, supplement,
+        and/or exhibit thereto) with the Securities and Exchange Commission (and, if such security is registered on a national securities exchange, also with the exchange), and further agrees to the filing, furnishing, and/or incorporation by reference of
+        this agreement as an exhibit thereto. This agreement shall remain in full force and effect until revoked by any party hereto in a signed writing provided to each other party hereto, and then only with respect to such revoking party.</div>
+      <div>&#160;</div>
+      <div style="text-align: justify;">IN WITNESS WHEREOF, each party hereto, being duly authorized, has caused this agreement to be executed and effective as of the date set forth below.</div>
+      <div style="text-align: justify;"> <br>
+      </div>
+      <div style="text-align: justify;">
+        <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);" id="z9eddb67998d045849aab683d6f10d634">
+
+            <tr>
+              <td style="width: 22%; vertical-align: top;">
+                <div style="text-align: justify;">Date: February 22, 2023</div>
+              </td>
+              <td style="width: 78%; vertical-align: top;">
+                <div style="text-align: justify; font-weight: bold;">BANK OF AMERICA CORPORATION</div>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="1" style="width: 22%; vertical-align: top;">&#160;</td>
+              <td rowspan="1" style="width: 78%; vertical-align: top;">&#160;</td>
+            </tr>
+
+        </table>
+        <div>
+          <table cellspacing="0" cellpadding="0" border="0" id="z5076906c861645d791e74c4d08746754" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td rowspan="1" style="width: 22%; padding-bottom: 2px;"><br>
+                </td>
+                <td rowspan="1" style="width: 3%; padding-bottom: 2px;">
+                  <div>By:<u> </u></div>
+                </td>
+                <td rowspan="1" style="width: 20%; border-bottom: 2px solid rgb(0, 0, 0);">
+                  <div style="margin-left: 9pt">/s/ Michael Jentis</div>
+                </td>
+                <td colspan="1" rowspan="1" style="width: 55%; padding-bottom: 2px;">&#160;</td>
+              </tr>
+
+          </table>
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td rowspan="1" style="width: 22%;">&#160;</td>
+                <td rowspan="1" style="width: 78px;">Name:&#160; Michael Jentis</td>
+              </tr>
+              <tr>
+                <td rowspan="1" style="width: 22%;">&#160;</td>
+                <td rowspan="1" style="width: 78px;">Title:&#160; Managing Director</td>
+              </tr>
+
+          </table>
+          <div><br>
+          </div>
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td rowspan="1" style="width: 22%;">&#160;</td>
+                <td colspan="3" rowspan="1" style="font-weight: bold;">BANC OF AMERICA PREFERRED FUNDING CORPORATION</td>
+              </tr>
+              <tr>
+                <td rowspan="1" style="width: 22%;">&#160;</td>
+                <td colspan="3" rowspan="1" style="font-weight: bold;">&#160;</td>
+              </tr>
+              <tr>
+                <td rowspan="1" style="width: 22%; padding-bottom: 2px;">&#160;</td>
+                <td rowspan="1" style="width: 3%; padding-bottom: 2px;">
+                  <div>By:</div>
+                </td>
+                <td rowspan="1" style="width: 20%; border-bottom: 2px solid rgb(0, 0, 0);">
+                  <div style="margin-left: 9pt">/s/ Michael Jentis&#160;</div>
+                </td>
+                <td rowspan="1" style="width: 55%; padding-bottom: 2px;">&#160;</td>
+              </tr>
+              <tr>
+                <td rowspan="1" style="width: 22%;">&#160;</td>
+                <td colspan="3" rowspan="1">Name:&#160; Michael Jentis <br>
+                </td>
+              </tr>
+              <tr>
+                <td rowspan="1" style="width: 22%;">&#160;</td>
+                <td colspan="3" rowspan="1">Title:&#160; Managing Director <br>
+                </td>
+              </tr>
+
+          </table>
+        </div>
+        <div><br>
+        </div>
+        <div> </div>
+        <div> </div>
+        <div> </div>
+        <div> </div>
+      </div>
+      <div style="text-align: justify;"> <br>
+      </div>
+      <div style="text-align: justify;">
+        <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+      <div style="text-align: justify;"> <br>
+      </div>
+      <br>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>brhc10048463_ex99-2.htm
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Summit Financial
+         Document created using Broadridge PROfile 23.1.2.5118
+         Copyright 1995 - 2023 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <hr noshade="noshade" align="center" style="height: 4px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;">
+    <div style="text-align: right;">
+      <div style="font-weight: bold;">EXHIBIT 99.2</div>
+    </div>
+    <div style="text-align: right;"><font style="font-weight: bold;"></font><br>
+      <div style="text-align: center;">JOINT FILER INFORMATION</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" id="z874498b93d464cda97af7064e3c3d835" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);">
+
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="text-align: center; font-weight: bold;">Item</div>
+            </td>
+            <td style="width: 2.94%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-top: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="2">
+              <div style="text-align: center; font-weight: bold;">Information</div>
+            </td>
+            <td style="width: 42%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; padding-bottom: 2px; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; padding-bottom: 2px; border-right: 2px solid rgb(0, 0, 0);">
+              <div>Name:</div>
+            </td>
+            <td style="width: 2.94%; vertical-align: top;">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" colspan="2">
+              <div style="text-align: justify;">Banc of America Preferred Funding Corporation</div>
+            </td>
+            <td style="width: 42%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 2.94%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="2" rowspan="1">&#160;</td>
+            <td style="width: 42%; vertical-align: top; padding-bottom: 2px;" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0);">
+              <div>Address:</div>
+            </td>
+            <td style="width: 2.94%; vertical-align: top;">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" colspan="2">
+              <div style="text-align: justify;">214 North Tryon Street</div>
+              <div style="text-align: justify;">Charlotte, NC 28255</div>
+            </td>
+            <td style="width: 42%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 2.94%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="2" rowspan="1">&#160;</td>
+            <td style="width: 42%; vertical-align: top; padding-bottom: 2px;" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; padding-bottom: 2px; border-right: 2px solid rgb(0, 0, 0);">
+              <div>Date of Event Requiring</div>
+              <div> Statement (Month/Day/Year):</div>
+            </td>
+            <td style="width: 2.94%; vertical-align: top;">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" colspan="2">
+              <div style="text-align: justify;">February 21, 2023</div>
+            </td>
+            <td style="width: 42%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 2.94%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="2" rowspan="1">&#160;</td>
+            <td style="width: 42%; vertical-align: top; padding-bottom: 2px;" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; padding-bottom: 2px; border-right: 2px solid rgb(0, 0, 0);">
+              <div>Issuer Name and Ticker or </div>
+              <div>Trading Symbol:</div>
+              <div>&#160;</div>
+            </td>
+            <td style="width: 2.94%; vertical-align: top;">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" colspan="2">
+              <div style="text-align: justify;">Nuveen Intermediate Duration Municipal Term Fund</div>
+              <div style="text-align: justify;"> [NID]</div>
+            </td>
+            <td style="width: 42%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 2.94%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="2" rowspan="1">&#160;</td>
+            <td style="width: 42%; vertical-align: top; padding-bottom: 2px;" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; padding-bottom: 2px; border-right: 2px solid rgb(0, 0, 0);">
+              <div>Relationship of Reporting</div>
+              <div> Person(s) to Issuer:</div>
+            </td>
+            <td style="width: 2.94%; vertical-align: top;">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" colspan="2">
+              <div style="text-align: justify;">10% Owner</div>
+            </td>
+            <td style="width: 42%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 2.94%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="2" rowspan="1">&#160;</td>
+            <td style="width: 42%; vertical-align: top; padding-bottom: 2px;" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; padding-bottom: 2px; border-right: 2px solid rgb(0, 0, 0);">
+              <div>If Amendment, Date Original </div>
+              <div>Filed (Month/Day/Year):</div>
+            </td>
+            <td style="width: 2.94%; vertical-align: top;">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" colspan="2">
+              <div style="text-align: justify;">Not Applicable</div>
+            </td>
+            <td style="width: 42%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 2.94%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="2" rowspan="1">&#160;</td>
+            <td style="width: 42%; vertical-align: top; padding-bottom: 2px;" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; padding-bottom: 2px; border-right: 2px solid rgb(0, 0, 0);">
+              <div>Individual or Joint/Group Filing:</div>
+            </td>
+            <td style="width: 2.94%; vertical-align: top;">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" colspan="2">
+              <div style="text-align: justify;">Form filed by More than One Reporting Person</div>
+            </td>
+            <td style="width: 42%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 2.94%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="2" rowspan="1">&#160;</td>
+            <td style="width: 42%; vertical-align: top; padding-bottom: 2px;" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; padding-bottom: 2px; border-right: 2px solid rgb(0, 0, 0);">
+              <div>Signature:</div>
+            </td>
+            <td style="width: 2.94%; vertical-align: top;">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" colspan="2">
+              <div style="text-align: justify;">BANC OF AMERICA PREFERRED FUNDING CORPORATION</div>
+            </td>
+            <td style="width: 42%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; padding-bottom: 2px; border-right: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 2.94%; vertical-align: top;" rowspan="1">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" colspan="2" rowspan="1">&#160;</td>
+            <td style="width: 42%; vertical-align: top;" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 2.94%; vertical-align: top;" rowspan="1">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="vertical-align: top; width: 3%;" rowspan="1">
+              <div>By: <br>
+              </div>
+            </td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0); width: 25%;" rowspan="1"><u>&#160;/s/ Michael Jentis</u></td>
+            <td style="vertical-align: top; width: 42%;" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 2.94%; vertical-align: top;" rowspan="1">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" rowspan="1" colspan="2">Name: Michael Jentis&#160;</td>
+            <td style="width: 42%; vertical-align: top;" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 2.94%; vertical-align: top;" rowspan="1">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0);" rowspan="1" colspan="2">Title: Managing Director&#160;</td>
+            <td style="width: 42%; vertical-align: top;" rowspan="1">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="width: 24.62%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 2.94%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1">&#160;</td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1" rowspan="1">&#160;</td>
+            <td style="vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1" colspan="2">Date: February&#160; 22, 2023&#160;</td>
+            <td style="width: 42%; vertical-align: top; padding-bottom: 2px;" rowspan="1">&#160;</td>
+          </tr>
+
+      </table>
+      <div> <br>
+      </div>
+      <div> <br>
+      </div>
+      <div>
+        <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"> </div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

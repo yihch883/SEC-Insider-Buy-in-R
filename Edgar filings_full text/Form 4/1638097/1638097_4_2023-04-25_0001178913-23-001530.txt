@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001178913-23-001530.txt : 20230425
+<SEC-HEADER>0001178913-23-001530.hdr.sgml : 20230425
+<ACCEPTANCE-DATETIME>20230425172032
+ACCESSION NUMBER:		0001178913-23-001530
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230424
+FILED AS OF DATE:		20230425
+DATE AS OF CHANGE:		20230425
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Galitzer Hillel
+		CENTRAL INDEX KEY:			0001904740
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38556
+		FILM NUMBER:		23845890
+
+	MAIL ADDRESS:	
+		STREET 1:		KIRYAT HADASSAH
+		STREET 2:		MINRAV BUILDING, FIFTH FLOOR
+		CITY:			JERUSALEM
+		STATE:			L3
+		ZIP:			9112002
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Entera Bio Ltd.
+		CENTRAL INDEX KEY:			0001638097
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		KIRYAT HADASSAH, MINRAV BUILDING
+		STREET 2:		FIFTH FLOOR
+		CITY:			JERUSALEM
+		STATE:			L3
+		ZIP:			9112002
+		BUSINESS PHONE:		972-2-532-7151
+
+	MAIL ADDRESS:	
+		STREET 1:		KIRYAT HADASSAH, MINRAV BUILDING
+		STREET 2:		FIFTH FLOOR
+		CITY:			JERUSALEM
+		STATE:			L3
+		ZIP:			9112002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001638097</issuerCik>
+        <issuerName>Entera Bio Ltd.</issuerName>
+        <issuerTradingSymbol>ENTX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001904740</rptOwnerCik>
+            <rptOwnerName>Galitzer Hillel</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>KIRYAT HADASH,MINRAV BUILDING,5TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>JERUSALEM</rptOwnerCity>
+            <rptOwnerState>L3</rptOwnerState>
+            <rptOwnerZipCode>9112002</rptOwnerZipCode>
+            <rptOwnerStateDescription>ISRAEL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.795</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>210000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-04-24</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares, par value NIS 0.0000769 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>210000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>210000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The options vest over a four-year period with 25% of the options vesting on April 24, 2024, the first anniversary of the vesting commencement date. The remaining options vest ratably on a quarterly basis over the remaining three-year period.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Dana Yaacov-Garbeli, Attorney-in-fact</signatureName>
+        <signatureDate>2023-04-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

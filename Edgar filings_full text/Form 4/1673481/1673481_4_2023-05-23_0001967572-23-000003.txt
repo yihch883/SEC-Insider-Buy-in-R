@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001967572-23-000003.txt : 20230523
+<SEC-HEADER>0001967572-23-000003.hdr.sgml : 20230523
+<ACCEPTANCE-DATETIME>20230523141951
+ACCESSION NUMBER:		0001967572-23-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230522
+FILED AS OF DATE:		20230523
+DATE AS OF CHANGE:		20230523
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Woodford Eurasia Assets Ltd.
+		CENTRAL INDEX KEY:			0001967572
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38508
+		FILM NUMBER:		23948283
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10 FOSTER LANE
+		STREET 2:		3RD FLOOR
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC2V 6HR
+		BUSINESS PHONE:		447970437499
+
+	MAIL ADDRESS:	
+		STREET 1:		10 FOSTER LANE
+		STREET 2:		3RD FLOOR
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC2V 6HR
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lottery.com Inc.
+		CENTRAL INDEX KEY:			0001673481
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				811996183
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20808 STATE HWY 71 W, UNIT B
+		CITY:			SPICEWOOD
+		STATE:			TX
+		ZIP:			78669
+		BUSINESS PHONE:		(833) 356-8837
+
+	MAIL ADDRESS:	
+		STREET 1:		20808 STATE HWY 71 W, UNIT B
+		CITY:			SPICEWOOD
+		STATE:			TX
+		ZIP:			78669
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Trident Acquisitions Corp.
+		DATE OF NAME CHANGE:	20160429
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-22</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001673481</issuerCik>
+        <issuerName>Lottery.com Inc.</issuerName>
+        <issuerTradingSymbol>LTRY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001967572</rptOwnerCik>
+            <rptOwnerName>Woodford Eurasia Assets Ltd.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>10 FOSTER LANE</rptOwnerStreet1>
+            <rptOwnerStreet2>3RD FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>LONDON</rptOwnerCity>
+            <rptOwnerState>X0</rptOwnerState>
+            <rptOwnerZipCode>EC2V 6HR</rptOwnerZipCode>
+            <rptOwnerStateDescription>UNITED KINGDOM</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.34</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10118257</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote.</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares were sold at an effective price of $0.34 per share.</footnote>
+        <footnote id="F2">The shares were sold subject to a right of repurchase by an affiliate of Reporting Person and such affiliate maintains certain beneficial rights during the repurchase period.</footnote>
+        <footnote id="F3">A pecuniary interest in the shares of common stock of LTRY was acquired in exchange for minority in membership interests in certain holding companies.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Alex Smotlak</signatureName>
+        <signatureDate>2023-05-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

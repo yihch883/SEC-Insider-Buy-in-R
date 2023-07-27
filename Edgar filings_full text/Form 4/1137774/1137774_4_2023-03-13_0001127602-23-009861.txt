@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001127602-23-009861.txt : 20230313
+<SEC-HEADER>0001127602-23-009861.hdr.sgml : 20230313
+<ACCEPTANCE-DATETIME>20230313160542
+ACCESSION NUMBER:		0001127602-23-009861
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230310
+FILED AS OF DATE:		20230313
+DATE AS OF CHANGE:		20230313
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SULLIVAN ANDREW F
+		CENTRAL INDEX KEY:			0001795452
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16707
+		FILM NUMBER:		23727315
+
+	MAIL ADDRESS:	
+		STREET 1:		751 BROAD STREET, 5TH FLOOR
+		STREET 2:		ATTN:  REGULATORY FILINGS UNIT
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRUDENTIAL FINANCIAL INC
+		CENTRAL INDEX KEY:			0001137774
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		IRS NUMBER:				223703799
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		751 BROAD ST
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+		BUSINESS PHONE:		9738026000
+
+	MAIL ADDRESS:	
+		STREET 1:		751 BROAD ST
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001137774</issuerCik>
+        <issuerName>PRUDENTIAL FINANCIAL INC</issuerName>
+        <issuerTradingSymbol>PRU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001795452</rptOwnerCik>
+            <rptOwnerName>SULLIVAN ANDREW F</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>751 BROAD STREET, 5TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2>ATTN: REGULATORY FILINGS UNIT</rptOwnerStreet2>
+            <rptOwnerCity>NEWARK</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Compensation Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1228</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>88.52</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1228</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6601</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Deferred Compensation Shares are based on unitized accounting and convert to common stock on a 1 to 1 basis.</footnote>
+        <footnote id="F2">Deferred Compensation Shares are deemed immediately exercisable and are payable in cash at a date selected by the participant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Danny Fiore, attorney-in-fact</signatureName>
+        <signatureDate>2023-03-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

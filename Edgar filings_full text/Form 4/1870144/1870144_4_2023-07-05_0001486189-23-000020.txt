@@ -1,0 +1,221 @@
+<SEC-DOCUMENT>0001486189-23-000020.txt : 20230705
+<SEC-HEADER>0001486189-23-000020.hdr.sgml : 20230705
+<ACCEPTANCE-DATETIME>20230705130426
+ACCESSION NUMBER:		0001486189-23-000020
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230705
+DATE AS OF CHANGE:		20230705
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Levy Oded
+		CENTRAL INDEX KEY:			0001950696
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41097
+		FILM NUMBER:		231067548
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CARDIO DIAGNOSTICS HOLDINGS INC.
+		STREET 2:		400 N. ABERDEEN ST., SUITE 900
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60642
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cardio Diagnostics Holdings, Inc.
+		CENTRAL INDEX KEY:			0001870144
+		STANDARD INDUSTRIAL CLASSIFICATION:	IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES [2835]
+		IRS NUMBER:				870925574
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 N ABERDEEN ST, SUITE 900
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60642
+		BUSINESS PHONE:		855-226-9991
+
+	MAIL ADDRESS:	
+		STREET 1:		400 N ABERDEEN ST, SUITE 900
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60642
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Mana Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20210629
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001870144</issuerCik>
+        <issuerName>Cardio Diagnostics Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>CDIO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001950696</rptOwnerCik>
+            <rptOwnerName>Levy Oded</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CARDIO DIAGNOSTICS HOLDINGS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>400 N. ABERDEEN ST., SUITE 900</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60642</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>21008</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.19</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>21008</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionTotalValue>
+                    <value>25000</value>
+                </transactionTotalValue>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-06-30</value>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2023-12-31</value>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityValue>
+                    <value>25000</value>
+                </underlyingSecurityValue>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <valueOwnedFollowingTransaction>
+                    <value>25000</value>
+                    <footnoteId id="F4"/>
+                </valueOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the settlement of restricted stock units (RSUs) that vested on June 30, 2023 through the issuance of shares of Common Stock.</footnote>
+        <footnote id="F2">Each RSU is the economic equivalent of one share of Cardio Diagnostics Holdings, Inc. common stock. On June 30, 2023, $25,000 in value of RSUs vested and were settled at the price of $1.19, which was the closing price of the Companys Common Stock on the vesting date. The settlement shares are reflected in Table I.</footnote>
+        <footnote id="F3">On June 19, 2023, the reporting person was awarded $50,000 in value of RSUs, $25,000 in value of which vested on June 30, 2023. Subject to continued service with the Issuer on each respective vesting date, the RSUs will continue to vest as follows based on the closing price of the Issuers common stock on each respective vesting date: (i) $12,500 in value on September 30, 2023; and (ii) $12,500 in value on December 31, 2023.</footnote>
+        <footnote id="F4">The RSUs were granted pursuant to the Issuers 2022 Equity Incentive Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Elisa Luqman as attorney-in-fact for Oded Levy</signatureName>
+        <signatureDate>2023-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,143 @@
+<SEC-DOCUMENT>0001140361-23-033184.txt : 20230705
+<SEC-HEADER>0001140361-23-033184.hdr.sgml : 20230705
+<ACCEPTANCE-DATETIME>20230705204301
+ACCESSION NUMBER:		0001140361-23-033184
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230705
+DATE AS OF CHANGE:		20230705
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ROJAS DOMENE ALEJANDRO
+		CENTRAL INDEX KEY:			0001447194
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39157
+		FILM NUMBER:		231071718
+
+	MAIL ADDRESS:	
+		STREET 1:		AV. PROLONGACION PASEO DE LA REFORMA
+		STREET 2:		115/703, PASEO DE LAS LOMAS
+		CITY:			ALVARO OBREGON
+		STATE:			O5
+		ZIP:			DF01330
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AgileThought, Inc.
+		CENTRAL INDEX KEY:			0001790625
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MANAGEMENT CONSULTING SERVICES [8742]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 W. LAS COLINAS BLVD, SUITE 1650E
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039
+		BUSINESS PHONE:		971-501-1440
+
+	MAIL ADDRESS:	
+		STREET 1:		222 W. LAS COLINAS BLVD, SUITE 1650E
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LIV Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20191008
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001790625</issuerCik>
+        <issuerName>AgileThought, Inc.</issuerName>
+        <issuerTradingSymbol>AGIL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001447194</rptOwnerCik>
+            <rptOwnerName>ROJAS DOMENE ALEJANDRO</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AGILETHOUGHT, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>222 W. LAS COLINAS BLVD., SUITE 1650E</rptOwnerStreet2>
+            <rptOwnerCity>IRVING</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75039</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Diana Abril, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

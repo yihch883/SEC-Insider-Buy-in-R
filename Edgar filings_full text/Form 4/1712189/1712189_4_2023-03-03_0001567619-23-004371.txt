@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001567619-23-004371.txt : 20230303
+<SEC-HEADER>0001567619-23-004371.hdr.sgml : 20230303
+<ACCEPTANCE-DATETIME>20230303163230
+ACCESSION NUMBER:		0001567619-23-004371
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230301
+FILED AS OF DATE:		20230303
+DATE AS OF CHANGE:		20230303
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Schrenk Troy C.
+		CENTRAL INDEX KEY:			0001763047
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38343
+		FILM NUMBER:		23704685
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TARGET HOSPITALITY
+		STREET 2:		2170 BUCKTHORNE PLACE, SUITE 440
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77380
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Schenk Troy C.
+		DATE OF NAME CHANGE:	20181227
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Target Hospitality Corp.
+		CENTRAL INDEX KEY:			0001712189
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS, ROOMING HOUSE, CAMPS & OTHER LODGING PLACES [7000]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9320 LAKESIDE BLVD.
+		STREET 2:		SUITE 300
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+		BUSINESS PHONE:		832 709-2563
+
+	MAIL ADDRESS:	
+		STREET 1:		9320 LAKESIDE BLVD.
+		STREET 2:		SUITE 300
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Platinum Eagle Acquisition Corp.
+		DATE OF NAME CHANGE:	20170718
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001712189</issuerCik>
+        <issuerName>Target Hospitality Corp.</issuerName>
+        <issuerTradingSymbol>TH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001763047</rptOwnerCik>
+            <rptOwnerName>Schrenk Troy C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>9320 LAKESIDE BLVD.</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>THE WOODLANDS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77381</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Commercial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15385</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>15385</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>156542</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive upon vesting one share of common stock of the Issuer, par value $0.0001 per share (&quot;Common Stock&quot;), or its cash equivalent.</footnote>
+        <footnote id="F2">On March 1, 2023, the Reporting Person was granted by the Compensation Committee 15,385 RSUs which vest in four equal annual installments on each of the first four anniversaries of the grant date beginning March 1, 2024, subject to the terms and conditions of the previously disclosed Target Hospitality Corp. 2019 Incentive Award Plan (the &quot;Plan&quot;) and the Restricted Stock Unit Award Agreement entered into between Issuer and the Reporting Person.</footnote>
+        <footnote id="F3">Total includes in addition to the grant of 15,385 RSUs on March 1, 2023, unvested RSUs from the following grants: 99,668 RSUs granted on February 24, 2022 which vest in four equal installments on each of the first four anniversaries of the grant date beginning February 24, 2023; 95,238 restricted stock units granted on February 25, 2021 which vest 50% on the second anniversary of the grant date and the remaining 50% on the third anniversary of the grant date; 21,414 restricted stock units granted on March 4, 2020 which vest in four equal annual installments on each of the first four anniversaries of the grant date beginning March 4, 2021 and 32,318 restricted stock units granted on May 21, 2019 which vest in four equal annual installments on each of the first four anniversaries of the grant date beginning on May 21, 2020, subject to the terms and conditions of the Plan and the Restricted Stock Unit Award Agreements entered into between the Issuer and the Reporting Person.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Heidi D. Lewis, as Attorney-in-Fact on behalf of Troy C. Schrenk</signatureName>
+        <signatureDate>2023-03-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

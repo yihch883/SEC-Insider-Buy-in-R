@@ -1,0 +1,150 @@
+<SEC-DOCUMENT>0001565381-23-000008.txt : 20230605
+<SEC-HEADER>0001565381-23-000008.hdr.sgml : 20230605
+<ACCEPTANCE-DATETIME>20230605155602
+ACCESSION NUMBER:		0001565381-23-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230602
+FILED AS OF DATE:		20230605
+DATE AS OF CHANGE:		20230605
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CARDONA JOHN C JR
+		CENTRAL INDEX KEY:			0001180522
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-22784
+		FILM NUMBER:		23992346
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BNY Mellon Municipal Bond Infrastructure Fund, Inc.
+		CENTRAL INDEX KEY:			0001565381
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O BNY MELLON INVESTMENT ADVISER, INC.
+		STREET 2:		240 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10289
+		BUSINESS PHONE:		212-922-6400
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BNY MELLON INVESTMENT ADVISER, INC.
+		STREET 2:		240 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10289
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Dreyfus Municipal Bond Infrastructure Fund, Inc.
+		DATE OF NAME CHANGE:	20130307
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Dreyfus Municipal Infrastructure Fund, Inc.
+		DATE OF NAME CHANGE:	20121224
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001565381</issuerCik>
+        <issuerName>BNY Mellon Municipal Bond Infrastructure Fund, Inc.</issuerName>
+        <issuerTradingSymbol>DMB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001180522</rptOwnerCik>
+            <rptOwnerName>CARDONA JOHN C JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BNY MELLON ADVISER, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>240 GREENWICH STREET</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10286</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, Par Value $.001 Per Share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7100</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.6092</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7100</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ James Bitetto (attorney-in-fact)</signatureName>
+        <signatureDate>2023-06-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0001828105-23-000030.txt : 20230424
+<SEC-HEADER>0001828105-23-000030.hdr.sgml : 20230424
+<ACCEPTANCE-DATETIME>20230424162127
+ACCESSION NUMBER:		0001828105-23-000030
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230420
+FILED AS OF DATE:		20230424
+DATE AS OF CHANGE:		20230424
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ellis Stewart
+		CENTRAL INDEX KEY:			0001875258
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39711
+		FILM NUMBER:		23840360
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HIPPO HOLDINGS INC.
+		STREET 2:		150 FOREST AVENUE
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94301
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hippo Holdings Inc.
+		CENTRAL INDEX KEY:			0001828105
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				981562010
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 FOREST AVENUE
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94301
+		BUSINESS PHONE:		(650) 294-8463
+
+	MAIL ADDRESS:	
+		STREET 1:		150 FOREST AVENUE
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Reinvent Technology Partners Z
+		DATE OF NAME CHANGE:	20201029
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Reinvent Technology Partners B
+		DATE OF NAME CHANGE:	20201013
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_168236767399280.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001828105</issuerCik>
+        <issuerName>Hippo Holdings Inc.</issuerName>
+        <issuerTradingSymbol>HIPO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001875258</rptOwnerCik>
+            <rptOwnerName>Ellis Stewart</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O HIPPO HOLDINGS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>150 FOREST AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>PALO ALTO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94301</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>309653</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10335</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The RSUs vest ratably over two years, with 1/8 of the RSUs vesting on each quarterly anniversary following February 15, 2023.</footnote>
+        <footnote id="F2">Includes 173,737 RSUs.</footnote>
+        <footnote id="F3">Shares held by Preservation Trust Company, Inc., Trustee of the Desertfish Nevada Trust.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Stewart Ellis</signatureName>
+        <signatureDate>2023-04-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

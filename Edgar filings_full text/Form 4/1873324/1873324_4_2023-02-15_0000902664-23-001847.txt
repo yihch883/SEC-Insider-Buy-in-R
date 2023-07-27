@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0000902664-23-001847.txt : 20230215
+<SEC-HEADER>0000902664-23-001847.hdr.sgml : 20230215
+<ACCEPTANCE-DATETIME>20230215101120
+ACCESSION NUMBER:		0000902664-23-001847
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230213
+FILED AS OF DATE:		20230215
+DATE AS OF CHANGE:		20230215
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kepos Capital LP
+		CENTRAL INDEX KEY:			0001512020
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40915
+		FILM NUMBER:		23633984
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11 TIMES SQUARE, 35TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		212-588-7400
+
+	MAIL ADDRESS:	
+		STREET 1:		11 TIMES SQUARE, 35TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PepperLime Health Acquisition Corp
+		CENTRAL INDEX KEY:			0001873324
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		548 MARKET STREET
+		STREET 2:		PMB 97425
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+		BUSINESS PHONE:		(415) 263-9939
+
+	MAIL ADDRESS:	
+		STREET 1:		548 MARKET STREET
+		STREET 2:		PMB 97425
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-13</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001873324</issuerCik>
+        <issuerName>PepperLime Health Acquisition Corp</issuerName>
+        <issuerTradingSymbol>PEPL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001512020</rptOwnerCik>
+            <rptOwnerName>Kepos Capital LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11 TIMES SQUARE, 35TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Ordinary Shares, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-13</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.1408</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>86348</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The securities to which this filing relates are held directly by certain funds (the &quot;Kepos Funds&quot;) to which Kepos Capital LP (the &quot;Investment Manager&quot;), a Delaware limited partnership, serves as investment manager. Mr. Mark Carhart (&quot;Mr. Carhart&quot;) is the managing member of Kepos Capital GP LLC, the general partner of the Investment Manager. The Investment Manager and Mr. Carhart disclaim beneficial ownership of the Issuer's securities reported herein except to the extent of its or his pecuniary interest therein, if any.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Kepos Capital LP, By: /s/ Simon Raykher, General Counsel</signatureName>
+        <signatureDate>2023-02-15</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Mark Carhart, /s/ Mark Carhart</signatureName>
+        <signatureDate>2023-02-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

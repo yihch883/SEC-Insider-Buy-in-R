@@ -1,0 +1,218 @@
+<SEC-DOCUMENT>0001140361-23-003928.txt : 20230201
+<SEC-HEADER>0001140361-23-003928.hdr.sgml : 20230201
+<ACCEPTANCE-DATETIME>20230201185200
+ACCESSION NUMBER:		0001140361-23-003928
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230130
+FILED AS OF DATE:		20230201
+DATE AS OF CHANGE:		20230201
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NOMURA SECURITIES INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000902266
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39445
+		FILM NUMBER:		23578254
+
+	BUSINESS ADDRESS:	
+		STREET 1:		WORLDWIDE PLAZA
+		STREET 2:		309 WEST 49TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2126679432
+
+	MAIL ADDRESS:	
+		STREET 1:		WORLDWIDE PLAZA
+		STREET 2:		309 WEST 49TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NOMURA HOLDINGS INC
+		CENTRAL INDEX KEY:			0001163653
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		STATE OF INCORPORATION:			M0
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39445
+		FILM NUMBER:		23578253
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1-13-1 NIHONBASHI
+		STREET 2:		CHUO-KU
+		CITY:			TOKYO
+		STATE:			M0
+		ZIP:			103-8645
+		BUSINESS PHONE:		81-3-5255-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		1-13-1 NIHONBASHI
+		STREET 2:		CHUO-KU
+		CITY:			TOKYO
+		STATE:			M0
+		ZIP:			103-8645
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MSP Recovery, Inc.
+		CENTRAL INDEX KEY:			0001802450
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2701 LE JEUNE ROAD
+		STREET 2:		FLOOR 10
+		CITY:			CORAL GABLES
+		STATE:			FL
+		ZIP:			33134
+		BUSINESS PHONE:		305.614.2222
+
+	MAIL ADDRESS:	
+		STREET 1:		2701 LE JEUNE ROAD
+		STREET 2:		FLOOR 10
+		CITY:			CORAL GABLES
+		STATE:			FL
+		ZIP:			33134
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lionheart Acquisition Corp. II
+		DATE OF NAME CHANGE:	20200724
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lionheart Acquisition Corp.
+		DATE OF NAME CHANGE:	20200205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001802450</issuerCik>
+        <issuerName>MSP Recovery, Inc.</issuerName>
+        <issuerTradingSymbol>MSPR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000902266</rptOwnerCik>
+            <rptOwnerName>NOMURA SECURITIES INTERNATIONAL INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>WORLDWIDE PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2>309 WEST 49TH STREET</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001163653</rptOwnerCik>
+            <rptOwnerName>NOMURA HOLDINGS INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>9-1 NIHONBASHI 1-CHOME</rptOwnerStreet1>
+            <rptOwnerStreet2>CHUO-KU</rptOwnerStreet2>
+            <rptOwnerCity>TOKYO</rptOwnerCity>
+            <rptOwnerState>M0</rptOwnerState>
+            <rptOwnerZipCode>103-8645</rptOwnerZipCode>
+            <rptOwnerStateDescription>JAPAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7986</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.15</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>182013</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These securities are owned by Nomura Securities International, Inc. (&quot;NSI&quot;). NSI is a wholly owned indirect subsidiary of Nomura Holdings, Inc. which accordingly may be deemed to beneficially own the shares owned by NSI.</footnote>
+        <footnote id="F2">The amount of shares reported as beneficially owned following the reported transaction has been adjusted to remove 137,500 shares, which had inadvertently been included in the total amount in prior Forms 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Nomura Securities International, Inc. /s/ Fernando Del Puerto, Managing Director</signatureName>
+        <signatureDate>2023-02-01</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Nomura Holdings, Inc. /s/ Samir Patel, Managing Director</signatureName>
+        <signatureDate>2023-02-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

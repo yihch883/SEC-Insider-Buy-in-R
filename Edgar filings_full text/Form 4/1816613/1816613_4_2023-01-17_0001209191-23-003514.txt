@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001209191-23-003514.txt : 20230117
+<SEC-HEADER>0001209191-23-003514.hdr.sgml : 20230117
+<ACCEPTANCE-DATETIME>20230117160521
+ACCESSION NUMBER:		0001209191-23-003514
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230115
+FILED AS OF DATE:		20230117
+DATE AS OF CHANGE:		20230117
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Karp Stephen
+		CENTRAL INDEX KEY:			0001852305
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39453
+		FILM NUMBER:		23531594
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MARKFORGED, INC.
+		STREET 2:		480 PLEASANT STREET
+		CITY:			WATERTOWN
+		STATE:			MA
+		ZIP:			02472
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Markforged Holding Corp
+		CENTRAL INDEX KEY:			0001816613
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		480 PLEASANT STREET
+		CITY:			WATERTOWN
+		STATE:			MA
+		ZIP:			02472
+		BUSINESS PHONE:		(866) 496-1805
+
+	MAIL ADDRESS:	
+		STREET 1:		480 PLEASANT STREET
+		CITY:			WATERTOWN
+		STATE:			MA
+		ZIP:			02472
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	one
+		DATE OF NAME CHANGE:	20200701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001816613</issuerCik>
+        <issuerName>Markforged Holding Corp</issuerName>
+        <issuerTradingSymbol>MKFG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001852305</rptOwnerCik>
+            <rptOwnerName>Karp Stephen</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O MARKFORGED HOLDING CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>480 PLEASANT STREET</rptOwnerStreet2>
+            <rptOwnerCity>WATERTOWN</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02472</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>General Counsel</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>219</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.38</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>229531</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares withheld by Issuer to cover taxes associated with settlement of restricted stock units.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephen Karp</signatureName>
+        <signatureDate>2023-01-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

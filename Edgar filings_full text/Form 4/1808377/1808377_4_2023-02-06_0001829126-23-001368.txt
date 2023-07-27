@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001829126-23-001368.txt : 20230206
+<SEC-HEADER>0001829126-23-001368.hdr.sgml : 20230206
+<ACCEPTANCE-DATETIME>20230206160614
+ACCESSION NUMBER:		0001829126-23-001368
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230113
+FILED AS OF DATE:		20230206
+DATE AS OF CHANGE:		20230206
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mclaughlin Kristen
+		CENTRAL INDEX KEY:			0001906221
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41392
+		FILM NUMBER:		23590708
+
+	MAIL ADDRESS:	
+		STREET 1:		11900 BISCAYNE BLVD., SUITE 630
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33181
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Innovative Eyewear Inc
+		CENTRAL INDEX KEY:			0001808377
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPHTHALMIC GOODS [3851]
+		IRS NUMBER:				842794274
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11900 BISCAYNE BLVD
+		STREET 2:		STE 630
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33181
+		BUSINESS PHONE:		786-910-1898
+
+	MAIL ADDRESS:	
+		STREET 1:		66 W FLAGLER ST. SUITE 900
+		STREET 2:		STE 216
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33130
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-13</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001808377</issuerCik>
+        <issuerName>Innovative Eyewear Inc</issuerName>
+        <issuerTradingSymbol>LUCY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001906221</rptOwnerCik>
+            <rptOwnerName>Mclaughlin Kristen</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O INNOVATIVE EYEWEAR INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>11900 BISCAYNE BLVD., SUITE 630</rptOwnerStreet2>
+            <rptOwnerCity>MIAMI</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33181</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.275</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-13</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2024-01-01</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-01-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>20000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents stock options granted to the reporting person on January 13, 2023, pursuant to the Issuer's 2021 Equity Incentive Plan. The stock options vest with respect to 6,667 shares on each of January 1, 2024 and January 1, 2025, and 6,666 shares on January 1, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kristen Mclaughlin</signatureName>
+        <signatureDate>2023-02-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

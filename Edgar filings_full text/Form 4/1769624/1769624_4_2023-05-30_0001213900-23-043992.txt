@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001213900-23-043992.txt : 20230530
+<SEC-HEADER>0001213900-23-043992.hdr.sgml : 20230530
+<ACCEPTANCE-DATETIME>20230530160608
+ACCESSION NUMBER:		0001213900-23-043992
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230522
+FILED AS OF DATE:		20230530
+DATE AS OF CHANGE:		20230530
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shu Pei Huang Desmond
+		CENTRAL INDEX KEY:			0001955544
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38909
+		FILM NUMBER:		23976349
+
+	MAIL ADDRESS:	
+		STREET 1:		TRUST TOWER
+		STREET 2:		68 JOHNSTON ROAD
+		CITY:			WAN CHAI
+		STATE:			K3
+		ZIP:			000000
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Huang Desmond Shu Pei
+		DATE OF NAME CHANGE:	20221121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGBA Group Holding Ltd.
+		CENTRAL INDEX KEY:			0001769624
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROOM 1108, 11TH FL,BLOCK B
+		STREET 2:		NEW MADISON PLAZA, 14 SCIENCE MUSEUM RD
+		CITY:			TSIMSHATSUI EAST, KOWLOON
+		STATE:			K3
+		ZIP:			OOOOO
+		BUSINESS PHONE:		852 3998-4852
+
+	MAIL ADDRESS:	
+		STREET 1:		ROOM 1108, 11TH FL,BLOCK B
+		STREET 2:		NEW MADISON PLAZA, 14 SCIENCE MUSEUM RD
+		CITY:			TSIMSHATSUI EAST, KOWLOON
+		STATE:			K3
+		ZIP:			OOOOO
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AGBA Acquisition Ltd
+		DATE OF NAME CHANGE:	20190304
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-22</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001769624</issuerCik>
+        <issuerName>AGBA Group Holding Ltd.</issuerName>
+        <issuerTradingSymbol>AGBA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001955544</rptOwnerCik>
+            <rptOwnerName>Shu Pei Huang Desmond</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AGBA GROUP HOLDING LIMITED,</rptOwnerStreet1>
+            <rptOwnerStreet2>AGBA TOWER, 68 JOHNSTON ROAD</rptOwnerStreet2>
+            <rptOwnerCity></rptOwnerCity>
+            <rptOwnerState>K3</rptOwnerState>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription>HONG KONG</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Acting Group CFO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-22</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2023-05-22</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>200000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Acquired pursuant to annual grant of shares to officers for services performed as an officer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Pei Huang Desmond Shu</signatureName>
+        <signatureDate>2023-05-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

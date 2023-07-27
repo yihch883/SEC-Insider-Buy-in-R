@@ -1,0 +1,241 @@
+<SEC-DOCUMENT>0001871559-23-000001.txt : 20230214
+<SEC-HEADER>0001871559-23-000001.hdr.sgml : 20230214
+<ACCEPTANCE-DATETIME>20230214171309
+ACCESSION NUMBER:		0001871559-23-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230210
+FILED AS OF DATE:		20230214
+DATE AS OF CHANGE:		20230214
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			D'Annunzio Marc
+		CENTRAL INDEX KEY:			0001871559
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39544
+		FILM NUMBER:		23631523
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BAKKT HOLDINGS, INC.
+		STREET 2:		5500 WINDWARD PKWY., SUITE 450
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30005
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bakkt Holdings, Inc.
+		CENTRAL INDEX KEY:			0001820302
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				981550750
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10000 AVALON BOULEVARD, SUITE 1000
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30009
+		BUSINESS PHONE:		678-534-5849
+
+	MAIL ADDRESS:	
+		STREET 1:		10000 AVALON BOULEVARD, SUITE 1000
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30009
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VPC Impact Acquisition Holdings
+		DATE OF NAME CHANGE:	20200805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001820302</issuerCik>
+        <issuerName>Bakkt Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>BKKT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001871559</rptOwnerCik>
+            <rptOwnerName>D'Annunzio Marc</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BAKKT HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>10000 AVALON BOULEVARD, SUITE 1000</rptOwnerStreet2>
+            <rptOwnerCity>ALPHARETTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30009</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>General Counsel &amp; Secretary</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8652</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.64</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>462839</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20511</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.4794</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>442328</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Bakkt Opco Units</value>
+                <footnoteId id="F5"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1304712</value>
+                    <footnoteId id="F5"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1304712</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">In connection with the vesting of restricted stock units on February 1, 2023, the issuer withheld Class A Common Stock that would otherwise have been issued to the reporting person to satisfy such person's tax withholding obligations. The number of shares withheld was determined based on the closing price per share of Class A Common Stock on February 1, 2023.</footnote>
+        <footnote id="F2">Includes 442,328 shares of Class A Common Stock subject to restricted stock units that remain subject to vesting.</footnote>
+        <footnote id="F3">The sales were effectuated pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on 12/05/2022.</footnote>
+        <footnote id="F4">Represents a weighted-average price. These shares were sold in multiple transactions at prices ranging from $1.45 to $1.5050, inclusive. For all transactions reported in this Form 4 utilizing a weighted-average price, the reporting person will provide to the issuer, any security holder of the issuer, or the SEC staff, upon request, information regarding the number of shares sold at each price within the range.</footnote>
+        <footnote id="F5">Represents incentive units of Bakkt Management LLC, which units are, subject to certain limitations, redeemable at the request of the reporting person in exchange for the indicated number of common units of Bakkt Opco Holdings, LLC &quot;(Bakkt Opco Units&quot;) and an equal number of shares of the issuer's Class V Common Stock.</footnote>
+        <footnote id="F6">Pursuant to the terms of an Amended and Restated Exchange Agreement dated as of May 3, 2022, subject to certain conditions, Bakkt Opco Units together with an equal number of shares of the issuer's Class V Common Stock, are exchangeable by the Reporting Person for shares of the issuer's Class A Common Stock on a one-for-one basis.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Marc D'Annunzio</signatureName>
+        <signatureDate>2023-02-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

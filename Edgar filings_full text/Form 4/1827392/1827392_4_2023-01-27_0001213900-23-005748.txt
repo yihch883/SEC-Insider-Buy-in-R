@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0001213900-23-005748.txt : 20230127
+<SEC-HEADER>0001213900-23-005748.hdr.sgml : 20230127
+<ACCEPTANCE-DATETIME>20230127183007
+ACCESSION NUMBER:		0001213900-23-005748
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230125
+FILED AS OF DATE:		20230127
+DATE AS OF CHANGE:		20230127
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Authentic Equity Sponsor LLC
+		CENTRAL INDEX KEY:			0001827393
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39903
+		FILM NUMBER:		23564748
+
+	BUSINESS ADDRESS:	
+		STREET 1:		32 ELM PLACE, 2ND FLOOR
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+		BUSINESS PHONE:		646.357.3930
+
+	MAIL ADDRESS:	
+		STREET 1:		32 ELM PLACE, 2ND FLOOR
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Authentic Equity Acquisition Corp.
+		CENTRAL INDEX KEY:			0001827392
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		32 ELM PLACE, 2ND FLOOR
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+		BUSINESS PHONE:		646.357.3930
+
+	MAIL ADDRESS:	
+		STREET 1:		32 ELM PLACE, 2ND FLOOR
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-25</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001827392</issuerCik>
+        <issuerName>Authentic Equity Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>AEAC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001827393</rptOwnerCik>
+            <rptOwnerName>Authentic Equity Sponsor LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>32 ELM PLACE, 2ND FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>RYE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10580</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6924999</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6924999</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On January 6, 2023, the Issuer announced that it will not consummate an initial business combination within the time period required. Pursuant to the Issuer's Amended and Restated Memorandum and Articles of Association (the &quot;Articles&quot;) and in connection with the winding up of the Issuer, the Class B ordinary shares, par value $0.0001, held by the reporting person (the &quot;Sponsor&quot; or the &quot;Reporting Person&quot;) were surrendered for no compensation on January 25, 2023.</footnote>
+        <footnote id="F2">This Form 4 is being filed in part by the Sponsor. There are three managers of the Sponsor's board of managers. Each manager has one vote, and the approval of a majority is required to approve an action of the Sponsor. Under the so-called &quot;rule of three&quot;, if voting and dispositive decisions regarding an entity's securities are made by three or more individuals, and a voting or dispositive decision requires the approval of a majority of those individuals, then none of the individuals is deemed a beneficial owner of the entity's securities. This is the situation with regard to the Sponsor. Based upon the foregoing analysis, no individual manager of the Sponsor exercises voting or dispositive control over any of the securities held by the Sponsor, even those in which he directly holds a pecuniary interest. Accordingly, none of them will be deemed to have or share beneficial ownership of such shares.</footnote>
+    </footnotes>
+
+    <remarks>After giving effect to the Issuer's delisting and deregistration, the Reporting Person will no longer be subject to Section 16 reporting obligations.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Todd Khoury as attorney-in-fact for Authentic Equity Sponsor LLC</signatureName>
+        <signatureDate>2023-01-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

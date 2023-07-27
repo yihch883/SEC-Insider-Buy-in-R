@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001213900-23-016622.txt : 20230302
+<SEC-HEADER>0001213900-23-016622.hdr.sgml : 20230302
+<ACCEPTANCE-DATETIME>20230302131003
+ACCESSION NUMBER:		0001213900-23-016622
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230130
+FILED AS OF DATE:		20230302
+DATE AS OF CHANGE:		20230302
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ROY PETER
+		CENTRAL INDEX KEY:			0001239220
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40939
+		FILM NUMBER:		23697678
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O WESTMARINE,
+		STREET 2:		500 WESTRIDGE DRIVE
+		CITY:			WATSONVILLE
+		STATE:			CA
+		ZIP:			95076
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Thrive Acquisition Corp
+		CENTRAL INDEX KEY:			0001863685
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		RIVERSIDE CENTER
+		STREET 2:		275 GROVE STREET, SUITE 2-400
+		CITY:			NEWTON
+		STATE:			MA
+		ZIP:			02466
+		BUSINESS PHONE:		6176635988
+
+	MAIL ADDRESS:	
+		STREET 1:		RIVERSIDE CENTER
+		STREET 2:		275 GROVE STREET, SUITE 2-400
+		CITY:			NEWTON
+		STATE:			MA
+		ZIP:			02466
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-30</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001863685</issuerCik>
+        <issuerName>Thrive Acquisition Corp</issuerName>
+        <issuerTradingSymbol>THAC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001239220</rptOwnerCik>
+            <rptOwnerName>ROY PETER</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THRIVE ACQUISITION CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>RIVERSIDE CTR, 275 GROVE ST, SUITE 2-400</rptOwnerStreet2>
+            <rptOwnerCity>NEWTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02466</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On January 18, 2023, the Issuer announced that it will not consummate an initial business combination within the time period required. Pursuant to the Issuer's Amended and Restated Memorandum and Articles of Association and in connection with the winding up of the Issuer, the Class B ordinary shares, par value $0.0001, held by the Reporting Person were surrendered for no compensation on January 30, 2023.</footnote>
+    </footnotes>
+
+    <remarks>After giving effect to the Issuer's delisting and deregistration, the Reporting Person is no longer subject to Section 16 reporting obligations.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Benjamin Kao as attorney in fact for Peter Roy</signatureName>
+        <signatureDate>2023-03-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

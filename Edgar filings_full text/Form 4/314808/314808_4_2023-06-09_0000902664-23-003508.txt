@@ -1,0 +1,203 @@
+<SEC-DOCUMENT>0000902664-23-003508.txt : 20230609
+<SEC-HEADER>0000902664-23-003508.hdr.sgml : 20230609
+<ACCEPTANCE-DATETIME>20230609161534
+ACCESSION NUMBER:		0000902664-23-003508
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230608
+FILED AS OF DATE:		20230609
+DATE AS OF CHANGE:		20230609
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			OAK HILL ADVISORS LP
+		CENTRAL INDEX KEY:			0001164688
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08097
+		FILM NUMBER:		231005460
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 VANDERBILT AVE
+		STREET 2:		16TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-326-1500
+
+	MAIL ADDRESS:	
+		STREET 1:		1 VANDERBILT AVE
+		STREET 2:		16TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Valaris Ltd
+		CENTRAL INDEX KEY:			0000314808
+		STANDARD INDUSTRIAL CLASSIFICATION:	DRILLING OIL & GAS WELLS [1381]
+		IRS NUMBER:				980635229
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CLARENDON HOUSE
+		STREET 2:		2 CHURCH STREET
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM 11
+		BUSINESS PHONE:		4402076594660
+
+	MAIL ADDRESS:	
+		STREET 1:		CLARENDON HOUSE
+		STREET 2:		2 CHURCH STREET
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM 11
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Valaris plc
+		DATE OF NAME CHANGE:	20190801
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ensco Rowan plc
+		DATE OF NAME CHANGE:	20190410
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ensco plc
+		DATE OF NAME CHANGE:	20100331
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000314808</issuerCik>
+        <issuerName>Valaris Ltd</issuerName>
+        <issuerTradingSymbol>VAL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001164688</rptOwnerCik>
+            <rptOwnerName>OAK HILL ADVISORS LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1 VANDERBILT AVE</rptOwnerStreet1>
+            <rptOwnerStreet2>16TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares, $0.01 par value per share (&quot;Common Shares&quot;)</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2926</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28017</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8966016</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of a grant of 2,926 restricted stock units to Mr. Joseph Goldschmid (&quot;Mr. Goldschmid&quot;), an employee of Oak Hill Advisors, L.P. (&quot;OHA&quot;, or the &quot;Reporting Person&quot;) and a member of the board of directors of the Issuer, which represent Mr. Goldschmid's annual equity retainer. These restricted stock units will vest in full on the earlier of the first anniversary of the date of grant or the next annual meeting of the Issuer's shareholders. Mr. Goldschmid has separately reported this grant on his own Form 4 as well.</footnote>
+        <footnote id="F2">Pursuant to the policies of OHA, the restricted stock units received by Mr. Goldschmid are held for the benefit of certain OHA clients.</footnote>
+        <footnote id="F3">OHA acts (directly or through an affiliate) as investment adviser to certain funds and client accounts (together, the &quot;Oak Hill Advisory Entities&quot;), with respect to the Common Shares directly held by the Oak Hill Advisory Entities. OHA is a subsidiary business of T. Rowe Price Associates, Inc. (&quot;TRP&quot;). OHA's beneficial ownership does not include any shares that may be beneficially owned by TRP. OHA disclaims beneficial ownership of the Common Shares held by the Oak Hill Advisory Entities beyond its respective pecuniary interest therein, if any, for purposes of Section 16 under the Securities Exchange Act of 1934, as amended.</footnote>
+        <footnote id="F4">Reflects securities held by the Oak Hill Advisory Entities.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Oak Hill Advisors, L.P., By: /s/ Gregory S. Rubin, Authorized Signatory</signatureName>
+        <signatureDate>2023-06-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

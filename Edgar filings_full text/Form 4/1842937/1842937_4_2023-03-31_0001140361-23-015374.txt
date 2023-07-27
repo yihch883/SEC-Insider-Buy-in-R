@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001140361-23-015374.txt : 20230331
+<SEC-HEADER>0001140361-23-015374.hdr.sgml : 20230331
+<ACCEPTANCE-DATETIME>20230331163032
+ACCESSION NUMBER:		0001140361-23-015374
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230327
+FILED AS OF DATE:		20230331
+DATE AS OF CHANGE:		20230331
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Petruska Nicholas A
+		CENTRAL INDEX KEY:			0001642434
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40846
+		FILM NUMBER:		23788279
+
+	MAIL ADDRESS:	
+		STREET 1:		10 SOUTH WACKER DRIVE
+		STREET 2:		SUITE 3175
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hennessy Capital Investment Corp. VI
+		CENTRAL INDEX KEY:			0001842937
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				861626937
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3415 N. PINES WAY
+		STREET 2:		SUITE 204
+		CITY:			WILSON
+		STATE:			WY
+		ZIP:			83014
+		BUSINESS PHONE:		(307) 201-1903
+
+	MAIL ADDRESS:	
+		STREET 1:		3415 N. PINES WAY
+		STREET 2:		SUITE 204
+		CITY:			WILSON
+		STATE:			WY
+		ZIP:			83014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001842937</issuerCik>
+        <issuerName>Hennessy Capital Investment Corp. VI</issuerName>
+        <issuerTradingSymbol>HCVI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001642434</rptOwnerCik>
+            <rptOwnerName>Petruska Nicholas A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O HENNESSY CAPITAL INVESTMENT CORP. VI</rptOwnerStreet1>
+            <rptOwnerStreet2>3415 N. PINES WAY, SUITE 204</rptOwnerStreet2>
+            <rptOwnerCity>WILSON</rptOwnerCity>
+            <rptOwnerState>WY</rptOwnerState>
+            <rptOwnerZipCode>83014</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <officerTitle>EVP, CFO AND SECRETARY</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>145</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11239318</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote.</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">As described in the registrant's registration statement on Form S-1 (File No. 333-254062) under the heading &quot;Description of Securities-Founder Shares,&quot; the shares of Class B common stock will automatically convert into shares of Class A common stock at the time of the registrant's initial business combination on a one-for-one basis, subject to certain adjustments described therein and have no expiration date.</footnote>
+        <footnote id="F2">Adjusted to reflect the forfeiture of 135,682 shares of Class B common stock on November 17, 2021, upon the expiration of the underwriters' over-allotment option, which was partially exercised in connection with the registrant's initial public offering.</footnote>
+        <footnote id="F3">These shares of Class B common stock are held by Hennessy Capital Partners VI LLC (&quot;HCP&quot;). Nicholas A. Petruska, the Executive Vice President, Chief Financial Officer and Secretary of the registrant, is a co-managing member of HCP. Mr. Petruska has shared voting and dispositive control over the shares held by HCP and may be deemed the beneficial owner of such shares. Mr. Petruska disclaims beneficial ownership over any securities owned by HCP in which he does not have any pecuniary interest.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nicholas A. Petruska</signatureName>
+        <signatureDate>2023-03-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

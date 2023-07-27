@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0001213900-23-012138.txt : 20230215
+<SEC-HEADER>0001213900-23-012138.hdr.sgml : 20230215
+<ACCEPTANCE-DATETIME>20230215165704
+ACCESSION NUMBER:		0001213900-23-012138
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230215
+FILED AS OF DATE:		20230215
+DATE AS OF CHANGE:		20230215
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CENAQ Sponsor LLC.
+		CENTRAL INDEX KEY:			0001841320
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40743
+		FILM NUMBER:		23636153
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4550 POST OAK PLACE DRIVE
+		STREET 2:		SUITE 300
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77027
+		BUSINESS PHONE:		(713) 820-6300
+
+	MAIL ADDRESS:	
+		STREET 1:		4550 POST OAK PLACE DRIVE
+		STREET 2:		SUITE 300
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77027
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CENAQ Energy Corp.
+		CENTRAL INDEX KEY:			0001841425
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL ORGANIC CHEMICALS [2860]
+		IRS NUMBER:				851863331
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4550 POST OAK PLACE DRIVE
+		STREET 2:		SUITE 300
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77027
+		BUSINESS PHONE:		(713) 820-6300
+
+	MAIL ADDRESS:	
+		STREET 1:		4550 POST OAK PLACE DRIVE
+		STREET 2:		SUITE 300
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77027
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001841425</issuerCik>
+        <issuerName>CENAQ Energy Corp.</issuerName>
+        <issuerTradingSymbol>CENQ</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001841320</rptOwnerCik>
+            <rptOwnerName>CENAQ Sponsor LLC.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>4550 POST OAK PLACE DR.</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Private Placement Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.5</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2475000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2475000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2475000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">In connection with the consummation of the business combination between the Issuer, Verde Clean Fuels OpCo, LLC, Bluescape Clean Fuels Holdings, LLC, Bluescape Clean Fuels Intermediate Holdings, LLC and CENAQ Sponsor LLC (&quot;Sponsor&quot;) on February 15, 2023 (the &quot;Business Combination&quot;), 2,475,000 of the Sponsor's private placement warrants were forfeited by the Sponsor to the Issuer for no consideration.</footnote>
+        <footnote id="F2">The warrants will become exercisable 30 days after the completion of the Business Combination. The warrants will expire five years after the completion of the Business Combination or earlier upon redemption or liquidation, as described in the prospectus for the Issuer's initial public offering.</footnote>
+        <footnote id="F3">The Sponsor is the record holder of the shares reported herein. John B. Connally III, J. Russell Porter and Michael J. Mayell are the members of the board of managers of the Sponsor. Each of Messers. Connally, Porter and Mayell may be deemed to have or share beneficial ownership of the securities held directly by the Sponsor. Each such person disclaims any such beneficial ownership of such securities except to the extent of their pecuniary interest therein, and this report shall not be deemed an admission that the Reporting Person is the beneficial owner of the securities for purposes of Section 16 or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>CENAQ Sponsor LLC /s/ J. Russell Porter Chief Executive Officer</signatureName>
+        <signatureDate>2023-02-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

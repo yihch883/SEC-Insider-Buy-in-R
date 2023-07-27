@@ -1,0 +1,276 @@
+<SEC-DOCUMENT>0001209191-23-039025.txt : 20230622
+<SEC-HEADER>0001209191-23-039025.hdr.sgml : 20230622
+<ACCEPTANCE-DATETIME>20230622160534
+ACCESSION NUMBER:		0001209191-23-039025
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230620
+FILED AS OF DATE:		20230622
+DATE AS OF CHANGE:		20230622
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rodriguez Antonio L.
+		CENTRAL INDEX KEY:			0001597046
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39453
+		FILM NUMBER:		231033356
+
+	MAIL ADDRESS:	
+		STREET 1:		MATRIX PARTNERS
+		STREET 2:		101 MAIN STREET, 17TH FLOOR
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Markforged Holding Corp
+		CENTRAL INDEX KEY:			0001816613
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		IRS NUMBER:				923037714
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		60 TOWER ROAD
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+		BUSINESS PHONE:		(866) 496-1805
+
+	MAIL ADDRESS:	
+		STREET 1:		60 TOWER ROAD
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	one
+		DATE OF NAME CHANGE:	20200701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001816613</issuerCik>
+        <issuerName>Markforged Holding Corp</issuerName>
+        <issuerTradingSymbol>MKFG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001597046</rptOwnerCik>
+            <rptOwnerName>Rodriguez Antonio L.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O MARKFORGED HOLDING CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>60 TOWER ROAD</rptOwnerStreet2>
+            <rptOwnerCity>WALTHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02451</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>136364</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.10</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>204237</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28495912</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1424197</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Earnout shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.00</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-07-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2576215</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2576215</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Earnout shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.00</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-07-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>128755</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>128755</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of a Restricted Stock Unit (&quot;RSU&quot;) award made pursuant to the Issuer's 2021 Stock Option and Incentive Plan. Each RSU represents a contingent right to receive one share of the Issuer's common stock upon settlement for no consideration. The RSUs shall vest on the earlier of (i) the date of the next annual meeting of stockholders of the Issuer and (ii) the 12-month anniversary of the grant date, subject to the Reporting Person's continuous service to the Issuer on each such date.</footnote>
+        <footnote id="F2">These shares are held directly by Matrix Partners IX, L.P. (&quot;Matrix&quot;). Antonio Rodriguez is a member of the board of directors of the Issuer and a managing member of Matrix IX Management Co., L.L.C. (&quot;Matrix IX MC&quot;), the general partner of Matrix. As a managing member of Matrix IX MC, Mr. Rodriguez has sole voting and dispositive power with respect to these shares. Mr. Rodriguez disclaims beneficial ownership of these shares except to the extent of his pecuniary interest.</footnote>
+        <footnote id="F3">These shares are held by Weston &amp; Co. IX LLC (&quot;Weston IX&quot;), as nominee for Matrix Partners Management Services, L.P. Mr. Rodriguez is a member of the board of directors of the Issuer and by virtue of his management position at Matrix Partners Management Services, L.P. has sole voting and dispositive power with respect to these shares. Mr. Rodriguez disclaims beneficial ownership of these shares except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F4">On July 14, 2021 (the &quot;Closing Date&quot;) one, the Issuer's predecessor, consummated the business combination (the &quot;Business Combination&quot;) pursuant to the terms of the merger agreement dated as of February 23, 2021 by and among one, Caspian Merger Sub Inc., a Delaware corporation and MarkForged, Inc., a Delaware corporation. On the Closing Date, Matrix received the right to acquire 2,576,215 shares of the Issuer's Common Stock in connection with the Business Combination, (i) 1,405,208 of which will be released from escrow if the value weighted average price (&quot;VWAP&quot;) for at least 20 of any 30 consecutive trading days following the Closing Date is at least $12.50; and (ii) 1,171,007 of which will be released from such escrow if the VWAP for at least 20 of any 30 consecutive trading days following the Closing Date is at least $15.00. Any shares not eligible to be released within five years of the Closing Date will be forfeited and canceled.</footnote>
+        <footnote id="F5">On the Closing Date, Weston, received the right to acquire 128,755 shares of the Issuer's Common Stock in connection with the Business Combination, (i) 70,230 of which will be released from escrow if the VWAP for at least 20 of any 30 consecutive trading days following the Closing Date is at least $12.50; and (ii) 58,525 of which will be released from such escrow if the VWAP for at least 20 of any 30 consecutive trading days following the Closing Date is at least $15.00. Any shares not eligible to be released within five years of the Closing Date will be forfeited and canceled.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephen Karp, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-06-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

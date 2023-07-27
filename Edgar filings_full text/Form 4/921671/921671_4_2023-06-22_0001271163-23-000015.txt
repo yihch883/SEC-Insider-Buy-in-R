@@ -1,0 +1,235 @@
+<SEC-DOCUMENT>0001271163-23-000015.txt : 20230622
+<SEC-HEADER>0001271163-23-000015.hdr.sgml : 20230622
+<ACCEPTANCE-DATETIME>20230622204622
+ACCESSION NUMBER:		0001271163-23-000015
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230620
+FILED AS OF DATE:		20230622
+DATE AS OF CHANGE:		20230622
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GABELLI MARIO J
+		CENTRAL INDEX KEY:			0001185533
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-08476
+		FILM NUMBER:		231034719
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GAMCO INVESTORS, INC
+		STREET 2:		ONE CORPORATE CENTER
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GABELLI MULTIMEDIA TRUST INC.
+		CENTRAL INDEX KEY:			0000921671
+		IRS NUMBER:				133767317
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE CORPORATE CENTER
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580-1434
+		BUSINESS PHONE:		9149215070
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE CORPORATE CENTER
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580-1434
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GABELLI GLOBAL MULTIMEDIA TRUST INC
+		DATE OF NAME CHANGE:	19940414
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000921671</issuerCik>
+        <issuerName>GABELLI MULTIMEDIA TRUST INC.</issuerName>
+        <issuerTradingSymbol>GGT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001185533</rptOwnerCik>
+            <rptOwnerName>GABELLI MARIO J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O GAMCO INVESTORS, INC</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE CORPORATE CENTER</rptOwnerStreet2>
+            <rptOwnerCity>RYE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10580</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>Control Person of Adviser</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, Par Value $0.001</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6604</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.2735</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1141396</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>GGCP, Inc.</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, Par Value $0.001</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>943982.22</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, Par Value $0.001</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>436459</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Associated Capital Group, Inc.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, Par Value $0.001</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2918</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Gabelli &amp; Company Investment Advisers, Inc.</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, Par Value $0.001</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33333</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>GPJ Retirement Partners</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares reported reflect the total shares owned by GGCP, Inc. (GGCP).  Mario J. Gabelli is the Chief Executive Officer, a director, and the controlling shareholder of GGCP.   Mr. Gabelli has less than a 100% interest in GGCP and disclaims beneficial ownership of the shares held by it which are in excess of his indirect pecuniary interest.</footnote>
+        <footnote id="F2">The shares reported reflect the total shares owned by Associated Capital Group, Inc. (ACG).  Mario J. Gabelli is the Executive Chair and controlling shareholder of ACG.  Mr. Gabelli has less than a 100% interest in ACG and disclaims beneficial ownership of the shares held by it which are in excess of his indirect pecuniary interest.</footnote>
+        <footnote id="F3">The shares reported reflect the total shares owned by Gabelli &amp; Company Investment Advisers, Inc. (GCIA), a majority owned subsidiary of Associated Capital Group, Inc.  Mr. Gabelli has less than a 100% interest in GCIA and disclaims beneficial ownership of the shares held by this entity which are in excess of his indirect pecuniary interest.</footnote>
+        <footnote id="F4">The shares reported reflect the total shares owned by GPJ Retirement Partners, LLC, a limited liability company.  Mr. Gabelli has less than a 100% interest in the entity and disclaims beneficial ownership of the shares held by this entity which are in excess of his indirect pecuniary interest.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Douglas R. Jamieson as Attorney-in-Fact for Mario J. Gabelli</signatureName>
+        <signatureDate>2023-06-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

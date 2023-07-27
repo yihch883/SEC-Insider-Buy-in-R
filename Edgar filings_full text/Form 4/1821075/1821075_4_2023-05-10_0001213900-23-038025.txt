@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0001213900-23-038025.txt : 20230510
+<SEC-HEADER>0001213900-23-038025.hdr.sgml : 20230510
+<ACCEPTANCE-DATETIME>20230510124018
+ACCESSION NUMBER:		0001213900-23-038025
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230428
+FILED AS OF DATE:		20230510
+DATE AS OF CHANGE:		20230510
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hawkes Laurie A.
+		CENTRAL INDEX KEY:			0001575253
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39758
+		FILM NUMBER:		23905311
+
+	MAIL ADDRESS:	
+		STREET 1:		7047 EAST GREENWAY PARKWAY
+		STREET 2:		SUITE 350
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85254
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Appreciate Holdings, Inc.
+		CENTRAL INDEX KEY:			0001821075
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE AGENTS & MANAGERS (FOR OTHERS) [6531]
+		IRS NUMBER:				852426917
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6101 BAKER ROAD, SUITE 200
+		CITY:			MINNETONKA
+		STATE:			MN
+		ZIP:			55345
+		BUSINESS PHONE:		9524708888
+
+	MAIL ADDRESS:	
+		STREET 1:		6101 BAKER ROAD, SUITE 200
+		CITY:			MINNETONKA
+		STATE:			MN
+		ZIP:			55345
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PROPTECH INVESTMENT CORP. II
+		DATE OF NAME CHANGE:	20200813
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001821075</issuerCik>
+        <issuerName>Appreciate Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>SFR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001575253</rptOwnerCik>
+            <rptOwnerName>Hawkes Laurie A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O APPRECIATE HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>6101 BAKER ROAD, SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>MINNETONKA</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55345</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>5.00</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-28</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2023-04-28</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-04-28</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-04-28</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>14000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Trust</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">By Laurie Hawkes TTEE LAH Trust, of which Laurie A. Hawkes is the Trustee.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Laurie A. Hawkes</signatureName>
+        <signatureDate>2023-05-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

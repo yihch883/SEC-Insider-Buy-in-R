@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001062993-23-001476.txt : 20230127
+<SEC-HEADER>0001062993-23-001476.hdr.sgml : 20230127
+<ACCEPTANCE-DATETIME>20230127160757
+ACCESSION NUMBER:		0001062993-23-001476
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230126
+FILED AS OF DATE:		20230127
+DATE AS OF CHANGE:		20230127
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kuehl Christopher
+		CENTRAL INDEX KEY:			0001544050
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34057
+		FILM NUMBER:		23562840
+
+	MAIL ADDRESS:	
+		STREET 1:		AMERICAN CAPITAL AGENCY CORP.
+		STREET 2:		2 BETHESDA METRO CENTER, 12TH FLOOR
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGNC Investment Corp.
+		CENTRAL INDEX KEY:			0001423689
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				261701984
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 BETHESDA METRO CENTER 12TH FLOOR
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		301 968 9300
+
+	MAIL ADDRESS:	
+		STREET 1:		2 BETHESDA METRO CENTER 12TH FLOOR
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	American Capital Agency Corp
+		DATE OF NAME CHANGE:	20080111
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001423689</issuerCik>
+        <issuerName>AGNC Investment Corp.</issuerName>
+        <issuerTradingSymbol>AGNC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001544050</rptOwnerCik>
+            <rptOwnerName>Kuehl Christopher</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>AGNC INVESTMENT CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>2 BETHESDA METRO CENTER, 12TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BETHESDA</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>20814</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, Chief Investment Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>77175</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>649895.445</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>IRA</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares received for no consideration upon the satisfaction of performance criteria underlying performance based grants made under the Amended and Restated AGNC Investment Corp. 2016 Equity and Incentive Compensation Plan on February 20, 2020.</footnote>
+        <footnote id="F2">Includes 12,805 dividend equivalent restricted stock units received on previously granted RSU awards since the Reporting Person's last Form 4 filing.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Christopher Kuehl</signatureName>
+        <signatureDate>2023-01-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

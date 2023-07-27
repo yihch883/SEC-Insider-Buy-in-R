@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001731122-23-000624.txt : 20230410
+<SEC-HEADER>0001731122-23-000624.hdr.sgml : 20230410
+<ACCEPTANCE-DATETIME>20230410183132
+ACCESSION NUMBER:		0001731122-23-000624
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230406
+FILED AS OF DATE:		20230410
+DATE AS OF CHANGE:		20230410
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Tenerelli Franco
+		CENTRAL INDEX KEY:			0001839526
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38545
+		FILM NUMBER:		23812041
+
+	MAIL ADDRESS:	
+		STREET 1:		660 NEWPORT CENTER DRIVE, SUITE 300
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Landsea Homes Corp
+		CENTRAL INDEX KEY:			0001721386
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATIVE BUILDERS [1531]
+		IRS NUMBER:				822196021
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		660 NEWPORT CENTER DRIVE
+		STREET 2:		SUITE 300
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+		BUSINESS PHONE:		(949) 345-8080
+
+	MAIL ADDRESS:	
+		STREET 1:		660 NEWPORT CENTER DRIVE
+		STREET 2:		SUITE 300
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LF Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20171101
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-06</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001721386</issuerCik>
+        <issuerName>Landsea Homes Corp</issuerName>
+        <issuerTradingSymbol>LSEA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001839526</rptOwnerCik>
+            <rptOwnerName>Tenerelli Franco</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O LANDSEA HOMES CORPORATION.</rptOwnerStreet1>
+            <rptOwnerStreet2>660 NEWPORT CENTER DRIVE, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>NEWPORT BEACH</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92660</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, CLO &amp; Secretary</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-06</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1481</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.10</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>34135</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">4,284 restricted stock units (&quot;RSUs&quot;) previously granted under the Landsea Homes Corporation 2020 Stock Incentive Plan (the &quot;2020 Plan&quot;) vested on April 6, 2023. In connection with the vesting and settlement of such RSUs, the Issuer withheld shares of Common Stock to satisfy its tax withholding obligations. The number of shares withheld was based on the closing price per share on April 6, 2023. The withholding of vested shares was approved by the Board of the Directors of the Issuer.</footnote>
+        <footnote id="F2">Includes (i) 8,566 RSUs previously granted under the 2020 Plan that will vest as to one-half on each of April 6, 2024 and April 6, 2025 and (ii) 7,092 RSUs previously granted under the 2020 Plan that will vest as to one-half on each of April 19, 2023 and April 19, 2024. Each RSU represents the right to receive one share of Common Stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Franco Tenerelli</signatureName>
+        <signatureDate>2023-04-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

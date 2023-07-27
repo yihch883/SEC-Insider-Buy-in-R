@@ -1,0 +1,236 @@
+<SEC-DOCUMENT>0001474506-23-000120.txt : 20230322
+<SEC-HEADER>0001474506-23-000120.hdr.sgml : 20230322
+<ACCEPTANCE-DATETIME>20230322120635
+ACCESSION NUMBER:		0001474506-23-000120
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20211017
+FILED AS OF DATE:		20230322
+DATE AS OF CHANGE:		20230322
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Martins Alexandre Abel
+		CENTRAL INDEX KEY:			0001969743
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40755
+		FILM NUMBER:		23752033
+
+	MAIL ADDRESS:	
+		STREET 1:		27 BUKIT MANIS ROAD
+		STREET 2:		SENTOSA GOLF CLUB
+		CITY:			SINGAPORE
+		STATE:			U0
+		ZIP:			099892
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FAT PROJECTS ACQUISITION CORP
+		CENTRAL INDEX KEY:			0001865045
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		27 BUKIT MANIS ROAD
+		CITY:			SINGAPORE
+		STATE:			U0
+		ZIP:			099892
+		BUSINESS PHONE:		65-8590-2056
+
+	MAIL ADDRESS:	
+		STREET 1:		27 BUKIT MANIS ROAD
+		CITY:			SINGAPORE
+		STATE:			U0
+		ZIP:			099892
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-10-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001865045</issuerCik>
+        <issuerName>FAT PROJECTS ACQUISITION CORP</issuerName>
+        <issuerTradingSymbol>FATP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001969743</rptOwnerCik>
+            <rptOwnerName>Martins Alexandre Abel</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>27 BUKIT MANIS ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>SENTOSA GOLF CLUB</rptOwnerStreet2>
+            <rptOwnerCity>SINGAPORE</rptOwnerCity>
+            <rptOwnerState>U0</rptOwnerState>
+            <rptOwnerZipCode>099892</rptOwnerZipCode>
+            <rptOwnerStateDescription>SINGAPORE</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.5</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-10-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>119375</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>119375</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>119375</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Share</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-10-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>88542</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>88542</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>88542</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a distribution by Fat Projects SPAC PTE. LTD., the sponsor of the issuer (the &quot;Sponsor&quot;) to its members for no consideration.</footnote>
+        <footnote id="F2">Each warrant will become exercisable on the later of 12 months from the closing of the Issuer's initial public offering and the date of completion of the Issuer's initial business combination. Each warrant will expire five years after the completion of the Issuer's initial business combination or earlier upon redemption or liquidation.</footnote>
+        <footnote id="F3">The Class B ordinary shares have no expiration date and will automatically convert into Class A ordinary shares at the time of the Issuer's initial business combination on a one-for-one basis, subject to adjustment as set forth in the issuer's registration statement on Form S-1 (File No. 333-257126).</footnote>
+        <footnote id="F4">The securities are held directly by Melody Investments &amp; Advisory Pte. Ltd. The Reporting Person may be deemed to beneficially own shares held by Melody Investments &amp; Advisory Pte. Ltd. by virtue of their control over Melody Investments &amp; Advisory Pte. Ltd. The Reporting Person disclaims beneficial ownership of Issuer's securities held by Melody Investments &amp; Advisory Pte. Ltd., except to the extent of his respective pecuniary interest.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Abel Martins Alexandre, by Nelson Mullins Riley &amp; Scarborough LLP with Power of Attorney</signatureName>
+        <signatureDate>2023-03-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

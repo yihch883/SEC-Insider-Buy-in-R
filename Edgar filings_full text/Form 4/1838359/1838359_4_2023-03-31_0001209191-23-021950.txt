@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001209191-23-021950.txt : 20230331
+<SEC-HEADER>0001209191-23-021950.hdr.sgml : 20230331
+<ACCEPTANCE-DATETIME>20230331201155
+ACCESSION NUMBER:		0001209191-23-021950
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230330
+FILED AS OF DATE:		20230331
+DATE AS OF CHANGE:		20230331
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bertelsen Jeffrey A.
+		CENTRAL INDEX KEY:			0001184340
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40140
+		FILM NUMBER:		23790000
+
+	MAIL ADDRESS:	
+		STREET 1:		5900 GOLDEN HILLS DRIVE
+		CITY:			GOLDEN VALLEY
+		STATE:			MN
+		ZIP:			55416
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	BERTELSEN JEFFREY A
+		DATE OF NAME CHANGE:	20020829
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rigetti Computing, Inc.
+		CENTRAL INDEX KEY:			0001838359
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		775 HEINZ AVENUE
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94710
+		BUSINESS PHONE:		(510) 210-5550
+
+	MAIL ADDRESS:	
+		STREET 1:		775 HEINZ AVENUE
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94710
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Supernova Partners Acquisition Co II, Ltd.
+		DATE OF NAME CHANGE:	20201230
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001838359</issuerCik>
+        <issuerName>Rigetti Computing, Inc.</issuerName>
+        <issuerTradingSymbol>RGTI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001184340</rptOwnerCik>
+            <rptOwnerName>Bertelsen Jeffrey A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O RIGETTI COMPUTING, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>775 HEINZ AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>BERKELEY</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94710</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.60</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>500000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-03-29</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>500000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>500000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">One fourth (1/4th) of the shares subject to the option shall vest on February 15, 2024 and the remaining shares subject to the option shall vest in thirty-six (36) equal monthly installments thereafter, subject to the Reporting Person's continuous service with the Issuer on each such vesting date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Rick Danis, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-03-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

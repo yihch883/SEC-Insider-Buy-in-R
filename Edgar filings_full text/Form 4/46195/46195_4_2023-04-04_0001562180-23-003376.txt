@@ -1,0 +1,232 @@
+<SEC-DOCUMENT>0001562180-23-003376.txt : 20230404
+<SEC-HEADER>0001562180-23-003376.hdr.sgml : 20230404
+<ACCEPTANCE-DATETIME>20230404164434
+ACCESSION NUMBER:		0001562180-23-003376
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230404
+DATE AS OF CHANGE:		20230404
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WO ROBERT W JR
+		CENTRAL INDEX KEY:			0001204679
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06887
+		FILM NUMBER:		23798590
+
+	MAIL ADDRESS:	
+		STREET 1:		130 MERCHANT ST 22ND FLR
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BANK OF HAWAII CORP
+		CENTRAL INDEX KEY:			0000046195
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				990148992
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		130 MERCHANT STREET
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+		BUSINESS PHONE:		8886433888
+
+	MAIL ADDRESS:	
+		STREET 1:		130 MERCHANT STREET
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PACIFIC CENTURY FINANCIAL CORP
+		DATE OF NAME CHANGE:	19970430
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BANCORP HAWAII INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HAWAII BANCORPORATION INC
+		DATE OF NAME CHANGE:	19800128
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-31</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000046195</issuerCik>
+        <issuerName>BANK OF HAWAII CORP</issuerName>
+        <issuerTradingSymbol>BOH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001204679</rptOwnerCik>
+            <rptOwnerName>WO ROBERT W JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 2900</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HONOLULU</rptOwnerCity>
+            <rptOwnerState>HI</rptOwnerState>
+            <rptOwnerZipCode>96846</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Direc. Deferred Comp. Plan - BOHC Fund</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>432.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>51.45</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>432.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>26913.00</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Investment election by reporting person to acquire stock under the Directors' Deferred Compensation Plan at a price equal to the price of derivative security set forth in column 8 (1 for 1).</footnote>
+        <footnote id="F2">Investment election by reporting person to acquire Bank of Hawaii Corporation stock under the Directors' Deferred Compensation Plan. Distributions to be made at termination of service as a director or earlier at director's option.</footnote>
+        <footnote id="F3">Securities reported were acquired with reinvested dividends pursuant to Bank of Hawaii Corporation's Dividend Reinvestment and Stock Purchase Plan.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Katherine Lamb for WO ROBERT W JR by Power of Attorney</signatureName>
+        <signatureDate>2023-04-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>rwopoa.txt
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+POWER OF ATTORNEY
+KNOW ALL BY THESE PRESENTS, that the undersigned, a director and/or
+officer of Bank of Hawaii Corporation, a Delaware corporation (the
+"Company") does hereby nominate, constitute and appoint Sharlene K.
+Bliss, Katherine S. Lamb and Kelly Y. Uwaine signing singly, as his
+or her true and lawful attorneys and agents to:
+(1) execute for and on behalf of the undersigned, in his or her
+individual capacity or in a fiduciary or any other capacity, Forms 3,
+4 and 5 or to any amendment thereto, or any form or forms adopted by
+the United States Securities and Exchange Commission (the
+"Commission") in lieu thereof or in addition thereto in accordance
+with Section 16(a) of the Securities Exchange Act of 1934 and the
+rules thereunder;
+(2) do and perform any and all acts for and on behalf of the
+undersigned which may be necessary or desirable to complete and
+execute any such Forms 3, 4 and 5 and timely file such form with the
+Commission and any stock exchange or similar authority; and
+(3) take any other action of any type whatsoever in connection with
+the foregoing which, in the opinion of such attorney-in-fact, may be
+of benefit to, and in the best interest of, or legally required by,
+the undersigned.
+The undersigned acknowledges that the foregoing attorneys-in-fact, in
+serving in such capacity at the request of the undersigned, are not
+assuming, nor is the Company assuming, any of the undersigned's
+responsibilities to comply with Section 16 of the Securities and
+Exchange Act of 1934.
+This Power of Attorney shall remain in full force and effect until
+the undersigned is no longer required to file Forms 3, 4 and 5 with
+respect to the undersigned's holdings of and transactions in
+securities issued by the Company, unless earlier revoked by the
+undersigned in a signed writing delivered to the foregoing attorneys-
+in-fact.
+IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney
+to be executed as of this 23rd day of July 2021.
+________________
+Robert W. Wo
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

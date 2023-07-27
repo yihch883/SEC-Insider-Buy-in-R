@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001213900-23-027748.txt : 20230406
+<SEC-HEADER>0001213900-23-027748.hdr.sgml : 20230406
+<ACCEPTANCE-DATETIME>20230406064620
+ACCESSION NUMBER:		0001213900-23-027748
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230403
+FILED AS OF DATE:		20230406
+DATE AS OF CHANGE:		20230406
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rangan Padmanabhan
+		CENTRAL INDEX KEY:			0001944956
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40611
+		FILM NUMBER:		23804350
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NAUTICUS ROBOTICS, INC.
+		STREET 2:		17146 FEATHER CRAFT LN #450
+		CITY:			WEBSTER
+		STATE:			TX
+		ZIP:			77598
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nauticus Robotics, Inc.
+		CENTRAL INDEX KEY:			0001849820
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT, NEC [3569]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17146 FEATHERCRAFT LANE
+		STREET 2:		SUITE 450
+		CITY:			WEBSTER
+		STATE:			TX
+		ZIP:			77598
+		BUSINESS PHONE:		281-942-9069
+
+	MAIL ADDRESS:	
+		STREET 1:		17146 FEATHERCRAFT LANE
+		STREET 2:		SUITE 450
+		CITY:			WEBSTER
+		STATE:			TX
+		ZIP:			77598
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	cleantech Acquisition Corp.
+		DATE OF NAME CHANGE:	20210308
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001849820</issuerCik>
+        <issuerName>Nauticus Robotics, Inc.</issuerName>
+        <issuerTradingSymbol>KITT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001944956</rptOwnerCik>
+            <rptOwnerName>Rangan Padmanabhan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>17146 FEATHERCRAFT LANE SUITE 450</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WEBSTER</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77598</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>RSU</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>17206</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>17206</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17206</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Restricted Stock Unit (&quot;RSU&quot;) is issued pursuant to the Company's 2022 Omnibus Incentive Plan and represents a contingent right to receive one share of common stock.</footnote>
+        <footnote id="F2">100% of the RSUs vest on May 3, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Rangan Padmanabhan, by M. Dilshad Kasmani as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

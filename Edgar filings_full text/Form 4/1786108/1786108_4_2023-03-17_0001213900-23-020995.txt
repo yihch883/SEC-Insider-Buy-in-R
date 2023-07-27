@@ -1,0 +1,213 @@
+<SEC-DOCUMENT>0001213900-23-020995.txt : 20230317
+<SEC-HEADER>0001213900-23-020995.hdr.sgml : 20230317
+<ACCEPTANCE-DATETIME>20230317160814
+ACCESSION NUMBER:		0001213900-23-020995
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230315
+FILED AS OF DATE:		20230317
+DATE AS OF CHANGE:		20230317
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lund David Michael
+		CENTRAL INDEX KEY:			0001336274
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39958
+		FILM NUMBER:		23742592
+
+	MAIL ADDRESS:	
+		STREET 1:		525 UNIVERSITY AVENUE SUITE 700
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94301
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Trinity Capital Inc.
+		CENTRAL INDEX KEY:			0001786108
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 N. 1ST ST.
+		STREET 2:		3RD FLOOR
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85004
+		BUSINESS PHONE:		480.374.5350
+
+	MAIL ADDRESS:	
+		STREET 1:		1 N. 1ST ST.
+		STREET 2:		3RD FLOOR
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001786108</issuerCik>
+        <issuerName>Trinity Capital Inc.</issuerName>
+        <issuerTradingSymbol>TRIN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001336274</rptOwnerCik>
+            <rptOwnerName>Lund David Michael</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TRINITY CAPITAL INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1 N. 1ST STREET, 3RD FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>PHOENIX</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85004</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CFO, EVP - Finance &amp; Treasurer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2498</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.85</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>62875</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F3"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>48560</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>111435</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6200</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By the David M Lund Rev Liv TR U/A DTD 11-14-13</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares withheld to satisfy the reporting person's tax obligations in connection with vesting of restricted shares on March 15, 2023. Transaction exempt from Section 16(b) pursuant to Rule 16b-3.</footnote>
+        <footnote id="F2">Includes 57,803 restricted shares issued under the 2019 Trinity Capital Inc. Long Term Incentive Plan. Such restricted shares began vesting pro rata over the eight full calendar quarters immediately following the award date of March 15, 2022.</footnote>
+        <footnote id="F3">Restricted shares issued under the 2019 Trinity Capital Inc. Long Term Incentive Plan. Such restricted shares shall begin vesting pro rata over the eight full calendar quarters immediately following the award date of March 15, 2023.</footnote>
+    </footnotes>
+
+    <remarks>Sarah Stanton is signing on behalf of Mr. Lund pursuant to the power of attorney dated August 25, 2021, which was previously filed with the Securities and Exchange Commission as an exhibit to the Form 4 Mr. Lund filed on August 25, 2021.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Sarah Stanton, on behalf of David Lund</signatureName>
+        <signatureDate>2023-03-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

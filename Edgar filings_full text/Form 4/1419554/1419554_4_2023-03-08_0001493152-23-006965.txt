@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001493152-23-006965.txt : 20230308
+<SEC-HEADER>0001493152-23-006965.hdr.sgml : 20230308
+<ACCEPTANCE-DATETIME>20230308062023
+ACCESSION NUMBER:		0001493152-23-006965
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230125
+FILED AS OF DATE:		20230308
+DATE AS OF CHANGE:		20230308
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Walsh Deina H
+		CENTRAL INDEX KEY:			0001651572
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40899
+		FILM NUMBER:		23714812
+
+	MAIL ADDRESS:	
+		STREET 1:		175, MAY STREET
+		CITY:			EDISON
+		STATE:			NJ
+		ZIP:			08837
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bone Biologics Corp
+		CENTRAL INDEX KEY:			0001419554
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		IRS NUMBER:				421743430
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 BURLINGTON WOODS DRIVE,
+		STREET 2:		SUITE 100,
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+		BUSINESS PHONE:		(781) 552-4452
+
+	MAIL ADDRESS:	
+		STREET 1:		2 BURLINGTON WOODS DRIVE,
+		STREET 2:		SUITE 100,
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bone Biologics, Corp.
+		DATE OF NAME CHANGE:	20140924
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AFH ACQUISITION X, INC.
+		DATE OF NAME CHANGE:	20071127
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001419554</issuerCik>
+        <issuerName>Bone Biologics Corp</issuerName>
+        <issuerTradingSymbol>BBLG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001651572</rptOwnerCik>
+            <rptOwnerName>Walsh Deina H</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BONE BIOLOGICS CORP</rptOwnerStreet1>
+            <rptOwnerStreet2>2 BURLINGTON WOODS DR. SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>BURLINGTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01803</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.24</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18875</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-01-25</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-01-25</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>18875</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>43875</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Deina Walsh</signatureName>
+        <signatureDate>2023-03-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

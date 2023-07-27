@@ -1,0 +1,144 @@
+<SEC-DOCUMENT>0001140361-23-011675.txt : 20230314
+<SEC-HEADER>0001140361-23-011675.hdr.sgml : 20230314
+<ACCEPTANCE-DATETIME>20230314205141
+ACCESSION NUMBER:		0001140361-23-011675
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230310
+FILED AS OF DATE:		20230314
+DATE AS OF CHANGE:		20230314
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kaplan Matthew D
+		CENTRAL INDEX KEY:			0001916576
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-01211
+		FILM NUMBER:		23733025
+
+	MAIL ADDRESS:	
+		STREET 1:		800 SOUTH STREET
+		STREET 2:		SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Great Elm Capital Corp.
+		CENTRAL INDEX KEY:			0001675033
+		IRS NUMBER:				812621577
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 SOUTH STREET
+		STREET 2:		SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+		BUSINESS PHONE:		617-375-3006
+
+	MAIL ADDRESS:	
+		STREET 1:		800 SOUTH STREET
+		STREET 2:		SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001675033</issuerCik>
+        <issuerName>Great Elm Capital Corp.</issuerName>
+        <issuerTradingSymbol>GECC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001916576</rptOwnerCik>
+            <rptOwnerName>Kaplan Matthew D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O GREAT ELM CAPITAL CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>800 SOUTH STREET, SUITE 230</rptOwnerStreet2>
+            <rptOwnerCity>WALTHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02453</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>CEO and President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1100</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.29</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $9.25 to $9.41, inclusive. The Reporting Person undertakes to provide to Great Elm Capital Corp. (&quot;GECC&quot;), any security holder of GECC, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased in each transaction at each separate price within the ranges set forth herein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Adam M. Kleinman, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-03-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

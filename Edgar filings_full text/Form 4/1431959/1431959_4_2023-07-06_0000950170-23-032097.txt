@@ -1,0 +1,211 @@
+<SEC-DOCUMENT>0000950170-23-032097.txt : 20230706
+<SEC-HEADER>0000950170-23-032097.hdr.sgml : 20230706
+<ACCEPTANCE-DATETIME>20230706192600
+ACCESSION NUMBER:		0000950170-23-032097
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230703
+FILED AS OF DATE:		20230706
+DATE AS OF CHANGE:		20230706
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sasson Uzi
+		CENTRAL INDEX KEY:			0001293591
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36247
+		FILM NUMBER:		231074921
+
+	MAIL ADDRESS:	
+		STREET 1:		2041 LANDINGS DRIVE
+		CITY:			MOUNTAIN VIEW
+		STATE:			CA
+		ZIP:			94043
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			META MATERIALS INC.
+		CENTRAL INDEX KEY:			0001431959
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				743237581
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 RESEARCH DRIVE
+		CITY:			DARTMOUTH
+		STATE:			A5
+		ZIP:			B2Y 4M9
+		BUSINESS PHONE:		1-902-482-5729
+
+	MAIL ADDRESS:	
+		STREET 1:		1 RESEARCH DRIVE
+		CITY:			DARTMOUTH
+		STATE:			A5
+		ZIP:			B2Y 4M9
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TORCHLIGHT ENERGY RESOURCES INC
+		DATE OF NAME CHANGE:	20110303
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Pole Perfect Studios, Inc.
+		DATE OF NAME CHANGE:	20080409
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001431959</issuerCik>
+        <issuerName>META MATERIALS INC.</issuerName>
+        <issuerTradingSymbol>MMAT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001293591</rptOwnerCik>
+            <rptOwnerName>Sasson Uzi</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O META MATERIALS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>60 HIGHFIELD PARK DRIVE, SUITE 102</rptOwnerStreet2>
+            <rptOwnerCity>DARTMOUTH</rptOwnerCity>
+            <rptOwnerState>A5</rptOwnerState>
+            <rptOwnerZipCode>B3A 4R9</rptOwnerZipCode>
+            <rptOwnerStateDescription>NOVA SCOTIA, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CFO and COO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>933765</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>933765</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.2008</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1236807</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-07-03</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1236807</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1236807</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reported shares are represented by restricted stock units (&quot;RSUs&quot;), and each RSU is the economic equivalent of one share of Meta Materials Inc. common stock. Subject to the reporting person continuing as a Service Provider (as defined in the Issuer's 2021 Equity Incentive Plan) from July 3, 2023, the RSUs will vest in equal annual installments over 4 years from July 3, 2023 such that the RSUs are fully vested on the 4-year anniversary of July 3, 2023.</footnote>
+        <footnote id="F2">Subject to the reporting person continuing to be a Service Provider (as defined in the Issuer's 2021 Equity Incentive Plan) from July 3, 2023, the shares subject to the stock option shall vest in equal annual installments over 4 years on the same date from July 3, 2023, such that the option is fully vested on the 4-year anniversary of July 3, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Uzi Sasson</signatureName>
+        <signatureDate>2023-07-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

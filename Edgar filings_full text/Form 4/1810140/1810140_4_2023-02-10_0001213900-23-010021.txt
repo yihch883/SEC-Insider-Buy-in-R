@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001213900-23-010021.txt : 20230210
+<SEC-HEADER>0001213900-23-010021.hdr.sgml : 20230210
+<ACCEPTANCE-DATETIME>20230210080336
+ACCESSION NUMBER:		0001213900-23-010021
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230208
+FILED AS OF DATE:		20230210
+DATE AS OF CHANGE:		20230210
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Akhavan Houman
+		CENTRAL INDEX KEY:			0001388867
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39418
+		FILM NUMBER:		23608599
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O U. S. AUTO PARTS NETWORK, INC.
+		STREET 2:		17150 SOUTH MARGAY AVENUE
+		CITY:			CARSON
+		STATE:			CA
+		ZIP:			90746
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Polished.com Inc.
+		CENTRAL INDEX KEY:			0001810140
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-HOME FURNITURE, FURNISHINGS & EQUIPMENT STORES [5700]
+		IRS NUMBER:				833713938
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3817 MILLSTONE PARKWAY
+		CITY:			ST. CHARLES
+		STATE:			MO
+		ZIP:			63301
+		BUSINESS PHONE:		8887681710
+
+	MAIL ADDRESS:	
+		STREET 1:		3817 MILLSTONE PARKWAY
+		CITY:			ST. CHARLES
+		STATE:			MO
+		ZIP:			63301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	1847 Goedeker Inc.
+		DATE OF NAME CHANGE:	20200422
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	1847 Goedecker Inc.
+		DATE OF NAME CHANGE:	20200420
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001810140</issuerCik>
+        <issuerName>Polished.com Inc.</issuerName>
+        <issuerTradingSymbol>POL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001388867</rptOwnerCik>
+            <rptOwnerName>Akhavan Houman</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O POLISHED.COM INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1870 BATH AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>BROOKLYN</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>11214</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>83011</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>147637.99</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This grant of common stock is fully vested as of the transaction date, February 8, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Houman Akhavan</signatureName>
+        <signatureDate>2023-02-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

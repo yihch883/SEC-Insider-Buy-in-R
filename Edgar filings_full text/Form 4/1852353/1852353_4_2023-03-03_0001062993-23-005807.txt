@@ -1,0 +1,149 @@
+<SEC-DOCUMENT>0001062993-23-005807.txt : 20230303
+<SEC-HEADER>0001062993-23-005807.hdr.sgml : 20230303
+<ACCEPTANCE-DATETIME>20230303143823
+ACCESSION NUMBER:		0001062993-23-005807
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230301
+FILED AS OF DATE:		20230303
+DATE AS OF CHANGE:		20230303
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			O'Rourke Stephen T.
+		CENTRAL INDEX KEY:			0001816004
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41349
+		FILM NUMBER:		23703201
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 9159
+		CITY:			RAPID CITY
+		STATE:			SD
+		ZIP:			57709
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Dakota Gold Corp.
+		CENTRAL INDEX KEY:			0001852353
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		106 GLENDALE DRIVE, SUITE A
+		CITY:			LEAD
+		STATE:			SD
+		ZIP:			57754
+		BUSINESS PHONE:		(604) 365-1097
+
+	MAIL ADDRESS:	
+		STREET 1:		106 GLENDALE DRIVE, SUITE A
+		CITY:			LEAD
+		STATE:			SD
+		ZIP:			57754
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JR Resources Corp.
+		DATE OF NAME CHANGE:	20210319
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001852353</issuerCik>
+        <issuerName>Dakota Gold Corp.</issuerName>
+        <issuerTradingSymbol>DC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001816004</rptOwnerCik>
+            <rptOwnerName>O'Rourke Stephen T.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>106 GLENDALE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE A</rptOwnerStreet2>
+            <rptOwnerCity>LEAD</rptOwnerCity>
+            <rptOwnerState>SD</rptOwnerState>
+            <rptOwnerZipCode>57754</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>53381</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>891670</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units (&quot;RSU&quot;). Each RSU represents a contingent right to receive one share of Dakota Gold Corp. common stock. The RSUs are scheduled to vest in three equal tranches on March 1, 2024, March 1, 2025 and March 1, 2026.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel Cherniak, as attorney-in-fact for Stephen T. O'Rourke</signatureName>
+        <signatureDate>2023-03-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001225208-23-000340.txt : 20230105
+<SEC-HEADER>0001225208-23-000340.hdr.sgml : 20230105
+<ACCEPTANCE-DATETIME>20230105114113
+ACCESSION NUMBER:		0001225208-23-000340
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230103
+FILED AS OF DATE:		20230105
+DATE AS OF CHANGE:		20230105
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Santelli Jonathan N
+		CENTRAL INDEX KEY:			0001672865
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09109
+		FILM NUMBER:		23510224
+
+	MAIL ADDRESS:	
+		STREET 1:		880 CARILLON PARKWAY
+		CITY:			SAINT PETERSBURG
+		STATE:			FL
+		ZIP:			33716
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RAYMOND JAMES FINANCIAL INC
+		CENTRAL INDEX KEY:			0000720005
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		IRS NUMBER:				591517485
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		880 CARILLON PKWY
+		CITY:			ST PETERSBURG
+		STATE:			FL
+		ZIP:			33716
+		BUSINESS PHONE:		727-567-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		880 CARILLON PKWY
+		CITY:			ST. PETERSBURG
+		STATE:			FL
+		ZIP:			33716
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RJ FINANCIAL CORP/FL
+		DATE OF NAME CHANGE:	19870303
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000720005</issuerCik>
+        <issuerName>RAYMOND JAMES FINANCIAL INC</issuerName>
+        <issuerTradingSymbol>RJF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001672865</rptOwnerCik>
+            <rptOwnerName>Santelli Jonathan N</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>880 CARILLON PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ST. PETERSBURG</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33716</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP, Gen Counsel, Secy</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>498.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>106.1100</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16320.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>378.0000</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>ESOP</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes shares of common stock acquired under the reporting person's Employee Stock Ownership Plan (ESOP) account through January 3, 2023.</footnote>
+    </footnotes>
+
+    <remarks>This Form 4 reports a disposition to the issuer of shares to cover tax liability incident to the vesting of Performance RSUs, which vesting was previously timely reported on 12/1/2022.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jonathan N. Santelli by Jonathan J. Doyle as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-01-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

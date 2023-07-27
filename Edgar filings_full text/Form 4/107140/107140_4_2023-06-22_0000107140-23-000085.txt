@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0000107140-23-000085.txt : 20230622
+<SEC-HEADER>0000107140-23-000085.hdr.sgml : 20230622
+<ACCEPTANCE-DATETIME>20230622164722
+ACCESSION NUMBER:		0000107140-23-000085
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230620
+FILED AS OF DATE:		20230622
+DATE AS OF CHANGE:		20230622
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Monaco Kevin
+		CENTRAL INDEX KEY:			0001578901
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11507
+		FILM NUMBER:		231033924
+
+	MAIL ADDRESS:	
+		STREET 1:		2 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10016
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JOHN WILEY & SONS, INC.
+		CENTRAL INDEX KEY:			0000107140
+		STANDARD INDUSTRIAL CLASSIFICATION:	BOOKS: PUBLISHING OR PUBLISHING AND PRINTING [2731]
+		IRS NUMBER:				135593032
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0430
+
+	BUSINESS ADDRESS:	
+		STREET 1:		111 RIVER STREET
+		CITY:			HOBOKEN
+		STATE:			NJ
+		ZIP:			07030
+		BUSINESS PHONE:		2017486000
+
+	MAIL ADDRESS:	
+		STREET 1:		111 RIVER STREET
+		CITY:			HOBOKEN
+		STATE:			NJ
+		ZIP:			07030
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WILEY JOHN & SONS, INC.
+		DATE OF NAME CHANGE:	20070820
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WILEY JOHN & SONS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_168746683130121.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000107140</issuerCik>
+        <issuerName>JOHN WILEY &amp; SONS, INC.</issuerName>
+        <issuerTradingSymbol>WLY, WLYB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001578901</rptOwnerCik>
+            <rptOwnerName>Monaco Kevin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>111 RIVER STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HOBOKEN</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07030</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP, Treasurer &amp; Tax</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Non-Qualified Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>32.68</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-06-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10000.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Non-qualified stock options to vest 10% / 20% / 30% / 40% each respective year beginning on June 30, 2024 through June 30, 2027, and are subject to forfeiture subject to the terms and conditions of the grant.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Marjorie Pierre-Merritt, Attorney-In-Fact</signatureName>
+        <signatureDate>2023-06-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

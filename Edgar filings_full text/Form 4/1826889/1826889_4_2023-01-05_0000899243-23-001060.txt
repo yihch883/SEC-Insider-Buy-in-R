@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0000899243-23-001060.txt : 20230105
+<SEC-HEADER>0000899243-23-001060.hdr.sgml : 20230105
+<ACCEPTANCE-DATETIME>20230105191933
+ACCESSION NUMBER:		0000899243-23-001060
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230103
+FILED AS OF DATE:		20230105
+DATE AS OF CHANGE:		20230105
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lundy Ann Marie
+		CENTRAL INDEX KEY:			0001957776
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39735
+		FILM NUMBER:		23513087
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE BEACHBODY COMPANY, INC.
+		STREET 2:		400 CONTINENTAL BLVD., SUITE 400
+		CITY:			EL SEGUNDO
+		STATE:			CA
+		ZIP:			90245
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Beachbody Company, Inc.
+		CENTRAL INDEX KEY:			0001826889
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-NONSTORE RETAILERS [5960]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 CONTINENTAL BLVD
+		STREET 2:		SUITE 400
+		CITY:			EL SEGUNDO
+		STATE:			CA
+		ZIP:			90245
+		BUSINESS PHONE:		3109850200
+
+	MAIL ADDRESS:	
+		STREET 1:		400 CONTINENTAL BLVD
+		STREET 2:		SUITE 400
+		CITY:			EL SEGUNDO
+		STATE:			CA
+		ZIP:			90245
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Forest Road Acquisition Corp.
+		DATE OF NAME CHANGE:	20201001
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001826889</issuerCik>
+        <issuerName>Beachbody Company, Inc.</issuerName>
+        <issuerTradingSymbol>BODY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001957776</rptOwnerCik>
+            <rptOwnerName>Lundy Ann Marie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BEACHBODY COMPANY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>400 CONTINENTAL BLVD., SUITE 400</rptOwnerStreet2>
+            <rptOwnerCity>EL SEGUNDO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90245</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>133314</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>133314</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a grant of restricted stock units (&quot;RSUs&quot;) which convert into shares of Class A Common stock on a one-for-one basis. The RSUs vest on the earlier to occur of (i) the first anniversary of the grant date and (ii) the date of the next annual meeting following the grant date, subject to continued service with the Company through such date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Blake T. Bilstad, Attorney-in-Fact for Ann Marie Lundy</signatureName>
+        <signatureDate>2023-01-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

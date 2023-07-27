@@ -1,0 +1,199 @@
+<SEC-DOCUMENT>0001213900-23-034603.txt : 20230501
+<SEC-HEADER>0001213900-23-034603.hdr.sgml : 20230501
+<ACCEPTANCE-DATETIME>20230501160147
+ACCESSION NUMBER:		0001213900-23-034603
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230427
+FILED AS OF DATE:		20230501
+DATE AS OF CHANGE:		20230501
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ArcLight CTC Holdings II, L.P.
+		CENTRAL INDEX KEY:			0001842317
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40272
+		FILM NUMBER:		23873447
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 CLARENDON STREET, 55TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		617-531-6300
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CLARENDON STREET, 55TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OPAL Fuels Inc.
+		CENTRAL INDEX KEY:			0001842279
+		STANDARD INDUSTRIAL CLASSIFICATION:	GAS & OTHER SERVICES COMBINED [4932]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 CLARENDON STREET, 55TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		617-531-6300
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CLARENDON STREET, 55TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ArcLight Clean Transition Corp. II
+		DATE OF NAME CHANGE:	20210125
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-27</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001842279</issuerCik>
+        <issuerName>OPAL Fuels Inc.</issuerName>
+        <issuerTradingSymbol>OPAL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001842317</rptOwnerCik>
+            <rptOwnerName>ArcLight CTC Holdings II, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 CLARENDON ST, 55TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5943014</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2308310</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1839840</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On April 27, 2023, ArcLight CTC Holdings II, L.P., a Delaware limited partnership (the &quot;Sponsor&quot;), distributed the reported securities to its partners for no consideration (the &quot;Distribution&quot;).</footnote>
+        <footnote id="F2">The reported 2,308,310 shares of Class A common stock, par value $0.0001 per share (&quot;Class A common stock&quot;), of the Issuer are held directly by the Sponsor after giving effect to the Distribution. Daniel R. Revers has voting and investment discretion with respect to the securities held by the Sponsor, and thus may be deemed to have beneficial ownership of such securities. Mr. Revers expressly disclaims any such beneficial ownership of such securities, except to the extent of his individual pecuniary interest therein.</footnote>
+        <footnote id="F3">This is an exit filing solely with respect to the Sponsor.</footnote>
+        <footnote id="F4">Consists of (i) 1,339,662 shares of Class A common stock received by Daniel Revers in the Distribution, (ii) 331,235 shares of Class A common stock received by ACHP B, L.P., a Delaware limited partnership (&quot;ACHP B&quot;), in the Distribution, (iii) 69,572 shares of Class A common stock received by ACTC Holdings GP II, LLC, a Delaware limited liability company and general partner of the Sponsor (&quot;ACTC GP&quot;), in the Distribution and (iv) 99,371 shares of Class A common stock received by Revers Special Ops Holdings, LLC, a Delaware limited liability company (&quot;Special Ops Holdings&quot;), in the Distribution, which, in each case, constituted a non-reportable change in form pursuant to Rule 16a-13.</footnote>
+        <footnote id="F5">(continued from footnote 4) Mr. Revers has voting and investment discretion with respect to the securities held by ACHP B, ACTC GP and Special Ops Holdings, and thus may be deemed to have beneficial ownership of such securities. Mr. Revers expressly disclaims beneficial ownership of such securities except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>ARCLIGHT CTC HOLDINGS II, L.P. By: ACTC HOLDINGS GP II, LLC, its General Partner By: ARCLIGHT CAPITAL HOLDINGS, LLC, its Manager By: ACHP II, L.P., its Managing Member By: ACH GP, LLC, its General Partner By: /s/ Daniel R. Revers Title: Manager</signatureName>
+        <signatureDate>2023-05-01</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Daniel R. Revers</signatureName>
+        <signatureDate>2023-05-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

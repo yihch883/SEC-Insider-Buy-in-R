@@ -1,0 +1,274 @@
+<SEC-DOCUMENT>0001127602-23-013660.txt : 20230427
+<SEC-HEADER>0001127602-23-013660.hdr.sgml : 20230427
+<ACCEPTANCE-DATETIME>20230427170913
+ACCESSION NUMBER:		0001127602-23-013660
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230425
+FILED AS OF DATE:		20230427
+DATE AS OF CHANGE:		20230427
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BLACK STEVEN D
+		CENTRAL INDEX KEY:			0001197618
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02979
+		FILM NUMBER:		23858373
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O JPMORGAN CHASE & CO.
+		STREET 2:		270 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WELLS FARGO & COMPANY/MN
+		CENTRAL INDEX KEY:			0000072971
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				410449260
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		420 MONTGOMERY STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94163
+		BUSINESS PHONE:		6126671234
+
+	MAIL ADDRESS:	
+		STREET 1:		420 MONTGOMERY STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94163
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WELLS FARGO & CO/MN
+		DATE OF NAME CHANGE:	19981103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORWEST CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORTHWEST BANCORPORATION
+		DATE OF NAME CHANGE:	19830516
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-25</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000072971</issuerCik>
+        <issuerName>WELLS FARGO &amp; COMPANY/MN</issuerName>
+        <issuerTradingSymbol>WFC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001197618</rptOwnerCik>
+            <rptOwnerName>BLACK STEVEN D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>420 MONTGOMERY STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94104</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $1 2/3 Par Value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>129.918</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Common Stock Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5919</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>40.55</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, $1 2/3 Par Value</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5919</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5919</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Common Stock Units vested upon grant with settlement deferred until the later of termination of service as a director of Wells Fargo &amp; Company (the &quot;Company&quot;) or such later settlement date elected by the director.</footnote>
+        <footnote id="F2">Each Common Stock Unit represents a right to receive one share of Company common stock.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>Steven D. Black, by Janet McGinness, as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>doc1.txt
+<DESCRIPTION>POWER OF ATTORNEY (PUBLIC): POWER OF ATTORNEY - EXHIBIT 24 - BLACK
+<TEXT>
+							Exhibit 24
+							__________
+
+                         POWER OF ATTORNEY
+
+	Know all by these presents, that the undersigned hereby
+constitutes and appoints, solely in connection with the undersigned's
+capacity as an officer and/or director of Wells Fargo & Company (the
+"Company"), each of Anne M. Daniel, Brad D. Kern, Janet McGinness,
+Tangela Richter, Ryan T. Tollgaard, Lori Kreidt, Meghan Daly and
+Robert Kaukol, acting alone, the undersigned's true and lawful
+attorney-in-fact to:
+
+(1)	complete, sign, and submit to the United States Securities and
+Exchange Commission Forms 3, 4 and 5 (including any amendments thereto)
+in accordance with Section 16(a) of the Securities Exchange Act of 1934,
+as amended (the "Exchange Act"), and the rules thereunder, including with
+respect to any and all equity securities issued by the Company that may
+be considered to be owned by the undersigned for the purposes of such
+statute and rules;
+
+(2)	complete, sign, and submit to the United States Securities and
+Exchange Commission, for and on behalf of the undersigned, Form 144
+(including any amendments thereto) in accordance with the Securities Act
+of 1933, as amended (the "Securities Act"), and the rules thereunder;
+
+(3)	do and perform any and all acts for and on behalf of the undersigned
+which may be necessary or desirable to file any such Form 3, 4, 5 or 144, or
+any amendments thereto, with the United States Securities and Exchange
+Commission and any other authority; and
+
+(4)	take any other action of any type whatsoever in connection with the
+foregoing which, in the opinion of such attorney-in-fact, may be of benefit
+to, in the best interest of or legally required of the undersigned, it being
+understood that the documents executed by such attorney-in-fact on behalf of
+the undersigned pursuant to this Power of Attorney shall be in such form and
+shall contain such terms and conditions as such attorney-in-fact may approve
+in his or her discretion.
+
+	The undersigned hereby grants to each such attorney-in-fact full
+power and authority to do and perform each and every act and thing whatsoever
+requisite, necessary or proper to be done in the exercise of any of the rights
+and powers herein granted, as fully to all intents and purposes as the
+undersigned might or could do if personally present and acting, with full
+power of substitution or revocation, hereby ratifying and confirming all
+that such attorney-in-fact, or his or her substitute or substitutes, shall
+lawfully do or cause to be done by virtue of this Power of Attorney and
+the rights and powers herein granted.  The undersigned acknowledges that
+neither the Company nor any attorney-in-fact assumes any liability for the
+undersigned's responsibility to comply with the requirements of Section 16
+of the Exchange Act or Rule 144 under the Securities Act, any liability of
+the undersigned for any failure to comply with such requirements, or any
+liability of the undersigned for disgorgement of profits under Section 16(b)
+of the Exchange Act.
+
+	This Power of Attorney revokes any previous Power of Attorney granted
+by the undersigned with respect to the subject matter hereof, and shall
+remain in full force and effect until the undersigned is no longer required
+to file Forms 3, 4, 5 and 144 with respect to the undersigned's holdings
+of and transactions in securities issued by the Company, unless earlier
+revoked by the undersigned in a subsequently executed Power of Attorney or a
+signed writing delivered to the foregoing attorneys-in-fact.
+
+	IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney
+to be executed as of this 24th day of April, 2023.
+
+						/s/ Steven D. Black
+						_______________________________
+						    Steven D. Black
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

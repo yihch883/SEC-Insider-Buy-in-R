@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001062993-23-000289.txt : 20230104
+<SEC-HEADER>0001062993-23-000289.hdr.sgml : 20230104
+<ACCEPTANCE-DATETIME>20230104162409
+ACCESSION NUMBER:		0001062993-23-000289
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230102
+FILED AS OF DATE:		20230104
+DATE AS OF CHANGE:		20230104
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Franzese Yvonne K
+		CENTRAL INDEX KEY:			0001709782
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31792
+		FILM NUMBER:		23506803
+
+	MAIL ADDRESS:	
+		STREET 1:		200 LAKE STREET EAST
+		CITY:			WAYZATA
+		STATE:			MN
+		ZIP:			55391
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CNO Financial Group, Inc.
+		CENTRAL INDEX KEY:			0001224608
+		STANDARD INDUSTRIAL CLASSIFICATION:	ACCIDENT & HEALTH INSURANCE [6321]
+		IRS NUMBER:				753108137
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11825 N PENNSYLVANIA ST
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+		BUSINESS PHONE:		3178176100
+
+	MAIL ADDRESS:	
+		STREET 1:		11825 NORTH PENNSYLVANIA STREET
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONSECO INC
+		DATE OF NAME CHANGE:	20030326
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001224608</issuerCik>
+        <issuerName>CNO Financial Group, Inc.</issuerName>
+        <issuerTradingSymbol>CNO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001709782</rptOwnerCik>
+            <rptOwnerName>Franzese Yvonne K</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CNO FINANCIAL GROUP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>11825 N. PENNSYLVANIA ST.</rptOwnerStreet2>
+            <rptOwnerCity>CARMEL</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>46032</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP and CHRO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1762</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>22.85</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35620</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48338</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Yvonne K. Franzese Revocable Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares were surrendered to CNO Financial Group, Inc. to cover required tax withholding upon release of deferred shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Rachel J. Spehler, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

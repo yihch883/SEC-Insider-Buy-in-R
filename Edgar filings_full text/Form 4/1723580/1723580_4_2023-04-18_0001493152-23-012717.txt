@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001493152-23-012717.txt : 20230418
+<SEC-HEADER>0001493152-23-012717.hdr.sgml : 20230418
+<ACCEPTANCE-DATETIME>20230418080011
+ACCESSION NUMBER:		0001493152-23-012717
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230414
+FILED AS OF DATE:		20230418
+DATE AS OF CHANGE:		20230418
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			JOHN ROSATTI REVOCABLE TRUST
+		CENTRAL INDEX KEY:			0001859832
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38417
+		FILM NUMBER:		23825520
+
+	BUSINESS ADDRESS:	
+		STREET 1:		U/A DTD 08/27/2001- CUSTODY
+		STREET 2:		101 US HIGHWAY 1
+		CITY:			NORTH PALM BEACH
+		STATE:			FL
+		ZIP:			33408
+		BUSINESS PHONE:		561-650-7940
+
+	MAIL ADDRESS:	
+		STREET 1:		U/A DTD 08/27/2001- CUSTODY
+		STREET 2:		101 US HIGHWAY 1
+		CITY:			NORTH PALM BEACH
+		STATE:			FL
+		ZIP:			33408
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BurgerFi International, Inc.
+		CENTRAL INDEX KEY:			0001723580
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				822418815
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0102
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST CYPRESS CREEK ROAD
+		STREET 2:		SUITE 220
+		CITY:			FORT LAUDERDALE
+		STATE:			FL
+		ZIP:			33309
+		BUSINESS PHONE:		(954) 618-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST CYPRESS CREEK ROAD
+		STREET 2:		SUITE 220
+		CITY:			FORT LAUDERDALE
+		STATE:			FL
+		ZIP:			33309
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Opes Acquisition Corp.
+		DATE OF NAME CHANGE:	20171122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001723580</issuerCik>
+        <issuerName>BurgerFi International, Inc.</issuerName>
+        <issuerTradingSymbol>BFI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001859832</rptOwnerCik>
+            <rptOwnerName>JOHN ROSATTI REVOCABLE TRUST</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>105 US HIGHWAY 1</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NORTH PALM BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33408</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.2010</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3923396</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.1505</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3913396</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This Form 4 has been filed by The John Rosatti Family Trust dated August 27, 2001, as amended (&quot;The John Rosatti Family Trust&quot;). Mr. Rosatti is the trustee of The John Rosatti Family Trust, and, in such capacity, exercises voting and investment power over any securities held for the account of The John Rosatti Family Trust.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John Rosatti</signatureName>
+        <signatureDate>2023-04-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

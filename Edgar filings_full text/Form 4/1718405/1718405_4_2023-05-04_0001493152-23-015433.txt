@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001493152-23-015433.txt : 20230504
+<SEC-HEADER>0001493152-23-015433.hdr.sgml : 20230504
+<ACCEPTANCE-DATETIME>20230504160537
+ACCESSION NUMBER:		0001493152-23-015433
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230503
+FILED AS OF DATE:		20230504
+DATE AS OF CHANGE:		20230504
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jennings Rebecca
+		CENTRAL INDEX KEY:			0001952129
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38387
+		FILM NUMBER:		23888591
+
+	MAIL ADDRESS:	
+		STREET 1:		4300 WATER CANYON ROAD
+		STREET 2:		UNIT 1
+		CITY:			WINNEMUCCA
+		STATE:			NV
+		ZIP:			89445
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HYCROFT MINING HOLDING CORP
+		CENTRAL INDEX KEY:			0001718405
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		IRS NUMBER:				822657796
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4300 WATER CANYON ROAD
+		STREET 2:		UNIT 1
+		CITY:			WINNEMUCCA
+		STATE:			NV
+		ZIP:			89445
+		BUSINESS PHONE:		7753040260
+
+	MAIL ADDRESS:	
+		STREET 1:		4300 WATER CANYON ROAD
+		STREET 2:		UNIT 1
+		CITY:			WINNEMUCCA
+		STATE:			NV
+		ZIP:			89445
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Mudrick Capital Acquisition Corp
+		DATE OF NAME CHANGE:	20171002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001718405</issuerCik>
+        <issuerName>HYCROFT MINING HOLDING CORP</issuerName>
+        <issuerTradingSymbol>HYMC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001952129</rptOwnerCik>
+            <rptOwnerName>Jennings Rebecca</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O HYCROFT MINING HOLDING CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>4300 WATER CANYON ROAD, UNIT 1</rptOwnerStreet2>
+            <rptOwnerCity>WINNEMUCCA</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89445</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Senior Vice President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11940</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.4195</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11940</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>700000</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents unvested restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Rebecca Jennings</signatureName>
+        <signatureDate>2023-05-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

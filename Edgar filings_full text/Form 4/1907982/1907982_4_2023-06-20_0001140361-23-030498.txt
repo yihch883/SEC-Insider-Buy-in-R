@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0001140361-23-030498.txt : 20230620
+<SEC-HEADER>0001140361-23-030498.hdr.sgml : 20230620
+<ACCEPTANCE-DATETIME>20230620163116
+ACCESSION NUMBER:		0001140361-23-030498
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230615
+FILED AS OF DATE:		20230620
+DATE AS OF CHANGE:		20230620
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Michael Emil
+		CENTRAL INDEX KEY:			0001828144
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41468
+		FILM NUMBER:		231025639
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DPCM CAPITAL, INC.
+		STREET 2:		382 NE 191 STREET, # 24148
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33179
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			D-Wave Quantum Inc.
+		CENTRAL INDEX KEY:			0001907982
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3033 BETA AVENUE
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5G4M9
+		BUSINESS PHONE:		(604) 630-1428
+
+	MAIL ADDRESS:	
+		STREET 1:		3033 BETA AVENUE
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5G4M9
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001907982</issuerCik>
+        <issuerName>D-Wave Quantum Inc.</issuerName>
+        <issuerTradingSymbol>QBTS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001828144</rptOwnerCik>
+            <rptOwnerName>Michael Emil</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3033 BETA AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BURNABY</rptOwnerCity>
+            <rptOwnerState>A1</rptOwnerState>
+            <rptOwnerZipCode>V5G4M9</rptOwnerZipCode>
+            <rptOwnerStateDescription>BRITISH COLUMBIA, CANADA</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2768075</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>29021</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.857</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36353</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Sponsor Group, LLC (the &quot;Sponsor&quot;) is the record holder of such securities. Emil Michael is the manager of the Sponsor, and as such has voting and dispositive power over the securities held by the Sponsor and may be deemed to have beneficial ownership of such securities. Emil Michael disclaims beneficial ownership of such securities except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F2">This transaction was executed in multiple trades at prices ranging from $1.85 to $1.87. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the Securities and Exchange Commission staff, the Issuer or a security holder of the Issuer, full information regarding the number of shares sold at each separate price for all transactions reported on this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Alan E. Baratz as Attorney-in-Fact, for Emil Michael</signatureName>
+        <signatureDate>2023-06-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,229 @@
+<SEC-DOCUMENT>0001214659-23-007319.txt : 20230516
+<SEC-HEADER>0001214659-23-007319.hdr.sgml : 20230516
+<ACCEPTANCE-DATETIME>20230516163008
+ACCESSION NUMBER:		0001214659-23-007319
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230512
+FILED AS OF DATE:		20230516
+DATE AS OF CHANGE:		20230516
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			AULT MILTON C III
+		CENTRAL INDEX KEY:			0001212502
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12711
+		FILM NUMBER:		23927988
+
+	MAIL ADDRESS:	
+		STREET 1:		11411 SOUTHERN HIGHLANDS PARKWAY
+		STREET 2:		SUITE 240
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89141
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ault Alliance, Inc.
+		CENTRAL INDEX KEY:			0000896493
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPONENTS, NEC [3679]
+		IRS NUMBER:				941721931
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11411 SOUTHERN HIGHLANDS PARKWAY
+		STREET 2:		SUITE 240
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89141
+		BUSINESS PHONE:		(949) 444-5464 3679
+
+	MAIL ADDRESS:	
+		STREET 1:		11411 SOUTHERN HIGHLANDS PARKWAY
+		STREET 2:		SUITE 240
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89141
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BitNile Holdings, Inc.
+		DATE OF NAME CHANGE:	20211213
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ault Global Holdings, Inc.
+		DATE OF NAME CHANGE:	20210119
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DPW Holdings, Inc.
+		DATE OF NAME CHANGE:	20171229
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>marketforms-61539.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000896493</issuerCik>
+        <issuerName>Ault Alliance, Inc.</issuerName>
+        <issuerTradingSymbol>AULT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001212502</rptOwnerCik>
+            <rptOwnerName>AULT MILTON C III</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11411 SOUTHERN HIGHLANDS PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 240</rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89141</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Executive Chairman</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-12</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>400000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0866</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>53262610</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Ault Alpha LP</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>809792</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1658916</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Ault &amp; Company, Inc.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3408</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Philou Ventures, LLC</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Milton C. Ault, III, is the Manager of Ault Alpha GP LLC (&quot;Ault GP&quot;) and Ault Capital Management LLC (&quot;AC Management&quot;).  Ault GP and AC Management are the general partner and investment manager to Ault Alpha LP (&quot;Ault Alpha&quot;), respectively. As such, Mr. Ault is deemed to beneficially own the shares held by Ault Alpha.</footnote>
+        <footnote id="F2">Milton C. Ault, III, is the Chief Executive Officer of Ault &amp; Company, Inc. (&quot;Ault &amp; Co.&quot;) and is deemed to beneficially own the shares held by Ault &amp; Co.</footnote>
+        <footnote id="F3">Ault &amp; Co. is the Manager of Philou Ventures, LLC. Milton C. Ault, III, as the Chief Executive Officer of Ault &amp; Co., is deemed to beneficially own the shares held by Philou Ventures, LLC.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Milton C. Ault, III</signatureName>
+        <signatureDate>2023-05-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001891897-23-000002.txt : 20230314
+<SEC-HEADER>0001891897-23-000002.hdr.sgml : 20230314
+<ACCEPTANCE-DATETIME>20230314130108
+ACCESSION NUMBER:		0001891897-23-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230310
+FILED AS OF DATE:		20230314
+DATE AS OF CHANGE:		20230314
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			STEPHENS JOHN JOSEPH
+		CENTRAL INDEX KEY:			0001258391
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40284
+		FILM NUMBER:		23729994
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SOLID POWER, INC.
+		STREET 2:		486 S PIERCE AVE., SUITE E
+		CITY:			LOUISVILLE
+		STATE:			CO
+		ZIP:			80027
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Solid Power, Inc.
+		CENTRAL INDEX KEY:			0001844862
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				861888095
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		486 S. PIERCE AVE., SUITE E
+		CITY:			LOUISVILLE
+		STATE:			CO
+		ZIP:			80027
+		BUSINESS PHONE:		(303) 219-0720
+
+	MAIL ADDRESS:	
+		STREET 1:		486 S. PIERCE AVE., SUITE E
+		CITY:			LOUISVILLE
+		STATE:			CO
+		ZIP:			80027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Decarbonization Plus Acquisition Corp III
+		DATE OF NAME CHANGE:	20210208
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001844862</issuerCik>
+        <issuerName>Solid Power, Inc.</issuerName>
+        <issuerTradingSymbol>SLDP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001258391</rptOwnerCik>
+            <rptOwnerName>STEPHENS JOHN JOSEPH</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O SOLID POWER, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>486 S PIERCE AVE., SUITE E</rptOwnerStreet2>
+            <rptOwnerCity>LOUISVILLE</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>214500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.919</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>300005</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by LP</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15700</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was executed in multiple trades at prices ranging from $2.8582 to $2.9757. The price reported above reflects the weighted average price. The reporting person hereby undertakes to provide upon request to the SEC staff, the issuer, or a security holder of the issuer full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James Liebscher, attorney-in-fact on behalf of John J. Stephens</signatureName>
+        <signatureDate>2023-03-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

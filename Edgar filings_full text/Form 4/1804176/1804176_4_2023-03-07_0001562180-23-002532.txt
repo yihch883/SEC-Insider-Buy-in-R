@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001562180-23-002532.txt : 20230307
+<SEC-HEADER>0001562180-23-002532.hdr.sgml : 20230307
+<ACCEPTANCE-DATETIME>20230307110227
+ACCESSION NUMBER:		0001562180-23-002532
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230306
+FILED AS OF DATE:		20230307
+DATE AS OF CHANGE:		20230307
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stoica Andrei G
+		CENTRAL INDEX KEY:			0001808868
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39292
+		FILM NUMBER:		23711533
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 CEDAR HOLLOW ROAD
+		CITY:			MALVERN
+		STATE:			PA
+		ZIP:			19355
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Butterfly Network, Inc.
+		CENTRAL INDEX KEY:			0001804176
+		STANDARD INDUSTRIAL CLASSIFICATION:	X-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS [3844]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1600 DISTRICT AVENUE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+		BUSINESS PHONE:		781-557-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		1600 DISTRICT AVENUE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Longview Acquisition Corp.
+		DATE OF NAME CHANGE:	20200220
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-06</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001804176</issuerCik>
+        <issuerName>Butterfly Network, Inc.</issuerName>
+        <issuerTradingSymbol>BFLY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001808868</rptOwnerCik>
+            <rptOwnerName>Stoica Andrei G</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BUTTERFLY NETWORK, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1600 DISTRICT AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>BURLINGTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01803</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Technology Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-06</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>31965.00</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.2491</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1113584.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported in this Form 4 were effected to cover tax withholding obligations in connection with the vesting of restricted stock units that were granted on March 4, 2022.</footnote>
+        <footnote id="F2">Represents the weighted average sales price per share.  The shares sold at prices ranging from $2.19 to $2.42 per share.  Full information regarding the number of shares sold at each price shall be provided upon request to the staff of the U.S. Securities and Exchange Commission, the Issuer, or a security holder of the Issuer.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s /Lawrence T. Weiss, Attorney-in-Fact for Andrei G. Stoica</signatureName>
+        <signatureDate>2023-03-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

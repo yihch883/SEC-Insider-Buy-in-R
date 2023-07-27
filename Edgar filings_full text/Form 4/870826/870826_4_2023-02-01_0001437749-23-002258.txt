@@ -1,0 +1,150 @@
+<SEC-DOCUMENT>0001437749-23-002258.txt : 20230201
+<SEC-HEADER>0001437749-23-002258.hdr.sgml : 20230201
+<ACCEPTANCE-DATETIME>20230201162702
+ACCESSION NUMBER:		0001437749-23-002258
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230130
+FILED AS OF DATE:		20230201
+DATE AS OF CHANGE:		20230201
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PETERMAN TIM
+		CENTRAL INDEX KEY:			0001186951
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37495
+		FILM NUMBER:		23577155
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			iMedia Brands, Inc.
+		CENTRAL INDEX KEY:			0000870826
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				411673770
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0129
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6740 SHADY OAK RD
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55344-3433
+		BUSINESS PHONE:		6129475200
+
+	MAIL ADDRESS:	
+		STREET 1:		6740 SHADY OAK RAOD
+		CITY:			EDEN PRAIRIE
+		STATE:			MN
+		ZIP:			55344-3433
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EVINE Live Inc.
+		DATE OF NAME CHANGE:	20141117
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EVINE Live, Inc.
+		DATE OF NAME CHANGE:	20141117
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VALUEVISION MEDIA INC
+		DATE OF NAME CHANGE:	20020516
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000870826</issuerCik>
+        <issuerName>iMedia Brands, Inc.</issuerName>
+        <issuerTradingSymbol>IMBI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001186951</rptOwnerCik>
+            <rptOwnerName>PETERMAN TIM</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6740 SHADY OAK ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EDEN PRAIRIE</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55344</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>181902</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>793543</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects vested portion of performance stock units subject only to time-based vesting.  Each unit represents a contingent right to receive one share of IMBI common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jonathan Zimmerman, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-02-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

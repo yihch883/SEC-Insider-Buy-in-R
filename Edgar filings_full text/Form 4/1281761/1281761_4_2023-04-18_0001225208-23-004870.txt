@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001225208-23-004870.txt : 20230418
+<SEC-HEADER>0001225208-23-004870.hdr.sgml : 20230418
+<ACCEPTANCE-DATETIME>20230418132632
+ACCESSION NUMBER:		0001225208-23-004870
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230414
+FILED AS OF DATE:		20230418
+DATE AS OF CHANGE:		20230418
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Crosswhite Mark A.
+		CENTRAL INDEX KEY:			0001426400
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34034
+		FILM NUMBER:		23826197
+
+	MAIL ADDRESS:	
+		STREET 1:		600 NORTH 18TH STREET
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35203
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REGIONS FINANCIAL CORP
+		CENTRAL INDEX KEY:			0001281761
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				630589368
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1900 FIFTH AVENUE NORTH
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35203
+		BUSINESS PHONE:		800-734-4667
+
+	MAIL ADDRESS:	
+		STREET 1:		1900 FIFTH AVENUE NORTH
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEW REGIONS FINANCIAL CORP
+		DATE OF NAME CHANGE:	20040225
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001281761</issuerCik>
+        <issuerName>REGIONS FINANCIAL CORP</issuerName>
+        <issuerTradingSymbol>RF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001426400</rptOwnerCik>
+            <rptOwnerName>Crosswhite Mark A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P. O. BOX 10247</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BIRMINGHAM</rptOwnerCity>
+            <rptOwnerState>AL</rptOwnerState>
+            <rptOwnerZipCode>35202-0247</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1688.2766</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>18.5100</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1688.2766</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3096.4970</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of phantom stock represents the right to the cash value of one share of Regions' common stock.</footnote>
+        <footnote id="F2">The reporting person has elected to receive shares of phantom stock in lieu of cash compensation payable pursuant to Regions' Director Compensation Program.  The shares of phantom stock are accrued under Regions' Directors' Deferred Investment Plan on the date such fees would otherwise be payable (i.e., quarterly, in arrears).</footnote>
+        <footnote id="F3">Shares of phantom stock are payable in cash in a lump sum or up to 10 annual installments, at the election of the reporting person, within 30 days after the close of the plan year in which the reporting person terminates service as a director.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Lachelle S. Koon - Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

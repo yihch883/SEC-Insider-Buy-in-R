@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0001213900-23-010381.txt : 20230210
+<SEC-HEADER>0001213900-23-010381.hdr.sgml : 20230210
+<ACCEPTANCE-DATETIME>20230210171646
+ACCESSION NUMBER:		0001213900-23-010381
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230208
+FILED AS OF DATE:		20230210
+DATE AS OF CHANGE:		20230210
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Pei Jun
+		CENTRAL INDEX KEY:			0001888574
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39959
+		FILM NUMBER:		23613427
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CEPTON, INC.
+		STREET 2:		399 W. TRIMBLE ROAD
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cepton, Inc.
+		CENTRAL INDEX KEY:			0001498233
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				272447291
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 WEST TRIMBLE ROAD
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+		BUSINESS PHONE:		408-459-7579
+
+	MAIL ADDRESS:	
+		STREET 1:		399 WEST TRIMBLE ROAD
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Growth Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20210910
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PinstripesNYS, Inc.
+		DATE OF NAME CHANGE:	20210910
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Growth Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20200225
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-08</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001498233</issuerCik>
+        <issuerName>Cepton, Inc.</issuerName>
+        <issuerTradingSymbol>CPTN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001888574</rptOwnerCik>
+            <rptOwnerName>Pei Jun</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CEPTON, INC</rptOwnerStreet1>
+            <rptOwnerStreet2>399 W. TRIMBLE RD</rptOwnerStreet2>
+            <rptOwnerCity>SAN JOSE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95131</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO and President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-08</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>196923</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1621540</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>27954268</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Issuer awarded the Reporting Person 196,923 time-based restricted stock units (&quot;RSUs&quot;), each of which represents a contingent right to receive one share of the Issuer's common stock, that will vest in three equal installments on February 20, 2024, February 20, 2025 and February 20, 2026, in each case subject to early termination and adjustment as provided in the applicable award agreement.</footnote>
+        <footnote id="F2">The shares of Common Stock are held by the Pei 2000 Trust, of which the Reporting Person is a trustee.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ming Qiu, Attorney-in-Fact for Jun Pei</signatureName>
+        <signatureDate>2023-02-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

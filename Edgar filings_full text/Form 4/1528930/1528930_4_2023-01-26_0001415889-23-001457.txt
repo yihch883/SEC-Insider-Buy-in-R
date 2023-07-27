@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0001415889-23-001457.txt : 20230126
+<SEC-HEADER>0001415889-23-001457.hdr.sgml : 20230126
+<ACCEPTANCE-DATETIME>20230126161515
+ACCESSION NUMBER:		0001415889-23-001457
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230124
+FILED AS OF DATE:		20230126
+DATE AS OF CHANGE:		20230126
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wright Lee A.
+		CENTRAL INDEX KEY:			0001531650
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35588
+		FILM NUMBER:		23557861
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DIAMOND CASTLE HOLDINGS, LLC
+		STREET 2:		280 PARK AVENUE, 25TH FLOOR, EAST TOWER
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Franchise Group, Inc.
+		CENTRAL INDEX KEY:			0001528930
+		STANDARD INDUSTRIAL CLASSIFICATION:	PATENT OWNERS & LESSORS [6794]
+		IRS NUMBER:				273561876
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1225
+
+	BUSINESS ADDRESS:	
+		STREET 1:		109 INNOVATION COURT
+		STREET 2:		SUITE J
+		CITY:			DELAWARE
+		STATE:			OH
+		ZIP:			43015
+		BUSINESS PHONE:		508-630-4426
+
+	MAIL ADDRESS:	
+		STREET 1:		109 INNOVATION COURT
+		STREET 2:		SUITE J
+		CITY:			DELAWARE
+		STATE:			OH
+		ZIP:			43015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Liberty Tax, Inc.
+		DATE OF NAME CHANGE:	20140714
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JTH Holding, Inc.
+		DATE OF NAME CHANGE:	20110830
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-01262023_040101.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-24</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001528930</issuerCik>
+        <issuerName>Franchise Group, Inc.</issuerName>
+        <issuerTradingSymbol>FRG FRGAP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001531650</rptOwnerCik>
+            <rptOwnerName>Wright Lee A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>109 INNOVATION COURT, SUITE J</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DELAWARE</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>43015</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CHIEF COMMERCIAL OFFICER</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>100000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents the right to receive, upon vesting, one share of Common Stock.</footnote>
+        <footnote id="F2">The restricted stock units shall become fully vested on January 24, 2026, provided that the reporting person is in the employ of the Issuer at the time of such vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Lee A. Wright</signatureName>
+        <signatureDate>2023-01-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

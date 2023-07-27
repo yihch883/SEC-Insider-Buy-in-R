@@ -1,0 +1,205 @@
+<SEC-DOCUMENT>0001140361-23-034787.txt : 20230717
+<SEC-HEADER>0001140361-23-034787.hdr.sgml : 20230717
+<ACCEPTANCE-DATETIME>20230717152033
+ACCESSION NUMBER:		0001140361-23-034787
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230713
+FILED AS OF DATE:		20230717
+DATE AS OF CHANGE:		20230717
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Skidmore Joseph
+		CENTRAL INDEX KEY:			0001954683
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38523
+		FILM NUMBER:		231091499
+
+	MAIL ADDRESS:	
+		STREET 1:		809 PERRYMAN ROAD
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40207
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Charah Solutions, Inc.
+		CENTRAL INDEX KEY:			0001730346
+		STANDARD INDUSTRIAL CLASSIFICATION:	HAZARDOUS WASTE MANAGEMENT [4955]
+		IRS NUMBER:				824228671
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12601 PLANTSIDE DRIVE
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40299
+		BUSINESS PHONE:		502-815-5062
+
+	MAIL ADDRESS:	
+		STREET 1:		12601 PLANTSIDE DRIVE
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40299
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-13</periodOfReport>
+
+    <notSubjectToSection16>true</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001730346</issuerCik>
+        <issuerName>Charah Solutions, Inc.</issuerName>
+        <issuerTradingSymbol>CHRA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001954683</rptOwnerCik>
+            <rptOwnerName>Skidmore Joseph</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>12601 PLANTSIDE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LOUISVILLE</rptOwnerCity>
+            <rptOwnerState>KY</rptOwnerState>
+            <rptOwnerZipCode>40299</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>Former Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1310</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Share Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>493</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>493</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Disposed of on July 13, 2023 (the &quot;Merger Date&quot;) as a result of the merger pursuant to the previously announced Agreement and Plan of Merger, dated as of April 16, 2023, by and among Charah Solutions, Inc. (the &quot;Company&quot;), Acquisition Parent 0423, Inc. and Acquisition Sub April 2023, Inc. (the &quot;Merger Agreement&quot;). Pursuant to the Merger Agreement, each issued and outstanding share of common stock, par value $0.01 per share, of the Company was converted on the Merger Date into the right to receive cash in the amount of $6.00 per share (the &quot;Merger Consideration&quot;).</footnote>
+        <footnote id="F2">Amount includes 293 shares vested from the 2021 RSU award, from which 106 shares were withheld to pay resulting taxes, and 618 shares vested from the 2022 RSU award, from which 224 shares were withheld to pay resulting taxes. On the Merger Date and pursuant to the Merger Agreement, the vested RSUs were converted into the right to receive the Merger Consideration.</footnote>
+        <footnote id="F3">On the Merger Date and pursuant to the Merger Agreement, 376 shares vested from the 2021 PSU award, from which 136 shares were withheld to pay resulting taxes, and 397 shares vested from the 2022 PSU award, from which 144 shares were withheld to pay resulting taxes.</footnote>
+        <footnote id="F4">On the Merger Date and pursuant to the Merger Agreement, the performance share units were converted into the right to receive the Merger Consideration.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Joe Skidmore by Steven A. Brehm, attorney-in-fact</signatureName>
+        <signatureDate>2023-07-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

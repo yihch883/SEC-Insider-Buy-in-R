@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001213900-23-041199.txt : 20230518
+<SEC-HEADER>0001213900-23-041199.hdr.sgml : 20230518
+<ACCEPTANCE-DATETIME>20230518164009
+ACCESSION NUMBER:		0001213900-23-041199
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230518
+FILED AS OF DATE:		20230518
+DATE AS OF CHANGE:		20230518
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Woody James N.
+		CENTRAL INDEX KEY:			0001553355
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38105
+		FILM NUMBER:		23936703
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ONCOMED PHARMACEUTICALS, INC.
+		STREET 2:		800 CHESAPEAKE DRIVE
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94063
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			180 Life Sciences Corp.
+		CENTRAL INDEX KEY:			0001690080
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				813832378
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3000 EL CAMINO REAL
+		STREET 2:		BLDG 4, STE 200
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94306
+		BUSINESS PHONE:		650-507-0669
+
+	MAIL ADDRESS:	
+		STREET 1:		3000 EL CAMINO REAL
+		STREET 2:		BLDG 4, STE 200
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94306
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KBL MERGER CORP. IV
+		DATE OF NAME CHANGE:	20161115
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001690080</issuerCik>
+        <issuerName>180 Life Sciences Corp.</issuerName>
+        <issuerTradingSymbol>ATNF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001553355</rptOwnerCik>
+            <rptOwnerName>Woody James N.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3000 EL CAMINO REAL, BLDG. 4</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>PALO ALTO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94306</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>40000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.03</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>41888</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was executed in multiple trades at prices ranging from $1.00 to $1.04, inclusive. The price reported above reflects the weighted average sales price. The Reporting Person hereby undertakes to provide upon request to the Securities and Exchange Commission staff, the Issuer or a security holder of the Issuer, full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James N. Woody</signatureName>
+        <signatureDate>2023-05-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

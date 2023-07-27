@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001213900-23-045386.txt : 20230602
+<SEC-HEADER>0001213900-23-045386.hdr.sgml : 20230602
+<ACCEPTANCE-DATETIME>20230602080018
+ACCESSION NUMBER:		0001213900-23-045386
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230601
+FILED AS OF DATE:		20230602
+DATE AS OF CHANGE:		20230602
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			STEINMAN LAWRENCE
+		CENTRAL INDEX KEY:			0001132679
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38105
+		FILM NUMBER:		23986770
+
+	MAIL ADDRESS:	
+		STREET 1:		10555 SCIENCE CENTER DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	STEINMAN LAWRENCE J
+		DATE OF NAME CHANGE:	20010117
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			180 Life Sciences Corp.
+		CENTRAL INDEX KEY:			0001690080
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				813832378
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3000 EL CAMINO REAL
+		STREET 2:		BLDG 4, STE 200
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94306
+		BUSINESS PHONE:		650-507-0669
+
+	MAIL ADDRESS:	
+		STREET 1:		3000 EL CAMINO REAL
+		STREET 2:		BLDG 4, STE 200
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94306
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KBL MERGER CORP. IV
+		DATE OF NAME CHANGE:	20161115
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001690080</issuerCik>
+        <issuerName>180 Life Sciences Corp.</issuerName>
+        <issuerTradingSymbol>ATNF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001132679</rptOwnerCik>
+            <rptOwnerName>STEINMAN LAWRENCE</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3000 EL CAMINO REAL, BLDG. 4, SUITE 200</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PALO ALTO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94306</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.226</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48129</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was executed in multiple trades at prices ranging from $1.15 to $1.26. The price reported above reflects the weighted average sales price. The Reporting Person hereby undertakes to provide upon request to the Securities and Exchange Commission staff, the Issuer or a security holder of the Issuer, full information regarding the number of shares and prices at which the transaction was effected.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Lawrence Steinman, M.D.</signatureName>
+        <signatureDate>2023-06-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

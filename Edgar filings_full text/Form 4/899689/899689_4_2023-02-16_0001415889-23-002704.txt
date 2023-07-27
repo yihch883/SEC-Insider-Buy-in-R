@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0001415889-23-002704.txt : 20230216
+<SEC-HEADER>0001415889-23-002704.hdr.sgml : 20230216
+<ACCEPTANCE-DATETIME>20230216171008
+ACCESSION NUMBER:		0001415889-23-002704
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230215
+FILED AS OF DATE:		20230216
+DATE AS OF CHANGE:		20230216
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Beinecke Candace K
+		CENTRAL INDEX KEY:			0001413999
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11954
+		FILM NUMBER:		23639314
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VORNADO REALTY TRUST
+		STREET 2:		888 SEVENTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VORNADO REALTY TRUST
+		CENTRAL INDEX KEY:			0000899689
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				221657560
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		888 SEVENTH AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-894-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		888 SEVENTH AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-02162023_100259.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000899689</issuerCik>
+        <issuerName>VORNADO REALTY TRUST</issuerName>
+        <issuerTradingSymbol>VNO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001413999</rptOwnerCik>
+            <rptOwnerName>Beinecke Candace K</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VORNADO REALTY TRUST</rptOwnerStreet1>
+            <rptOwnerStreet2>888 SEVENTH AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>23104.390</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>310</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>23.165</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>310</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17460</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Common shares of beneficial interest, par value $.04 per share (the &quot;Common Shares&quot;), of Vornado Realty Trust (&quot;the Company&quot;). The number of Common Shares shown includes 9,385.952 shares acquired through the reporting individual's participation in the Company's Amended and Restated Dividend Reinvestment Plan.</footnote>
+        <footnote id="F2">Conversion or exercise price of 1 for 1. The Phantom Units represent compensation deferred by the Reporting Person into interests held through the Vornado Realty Trust Nonqualified Deferred Compensation Plan that are valued with respect to the underlying security, which in this case is common shares of Vornado Realty Trust.</footnote>
+        <footnote id="F3">The Phantom Units become payable in cash or the underlying security, to the Reporting Person commencing upon a distribution at a future date from the Vornado Realty Trust Nonqualified Deferred Compensation Plan.</footnote>
+        <footnote id="F4">Represents weighted average purchase price. These Common Shares were purchased through the execution of a single market order at prices ranging between $23.165 and $23.1685. Full information regarding the number of shares purchased at each separate price will be provided upon request by the staff of the Securities and Exchange Commission, the issuer, or a security holder of the issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ryan Saum, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-02-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

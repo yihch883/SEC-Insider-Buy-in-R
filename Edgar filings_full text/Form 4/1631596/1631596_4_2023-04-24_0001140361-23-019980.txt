@@ -1,0 +1,146 @@
+<SEC-DOCUMENT>0001140361-23-019980.txt : 20230424
+<SEC-HEADER>0001140361-23-019980.hdr.sgml : 20230424
+<ACCEPTANCE-DATETIME>20230424211119
+ACCESSION NUMBER:		0001140361-23-019980
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230421
+FILED AS OF DATE:		20230424
+DATE AS OF CHANGE:		20230424
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Langer Jonathan A
+		CENTRAL INDEX KEY:			0001328582
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38082
+		FILM NUMBER:		23841409
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GOLDMAN, SACHS & CO.
+		STREET 2:		85 BROAD STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KKR Real Estate Finance Trust Inc.
+		CENTRAL INDEX KEY:			0001631596
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				472009094
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 HUDSON YARDS
+		STREET 2:		SUITE 7500
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		212-750-8300
+
+	MAIL ADDRESS:	
+		STREET 1:		30 HUDSON YARDS
+		STREET 2:		SUITE 7500
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001631596</issuerCik>
+        <issuerName>KKR Real Estate Finance Trust Inc.</issuerName>
+        <issuerTradingSymbol>KREF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001328582</rptOwnerCik>
+            <rptOwnerName>Langer Jonathan A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KKR REAL ESTATE FINANCE TRUST INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>30 HUDSON YARDS, SUITE 7500</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9674</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>47251</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a grant of restricted stock units, which will vest on April 21, 2024. The reporting person has elected to defer receipt of all of the shares of Common Stock issuable upon the vesting of the restricted stock units until the earlier of (a) April 21, 2034 or (b) such date in which the reporting person no longer serves as a member of the Board of Directors of the Issuer. Upon such date, the reporting person has elected to receive the Common Stock in four equal annual installments.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Vincent J. Napolitano, as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

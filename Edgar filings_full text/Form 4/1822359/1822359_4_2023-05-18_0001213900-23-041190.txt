@@ -1,0 +1,206 @@
+<SEC-DOCUMENT>0001213900-23-041190.txt : 20230518
+<SEC-HEADER>0001213900-23-041190.hdr.sgml : 20230518
+<ACCEPTANCE-DATETIME>20230518163019
+ACCESSION NUMBER:		0001213900-23-041190
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230516
+FILED AS OF DATE:		20230518
+DATE AS OF CHANGE:		20230518
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			TRAVERS JAMES M
+		CENTRAL INDEX KEY:			0001258177
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39618
+		FILM NUMBER:		23936509
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FLEETMATICS
+		STREET 2:		1100 WINTER STREET, 4TH FL
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DocGo Inc.
+		CENTRAL INDEX KEY:			0001822359
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HEALTH SERVICES [8000]
+		IRS NUMBER:				852515483
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		35TH STREET WEST 35TH
+		STREET 2:		FLOOR 6
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		(844) 443-6246
+
+	MAIL ADDRESS:	
+		STREET 1:		35TH STREET WEST 35TH
+		STREET 2:		FLOOR 6
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Motion Acquisition Corp.
+		DATE OF NAME CHANGE:	20200824
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-16</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001822359</issuerCik>
+        <issuerName>DocGo Inc.</issuerName>
+        <issuerTradingSymbol>DCGO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001258177</rptOwnerCik>
+            <rptOwnerName>TRAVERS JAMES M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O DOCGO INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>35 WEST 35TH STREET, FLOOR 6</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>60000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>8.55</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>456028</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Travers Holdings LLC</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>65000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>8.51</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>391028</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Travers Holdings LLC</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported represents the weighted average sale price per share. The shares were sold in multiple transactions at prices ranging from $8.47 to $8.65. Upon request from the staff of the U.S. Securities and Exchange Commission, the Issuer or a security holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price.</footnote>
+        <footnote id="F2">Securities are held by Travers Holdings LLC. Mr. Travers and Susan D. Travers are the managers of Travers Holdings and have shared voting and dispositive power over the securities of Issuer held by Travers Holdings LLC. Mr. Travers and Susan D. Travers each disclaim beneficial ownership of these securities except to the extent of any pecuniary interest therein.</footnote>
+        <footnote id="F3">The price reported represents the weighted average sale price per share. The shares were sold in multiple transactions at prices ranging from $8.50 to $8.55. Upon request from the staff of the U.S. Securities and Exchange Commission, the Issuer or a security holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James M. Travers</signatureName>
+        <signatureDate>2023-05-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

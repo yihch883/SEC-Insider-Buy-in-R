@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0000899243-23-009992.txt : 20230329
+<SEC-HEADER>0000899243-23-009992.hdr.sgml : 20230329
+<ACCEPTANCE-DATETIME>20230329180021
+ACCESSION NUMBER:		0000899243-23-009992
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230327
+FILED AS OF DATE:		20230329
+DATE AS OF CHANGE:		20230329
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Picard Lisa
+		CENTRAL INDEX KEY:			0001850295
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39470
+		FILM NUMBER:		23776444
+
+	MAIL ADDRESS:	
+		STREET 1:		195 S. MILPITAS BLVD.
+		CITY:			MILPITAS
+		STATE:			CA
+		ZIP:			95035
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			View, Inc.
+		CENTRAL INDEX KEY:			0001811856
+		STANDARD INDUSTRIAL CLASSIFICATION:	FLAT GLASS [3211]
+		IRS NUMBER:				843235065
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		195 SOUTH MILPITAS BLVD
+		CITY:			MILPITAS
+		STATE:			CA
+		ZIP:			95035
+		BUSINESS PHONE:		408-263-9200
+
+	MAIL ADDRESS:	
+		STREET 1:		195 SOUTH MILPITAS BLVD
+		CITY:			MILPITAS
+		STATE:			CA
+		ZIP:			95035
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CF Finance Acquisition Corp II
+		DATE OF NAME CHANGE:	20200512
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001811856</issuerCik>
+        <issuerName>View, Inc.</issuerName>
+        <issuerTradingSymbol>VIEW</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001850295</rptOwnerCik>
+            <rptOwnerName>Picard Lisa</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VIEW, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>195 S. MILPITAS BLVD</rptOwnerStreet2>
+            <rptOwnerCity>MILPITAS</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95035</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>127662</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects annual director service grant of restricted stock units, which vest ratably each quarter over one year with the first day of vesting on April 8, 2023.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ William Krause, Attorney-in-fact</signatureName>
+        <signatureDate>2023-03-29</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

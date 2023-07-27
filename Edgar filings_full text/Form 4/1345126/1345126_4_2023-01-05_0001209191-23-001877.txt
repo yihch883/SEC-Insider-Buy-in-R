@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001209191-23-001877.txt : 20230105
+<SEC-HEADER>0001209191-23-001877.hdr.sgml : 20230105
+<ACCEPTANCE-DATETIME>20230105163304
+ACCESSION NUMBER:		0001209191-23-001877
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230103
+FILED AS OF DATE:		20230105
+DATE AS OF CHANGE:		20230105
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			McCoy Sarah Gaines
+		CENTRAL INDEX KEY:			0001504675
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34927
+		FILM NUMBER:		23511915
+
+	MAIL ADDRESS:	
+		STREET 1:		6300 MERRILL CREEK PARKWAY
+		STREET 2:		SUITE B
+		CITY:			EVERETT
+		STATE:			WA
+		ZIP:			98203-5862
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Compass Diversified Holdings
+		CENTRAL INDEX KEY:			0001345126
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOUSEHOLD FURNITURE [2510]
+		IRS NUMBER:				576218917
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		301 RIVERSIDE AVENUE
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+		BUSINESS PHONE:		203-221-1703
+
+	MAIL ADDRESS:	
+		STREET 1:		301 RIVERSIDE AVENUE
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Compass Diversified Trust
+		DATE OF NAME CHANGE:	20051122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001345126</issuerCik>
+        <issuerName>Compass Diversified Holdings</issuerName>
+        <issuerTradingSymbol>CODI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001504675</rptOwnerCik>
+            <rptOwnerName>McCoy Sarah Gaines</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>301 RIVERSIDE AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SECOND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>WESTPORT</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06880</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <otherText>See Remark (a)</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5727</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>19.1332</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33297</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Common Share represents one undivided beneficial interest in Compass Diversified Holdings (the &quot;Trust&quot;) property and corresponds to one underlying trust common interest of Compass Group Diversified Holdings LLC (the &quot;Company&quot;) held by the Trust.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $18.66 to $19.46, inclusive. Full information regarding the number of shares purchased at each separate price will be provided upon request by the SEC staff, the issuer, or any security holder of the issuer.</footnote>
+    </footnotes>
+
+    <remarks>(a) Ms. McCoy is a Director for the Company, Sponsor of the Trust.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Sarah Gaines McCoy, by Carrie W. Ryan and Ryan J. Faulkingham as attorneys-in-fact</signatureName>
+        <signatureDate>2023-01-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

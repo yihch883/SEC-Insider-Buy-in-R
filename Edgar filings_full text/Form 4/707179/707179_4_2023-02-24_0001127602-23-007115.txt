@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001127602-23-007115.txt : 20230224
+<SEC-HEADER>0001127602-23-007115.hdr.sgml : 20230224
+<ACCEPTANCE-DATETIME>20230224172820
+ACCESSION NUMBER:		0001127602-23-007115
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230222
+FILED AS OF DATE:		20230224
+DATE AS OF CHANGE:		20230224
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ALAHMAR CHADY M.
+		CENTRAL INDEX KEY:			0001912933
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15817
+		FILM NUMBER:		23668816
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MAIN STREET
+		CITY:			EVANSVILLE
+		STATE:			IN
+		ZIP:			47708
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OLD NATIONAL BANCORP /IN/
+		CENTRAL INDEX KEY:			0000707179
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				351539838
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MAIN ST
+		CITY:			EVANSVILLE
+		STATE:			IN
+		ZIP:			47708
+		BUSINESS PHONE:		8124641434
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MAIN ST
+		CITY:			EVANSVILLE
+		STATE:			IN
+		ZIP:			47708
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	O
+		DATE OF NAME CHANGE:	19950822
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-22</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000707179</issuerCik>
+        <issuerName>OLD NATIONAL BANCORP /IN/</issuerName>
+        <issuerTradingSymbol>ONB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001912933</rptOwnerCik>
+            <rptOwnerName>ALAHMAR CHADY M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE MAIN STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EVANSVILLE</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>47708</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>CEO, WEALTH MANAGEMENT</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5872</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>17.57</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>38842</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1033</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects shares of the Issuer's common stock surrendered by the Reporting Person to satisfy tax withholding obligations upon the vesting of shares earned under a performance share award.</footnote>
+        <footnote id="F2">Includes 11,685 restricted stock units, 10,749 restricted stock shares and 16,408 shares of common stock.</footnote>
+        <footnote id="F3">Includes 1,194 shares of Old National Bancorp Common Stock accrued in dividends through the Company's last dividend payment date.</footnote>
+        <footnote id="F4">Represents shares held in the Old National Bancorp Employee Stock Purchase Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Sharon K. Brantley, Paralegal, as Attorney-in-Fact for Chaddy M. AlAhmar</signatureName>
+        <signatureDate>2023-02-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

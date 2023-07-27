@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001225208-23-007125.txt : 20230703
+<SEC-HEADER>0001225208-23-007125.hdr.sgml : 20230703
+<ACCEPTANCE-DATETIME>20230703161821
+ACCESSION NUMBER:		0001225208-23-007125
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230703
+DATE AS OF CHANGE:		20230703
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Rometty Virginia M
+		CENTRAL INDEX KEY:			0001333712
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05805
+		FILM NUMBER:		231065452
+
+	MAIL ADDRESS:	
+		STREET 1:		IBM CORPORATION
+		STREET 2:		294 ROUTE 100
+		CITY:			SOMERS
+		STATE:			NY
+		ZIP:			10589
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JPMORGAN CHASE & CO
+		CENTRAL INDEX KEY:			0000019617
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				132624428
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		383 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2122706000
+
+	MAIL ADDRESS:	
+		STREET 1:		383 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	J P MORGAN CHASE & CO
+		DATE OF NAME CHANGE:	20010102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHASE MANHATTAN CORP /DE/
+		DATE OF NAME CHANGE:	19960402
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHEMICAL BANKING CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000019617</issuerCik>
+        <issuerName>JPMORGAN CHASE &amp; CO</issuerName>
+        <issuerTradingSymbol>JPM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001333712</rptOwnerCik>
+            <rptOwnerName>Rometty Virginia M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>383 MADISON AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10179-0001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>232.0545</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>145.4400</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8843.3734</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Deferral of quarterly retainer, payable in common stock following termination of service as director.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Holly Youngwood under POA</signatureName>
+        <signatureDate>2023-07-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

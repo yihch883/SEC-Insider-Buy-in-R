@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001213900-23-007992.txt : 20230203
+<SEC-HEADER>0001213900-23-007992.hdr.sgml : 20230203
+<ACCEPTANCE-DATETIME>20230203161355
+ACCESSION NUMBER:		0001213900-23-007992
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230202
+FILED AS OF DATE:		20230203
+DATE AS OF CHANGE:		20230203
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MARTELL RON
+		CENTRAL INDEX KEY:			0001177079
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39138
+		FILM NUMBER:		23585922
+
+	MAIL ADDRESS:	
+		STREET 1:		PONIARD PHARMACEUTICALS, INC.
+		STREET 2:		750 BATTERY STREET, SUITE 330
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Jasper Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001788028
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				842984849
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 BRIDGE PKWY SUITE #102
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+		BUSINESS PHONE:		6505491400
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 BRIDGE PKWY SUITE #102
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Amplitude Healthcare Acquisition Corp
+		DATE OF NAME CHANGE:	20190912
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001788028</issuerCik>
+        <issuerName>Jasper Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>JSPR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001177079</rptOwnerCik>
+            <rptOwnerName>MARTELL RON</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O JASPER THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2200 BRIDGE PKWY, SUITE 102</rptOwnerStreet2>
+            <rptOwnerCity>REDWOOD CITY</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94065</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President, CEO &amp; Director</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.78</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1093831</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-02-02</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Voting Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1093831</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1093831</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">1/4th of the shares subject to the option shall vest on February 2, 2024, and 1/48th of the shares subject to the option shall vest following each one-month period thereafter, subject to the Reporting Person's continuous service to the Issuer on and through each applicable vesting date, inclusive.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ronald A. Martell</signatureName>
+        <signatureDate>2023-02-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0001903601-23-000036.txt : 20230302
+<SEC-HEADER>0001903601-23-000036.hdr.sgml : 20230302
+<ACCEPTANCE-DATETIME>20230302102857
+ACCESSION NUMBER:		0001903601-23-000036
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230228
+FILED AS OF DATE:		20230302
+DATE AS OF CHANGE:		20230302
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Pledger Thomas Christopher
+		CENTRAL INDEX KEY:			0001933995
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41485
+		FILM NUMBER:		23696916
+
+	MAIL ADDRESS:	
+		STREET 1:		100 RIVER BLUFF DRIVE, SUITE 210
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Westrock Coffee Co
+		CENTRAL INDEX KEY:			0001806347
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		IRS NUMBER:				264767812
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 RIVER BLUFF DRIVE
+		STREET 2:		SUITE 210
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72202
+		BUSINESS PHONE:		(501) 320-4880
+
+	MAIL ADDRESS:	
+		STREET 1:		100 RIVER BLUFF DRIVE
+		STREET 2:		SUITE 210
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Westrock Coffee Holdings, LLC
+		DATE OF NAME CHANGE:	20200311
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001806347</issuerCik>
+        <issuerName>Westrock Coffee Co</issuerName>
+        <issuerTradingSymbol>WEST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001933995</rptOwnerCik>
+            <rptOwnerName>Pledger Thomas Christopher</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>4009 N. RODNEY PARHAM RD., 3RD FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LITTLE ROCK</rptOwnerCity>
+            <rptOwnerState>AR</rptOwnerState>
+            <rptOwnerZipCode>72212</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CHIEF FINANCIAL OFFICER</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>49404</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.18</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>273750</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares were withheld to satisfy the reporting person's tax obligations that arose when time-based restricted stock belonging to the reporting person vested.</footnote>
+        <footnote id="F2">The amount reported gives effect to the distribution of 17,339 shares in a transaction exempt from Section 16 pursuant to Rule 16a-12.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ BY: ROBERT P. MCKINNEY AS ATTORNEY-IN-FACT FOR THOMAS CHRISTOPHER PLEDGER</signatureName>
+        <signatureDate>2023-03-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

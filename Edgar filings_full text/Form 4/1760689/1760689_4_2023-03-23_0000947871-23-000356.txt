@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0000947871-23-000356.txt : 20230323
+<SEC-HEADER>0000947871-23-000356.hdr.sgml : 20230323
+<ACCEPTANCE-DATETIME>20230323162746
+ACCESSION NUMBER:		0000947871-23-000356
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230131
+FILED AS OF DATE:		20230323
+DATE AS OF CHANGE:		20230323
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Zheng Yanzhuan
+		CENTRAL INDEX KEY:			0001874015
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38826
+		FILM NUMBER:		23756608
+
+	MAIL ADDRESS:	
+		STREET 1:		12603 SOUTHWEST FREEWAY
+		STREET 2:		SUITE 210
+		CITY:			STAFFORD
+		STATE:			TX
+		ZIP:			77477
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Microvast Holdings, Inc.
+		CENTRAL INDEX KEY:			0001760689
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				832530757
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12603 SOUTHWEST FREEWAY, SUITE 210
+		CITY:			STAFFORD
+		STATE:			TX
+		ZIP:			77477
+		BUSINESS PHONE:		(281) 491-9595
+
+	MAIL ADDRESS:	
+		STREET 1:		12603 SOUTHWEST FREEWAY, SUITE 210
+		CITY:			STAFFORD
+		STATE:			TX
+		ZIP:			77477
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tuscan Holdings Corp.
+		DATE OF NAME CHANGE:	20181204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001760689</issuerCik>
+        <issuerName>Microvast Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>MVST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001874015</rptOwnerCik>
+            <rptOwnerName>Zheng Yanzhuan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>12603 SOUTHWEST FREEWAY, SUITE 300</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>STAFFORD</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77477</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>40000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2023009</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units (&quot;RSUs&quot;) granted pursuant to the Microvast Holdings, Inc. 2021 Equity Incentive Plan. Each RSU represents a contingent right to receive one share of the Issuer's common stock. The RSUs vest in equal installments on the first, second, and third anniversaries of the grant date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Yanzhuan Zheng</signatureName>
+        <signatureDate>2023-03-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0001127602-23-006423.txt : 20230222
+<SEC-HEADER>0001127602-23-006423.hdr.sgml : 20230222
+<ACCEPTANCE-DATETIME>20230222150245
+ACCESSION NUMBER:		0001127602-23-006423
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230217
+FILED AS OF DATE:		20230222
+DATE AS OF CHANGE:		20230222
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SULLIVAN ANDREW F
+		CENTRAL INDEX KEY:			0001795452
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16707
+		FILM NUMBER:		23652721
+
+	MAIL ADDRESS:	
+		STREET 1:		751 BROAD STREET, 5TH FLOOR
+		STREET 2:		ATTN:  REGULATORY FILINGS UNIT
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRUDENTIAL FINANCIAL INC
+		CENTRAL INDEX KEY:			0001137774
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		IRS NUMBER:				223703799
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		751 BROAD ST
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+		BUSINESS PHONE:		9738026000
+
+	MAIL ADDRESS:	
+		STREET 1:		751 BROAD ST
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001137774</issuerCik>
+        <issuerName>PRUDENTIAL FINANCIAL INC</issuerName>
+        <issuerTradingSymbol>PRU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001795452</rptOwnerCik>
+            <rptOwnerName>SULLIVAN ANDREW F</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>751 BROAD STREET, 5TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2>ATTN: REGULATORY FILINGS UNIT</rptOwnerStreet2>
+            <rptOwnerCity>NEWARK</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11405</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>100.95</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12300</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>391</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $100.95 to $101.03 inclusive. The reporting person undertakes to provide to Prudential Financial, Inc., any security holder of Prudential Financial, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote 1 to this Form 4.</footnote>
+        <footnote id="F2">Following the transactions reported on this Form 4, Mr. Sullivan continues to hold 12,300 shares directly and 391 shares indirectly in a 401(k) account. Mr. Sullivan also holds an additional 5,372 deferred compensation shares, 34,073 vested stock options, 30,178 unvested restricted stock units, and 104,038 target performance shares (the exact number awarded being dependent on achievement of performance goals).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Danny Fiore, attorney-in-fact</signatureName>
+        <signatureDate>2023-02-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

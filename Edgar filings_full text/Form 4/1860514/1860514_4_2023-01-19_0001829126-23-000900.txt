@@ -1,0 +1,220 @@
+<SEC-DOCUMENT>0001829126-23-000900.txt : 20230119
+<SEC-HEADER>0001829126-23-000900.hdr.sgml : 20230119
+<ACCEPTANCE-DATETIME>20230119213117
+ACCESSION NUMBER:		0001829126-23-000900
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230118
+FILED AS OF DATE:		20230119
+DATE AS OF CHANGE:		20230119
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			TKB Sponsor I, LLC
+		CENTRAL INDEX KEY:			0001860494
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40959
+		FILM NUMBER:		23538772
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 CONTINENTAL BLVD, SUITE 600
+		CITY:			EL SEGUNDO
+		STATE:			CA
+		ZIP:			90245
+		BUSINESS PHONE:		310-426-2153
+
+	MAIL ADDRESS:	
+		STREET 1:		400 CONTINENTAL BLVD, SUITE 600
+		CITY:			EL SEGUNDO
+		STATE:			CA
+		ZIP:			90245
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TKB Critical Technologies 1
+		CENTRAL INDEX KEY:			0001860514
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				981598442
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 CONTINENTAL BLVD, SUITE 600
+		CITY:			EL SEGUNDO
+		STATE:			CA
+		ZIP:			90245
+		BUSINESS PHONE:		310-426-2055
+
+	MAIL ADDRESS:	
+		STREET 1:		400 CONTINENTAL BLVD, SUITE 600
+		CITY:			EL SEGUNDO
+		STATE:			CA
+		ZIP:			90245
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001860514</issuerCik>
+        <issuerName>TKB Critical Technologies 1</issuerName>
+        <issuerTradingSymbol>USCT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001860494</rptOwnerCik>
+            <rptOwnerName>TKB Sponsor I, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>400 CONTINENTAL BLVD, SUITE 600</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EL SEGUNDO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90245</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5650000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5650000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-18</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5650000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5650000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">In accordance with the amended and restated memorandum and articles of association of TKB Critical Technologies 1 (&quot;TKB&quot;), the Reporting Person elected to convert its Class B Ordinary Shares into Class A Ordinary Shares on a one-for-one basis for no consideration.</footnote>
+        <footnote id="F2">The Class B Ordinary Shares were (i) convertible into Class A Ordinary Shares at the Reporting Person's election on a one-for-one basis and (ii) automatically convertible into Class A Ordinary Shares at the time of the closing of TKB's initial business combination on a one-for-one basis, in each case subject to adjustment pursuant to certain anti-dilution rights (which rights were waived by TKB Sponsor I, LLC in connection with TKB's proposed business combination), and had no expiration date.</footnote>
+        <footnote id="F3">TKB Sponsor I, LLC is the record holder of the shares reported herein. Each of Angela Blatteis, Greg Klein and Philippe Tartavull own interests in TKB Sponsor I, LLC and are managers of TKB Sponsor I, LLC, and may be deemed to share beneficial ownership of such shares. Each of Ms. Blatteis, Mr. Klein and Mr. Tartavull disclaims beneficial ownership of such shares except to the extent of his or her pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>TKB Sponsor I By: /s/ Angela Blatteis, Manager</signatureName>
+        <signatureDate>2023-01-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

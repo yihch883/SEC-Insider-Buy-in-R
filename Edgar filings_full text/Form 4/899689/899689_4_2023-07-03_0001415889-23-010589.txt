@@ -1,0 +1,233 @@
+<SEC-DOCUMENT>0001415889-23-010589.txt : 20230703
+<SEC-HEADER>0001415889-23-010589.hdr.sgml : 20230703
+<ACCEPTANCE-DATETIME>20230703170019
+ACCESSION NUMBER:		0001415889-23-010589
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230629
+FILED AS OF DATE:		20230703
+DATE AS OF CHANGE:		20230703
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Maddock Deirdre K.
+		CENTRAL INDEX KEY:			0001892882
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11954
+		FILM NUMBER:		231065813
+
+	MAIL ADDRESS:	
+		STREET 1:		210 ROUTE 4 EAST
+		STREET 2:		210 W RTE 4 EAST
+		CITY:			PARAMUS
+		STATE:			NJ
+		ZIP:			07652
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VORNADO REALTY TRUST
+		CENTRAL INDEX KEY:			0000899689
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				221657560
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		888 SEVENTH AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-894-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		888 SEVENTH AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-07032023_050714.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-29</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000899689</issuerCik>
+        <issuerName>VORNADO REALTY TRUST</issuerName>
+        <issuerTradingSymbol>VNO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001892882</rptOwnerCik>
+            <rptOwnerName>Maddock Deirdre K.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VORNADO REALTY TRUST</rptOwnerStreet1>
+            <rptOwnerStreet2>888 SEVENTH AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CHIEF ACCOUNTING OFFICER</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-29</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>33334</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>33334</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33334</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>AO RUs</value>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-29</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-06-29</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>200000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>200000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On June 29, 2023, the reporting person received a grant of restricted units (the &quot;Restricted Units&quot;) of Vornado Realty L.P. (the &quot;Operating Partnership&quot;), the operating partnership of Vornado Realty Trust (the &quot;Company&quot;). The Restricted Units are a class of units of the Operating Partnership that, following the occurrence of certain events and upon vesting, are convertible by the holder into an equivalent number of Class A Units of the Operating Partnership (&quot;Class A Units&quot;). Class A Units of the Operating Partnership are redeemable by the holder for cash or, at the Company's election, common shares of the Company on a one-for-one basis or the cash value of such shares. The right to redeem Class A Units does not have an expiration date.</footnote>
+        <footnote id="F2">The Restricted Units vest in two equal installments on June 29, 2026 and June 29, 2027, subject to the reporting person's continuous service with the Company at each vesting date. Each installment is subject to a one year post-vesting restriction on sale.</footnote>
+        <footnote id="F3">On June 29, 2023, the reporting person received a grant of appreciation only restricted units (the &quot;AO RUs&quot;) of the Operating Partnership. The AO RUs are a class of units of the Operating Partnership that, following the satisfaction of certain performance hurdles and upon vesting, are convertible by the holder into a number of Class A Units determined by reference to the increase in the value of a Company common share during the term of the award over the grant date common share price of $16.87, which was the average of the high and low trading process of the Company's common shares on June 29, 2023. Class A Units of the Operating Partnership are redeemable by the holder for cash or, at the Company's election, common shares of the Company on a one-for-one basis or the cash value of such shares. The right to redeem Class A Units does not have an expiration date.</footnote>
+        <footnote id="F4">The AO RUs, or a portion thereof, may be earned based upon the Company's satisfaction of the following performance hurdles prior to the expiration date: one-third of the AO RUs may be earned if the average closing price of the Company's common shares over a consecutive 20-trading day period (the &quot;Applicable Price&quot;) equals or exceeds $21.0875 per Company common share (a 25% increase above the grant date price); two-thirds of the AO RUs may be earned if the Applicable Price equals or exceeds $25.3050 per Company common share (a 50% increase above the grant date price); and 100% of the AO RUs may be earned if the Applicable Price equals or exceeds $29.5225 per Company common share (a 75% increase above the grant date price). If none of these performance hurdles are satisfied during the term of the award then the AO RUs will have lapsed and have no value.</footnote>
+        <footnote id="F5">The AO RUs are also subject to service-based vesting conditions, with 20% of the AO RUs vesting on June 29, 2026 and the remaining 80% of the AO RUs vesting on June 29, 2027, subject to the reporting person's continuous service with the Company at each vesting date. The right to convert the AO RUs into Class A Units, to the extent earned and vested, expires on June 29, 2033. The right to redeem Class A Units does not have an expiration date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ryan Saum, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-07-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

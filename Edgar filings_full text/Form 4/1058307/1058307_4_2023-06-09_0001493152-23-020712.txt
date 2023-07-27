@@ -1,0 +1,226 @@
+<SEC-DOCUMENT>0001493152-23-020712.txt : 20230609
+<SEC-HEADER>0001493152-23-020712.hdr.sgml : 20230609
+<ACCEPTANCE-DATETIME>20230609155052
+ACCESSION NUMBER:		0001493152-23-020712
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230407
+FILED AS OF DATE:		20230609
+DATE AS OF CHANGE:		20230609
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Bedwell Robert Phillip Jr.
+		CENTRAL INDEX KEY:			0001957196
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40447
+		FILM NUMBER:		231005080
+
+	MAIL ADDRESS:	
+		STREET 1:		6074 TRUMPET FLOWER AVE.,
+		CITY:			FLOWERY BRANCH,
+		STATE:			GA
+		ZIP:			30542
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NextPlat Corp
+		CENTRAL INDEX KEY:			0001058307
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				650783722
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3250 MARY ST
+		STREET 2:		SUITE 410
+		CITY:			COCONUT GROVE
+		STATE:			FL
+		ZIP:			33133
+		BUSINESS PHONE:		1-305-560-5355
+
+	MAIL ADDRESS:	
+		STREET 1:		3250 MARY ST
+		STREET 2:		SUITE 410
+		CITY:			COCONUT GROVE
+		STATE:			FL
+		ZIP:			33133
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ORBSAT CORP
+		DATE OF NAME CHANGE:	20190819
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Orbital Tracking Corp.
+		DATE OF NAME CHANGE:	20150128
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Great West Resources, Inc.
+		DATE OF NAME CHANGE:	20140514
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-07</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001058307</issuerCik>
+        <issuerName>NextPlat Corp</issuerName>
+        <issuerTradingSymbol>NXPL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001957196</rptOwnerCik>
+            <rptOwnerName>Bedwell Robert Phillip Jr.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NEXTPLAT CORP, 3250 MARY ST.,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 410</rptOwnerStreet2>
+            <rptOwnerCity>COCONUT GROVE</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33133</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Compliance Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-07</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.98</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-07</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-04-07</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>55000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On April 7, 2023, Mr. Bedwell entered into a Restricted Stock Award Agreement with the Issuer, pursuant to which Mr. Bedwell was awarded 5,000 shares of Issuer's common stock. The restricted stock vests immediately upon issuance.</footnote>
+        <footnote id="F2">On April 7, 2023, Mr. Bedwell entered into a Stock Option Agreement with the Issuer pursuant to which Mr. Bedwell was granted an option to purchase 5,000 shares of Issuer's common stock, of which one third of the shares of common stock vest immediately on the Grant Date, with options to purchase an additional third of the shares of common stock vesting on the one-year anniversary of the Grant Date, and options to purchase the remaining third of the shares of common stock vesting on the second-year anniversary of the Grant Date.</footnote>
+        <footnote id="F3">The options were granted pursuant to the Issuer's 2021 Incentive Award Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Robert Bedwell</signatureName>
+        <signatureDate>2023-06-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

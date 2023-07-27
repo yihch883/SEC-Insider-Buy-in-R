@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0000950170-23-025040.txt : 20230530
+<SEC-HEADER>0000950170-23-025040.hdr.sgml : 20230530
+<ACCEPTANCE-DATETIME>20230530210255
+ACCESSION NUMBER:		0000950170-23-025040
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230526
+FILED AS OF DATE:		20230530
+DATE AS OF CHANGE:		20230530
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Dall'Aglio Giacomo
+		CENTRAL INDEX KEY:			0001794958
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38320
+		FILM NUMBER:		23978686
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GIGCAPITAL, INC.
+		STREET 2:		2479 E. BAYSHORE RD., SUITE 200
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94303
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kaleyra, Inc.
+		CENTRAL INDEX KEY:			0001719489
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				823027430
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17 STATE STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+		BUSINESS PHONE:		(917) 508-9185
+
+	MAIL ADDRESS:	
+		STREET 1:		17 STATE STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GigCapital, Inc.
+		DATE OF NAME CHANGE:	20171012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001719489</issuerCik>
+        <issuerName>Kaleyra, Inc.</issuerName>
+        <issuerTradingSymbol>KLR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001794958</rptOwnerCik>
+            <rptOwnerName>Dall'Aglio Giacomo</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KALEYRA, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>85 BROAD STREET</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10004</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2827</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.010</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>87511</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents withholding of shares of stock subject to RSUs at the time of vesting for the purposes of satisfying any tax withholding obligations which arise in connection with the vesting of such RSUs issued to Reporting Person.</footnote>
+        <footnote id="F2">Includes additional RSUs subject to vesting pursuant to previously disclosed vesting schedules.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Giacomo Dall'Aglio</signatureName>
+        <signatureDate>2023-05-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

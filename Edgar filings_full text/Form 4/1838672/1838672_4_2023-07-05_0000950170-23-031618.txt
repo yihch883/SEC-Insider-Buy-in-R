@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0000950170-23-031618.txt : 20230705
+<SEC-HEADER>0000950170-23-031618.hdr.sgml : 20230705
+<ACCEPTANCE-DATETIME>20230705160554
+ACCESSION NUMBER:		0000950170-23-031618
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230701
+FILED AS OF DATE:		20230705
+DATE AS OF CHANGE:		20230705
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Anderson Andrew L
+		CENTRAL INDEX KEY:			0001921847
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40116
+		FILM NUMBER:		231068802
+
+	MAIL ADDRESS:	
+		STREET 1:		330 HUDSON STREET, 13TH
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AdTheorent Holding Company, Inc.
+		CENTRAL INDEX KEY:			0001838672
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				853978415
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		330 HUDSON STREET, 13TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+		BUSINESS PHONE:		800-804-1359
+
+	MAIL ADDRESS:	
+		STREET 1:		330 HUDSON STREET, 13TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MCAP Acquisition Corp
+		DATE OF NAME CHANGE:	20201231
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001838672</issuerCik>
+        <issuerName>AdTheorent Holding Company, Inc.</issuerName>
+        <issuerTradingSymbol>ADTH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001921847</rptOwnerCik>
+            <rptOwnerName>Anderson Andrew L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ADTHEORENT HOLDING COMPANY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>330 HUDSON STREET, 13TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10013</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Technology Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.0001 Par Value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3568</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.40</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>277276</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of shares withheld to cover tax withholding and remittance obligations in connection with the vesting and settlement of previously reported Restricted Interest Units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas P. Conaghan, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

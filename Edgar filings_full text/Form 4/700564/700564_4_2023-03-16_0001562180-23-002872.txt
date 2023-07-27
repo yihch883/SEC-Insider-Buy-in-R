@@ -1,0 +1,254 @@
+<SEC-DOCUMENT>0001562180-23-002872.txt : 20230316
+<SEC-HEADER>0001562180-23-002872.hdr.sgml : 20230316
+<ACCEPTANCE-DATETIME>20230316170357
+ACCESSION NUMBER:		0001562180-23-002872
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230314
+FILED AS OF DATE:		20230316
+DATE AS OF CHANGE:		20230316
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mueller Meg R
+		CENTRAL INDEX KEY:			0001580484
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39680
+		FILM NUMBER:		23739663
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O FULTON FINANCIAL CORPORATION
+		STREET 2:		ONE PENN SQUARE
+		CITY:			LANCASTER
+		STATE:			PA
+		ZIP:			17602
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FULTON FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000700564
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				232195389
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE PENN SQ
+		STREET 2:		PO BOX 4887
+		CITY:			LANCASTER
+		STATE:			PA
+		ZIP:			17604
+		BUSINESS PHONE:		7172912411
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PENN SQ
+		STREET 2:		PO BOX 4887
+		CITY:			LANCASTER
+		STATE:			PA
+		ZIP:			17604
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-14</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000700564</issuerCik>
+        <issuerName>FULTON FINANCIAL CORP</issuerName>
+        <issuerTradingSymbol>FULT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001580484</rptOwnerCik>
+            <rptOwnerName>Mueller Meg R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O FULTON FINANCIAL CORPORATION,</rptOwnerStreet1>
+            <rptOwnerStreet2>P.O. BOX 4887, ONE PENN SQUARE</rptOwnerStreet2>
+            <rptOwnerCity>LANCASTER</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>17604</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>SEVP</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>$2.50 par value Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11554.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.58</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>92601.7222</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>$2.50 par value Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9952.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.7081</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>82649.7222</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.58</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11554.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2023-03-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>11554.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 723.62838 shares acquired on January 19, 2023 pursuant to dividend reinvestment.</footnote>
+        <footnote id="F2">Includes 10 shares held jointly with spouse.</footnote>
+        <footnote id="F3">Represents the weighted average price of shares sold in multiple transactions through a broker-dealer at prices ranging from $15.60 to $15.835, inclusive.  The reporting person undertakes to provide the Securities and Exchange Commission, the issuer, or a security holder of the issuer, upon request, full information regarding the number of shares sold at each separate price.</footnote>
+        <footnote id="F4">These shares became exercisable as follows:  1,674 share(s) on April 1, 2014, 4,940 share(s) on April 1, 2015, 4,940 share(s) on April 1, 2016.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>John R. Merva, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-03-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

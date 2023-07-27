@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0001493152-23-022258.txt : 20230623
+<SEC-HEADER>0001493152-23-022258.hdr.sgml : 20230623
+<ACCEPTANCE-DATETIME>20230623163016
+ACCESSION NUMBER:		0001493152-23-022258
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230621
+FILED AS OF DATE:		20230623
+DATE AS OF CHANGE:		20230623
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Makary Martin A.
+		CENTRAL INDEX KEY:			0001921566
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35814
+		FILM NUMBER:		231038137
+
+	MAIL ADDRESS:	
+		STREET 1:		102 WOODMONT BLVD., SUITE 610
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37205
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HARROW HEALTH, INC.
+		CENTRAL INDEX KEY:			0001360214
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				450567010
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		102 WOODMONT BLVD
+		STREET 2:		SUITE 610
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37215
+		BUSINESS PHONE:		615.733.4731
+
+	MAIL ADDRESS:	
+		STREET 1:		102 WOODMONT BLVD
+		STREET 2:		SUITE 610
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37215
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Imprimis Pharmaceuticals, Inc.
+		DATE OF NAME CHANGE:	20120301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRANSDEL PHARMACEUTICALS INC
+		DATE OF NAME CHANGE:	20070912
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bywater Resources, Inc
+		DATE OF NAME CHANGE:	20060421
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001360214</issuerCik>
+        <issuerName>HARROW HEALTH, INC.</issuerName>
+        <issuerTradingSymbol>HROW</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001921566</rptOwnerCik>
+            <rptOwnerName>Makary Martin A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O HARROW HEALTH, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>102 WOODMONT BLVD. SUITE 610</rptOwnerStreet2>
+            <rptOwnerCity>NASHVILLE</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>37205</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>RSU</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7744</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7744</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7744</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Restricted Stock Units were received as a compensatory award for no consideration.</footnote>
+        <footnote id="F2">Award of Restricted Stock Units vests quarterly in equal installments over a one-year period following the date of grant. The shares underlying such Restricted Stock Units will not be delivered to the Reporting Person and may not be transferred or sold until the termination of service.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Andrew R. Boll Attorney in Fact for Martin A. Makary</signatureName>
+        <signatureDate>2023-06-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

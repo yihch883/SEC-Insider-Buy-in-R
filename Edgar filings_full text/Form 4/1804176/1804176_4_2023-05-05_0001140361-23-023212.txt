@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001140361-23-023212.txt : 20230505
+<SEC-HEADER>0001140361-23-023212.hdr.sgml : 20230505
+<ACCEPTANCE-DATETIME>20230505161531
+ACCESSION NUMBER:		0001140361-23-023212
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230503
+FILED AS OF DATE:		20230505
+DATE AS OF CHANGE:		20230505
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Getz Heather C
+		CENTRAL INDEX KEY:			0001481485
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39292
+		FILM NUMBER:		23894026
+
+	MAIL ADDRESS:	
+		STREET 1:		BIOTELEMETRY, INC.
+		STREET 2:		1000 CEDAR HOLLOW ROAD, #102
+		CITY:			MALVERN
+		STATE:			PA
+		ZIP:			19355
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Butterfly Network, Inc.
+		CENTRAL INDEX KEY:			0001804176
+		STANDARD INDUSTRIAL CLASSIFICATION:	X-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS [3844]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1600 DISTRICT AVENUE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+		BUSINESS PHONE:		781-557-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		1600 DISTRICT AVENUE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Longview Acquisition Corp.
+		DATE OF NAME CHANGE:	20200220
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001804176</issuerCik>
+        <issuerName>Butterfly Network, Inc.</issuerName>
+        <issuerTradingSymbol>BFLY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001481485</rptOwnerCik>
+            <rptOwnerName>Getz Heather C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BUTTERFLY NETWORK, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1600 DISTRICT AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>BURLINGTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01803</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>EVP &amp; Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>64536</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.976</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1448955</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Issuer has adopted a &quot;sell-to-cover&quot; policy to satisfy the tax withholding obligations of the Reporting Person. The sales reported on this Form 4 represent the number of shares required to be sold by the Reporting Person to cover tax withholding obligations in connection with the vesting of restricted stock units. Such sales were automatic and intended to qualify under Rule 10b5-1.</footnote>
+        <footnote id="F2">Represents the weighted average sales price per share. The shares sold at prices ranging from $1.91 to $2.025 per share. Full information regarding the number of shares sold at each price shall be provided upon request to the staff of the U.S. Securities and Exchange Commission, the Issuer, or a security holder of the Issuer.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s / Lawrence T. Weiss, Attorney-in-Fact for Heather C. Getz</signatureName>
+        <signatureDate>2023-05-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

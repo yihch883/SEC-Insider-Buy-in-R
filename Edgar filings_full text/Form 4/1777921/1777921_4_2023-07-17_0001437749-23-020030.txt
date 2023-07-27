@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001437749-23-020030.txt : 20230717
+<SEC-HEADER>0001437749-23-020030.hdr.sgml : 20230717
+<ACCEPTANCE-DATETIME>20230717115739
+ACCESSION NUMBER:		0001437749-23-020030
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230601
+FILED AS OF DATE:		20230717
+DATE AS OF CHANGE:		20230717
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SCHIJNS JANET
+		CENTRAL INDEX KEY:			0001732198
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39048
+		FILM NUMBER:		231090971
+
+	MAIL ADDRESS:	
+		STREET 1:		901 E BYRD STREET, SUITE 900
+		STREET 2:		LEGAL DEPARTMENT
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23219
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AvePoint, Inc.
+		CENTRAL INDEX KEY:			0001777921
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				834461709
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		525 WASHINGTON BLVD
+		STREET 2:		SUITE 1400
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07310
+		BUSINESS PHONE:		(201) 793-1111
+
+	MAIL ADDRESS:	
+		STREET 1:		525 WASHINGTON BLVD
+		STREET 2:		SUITE 1400
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07310
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Apex Technology Acquisition Corp
+		DATE OF NAME CHANGE:	20190528
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001777921</issuerCik>
+        <issuerName>AvePoint, Inc.</issuerName>
+        <issuerTradingSymbol>AVPT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001732198</rptOwnerCik>
+            <rptOwnerName>SCHIJNS JANET</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AVEPOINT, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>525 WASHINGTON BOULEVARD, SUITE 1400</rptOwnerStreet2>
+            <rptOwnerCity>JERSEY CITY</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07310</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>26636</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.57</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>60868</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This security represents restricted stock units (each, an &quot;RSU&quot;) granted to the reporting person under the Issuer's 2021 Equity Incentive Plan. Each RSU represents the contingent right to receive, upon vesting of the RSU, one share of the Issuer's common stock.</footnote>
+        <footnote id="F2">100% of the RSUs will vest on June 1, 2024.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Brian Michael Brown, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-06-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

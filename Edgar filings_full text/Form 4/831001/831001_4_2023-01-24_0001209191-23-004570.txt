@@ -1,0 +1,168 @@
+<SEC-DOCUMENT>0001209191-23-004570.txt : 20230124
+<SEC-HEADER>0001209191-23-004570.hdr.sgml : 20230124
+<ACCEPTANCE-DATETIME>20230124160119
+ACCESSION NUMBER:		0001209191-23-004570
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230120
+FILED AS OF DATE:		20230124
+DATE AS OF CHANGE:		20230124
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Babej Peter
+		CENTRAL INDEX KEY:			0001792004
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09924
+		FILM NUMBER:		23548142
+
+	MAIL ADDRESS:	
+		STREET 1:		388 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CITIGROUP INC
+		CENTRAL INDEX KEY:			0000831001
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				521568099
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		388 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+		BUSINESS PHONE:		2125591000
+
+	MAIL ADDRESS:	
+		STREET 1:		388 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRAVELERS GROUP INC
+		DATE OF NAME CHANGE:	19950519
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRAVELERS INC
+		DATE OF NAME CHANGE:	19940103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRIMERICA CORP /NEW/
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000831001</issuerCik>
+        <issuerName>CITIGROUP INC</issuerName>
+        <issuerTradingSymbol>C</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001792004</rptOwnerCik>
+            <rptOwnerName>Babej Peter</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>CITIGROUP INC., CORPORATE LAW DEPARTMENT</rptOwnerStreet1>
+            <rptOwnerStreet2>388 GREENWICH STREET</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10013</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO, Asia Pacific</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>14508.33</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>49.37</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>117527.8965</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Withholding of shares of common stock to satisfy tax withholding obligations in connection with the vesting of previously awarded stock.</footnote>
+        <footnote id="F2">Includes 1,632.9365 shares acquired through dividend reinvestments.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Peter Babej by Joseph B. Wollard, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-01-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

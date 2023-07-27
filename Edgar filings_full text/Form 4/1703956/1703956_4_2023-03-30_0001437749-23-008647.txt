@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0001437749-23-008647.txt : 20230330
+<SEC-HEADER>0001437749-23-008647.hdr.sgml : 20230330
+<ACCEPTANCE-DATETIME>20230330165240
+ACCESSION NUMBER:		0001437749-23-008647
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230329
+FILED AS OF DATE:		20230330
+DATE AS OF CHANGE:		20230330
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Young Bruce F.
+		CENTRAL INDEX KEY:			0001760704
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38166
+		FILM NUMBER:		23781418
+
+	MAIL ADDRESS:	
+		STREET 1:		28 WEST 44TH STREET, SUITE 501
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Concrete Pumping Holdings, Inc.
+		CENTRAL INDEX KEY:			0001703956
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONSTRUCTION SPECIAL TRADE CONTRACTORS [1700]
+		IRS NUMBER:				831779605
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 E. 84TH AVENUE
+		STREET 2:		SUITE A-5
+		CITY:			THORNTON
+		STATE:			CO
+		ZIP:			80229
+		BUSINESS PHONE:		303-289-7497
+
+	MAIL ADDRESS:	
+		STREET 1:		500 E. 84TH AVENUE
+		STREET 2:		SUITE A-5
+		CITY:			THORNTON
+		STATE:			CO
+		ZIP:			80229
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Industrea Acquisition Corp.
+		DATE OF NAME CHANGE:	20170414
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4_03.29.2023 VESTING
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-29</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001703956</issuerCik>
+        <issuerName>Concrete Pumping Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>BBCP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001760704</rptOwnerCik>
+            <rptOwnerName>Young Bruce F.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CONCRETE PUMPING HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>500 E. 84TH AVENUE, SUITE A-5</rptOwnerStreet2>
+            <rptOwnerCity>DENVER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80229</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-29</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18033</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.86</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2337587</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Company withheld shares of common stock to satisfy the tax withholding obligation for the Reporting Person's Restricted Stock Awards that vested on March 29, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Bruce Young</signatureName>
+        <signatureDate>2023-03-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

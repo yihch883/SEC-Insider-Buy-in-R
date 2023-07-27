@@ -1,0 +1,196 @@
+<SEC-DOCUMENT>0001213900-23-021001.txt : 20230317
+<SEC-HEADER>0001213900-23-021001.hdr.sgml : 20230317
+<ACCEPTANCE-DATETIME>20230317161011
+ACCESSION NUMBER:		0001213900-23-021001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230315
+FILED AS OF DATE:		20230317
+DATE AS OF CHANGE:		20230317
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kundich Ronald
+		CENTRAL INDEX KEY:			0001796095
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39958
+		FILM NUMBER:		23742632
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TRINITY CAPITAL INC.
+		STREET 2:		3075 WEST RAY ROAD, SUITE 525
+		CITY:			CHANDLER
+		STATE:			AZ
+		ZIP:			85226
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Trinity Capital Inc.
+		CENTRAL INDEX KEY:			0001786108
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 N. 1ST ST.
+		STREET 2:		3RD FLOOR
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85004
+		BUSINESS PHONE:		480.374.5350
+
+	MAIL ADDRESS:	
+		STREET 1:		1 N. 1ST ST.
+		STREET 2:		3RD FLOOR
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001786108</issuerCik>
+        <issuerName>Trinity Capital Inc.</issuerName>
+        <issuerTradingSymbol>TRIN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001796095</rptOwnerCik>
+            <rptOwnerName>Kundich Ronald</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TRINITY CAPITAL INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1 N. 1ST STREET, 3RD FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>PHOENIX</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85004</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Credit Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4927</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.85</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>121777</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F3"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>43353</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>165120</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares withheld to satisfy the reporting person's tax obligations in connection with vesting of restricted shares on March 15, 2023. Transaction exempt from Section 16(b) pursuant to Rule 16b-3.</footnote>
+        <footnote id="F2">Includes (1) 32,514 restricted shares issued under the 2019 Trinity Capital Inc. Long Term Incentive Plan, which shares began quarterly vesting pro rata over the twelve full calendar quarters immediately following March 15, 2023; and (2) 40,958 restricted shares issued under the 2019 Trinity Capital Inc. Long Term Incentive Plan, which shares began quarterly vesting pro rata over the twelve full calendar quarters immediately following September 15, 2021.</footnote>
+        <footnote id="F3">Restricted shares issued under the 2019 Trinity Capital Inc. Long Term Incentive Plan. 25% of such restricted shares shall vest on March 15, 2024, and the remaining 75% of such shares shall vest pro rata over the twelve full calendar quarters immediately following March 15, 2024.</footnote>
+    </footnotes>
+
+    <remarks>Sarah Stanton is signing on behalf of Mr. Kundich pursuant to the power of attorney dated September 17, 2021, which was previously filed with the Securities and Exchange Commission as an exhibit to the Form 4 Mr. Kundich filed on September 17, 2021.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Sarah Stanton, on behalf of Ron Kundich</signatureName>
+        <signatureDate>2023-03-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

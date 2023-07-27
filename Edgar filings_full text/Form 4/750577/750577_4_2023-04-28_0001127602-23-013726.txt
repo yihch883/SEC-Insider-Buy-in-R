@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001127602-23-013726.txt : 20230428
+<SEC-HEADER>0001127602-23-013726.hdr.sgml : 20230428
+<ACCEPTANCE-DATETIME>20230428091535
+ACCESSION NUMBER:		0001127602-23-013726
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230426
+FILED AS OF DATE:		20230428
+DATE AS OF CHANGE:		20230428
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Perez Sonia
+		CENTRAL INDEX KEY:			0001783870
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36872
+		FILM NUMBER:		23860780
+
+	MAIL ADDRESS:	
+		STREET 1:		127 FLYNT ROAD
+		CITY:			LAUREL
+		STATE:			MS
+		ZIP:			39443
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HANCOCK WHITNEY CORP
+		CENTRAL INDEX KEY:			0000750577
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				640693170
+		STATE OF INCORPORATION:			MS
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE HANCOCK WHITNEY PLAZA
+		STREET 2:		P O BOX 4019
+		CITY:			GULFPORT
+		STATE:			MS
+		ZIP:			39501
+		BUSINESS PHONE:		5042995208
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE HANCOCK WHITNEY PLAZA
+		STREET 2:		P O BOX 4019
+		CITY:			GULFPORT
+		STATE:			MS
+		ZIP:			39501
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HANCOCK HOLDING CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000750577</issuerCik>
+        <issuerName>HANCOCK WHITNEY CORP</issuerName>
+        <issuerTradingSymbol>HWC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001783870</rptOwnerCik>
+            <rptOwnerName>Perez Sonia</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 4019</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GULFPORT</rptOwnerCity>
+            <rptOwnerState>MS</rptOwnerState>
+            <rptOwnerZipCode>39502</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2126</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>35.28</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6791.2053</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted Stock Award granted in accordance with the Company's 2020 Long Term Incentive Plan. These awards have a one year vesting</footnote>
+        <footnote id="F2">Shares to be deferred upon vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Sonia A. Perez by Kathryn S Mistich POA</signatureName>
+        <signatureDate>2023-04-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

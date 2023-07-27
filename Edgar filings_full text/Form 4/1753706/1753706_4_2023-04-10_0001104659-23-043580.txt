@@ -1,0 +1,239 @@
+<SEC-DOCUMENT>0001104659-23-043580.txt : 20230410
+<SEC-HEADER>0001104659-23-043580.hdr.sgml : 20230410
+<ACCEPTANCE-DATETIME>20230410160650
+ACCESSION NUMBER:		0001104659-23-043580
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230406
+FILED AS OF DATE:		20230410
+DATE AS OF CHANGE:		20230410
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Franklin Michael E.
+		CENTRAL INDEX KEY:			0001944784
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38880
+		FILM NUMBER:		23811205
+
+	MAIL ADDRESS:	
+		STREET 1:		125 S. WACKER DRIVE
+		STREET 2:		SUITE 1250
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Whole Earth Brands, Inc.
+		CENTRAL INDEX KEY:			0001753706
+		STANDARD INDUSTRIAL CLASSIFICATION:	SUGAR & CONFECTIONERY PRODUCTS [2060]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		125 S. WACKER DRIVE
+		STREET 2:		SUITE 1250
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		312.8403005
+
+	MAIL ADDRESS:	
+		STREET 1:		125 S. WACKER DRIVE
+		STREET 2:		SUITE 1250
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Act II Global Acquisition Corp.
+		DATE OF NAME CHANGE:	20190321
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ELLENOFF GROSSMAN & SCHOLE
+		DATE OF NAME CHANGE:	20190321
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Act II Global Acquisition Corp.
+		DATE OF NAME CHANGE:	20180920
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2312210-1_4seq1.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-06</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001753706</issuerCik>
+        <issuerName>Whole Earth Brands, Inc.</issuerName>
+        <issuerTradingSymbol>FREE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001944784</rptOwnerCik>
+            <rptOwnerName>Franklin Michael E.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O WHOLE EARTH BRANDS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>125 S. WACKER DRIVE, SUITE 1250</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60606</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Interim CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-06</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>742471</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>742471</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>742471</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance-Based Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-06</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>742471</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>742471</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>742471</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock units convert into shares of Whole Earth Brands, Inc.'s common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">Subject to the reporting person's continuous employment through March 31, 2024, the restricted stock units shall vest on April 6, 2024 (the one-year anniversary of the grant date), except (a) in the case of the reporting person's earlier termination by the Company without cause or by the reporting person for good reason, or (b) upon a change in control of the company, in which case the restricted stock units will vest in full upon the occurrence of such earlier event.</footnote>
+        <footnote id="F3">Subject to the reporting person's continuous employment through March 31, 2024, and upon achievement by the Company of certain pre-established financial performance goals, the performance-based restricted stock units shall vest on April 6, 2024 (the one-year anniversary of the grant date), except (a) in the case of the reporting person's earlier termination by the Company without cause or by the reporting person for good reason, or (b) upon a change in control of the company, in which case the performance-based restricted stock units will vest in full upon the occurrence of such earlier event.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael E Franklin, by Ira W. Schlussel, as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

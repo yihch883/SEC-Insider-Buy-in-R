@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001127602-23-013521.txt : 20230425
+<SEC-HEADER>0001127602-23-013521.hdr.sgml : 20230425
+<ACCEPTANCE-DATETIME>20230425163636
+ACCESSION NUMBER:		0001127602-23-013521
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230421
+FILED AS OF DATE:		20230425
+DATE AS OF CHANGE:		20230425
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PICKERING CHRISTINE L
+		CENTRAL INDEX KEY:			0001250150
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36872
+		FILM NUMBER:		23845389
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 4019
+		CITY:			GULFPORT
+		STATE:			MS
+		ZIP:			39502
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	SMILEK CHRISTINE L
+		DATE OF NAME CHANGE:	20030628
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HANCOCK WHITNEY CORP
+		CENTRAL INDEX KEY:			0000750577
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				640693170
+		STATE OF INCORPORATION:			MS
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE HANCOCK WHITNEY PLAZA
+		STREET 2:		P O BOX 4019
+		CITY:			GULFPORT
+		STATE:			MS
+		ZIP:			39501
+		BUSINESS PHONE:		5042995208
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE HANCOCK WHITNEY PLAZA
+		STREET 2:		P O BOX 4019
+		CITY:			GULFPORT
+		STATE:			MS
+		ZIP:			39501
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HANCOCK HOLDING CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000750577</issuerCik>
+        <issuerName>HANCOCK WHITNEY CORP</issuerName>
+        <issuerTradingSymbol>HWC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001250150</rptOwnerCik>
+            <rptOwnerName>PICKERING CHRISTINE L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 4019</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GULFPORT</rptOwnerCity>
+            <rptOwnerState>MS</rptOwnerState>
+            <rptOwnerZipCode>39502</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>306.933</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Spouse's Ira</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>984</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>36.29</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20948.6905</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes shares acquired through the Dividend Reinvestment Plan since the reporting person's last Form 4 filing.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christine L. Pickering by Kathryn S. Mistich (POA)</signatureName>
+        <signatureDate>2023-04-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

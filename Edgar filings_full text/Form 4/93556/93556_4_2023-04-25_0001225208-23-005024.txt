@@ -1,0 +1,150 @@
+<SEC-DOCUMENT>0001225208-23-005024.txt : 20230425
+<SEC-HEADER>0001225208-23-005024.hdr.sgml : 20230425
+<ACCEPTANCE-DATETIME>20230425200656
+ACCESSION NUMBER:		0001225208-23-005024
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230421
+FILED AS OF DATE:		20230425
+DATE AS OF CHANGE:		20230425
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Tan Irving
+		CENTRAL INDEX KEY:			0001729518
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05224
+		FILM NUMBER:		23846467
+
+	MAIL ADDRESS:	
+		STREET 1:		170 WEST TASMAN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STANLEY BLACK & DECKER, INC.
+		CENTRAL INDEX KEY:			0000093556
+		STANDARD INDUSTRIAL CLASSIFICATION:	CUTLERY, HANDTOOLS & GENERAL HARDWARE [3420]
+		IRS NUMBER:				060548860
+		STATE OF INCORPORATION:			CT
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 STANLEY DR
+		STREET 2:		P O BOX 7000
+		CITY:			NEW BRITAIN
+		STATE:			CT
+		ZIP:			06053
+		BUSINESS PHONE:		8602255111
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 STANLEY DR
+		CITY:			NEW BRITAIN
+		STATE:			CT
+		ZIP:			06053
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANLEY WORKS
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000093556</issuerCik>
+        <issuerName>STANLEY BLACK &amp; DECKER, INC.</issuerName>
+        <issuerTradingSymbol>SWK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001729518</rptOwnerCik>
+            <rptOwnerName>Tan Irving</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1000 STANLEY DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW BRITAIN</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06053</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2320.0000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>79.7450</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5823.4879</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Currently 100% vested. Represents number of shares to be delivered upon settlement of restricted stock units. Restricted stock units will be settled on the 90th day following the date the director ceases to be a member of the Board, either in one lump sum or in three, five or ten annual installments.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Janet M. Link, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

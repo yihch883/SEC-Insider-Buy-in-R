@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0001140361-23-002008.txt : 20230118
+<SEC-HEADER>0001140361-23-002008.hdr.sgml : 20230118
+<ACCEPTANCE-DATETIME>20230118171454
+ACCESSION NUMBER:		0001140361-23-002008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230115
+FILED AS OF DATE:		20230118
+DATE AS OF CHANGE:		20230118
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Johnston Grace
+		CENTRAL INDEX KEY:			0001958477
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39486
+		FILM NUMBER:		23535131
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O QUANTUM-SI INCORPORATED
+		STREET 2:		530 OLD WHITFIELD STREET
+		CITY:			GUILFORD
+		STATE:			CT
+		ZIP:			06437
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Quantum-Si Inc
+		CENTRAL INDEX KEY:			0001816431
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		IRS NUMBER:				851388175
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		530 OLD WHITFIELD STREET
+		CITY:			GUILFORD
+		STATE:			CT
+		ZIP:			06437
+		BUSINESS PHONE:		(203) 458-7100
+
+	MAIL ADDRESS:	
+		STREET 1:		530 OLD WHITFIELD STREET
+		CITY:			GUILFORD
+		STATE:			CT
+		ZIP:			06437
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HighCape Capital Acquisition Corp.
+		DATE OF NAME CHANGE:	20200629
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001816431</issuerCik>
+        <issuerName>Quantum-Si Inc</issuerName>
+        <issuerTradingSymbol>QSI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001958477</rptOwnerCik>
+            <rptOwnerName>Johnston Grace</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O QUANTUM-SI INCORPORATED</rptOwnerStreet1>
+            <rptOwnerStreet2>530 OLD WHITFIELD STREET</rptOwnerStreet2>
+            <rptOwnerCity>GUILFORD</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06437</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>Chief Commercial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.21</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>350000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-01-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>350000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>350000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares underlying this option vest as to 25% on December 31, 2023, with the remainder vesting in 36 equal monthly installments at the end of each month thereafter, subject to Dr. Johnston's continued service through the applicable vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christian LaPointe, Ph.D., Attorney-in-Fact</signatureName>
+        <signatureDate>2023-01-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,254 @@
+<SEC-DOCUMENT>0001474506-23-000145.txt : 20230329
+<SEC-HEADER>0001474506-23-000145.hdr.sgml : 20230329
+<ACCEPTANCE-DATETIME>20230329175508
+ACCESSION NUMBER:		0001474506-23-000145
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230329
+FILED AS OF DATE:		20230329
+DATE AS OF CHANGE:		20230329
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Chen Yi-Kuei (Alex)
+		CENTRAL INDEX KEY:			0001886312
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40857
+		FILM NUMBER:		23776421
+
+	MAIL ADDRESS:	
+		STREET 1:		5/F-4, NO. 89, SONGREN ROAD
+		STREET 2:		XINYI DISTRICT
+		CITY:			TAIPEI CITY
+		STATE:			F5
+		ZIP:			11073
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Maxpro Capital Acquisition Corp.
+		CENTRAL INDEX KEY:			0001874259
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				871015109
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5/F-4, NO. 89
+		STREET 2:		SONGREN ROAD, XINYI DISTRICT
+		CITY:			TAIPEI CITY
+		STATE:			F5
+		ZIP:			11073
+		BUSINESS PHONE:		886020771307952
+
+	MAIL ADDRESS:	
+		STREET 1:		5/F-4, NO. 89
+		STREET 2:		SONGREN ROAD, XINYI DISTRICT
+		CITY:			TAIPEI CITY
+		STATE:			F5
+		ZIP:			11073
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Jade Mountain Acquisition Corp.
+		DATE OF NAME CHANGE:	20210721
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-29</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001874259</issuerCik>
+        <issuerName>Maxpro Capital Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>JMAC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001886312</rptOwnerCik>
+            <rptOwnerName>Chen Yi-Kuei (Alex)</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>5/F-4, NO. 89, SONGREN ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>XINYI DISTRICT</rptOwnerStreet2>
+            <rptOwnerCity>TAIPEI CITY</rptOwnerCity>
+            <rptOwnerState>F5</rptOwnerState>
+            <rptOwnerZipCode>11073</rptOwnerZipCode>
+            <rptOwnerStateDescription>TAIWAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-29</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-29</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-29</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>C</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Pursuant to the Business Combination Agreement, dated September 14, 2022, as amended, by and among the Issuer, Apollomics Inc., a Cayman Islands exempted company (&quot;Apollomics&quot;), and Project Max SPAC Merger Sub, Inc., a Delaware corporation and wholly-owned subsidiary of Apollomics (&quot;Merger Sub&quot;), on March 29, 2023 Merger Sub merged with and into the Issuer, with the Issuer surviving as a wholly-owned subsidiary of Apollomics (the &quot;Business Combination&quot;). As a result of the Business Combination, each share of Class B common stock of the Issuer was automatically converted into one share of Class A common stock of the Issuer.</footnote>
+        <footnote id="F2">As a result of the Business Combination, each issued and outstanding share of Class A common stock of the Issuer was exchanged for one Class A ordinary share of Apollomics.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Chen, Yi - Kuei (Alex), by Nelson Mullins Riley &amp; Scarborough with Power of Attorney</signatureName>
+        <signatureDate>2023-03-29</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

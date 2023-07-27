@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001562180-23-003465.txt : 20230405
+<SEC-HEADER>0001562180-23-003465.hdr.sgml : 20230405
+<ACCEPTANCE-DATETIME>20230405213355
+ACCESSION NUMBER:		0001562180-23-003465
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230403
+FILED AS OF DATE:		20230405
+DATE AS OF CHANGE:		20230405
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Weber Teresa Sue
+		CENTRAL INDEX KEY:			0001931415
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40128
+		FILM NUMBER:		23804241
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BIOTE CORP.
+		STREET 2:		1875 W. WALNUT HILL LN #100
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75038
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			biote Corp.
+		CENTRAL INDEX KEY:			0001819253
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEDICINAL CHEMICALS & BOTANICAL PRODUCTS [2833]
+		IRS NUMBER:				851791125
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1875 W. WALNUT HILL LN #100
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75038
+		BUSINESS PHONE:		972-486-9346
+
+	MAIL ADDRESS:	
+		STREET 1:		1875 W. WALNUT HILL LN #100
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75038
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Haymaker Acquisition Corp. III
+		DATE OF NAME CHANGE:	20200727
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-03</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001819253</issuerCik>
+        <issuerName>biote Corp.</issuerName>
+        <issuerTradingSymbol>BTMD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001931415</rptOwnerCik>
+            <rptOwnerName>Weber Teresa Sue</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BIOTE CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>1875 W. WALNUT HILL LN #100</rptOwnerStreet2>
+            <rptOwnerCity>IRVING</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75038</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>5.80</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>755150.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-04-02</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>755150.00</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1892580.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">25% of the shares subject to the option shall vest on April 3, 2024, and the remaining shares subject to the option shall vest in 36 substantially equal monthly installments thereafter, subject to the Reporting Person's continuous service through each such vesting date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Marybeth Conlon, as Attorney-in-Fact for Teresa S. Weber</signatureName>
+        <signatureDate>2023-04-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

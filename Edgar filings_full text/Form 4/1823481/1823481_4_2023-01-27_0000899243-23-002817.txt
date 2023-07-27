@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0000899243-23-002817.txt : 20230127
+<SEC-HEADER>0000899243-23-002817.hdr.sgml : 20230127
+<ACCEPTANCE-DATETIME>20230127060258
+ACCESSION NUMBER:		0000899243-23-002817
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230125
+FILED AS OF DATE:		20230127
+DATE AS OF CHANGE:		20230127
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SMITH RICHARD A
+		CENTRAL INDEX KEY:			0000940274
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39909
+		FILM NUMBER:		23559542
+
+	MAIL ADDRESS:	
+		STREET 1:		175 PARK AVENUE
+		CITY:			MADISON
+		STATE:			NJ
+		ZIP:			07940
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TZP Strategies Acquisition Corp.
+		CENTRAL INDEX KEY:			0001823481
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7 TIMES SQUARE, SUITE 4307
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		212-398-0300
+
+	MAIL ADDRESS:	
+		STREET 1:		7 TIMES SQUARE, SUITE 4307
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-25</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001823481</issuerCik>
+        <issuerName>TZP Strategies Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>TZPS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000940274</rptOwnerCik>
+            <rptOwnerName>SMITH RICHARD A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TZP STRATEGIES ACQUISITION CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>7 TIMES SQUARE, SUITE 4307</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>25000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>25000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">As described in the Issuer's registration statement on Form S-1 (File No. 333-251773) under the heading &quot;Description of Securities-Founder Shares&quot;, the Class B ordinary shares, par value $0.0001 per share (the &quot;Class B Ordinary Shares&quot;), would have automatically converted into Class A ordinary shares, par value $0.0001 per share, of the Issuer at the time of the Issuer's initial business combination, or earlier at the option of the holder, on a one-for-one basis, subject to adjustment for share splits, share capitalizations, reorganizations, recapitalizations and the like, and certain anti-dilution rights and have no expiration date.</footnote>
+        <footnote id="F2">This Form 4 reflects the surrender to the Issuer of 25,000 Class B Ordinary Shares for no consideration by the Reporting Person pursuant to the Share Surrender Letter, dated January 25, 2023, by and between the Issuer and the Reporting Person.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Samuel Katz, as attorney-in-fact for Richard Smith</signatureName>
+        <signatureDate>2023-01-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

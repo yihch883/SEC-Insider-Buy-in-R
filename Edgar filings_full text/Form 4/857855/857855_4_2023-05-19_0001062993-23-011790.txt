@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001062993-23-011790.txt : 20230519
+<SEC-HEADER>0001062993-23-011790.hdr.sgml : 20230519
+<ACCEPTANCE-DATETIME>20230519160402
+ACCESSION NUMBER:		0001062993-23-011790
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230517
+FILED AS OF DATE:		20230519
+DATE AS OF CHANGE:		20230519
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mann Jennifer
+		CENTRAL INDEX KEY:			0001745065
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35095
+		FILM NUMBER:		23939949
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O UNITED COMMUNITY BANKS, INC.
+		STREET 2:		PO BOX 398
+		CITY:			BLAIRSVILLE
+		STATE:			GA
+		ZIP:			30514
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNITED COMMUNITY BANKS INC
+		CENTRAL INDEX KEY:			0000857855
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				581807304
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 398, 59 HIGHWAY 515
+		CITY:			BLAIRSVILLE
+		STATE:			GA
+		ZIP:			30512
+		BUSINESS PHONE:		5818073041
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 398
+		STREET 2:		HIGHWAY 515
+		CITY:			BLAIRSVILLE
+		STATE:			GA
+		ZIP:			30512
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNION BANCSHARES INC /GA/
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000857855</issuerCik>
+        <issuerName>UNITED COMMUNITY BANKS INC</issuerName>
+        <issuerTradingSymbol>UCBI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001745065</rptOwnerCik>
+            <rptOwnerName>Mann Jennifer</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O UNITED COMMUNITY BANKS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>PO BOX 398</rptOwnerStreet2>
+            <rptOwnerCity>BLAIRSVILLE</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30514</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2856</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11580</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects grant of 2023 restricted stock units, which vest the day before the Issuer's next annual meeting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Melinda Davis Lux, as Attorney in Fact</signatureName>
+        <signatureDate>2023-05-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

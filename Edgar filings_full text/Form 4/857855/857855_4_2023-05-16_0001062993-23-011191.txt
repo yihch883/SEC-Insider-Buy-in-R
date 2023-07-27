@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0001062993-23-011191.txt : 20230516
+<SEC-HEADER>0001062993-23-011191.hdr.sgml : 20230516
+<ACCEPTANCE-DATETIME>20230516160350
+ACCESSION NUMBER:		0001062993-23-011191
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230515
+FILED AS OF DATE:		20230516
+DATE AS OF CHANGE:		20230516
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Berry Holly N
+		CENTRAL INDEX KEY:			0001922188
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35095
+		FILM NUMBER:		23927406
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O UNITED COMMUNITY BANKS, INC.
+		STREET 2:		PO BOX 398
+		CITY:			BLAIRSVILLE
+		STATE:			GA
+		ZIP:			30514
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNITED COMMUNITY BANKS INC
+		CENTRAL INDEX KEY:			0000857855
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				581807304
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 398, 59 HIGHWAY 515
+		CITY:			BLAIRSVILLE
+		STATE:			GA
+		ZIP:			30512
+		BUSINESS PHONE:		5818073041
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 398
+		STREET 2:		HIGHWAY 515
+		CITY:			BLAIRSVILLE
+		STATE:			GA
+		ZIP:			30512
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNION BANCSHARES INC /GA/
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000857855</issuerCik>
+        <issuerName>UNITED COMMUNITY BANKS INC</issuerName>
+        <issuerTradingSymbol>UCBI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001922188</rptOwnerCik>
+            <rptOwnerName>Berry Holly N</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O UNITED COMMUNITY BANKS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>PO BOX 398</rptOwnerStreet2>
+            <rptOwnerCity>BLAIRSVILLE</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30512</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Human Resources Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>142</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>21.57</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3092</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects shares of Issuer's common stock withheld to satisfy tax withholding obligations upon vesting of time-based restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Melinda Davis Lux, as Attorney in Fact</signatureName>
+        <signatureDate>2023-05-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

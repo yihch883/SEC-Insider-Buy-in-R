@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0000904454-23-000408.txt : 20230622
+<SEC-HEADER>0000904454-23-000408.hdr.sgml : 20230622
+<ACCEPTANCE-DATETIME>20230622172108
+ACCESSION NUMBER:		0000904454-23-000408
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230615
+FILED AS OF DATE:		20230622
+DATE AS OF CHANGE:		20230622
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Athanor Capital, LP
+		CENTRAL INDEX KEY:			0001730574
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40598
+		FILM NUMBER:		231034235
+
+	BUSINESS ADDRESS:	
+		STREET 1:		142 WEST 57TH STREET
+		STREET 2:		11TH FLOOR, SUITE 09-126
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		646-813-2470
+
+	MAIL ADDRESS:	
+		STREET 1:		142 WEST 57TH STREET
+		STREET 2:		11TH FLOOR, SUITE 09-126
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Zura Bio Ltd
+		CENTRAL INDEX KEY:			0001855644
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4225 EXECUTIVE SQUARE
+		STREET 2:		SUITE 600
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+		BUSINESS PHONE:		858-247-0520
+
+	MAIL ADDRESS:	
+		STREET 1:		4225 EXECUTIVE SQUARE
+		STREET 2:		SUITE 600
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	JATT Acquisition Corp
+		DATE OF NAME CHANGE:	20210407
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001855644</issuerCik>
+        <issuerName>Zura Bio Ltd</issuerName>
+        <issuerTradingSymbol>ZURA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001730574</rptOwnerCik>
+            <rptOwnerName>Athanor Capital, LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>142 WEST 57TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>11TH FLOOR, SUITE 09-126</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.50</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1194000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.25</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-03-20</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-03-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1194000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Funds</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Athanor Master Fund, LP (the &quot;Master Fund&quot;) and Athanor International Master Fund, LP (the &quot;International Master Fund&quot;, and together with the Master Fund, the &quot;Funds&quot;) are the direct holders of the securities reported herein. Athanor Capital Partners, LP (&quot;Master GP&quot;) is the general partner of the Master Fund. Athanor Capital Partners GP, LLC is the general partner of Master GP. Athanor International Fund GP, LP (&quot;International Master GP&quot;) is the general partner of the International Master Fund. Athanor International Fund Ultimate GP, LLC is the general partner of International Master GP. Athanor Capital, LP (&quot;Athanor Capital&quot;) is the investment adviser to the Funds. Athanor Capital GP, LLC is the general partner of Athanor Capital. Parvinder Thiara is the managing member of Athanor Capital Partners GP, LLC, Athanor International Fund Ultimate GP, LLC and Athanor Capital GP, LLC.</footnote>
+        <footnote id="F2">(Continued from footnote 1) By virtue of the foregoing relationships, Mr. Thiara and each of the entities named in this footnote may be deemed to beneficially own the securities held by the Funds, however each of them disclaims beneficial ownership of such securities, except to the extent of his or its pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Parvinder Thiara for Athanor Capital, LP</signatureName>
+        <signatureDate>2023-06-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

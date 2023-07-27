@@ -1,0 +1,144 @@
+<SEC-DOCUMENT>0001140361-23-016395.txt : 20230404
+<SEC-HEADER>0001140361-23-016395.hdr.sgml : 20230404
+<ACCEPTANCE-DATETIME>20230404185259
+ACCESSION NUMBER:		0001140361-23-016395
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230331
+FILED AS OF DATE:		20230404
+DATE AS OF CHANGE:		20230404
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Owen Rebecca L
+		CENTRAL INDEX KEY:			0001331684
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33519
+		FILM NUMBER:		23800313
+
+	MAIL ADDRESS:	
+		STREET 1:		1750 H STREET, SUITE 500
+		STREET 2:		COLUMBIA EQUITY TRUST, INC.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20006
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Public Storage
+		CENTRAL INDEX KEY:			0001393311
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				953551121
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		701 WESTERN AVENUE
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91201-2349
+		BUSINESS PHONE:		818-244-8080
+
+	MAIL ADDRESS:	
+		STREET 1:		701 WESTERN AVENUE
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91201-2349
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001393311</issuerCik>
+        <issuerName>Public Storage</issuerName>
+        <issuerTradingSymbol>PSA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001331684</rptOwnerCik>
+            <rptOwnerName>Owen Rebecca L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PUBLIC STORAGE</rptOwnerStreet1>
+            <rptOwnerStreet2>701 WESTERN AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>GLENDALE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>106</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>302.14</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>538</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Grant of unrestricted shares of the Company's common stock pursuant to the Company's Non-Management Trustee Compensation and Deferral Program under the Company's 2021 Equity and Performance-Based Incentive Compensation Plan. The number of shares granted represents the quotient of the dollar amount of the portion of the cash retainers the reporting person has earned for the applicable calendar quarter and elected to be paid in shares of common stock, divided by the Company's closing stock price on the grant date, rounded up to the nearest share.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nathaniel A. Vitan, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

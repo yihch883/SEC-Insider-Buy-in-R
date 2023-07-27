@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0000950170-23-032410.txt : 20230710
+<SEC-HEADER>0000950170-23-032410.hdr.sgml : 20230710
+<ACCEPTANCE-DATETIME>20230710173517
+ACCESSION NUMBER:		0000950170-23-032410
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230710
+FILED AS OF DATE:		20230710
+DATE AS OF CHANGE:		20230710
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ahsan Jawad A
+		CENTRAL INDEX KEY:			0001702677
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39641
+		FILM NUMBER:		231080700
+
+	MAIL ADDRESS:	
+		STREET 1:		17800 N 85TH ST
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85255
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Offerpad Solutions Inc.
+		CENTRAL INDEX KEY:			0001825024
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE AGENTS & MANAGERS (FOR OTHERS) [6531]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4520 DEXTER STREET, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20007
+		BUSINESS PHONE:		(202) 918-7070
+
+	MAIL ADDRESS:	
+		STREET 1:		4520 DEXTER STREET, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20007
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Supernova Partners Acquisition Company, Inc.
+		DATE OF NAME CHANGE:	20200916
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001825024</issuerCik>
+        <issuerName>Offerpad Solutions Inc.</issuerName>
+        <issuerTradingSymbol>OPAD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001702677</rptOwnerCik>
+            <rptOwnerName>Ahsan Jawad A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O OFFERPAD SOLUTIONS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2150 E. GERMANN ROAD, SUITE 1</rptOwnerStreet2>
+            <rptOwnerCity>CHANDLER</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85286</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-07-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>136111</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>136111</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of restricted stock units (&quot;RSUs&quot;). Each RSU represents a contingent right to receive one share of Offerpad Solutions Inc. (the &quot;Issuer&quot;) Class A common stock. The RSUs vest in three equal annual installments beginning on July 10, 2024.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jawad Ahsan</signatureName>
+        <signatureDate>2023-07-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001213900-23-057956.txt : 20230718
+<SEC-HEADER>0001213900-23-057956.hdr.sgml : 20230718
+<ACCEPTANCE-DATETIME>20230718183855
+ACCESSION NUMBER:		0001213900-23-057956
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230716
+FILED AS OF DATE:		20230718
+DATE AS OF CHANGE:		20230718
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mandanas Mary Beth
+		CENTRAL INDEX KEY:			0001857599
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40633
+		FILM NUMBER:		231095261
+
+	MAIL ADDRESS:	
+		STREET 1:		5100 W. 115TH PLACE
+		CITY:			LEAWOOD
+		STATE:			KS
+		ZIP:			66211
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TortoiseEcofin Acquisition Corp. III
+		CENTRAL INDEX KEY:			0001847112
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6363 COLLEGE BOULEVARD
+		CITY:			OVERLAND PARK
+		STATE:			KS
+		ZIP:			66211
+		BUSINESS PHONE:		(913) 981-1020
+
+	MAIL ADDRESS:	
+		STREET 1:		6363 COLLEGE BOULEVARD
+		CITY:			OVERLAND PARK
+		STATE:			KS
+		ZIP:			66211
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-07-16</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001847112</issuerCik>
+        <issuerName>TortoiseEcofin Acquisition Corp. III</issuerName>
+        <issuerTradingSymbol>TRTL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001857599</rptOwnerCik>
+            <rptOwnerName>Mandanas Mary Beth</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6363 COLLEGE BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OVERLAND PARK</rptOwnerCity>
+            <rptOwnerState>KS</rptOwnerState>
+            <rptOwnerZipCode>66211</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-07-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>40000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>40000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Class B Ordinary Shares are automatically convertible into the Issuer's Class A Ordinary Shares at the time of the Issuer's initial business combination on a one-for-one basis, subject to adjustment pursuant to certain anti-dilution rights, and have no expiration date. The Class B Ordinary Shares are subject to forfeiture under certain circumstances relating to Ms. Mandanas' service on the Issuer's Board of Directors.</footnote>
+        <footnote id="F2">In connection with Ms. Mandanas' resignation from the Issuer's Board of Directors, 40,000 Class B Ordinary Shares were forfeited to the Issuer by Ms. Mandanas.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mary Beth Mandanas, by Steven C. Schnitzer as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-07-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001654954-23-007606.txt : 20230602
+<SEC-HEADER>0001654954-23-007606.hdr.sgml : 20230602
+<ACCEPTANCE-DATETIME>20230602201046
+ACCESSION NUMBER:		0001654954-23-007606
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230601
+FILED AS OF DATE:		20230602
+DATE AS OF CHANGE:		20230602
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lipstein Robert J
+		CENTRAL INDEX KEY:			0001701946
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41466
+		FILM NUMBER:		23990965
+
+	MAIL ADDRESS:	
+		STREET 1:		1661 WORTHINGTON ROAD
+		STREET 2:		SUITE 100
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33409
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Onfolio Holdings, Inc
+		CENTRAL INDEX KEY:			0001825452
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1007 NORTH ORANGE STREET 4TH FLOOR
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+		BUSINESS PHONE:		(682) 990-6920
+
+	MAIL ADDRESS:	
+		STREET 1:		1007 NORTH ORANGE STREET 4TH FLOOR
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Onfolio Holdings Inc
+		DATE OF NAME CHANGE:	20200923
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Onfolio Holdings, Inc.
+		DATE OF NAME CHANGE:	20200921
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>section16.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001825452</issuerCik>
+        <issuerName>Onfolio Holdings, Inc</issuerName>
+        <issuerTradingSymbol>ONFO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001701946</rptOwnerCik>
+            <rptOwnerName>Lipstein Robert J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1007 NORTH ORANGE STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>4TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>WILMINGTON</rptOwnerCity>
+            <rptOwnerState>DE</rptOwnerState>
+            <rptOwnerZipCode>19801</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.27</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-05-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>15000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents an option award pursuant to the Company's 2020 Equity Incentive Plan. 7,500 options vest on June 1, 2023. The remaining 7,500 options vest as follows: 2,500 options vest on June 30, 2023, 2,500, options vest on September 30, 2023 and 2,500 options vest on December 31, 2023. Subject to continued service with the Company through the applicable vesting dates. This award is subject to forfeiture.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Robert J. Lipstein</signatureName>
+        <signatureDate>2023-06-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

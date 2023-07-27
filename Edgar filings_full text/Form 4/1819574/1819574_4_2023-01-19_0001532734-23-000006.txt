@@ -1,0 +1,290 @@
+<SEC-DOCUMENT>0001532734-23-000006.txt : 20230119
+<SEC-HEADER>0001532734-23-000006.hdr.sgml : 20230119
+<ACCEPTANCE-DATETIME>20230119174225
+ACCESSION NUMBER:		0001532734-23-000006
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230117
+FILED AS OF DATE:		20230119
+DATE AS OF CHANGE:		20230119
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Ibrahim Zahir
+		CENTRAL INDEX KEY:			0001532734
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39691
+		FILM NUMBER:		23538383
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MOLSON COORS BREWING COMPANY
+		STREET 2:		1225 17TH STREET, SUITE 3200
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bark, Inc.
+		CENTRAL INDEX KEY:			0001819574
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
+		IRS NUMBER:				834109918
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		221 CANAL ST., FL 6
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+		BUSINESS PHONE:		(855) 501-2275
+
+	MAIL ADDRESS:	
+		STREET 1:		221 CANAL ST., FL 6
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Original Bark Co
+		DATE OF NAME CHANGE:	20210603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Northern Star Acquisition Corp.
+		DATE OF NAME CHANGE:	20200729
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_167416812770472.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001819574</issuerCik>
+        <issuerName>Bark, Inc.</issuerName>
+        <issuerTradingSymbol>BARK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001532734</rptOwnerCik>
+            <rptOwnerName>Ibrahim Zahir</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BARK, INC. 120 BROADWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10271</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>750000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>750000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.91</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>750000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-01-16</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>750000.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>750000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reporting Person was granted restricted stock units (&quot;RSUs&quot;), which represent a contingent right to receive one share of Common Stock for each RSU. This RSU vests with a one year cliff and the remainder vesting quarterly in 12 substantially equal installments thereafter, subject to the reporting person's continuous service as of each vesting date and subject to acceleration upon certain events.</footnote>
+        <footnote id="F2">25% of the shares subject to the option vest one year from the vesting commencement date of January 17, 2023, and the remainder vest quarterly in 12 substantially equal installments thereafter, subject to the reporting person's continuous service as of each vesting date and subject to acceleration upon certain events.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit List: Exhibit 24 - Power of Attorney
+Power of Attorney being filed was in effect at the time of the Form 3 and inadvertently not filed as an exhibit to the Form 3.</remarks>
+
+    <ownerSignature>
+        <signatureName>By Allison Koehler, Attorney in fact for Zahir Ibrahim</signatureName>
+        <signatureDate>2023-01-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>z_ipoa.txt
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+POWER OF ATTORNEY
+
+       Know all by these presents, that the undersigned hereby makes,
+constitutes and appoints each of Matt Meeker, Allison Koehler and
+Christina Donnelly or any of them acting individually, and with
+full power of substitution, the undersigned's true and lawful
+attorney-in-fact to:
+
+1) prepare, execute in the undersigned's name and on the undersigned's behalf,
+and submit to the U.S. Securities and Exchange Commission (the "SEC") a Form
+ID, including amendments thereto, and any other documents necessary or
+appropriate to obtain codes and passwords enabling the undersigned to make
+electronic filings with the SEC of reports required by Section 16(a) of the
+Securities Exchange Act of 1934 or any rule or regulation of the SEC;
+2) execute for and on behalf of the undersigned, in the undersigned's capacity
+as an officer and/or director of The RealReal, Inc., a Delaware corporation
+(the "Company"), Forms 3, 4, and 5, including amendments thereto, in
+accordance
+with Section 16(a) of the Securities Exchange Act of 1934 and the rules and
+regulations thereunder;
+3) do and perform any and all acts for and on behalf of the undersigned which
+may be necessary or desirable to complete and execute any such Form 3, 4, or
+5,
+complete and execute any amendment or amendments thereto, and timely file such
+form with the SEC and any stock exchange or similar authority; and
+4) take any other action of any type whatsoever in connection with the
+foregoing
+which, in the opinion of such attorney-in-fact, may be of benefit to, in the
+best interest of, or legally required by, the undersigned, it being understood
+that the documents executed by such attorney-in-fact on behalf of the
+undersigned pursuant to this Power of Attorney shall be in such form and
+shall contain such terms and conditions as such
+attorney-in-fact may approve in such attorney-in-fact's discretion.
+
+       The undersigned hereby grants to each such attorney-in-fact full power
+and authority to do and perform any and every act and thing whatsoever
+requisite, necessary, or proper to be done in the exercise of any of the
+rights
+and powers herein granted, as fully to all intents and purposes as the
+undersigned might or could do if personally present, with full
+power of substitution or revocation, hereby ratifying and confirming all that
+such attorney-in-fact, or such attorney-in-fact's substitute or substitutes,
+shall lawfully do or cause to be done by virtue of this power of attorney and
+the rights and powers herein granted. The undersigned acknowledges that the
+foregoing attorneys-in-fact, in serving in such capacity at the request of
+the undersigned, are not assuming, nor is the Company assuming,
+any of the undersigned's responsibilities to comply with
+Section 16 of the Securities Exchange Act of 1934.
+
+       This Power of Attorney shall remain in full force and effect until the
+undersigned is no longer required to file Forms 3, 4, and 5 with respect to
+the
+undersigneds holdings of and transactions in securities issued by the Company,
+unless earlier revoked by the undersigned in a signed writing delivered to the
+foregoing attorneys-in-fact or superseded by a new power of attorney regarding
+the purposes outlined herein at a later date.
+
+       IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney
+to be executed as of this 1st     day of January 2023.
+
+___/s/Zahir Ibrahim    ________________          Zahir Ibrahim
+Signature                        Print Name
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

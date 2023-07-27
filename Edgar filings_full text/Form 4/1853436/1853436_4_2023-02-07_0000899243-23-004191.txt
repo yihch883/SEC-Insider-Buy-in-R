@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0000899243-23-004191.txt : 20230207
+<SEC-HEADER>0000899243-23-004191.hdr.sgml : 20230207
+<ACCEPTANCE-DATETIME>20230207162559
+ACCESSION NUMBER:		0000899243-23-004191
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230206
+FILED AS OF DATE:		20230207
+DATE AS OF CHANGE:		20230207
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Klossner Scott Edward
+		CENTRAL INDEX KEY:			0001852673
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41017
+		FILM NUMBER:		23595414
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MERCATO PARTNERS ACQUISITION CORP
+		STREET 2:		2750 E. COTTONWOOD PARKWAY, SUITE #500
+		CITY:			COTTONWOOD HEIGHTS
+		STATE:			UT
+		ZIP:			84121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Mercato Partners Acquisition Corp
+		CENTRAL INDEX KEY:			0001853436
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				862230021
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2750 E. COTTONWOOD PARKWAY
+		STREET 2:		SUITE #500
+		CITY:			COTTONWOOD HEIGHTS
+		STATE:			UT
+		ZIP:			84121
+		BUSINESS PHONE:		(801) 220-0055
+
+	MAIL ADDRESS:	
+		STREET 1:		2750 E. COTTONWOOD PARKWAY
+		STREET 2:		SUITE #500
+		CITY:			COTTONWOOD HEIGHTS
+		STATE:			UT
+		ZIP:			84121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-06</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001853436</issuerCik>
+        <issuerName>Mercato Partners Acquisition Corp</issuerName>
+        <issuerTradingSymbol>MPRA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001852673</rptOwnerCik>
+            <rptOwnerName>Klossner Scott Edward</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O 2750 E. COTTONWOOD PKWY, STE 500</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>COTTONWOOD HEIGHTS</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84121</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-06</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>35000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>35000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>70000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Class B common stock will automatically convert into shares of Class A common stock at the completion of the Issuer's initial business combination on a one-for-one basis, subject to adjustment.</footnote>
+        <footnote id="F2">Reflects the disposition of securities from Mercato Partners Acquisition Group, LLC (&quot;Sponsor&quot;) to Scott E. Klossner, pursuant to the terms of a securities assignment agreement between Mr. Klossner and Sponsor.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Scott E. Klossner</signatureName>
+        <signatureDate>2023-02-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

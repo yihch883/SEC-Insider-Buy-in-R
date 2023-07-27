@@ -1,0 +1,144 @@
+<SEC-DOCUMENT>0001437749-23-001386.txt : 20230119
+<SEC-HEADER>0001437749-23-001386.hdr.sgml : 20230119
+<ACCEPTANCE-DATETIME>20230119210321
+ACCESSION NUMBER:		0001437749-23-001386
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230118
+FILED AS OF DATE:		20230119
+DATE AS OF CHANGE:		20230119
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CHMELIK THOMAS J
+		CENTRAL INDEX KEY:			0001774482
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38817
+		FILM NUMBER:		23538745
+
+	MAIL ADDRESS:	
+		STREET 1:		10089 FAIRFAX BOULEVARD
+		CITY:			FAIRFAX
+		STATE:			VA
+		ZIP:			22030
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MainStreet Bancshares, Inc.
+		CENTRAL INDEX KEY:			0001693577
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				812871064
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10089 FAIRFAX BOULEVARD
+		CITY:			FAIRFAX
+		STATE:			VA
+		ZIP:			22030
+		BUSINESS PHONE:		(703) 481-4567
+
+	MAIL ADDRESS:	
+		STREET 1:		10089 FAIRFAX BOULEVARD
+		CITY:			FAIRFAX
+		STATE:			VA
+		ZIP:			22030
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-18</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001693577</issuerCik>
+        <issuerName>MainStreet Bancshares, Inc.</issuerName>
+        <issuerTradingSymbol>MNSB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001774482</rptOwnerCik>
+            <rptOwnerName>CHMELIK THOMAS J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>10089 FAIRFAX BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>FAIRFAX</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22030</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8900</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>26.63</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>98931</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes unvested stock awards of 8,900 shares under Issuer's 2019 Equity Incentive Plan which will vest over a 3-year period</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas J. Chmelik</signatureName>
+        <signatureDate>2023-01-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0001415889-23-004819.txt : 20230313
+<SEC-HEADER>0001415889-23-004819.hdr.sgml : 20230313
+<ACCEPTANCE-DATETIME>20230313201450
+ACCESSION NUMBER:		0001415889-23-004819
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230309
+FILED AS OF DATE:		20230313
+DATE AS OF CHANGE:		20230313
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Thompson Kevin L
+		CENTRAL INDEX KEY:			0001689815
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36408
+		FILM NUMBER:		23728849
+
+	MAIL ADDRESS:	
+		STREET 1:		18101 VON KARMAN AVENUE
+		STREET 2:		STE. 750
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92612
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PACWEST BANCORP
+		CENTRAL INDEX KEY:			0001102112
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				330885320
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		130 S. STATE COLLEGE BLVD.
+		CITY:			BREA
+		STATE:			CA
+		ZIP:			92821
+		BUSINESS PHONE:		(310) 887-8500
+
+	MAIL ADDRESS:	
+		STREET 1:		130 S. STATE COLLEGE BLVD.
+		CITY:			BREA
+		STATE:			CA
+		ZIP:			92821
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST COMMUNITY BANCORP /CA/
+		DATE OF NAME CHANGE:	19991229
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4-03142023_120344.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001102112</issuerCik>
+        <issuerName>PACWEST BANCORP</issuerName>
+        <issuerTradingSymbol>PACW</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001689815</rptOwnerCik>
+            <rptOwnerName>Thompson Kevin L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>9701 WILSHIRE BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 700</rptOwnerStreet2>
+            <rptOwnerCity>BEVERLY HILLS</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90212</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>EVP, CHIEF FINANCIAL OFFICER</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30896</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Sold Put Option (obligation to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>22.50</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>125</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.23</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-03-09</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2023-03-17</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>125</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On March 9, 2023, the Reporting Person wrote put option contracts pursuant to which the Reporting Person will be required to purchase shares of the Issuer's Common Stock at the stated strike price if the counterparty exercises the put option on or before March 17, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Angela M.W. Kelley, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-03-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

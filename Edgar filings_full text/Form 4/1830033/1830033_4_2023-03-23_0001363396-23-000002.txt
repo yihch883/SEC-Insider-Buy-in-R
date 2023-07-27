@@ -1,0 +1,214 @@
+<SEC-DOCUMENT>0001363396-23-000002.txt : 20230323
+<SEC-HEADER>0001363396-23-000002.hdr.sgml : 20230323
+<ACCEPTANCE-DATETIME>20230323165602
+ACCESSION NUMBER:		0001363396-23-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230322
+FILED AS OF DATE:		20230323
+DATE AS OF CHANGE:		20230323
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Somma Lawrence C
+		CENTRAL INDEX KEY:			0001363396
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40234
+		FILM NUMBER:		23756910
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O LYONDELLBASELL INDUSTRIES N.V.
+		STREET 2:		DELFTSEPLEIN 27E
+		CITY:			ROTTERDAM
+		STATE:			P7
+		ZIP:			3013AA
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PureCycle Technologies, Inc.
+		CENTRAL INDEX KEY:			0001830033
+		STANDARD INDUSTRIAL CLASSIFICATION:	PLASTICS, MATERIALS, SYNTH RESINS & NONVULCAN ELASTOMERS [2821]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5950 HAZELTINE NATIONAL DRIVE, SUITE 300
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32822
+		BUSINESS PHONE:		877-648-3565
+
+	MAIL ADDRESS:	
+		STREET 1:		5950 HAZELTINE NATIONAL DRIVE, SUITE 300
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32822
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Roth CH Acquisition I Co. Parent Corp.
+		DATE OF NAME CHANGE:	20201026
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_167960495177724.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-22</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001830033</issuerCik>
+        <issuerName>PureCycle Technologies, Inc.</issuerName>
+        <issuerTradingSymbol>PCT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001363396</rptOwnerCik>
+            <rptOwnerName>Somma Lawrence C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PURECYCLE TECHNOLOGIES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>5950 HAZELTINE NATIONAL DRIVE, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>ORLANDO</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>32822</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>107456</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>407861</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>5.72</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>69130</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-03-22</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-03-22</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>69130.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>69130</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The restricted stock units were granted as part of the Company's 2021 long-term incentive plan grant cycle and are subject to vesting over four years with one quarter, rounded down to the nearest whole share of stock, vesting in each of the four periods.</footnote>
+        <footnote id="F2">Exercise of the nonqualified award is subject to vesting three years following the date of grant.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Brad S. Kalter as attorney-in-fact for Lawrence C. Somma</signatureName>
+        <signatureDate>2023-03-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

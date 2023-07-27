@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0001225208-23-004220.txt : 20230324
+<SEC-HEADER>0001225208-23-004220.hdr.sgml : 20230324
+<ACCEPTANCE-DATETIME>20230324161711
+ACCESSION NUMBER:		0001225208-23-004220
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230323
+FILED AS OF DATE:		20230324
+DATE AS OF CHANGE:		20230324
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Butcher Arthur C
+		CENTRAL INDEX KEY:			0001678249
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11083
+		FILM NUMBER:		23760064
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BOSTON SCIENTIFIC CORPORATION
+		STREET 2:		300 BOSTON SCIENTIFIC WAY
+		CITY:			MARLBOROUGH
+		STATE:			MA
+		ZIP:			01752
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BOSTON SCIENTIFIC CORP
+		CENTRAL INDEX KEY:			0000885725
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				042695240
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 BOSTON SCIENTIFIC WAY
+		CITY:			MARLBOROUGH
+		STATE:			MA
+		ZIP:			01752-1234
+		BUSINESS PHONE:		508-683-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		300 BOSTON SCIENTIFIC WAY
+		CITY:			MARLBOROUGH
+		STATE:			MA
+		ZIP:			01752-1234
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-23</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000885725</issuerCik>
+        <issuerName>BOSTON SCIENTIFIC CORP</issuerName>
+        <issuerTradingSymbol>BSX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001678249</rptOwnerCik>
+            <rptOwnerName>Butcher Arthur C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>300 BOSTON SCIENTIFIC WAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MARLBOROUGH</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01752-1234</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP&amp; Grp Pres, MedSurg &amp; APAC</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6703.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>47.9700</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22981.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2545.0000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The transaction reported in this Form 4 was effected pursuant to a pre-established Rule 10b5-1 trading plan.</footnote>
+        <footnote id="F2">Balance reflects the most current data available with regard to share holdings in the Company's 401(k) Retirement Savings Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mary Wiseman, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-03-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

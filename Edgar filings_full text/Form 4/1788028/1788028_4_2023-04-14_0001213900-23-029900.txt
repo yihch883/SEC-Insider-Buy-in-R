@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001213900-23-029900.txt : 20230414
+<SEC-HEADER>0001213900-23-029900.hdr.sgml : 20230414
+<ACCEPTANCE-DATETIME>20230414161906
+ACCESSION NUMBER:		0001213900-23-029900
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230413
+FILED AS OF DATE:		20230414
+DATE AS OF CHANGE:		20230414
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			EMSTER KURT VON
+		CENTRAL INDEX KEY:			0001252524
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39138
+		FILM NUMBER:		23821412
+
+	MAIL ADDRESS:	
+		STREET 1:		601 GATEWAY BOULEVARD
+		STREET 2:		SUITE 350
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Jasper Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001788028
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				842984849
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 BRIDGE PKWY SUITE #102
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+		BUSINESS PHONE:		6505491400
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 BRIDGE PKWY SUITE #102
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Amplitude Healthcare Acquisition Corp
+		DATE OF NAME CHANGE:	20190912
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-13</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001788028</issuerCik>
+        <issuerName>Jasper Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>JSPR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001252524</rptOwnerCik>
+            <rptOwnerName>EMSTER KURT VON</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O JASPER THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2200 BRIDGE PKWY, SUITE #102</rptOwnerStreet2>
+            <rptOwnerCity>REDWOOD CITY</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94065</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Voting Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-13</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9075</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.4903</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>21175</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares were sold by the Reporting Person solely in order to satisfy certain tax obligations in connection with the issuance of shares of the Issuer's common stock upon the vesting of restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeet Mahal, as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

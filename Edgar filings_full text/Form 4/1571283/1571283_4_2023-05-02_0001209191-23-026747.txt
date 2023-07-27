@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001209191-23-026747.txt : 20230502
+<SEC-HEADER>0001209191-23-026747.hdr.sgml : 20230502
+<ACCEPTANCE-DATETIME>20230502190836
+ACCESSION NUMBER:		0001209191-23-026747
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230428
+FILED AS OF DATE:		20230502
+DATE AS OF CHANGE:		20230502
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Schwimmer Howard
+		CENTRAL INDEX KEY:			0001581296
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36008
+		FILM NUMBER:		23881117
+
+	MAIL ADDRESS:	
+		STREET 1:		11620 WILSHIRE BOULEVARD, SUITE 300
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rexford Industrial Realty, Inc.
+		CENTRAL INDEX KEY:			0001571283
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				462024407
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11620 WILSHIRE BOULEVARD, SUITE 1000
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		310-966-1680
+
+	MAIL ADDRESS:	
+		STREET 1:		11620 WILSHIRE BOULEVARD, SUITE 1000
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rexford Industrial, Inc.
+		DATE OF NAME CHANGE:	20130305
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001571283</issuerCik>
+        <issuerName>Rexford Industrial Realty, Inc.</issuerName>
+        <issuerTradingSymbol>REXR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001581296</rptOwnerCik>
+            <rptOwnerName>Schwimmer Howard</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>11620 WILSHIRE BOULEVARD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1000</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Co-CEO, Co-President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.01</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>35505</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>55.9384</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50862</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, par value $0.01</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13575</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was executed in multiple trades at prices ranging from $55.90 to $55.98. The price reported above reflects the weighted average sale price. Full information regarding the number of shares sold at each price shall be provided upon request to the Staff of the U.S. Securities and Exchange Commission, the Issuer, or a security holder of the Issuer.</footnote>
+        <footnote id="F2">The Reporting Person also owns the following derivative securities: (i) 162,139 common units of limited partnership interest in the Issuer's operating partnership subsidiary, Rexford Industrial Realty, L.P. (the &quot;Operating Partnership&quot;), of which 7,275 common units are held by the Schwimmer Living Trust dated December 14, 2001 (the &quot;Living Trust&quot;) of which the Reporting Person is a trustee, and of which 42,002 common units are held by the Schwimmer Family Irrevocable Trust (the &quot;Family Trust&quot;) of which the Reporting Person is a trustee, (ii) 510,171 LTIP Units, a class of limited partnership units in the Operating Partnership, and (iii) 437,219 Performance Units, a class of limited partnership units in the Operating Partnership. The Reporting Person disclaims beneficial ownership of the common units held by the Living Trust and the Family Trust, except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F3">Represents shares of common stock held by the Family Trust, for which the Reporting Person is a trustee. The Reporting Person disclaims beneficial ownership of such common stock, except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Howard Schwimmer</signatureName>
+        <signatureDate>2023-05-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,367 @@
+<SEC-DOCUMENT>0001493152-23-006621.txt : 20230302
+<SEC-HEADER>0001493152-23-006621.hdr.sgml : 20230302
+<ACCEPTANCE-DATETIME>20230302215515
+ACCESSION NUMBER:		0001493152-23-006621
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230228
+FILED AS OF DATE:		20230302
+DATE AS OF CHANGE:		20230302
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PETERSON MICHAEL L
+		CENTRAL INDEX KEY:			0001293970
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40793
+		FILM NUMBER:		23701540
+
+	MAIL ADDRESS:	
+		STREET 1:		17 CANARY COURT
+		CITY:			DANVILLE
+		STATE:			CA
+		ZIP:			94526
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ocean Biomedical, Inc.
+		CENTRAL INDEX KEY:			0001869974
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				871309280
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		515 MADISON AVE SUITE 8078
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(646) 908-2658
+
+	MAIL ADDRESS:	
+		STREET 1:		515 MADISON AVE SUITE 8078
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ocean Biomedical, Inc./DE
+		DATE OF NAME CHANGE:	20230214
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Aesther Healthcare Acquisition Corp.
+		DATE OF NAME CHANGE:	20210628
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001869974</issuerCik>
+        <issuerName>Ocean Biomedical, Inc.</issuerName>
+        <issuerTradingSymbol>OCEA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001293970</rptOwnerCik>
+            <rptOwnerName>PETERSON MICHAEL L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>515 MADISON AVENUE, SUITE 8078</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10022</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.0001</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F4"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>80000</value>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>80000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Private Placement Warrant</value>
+                <footnoteId id="F5"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.50</value>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-28</value>
+                <footnoteId id="F7"/>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F7"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F7"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-03-14</value>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-14</value>
+                <footnoteId id="F8"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>200000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>200000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">In connection with the closing on February 14, 2023 (the &quot;Closing&quot;) of the business combination (the &quot;Business Combination&quot;) between Aesther Healthcare Acquisition Corp. (&quot;AHAC&quot;) and Ocean Biomedical Holdings, Inc., formerly known as Ocean Biomedical, Inc. (&quot;Legacy Ocean&quot;), pursuant to that certain Agreement and Plan of Merger, dated August 31, 2022 and amended on December 5, 2022, between AHAC, Aesther Healthcare Sponsor, LLC (the &quot;Sponsor&quot;), AHAC Merger Sub, Inc. (&quot;Merger Sub&quot;), Legacy Ocean, and Dr. Chirinjeev Kathuria, AHAC changed its name to Ocean Biomedical, Inc. (such post-Business Combination entity, the &quot;Issuer&quot;).</footnote>
+        <footnote id="F2">Pursuant to the Issuer's Third Amended and Restated Certificate of Incorporation filed in connection with the Closing of the Business Combination, the Issuer completed a reclassification exempt under Rule 16b-7 (the &quot;Reclassification&quot;). In accordance with the Reclassification, each share of the Issuer's Class A Common Stock, par value $0.0001 per share (the &quot;Class A Common Stock&quot;), was reclassified on a one-for-one basis into a share of the Issuer's common stock, par value $0.0001 (the &quot;Common Stock&quot;).</footnote>
+        <footnote id="F3">These shares were originally among the 2,625,000 shares of AHAC's Class B Common Stock, par value $0.0001 per share (the &quot;Class B Founder Shares&quot;), that the Sponsor owned prior to the Business Combination. In connection with the Closing of the Business Combination, the Class B Founder Shares automatically converted into shares of the Issuer's Class A Common Stock on a one-for-one basis, and the Class A Common Stock was then reclassified on a one-for-one basis into Common Stock in accordance with the Reclassification.</footnote>
+        <footnote id="F4">In accordance with an instruction letter to the Sponsor's transfer agent (the &quot;Instruction Letter&quot;), the Sponsor instructed the transfer agent to transfer 2,625,000 shares of Common Stock to certain of the Sponsor's members for no consideration (such transaction, the &quot;Transfer&quot;). As part of the Transfer, the Reporting Person acquired 80,000 shares of Common Stock from the Sponsor.</footnote>
+        <footnote id="F5">Simultaneously with the closing of the AHAC's initial public offering on September 17, 2021, the Sponsor purchased 5,411,000 warrants (the &quot;Private Placement Warrants&quot;) from AHAC in a private placement at a price of $1.00 per warrant, pursuant to the terms of the Private Placement Warrants Purchase Agreement between AHAC and the Sponsor dated September 14, 2021 (the &quot;Private Placement Agreement&quot;). Upon the Reclassification that was effected in connection with the Closing of the Business Combination, each share of Class A Common Stock underlying the Private Placement Warrants was reclassified into a share of the Issuer's Common Stock.</footnote>
+        <footnote id="F6">According to the original terms of the Private Placement Agreement, each Private Placement Warrant was exercisable to purchase one share of the Issuer's Class A Common Stock at an exercise price of $11.50 per share. The terms of the Private Placement Warrant were set forth in the Warrant Agreement, dated September 14, 2021, between AHAC and Continental Stock Transfer &amp; Trust Company, LLC (the &quot;Warrant Agreement&quot;). The Private Placement Warrants become exercisable 30 days after the Closing of the Business Combination.</footnote>
+        <footnote id="F7">On February 28, 2023, in accordance with the Instruction Letter, the Sponsor instructed its transfer agent to distribute these Private Placement Warrants to the Reporting Person.</footnote>
+        <footnote id="F8">The Private Placement Warrants expire on the earlier to occur of (i) February 14, 2028, the date that is five years after the Closing of the Business Combination, (ii) at 5:00 p.m., New York City time on the Redemption Date (as defined in the Warrant Agreement), and (iii) the liquidation of the Trust Account (as defined in the Warrant Agreement).</footnote>
+    </footnotes>
+
+    <remarks>Exhibit List - Exhibit 24.1: Power of Attorney (Michael L. Peterson)</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Katherine E. Spiser, as attorney-in-fact for Michael L. Peterson</signatureName>
+        <signatureDate>2023-03-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>ex24-1.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Exhibit
+24.1</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>POWER
+OF ATTORNEY</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Know
+all by these presents, that the undersigned hereby constitutes and appoints each of Kate L. Bechen, Thomas S. Vaughn, Joseph R. DeHondt,
+Timothy B. Caprez, Robin K. Lehninger, Julie A. D&rsquo;Angelo, Katherine E. Spiser, or Hallie D. Heath, or any of them acting singly
+and with full power of substitution, as the undersigned&rsquo;s true and lawful attorney-in-fact to:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify; text-indent: -0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(1)</FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">prepare
+                                            and execute for and on behalf of the undersigned Forms 3, 4, and 5 and Schedules 13D and
+                                            13G in accordance with Sections 13 and 16(a) of the Securities Exchange Act of 1934, as amended
+                                            (the &ldquo;Exchange Act&rdquo;), and the rules promulgated thereunder, as applicable, and
+                                            any other forms or reports the undersigned may be required to file in connection with the
+                                            undersigned&rsquo;s ownership, acquisition, or disposition of securities of Ocean Biomedical,
+                                            Inc. (the &ldquo;Company&rdquo;);</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify; text-indent: -0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(2)</FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">do
+                                            and perform any and all acts for and on behalf of the undersigned that may be necessary or
+                                            desirable to complete and execute any such Form 3, 4, or 5, Schedule 13D or 13G, or other
+                                            form or report, and to timely file such form or report with the United States Securities
+                                            and Exchange Commission and any stock exchange or similar authority; and</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify; text-indent: -0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(3)</FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">take
+                                            any other action of any type whatsoever in connection with the foregoing, which, in the opinion
+                                            of such attorney-in-fact, may be of benefit to, in the best interest of, or legally required
+                                            by the undersigned, it being understood that the documents executed by such attorney-in-fact
+                                            on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and
+                                            shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact&rsquo;s
+                                            discretion.</FONT></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever
+requisite, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and
+purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying
+and confirming all that such attorney-in-fact, or such attorney-in-fact&rsquo;s substitute or substitutes, shall lawfully do or cause
+to be done by virtue of this power of attorney and the rights and powers herein granted. The undersigned acknowledges that the foregoing
+attorney-in-fact, in serving in such capacity at the request of the undersigned, is not assuming, nor is the Company assuming, any of
+the undersigned&rsquo;s responsibilities to comply with Section 13 or Section 16 of the Exchange Act.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">This
+Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4, or 5 or Schedules
+13D or 13G with respect to the undersigned&rsquo;s holdings of and transactions in securities issued by the Company, unless earlier revoked
+by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><I>IN
+WITNESS WHEREOF</I>, the undersigned has caused this Power of Attorney to be executed as of January 30, 2023.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 3.5in; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="padding-bottom: 1.5pt; font: 10pt Times New Roman, Times, Serif; width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><I>/s/
+    Michael L. Peterson</I></FONT></TD>
+    </TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Michael
+    L. Peterson</FONT></TD>
+    </TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">[<I>Signature
+Page to Power of Attorney</I>]</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

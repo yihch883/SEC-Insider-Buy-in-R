@@ -1,0 +1,274 @@
+<SEC-DOCUMENT>0000899243-23-009520.txt : 20230323
+<SEC-HEADER>0000899243-23-009520.hdr.sgml : 20230323
+<ACCEPTANCE-DATETIME>20230323161523
+ACCESSION NUMBER:		0000899243-23-009520
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230321
+FILED AS OF DATE:		20230323
+DATE AS OF CHANGE:		20230323
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sternberg Ophir
+		CENTRAL INDEX KEY:			0001793414
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38417
+		FILM NUMBER:		23756384
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O OPES ACQUISITION CORP.
+		STREET 2:		JAVIER BARROS SIERRA 540, OF. 103
+		CITY:			MEXICO CITY
+		STATE:			O5
+		ZIP:			01210
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BurgerFi International, Inc.
+		CENTRAL INDEX KEY:			0001723580
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				822418815
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0102
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST CYPRESS CREEK ROAD
+		STREET 2:		SUITE 220
+		CITY:			FORT LAUDERDALE
+		STATE:			FL
+		ZIP:			33309
+		BUSINESS PHONE:		(954) 618-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST CYPRESS CREEK ROAD
+		STREET 2:		SUITE 220
+		CITY:			FORT LAUDERDALE
+		STATE:			FL
+		ZIP:			33309
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Opes Acquisition Corp.
+		DATE OF NAME CHANGE:	20171122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001723580</issuerCik>
+        <issuerName>BurgerFi International, Inc.</issuerName>
+        <issuerTradingSymbol>BFI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001793414</rptOwnerCik>
+            <rptOwnerName>Sternberg Ophir</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>4218 NE 2ND AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MIAMI</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33137</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Chairman</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-21</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>140000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1505956</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>720725</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Lionheart Equities, LLC</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock underlying Units</value>
+                <footnoteId id="F6"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>150000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Lionheart Equities, LLC</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-03-21</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>140000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>140000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>520000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares are part of a grant of 700,000 restricted stock units made, for financial reporting purposes, on December 16, 2020, under the issuer's 2020 Omnibus Equity Incentive Plan (the &quot;Plan&quot;). The legal grant date of the restricted stock units was July 13, 2021, the date that applicable grant award agreements were executed by the issuer and the Reporting Person; provided, however, that 73% (511,000 shares) of the total restricted stock units were not issued (deemed or otherwise) under the Plan until the aggregate number of shares reserved for awards under the Plan was increased on January 1, 2022 consistent with Section 5.1 of the Plan. The restricted stock units shall vest and be settled in shares of common stock as follows: (i) 20%, or 140,000 of the 700,000 restricted stock units if the issuer's revenue (the &quot;Company Revenue&quot;) for fiscal year 2021,</footnote>
+        <footnote id="F2">(Continued from footnote 1) as calculated and presented in the issuer's audited financial statements included in the Form 10-K report for the relevant year, was 10% or greater than $34,382,000 (&quot;Base Year Revenue&quot;); (ii) 20%, or 140,000 of the 700,000 restricted stock units, shall vest if the Company Revenue for fiscal year 2022 was 20% or greater than the Base Year Revenue; (iii) 20%, or 140,000 of the 700,000 restricted stock units, shall vest if the Company Revenue for fiscal year 2023 is 30% or greater than the Base Year Revenue, (iv) 20%, or 140,000 of the 700,000 restricted stock units,</footnote>
+        <footnote id="F3">(Continued from footnote 2) shall vest if the Company Revenue for fiscal year 2024 is 40% or greater than the Base Year Revenue and (v) 20%, or 140,000 of the 700,000 restricted stock units, shall vest if the Company Revenue for fiscal year 2025 is 50% or greater than the Base Year Revenue, subject to earlier vesting due to a change of control or certain termination or resignation events. On March 21, 2023, 140,000 of the restricted stock units vested based on achievement of Company Revenue for fiscal year 2022 that was 20% or greater than the Base Year Revenue.</footnote>
+        <footnote id="F4">Each restricted stock unit represents a contingent right to receive one share of BurgerFi International, Inc. common stock.</footnote>
+        <footnote id="F5">The Reporting Person, as manager and sole member of Lionheart Equities, LLC, has sole voting and dispositive control over the holdings.</footnote>
+        <footnote id="F6">Each Unit consists of one share of common stock and one warrant exercisable to purchase one share of common stock at an exercise price of $11.50 per share.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Stefan Schnopp, Attorney in Fact for Ophir Sternberg</signatureName>
+        <signatureDate>2023-03-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

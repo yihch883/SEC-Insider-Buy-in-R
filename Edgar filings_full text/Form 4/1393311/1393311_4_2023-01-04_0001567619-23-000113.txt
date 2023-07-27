@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001567619-23-000113.txt : 20230104
+<SEC-HEADER>0001567619-23-000113.hdr.sgml : 20230104
+<ACCEPTANCE-DATETIME>20230104133801
+ACCESSION NUMBER:		0001567619-23-000113
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230104
+DATE AS OF CHANGE:		20230104
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SPOGLI RONALD P
+		CENTRAL INDEX KEY:			0000916867
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33519
+		FILM NUMBER:		23505373
+
+	MAIL ADDRESS:	
+		STREET 1:		701 WESTERN AVENUE
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Public Storage
+		CENTRAL INDEX KEY:			0001393311
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				953551121
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		701 WESTERN AVENUE
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91201-2349
+		BUSINESS PHONE:		818-244-8080
+
+	MAIL ADDRESS:	
+		STREET 1:		701 WESTERN AVENUE
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91201-2349
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001393311</issuerCik>
+        <issuerName>Public Storage</issuerName>
+        <issuerTradingSymbol>PSA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000916867</rptOwnerCik>
+            <rptOwnerName>SPOGLI RONALD P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PUBLIC STORAGE</rptOwnerStreet1>
+            <rptOwnerStreet2>701 WESTERN AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>GLENDALE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>125</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>280.19</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6588</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Grant of fully-vested deferred stock units pursuant to the Company's Non-Management Trustee Compensation and Deferral Program under the Company's 2021 Equity and Performance-Based Incentive Compensation Plan. Each deferred stock unit represents the right to receive one share of the Company's common stock. The number of deferred stock units granted represents the quotient of the dollar amount of the portion of the cash retainers the reporting person has earned for the applicable calendar quarter and elected to be paid in deferred stock units, divided by the Company's closing stock price on the grant date, rounded up to the nearest deferred stock unit. The deferred stock units will be settled in shares of unrestricted common stock (i) in a lump sum on January 1st of the calendar year following the reporting person's separation from service as a trustee or (ii) in a lump sum upon the reporting person's earlier death or disability or upon an earlier change of control of the Company.</footnote>
+        <footnote id="F2">Includes 1,588 deferred stock units.</footnote>
+        <footnote id="F3">By Ronald P. Spogli as trustee.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nathaniel A. Vitan, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-01-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

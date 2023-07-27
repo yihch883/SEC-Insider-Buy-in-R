@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001398344-23-001919.txt : 20230202
+<SEC-HEADER>0001398344-23-001919.hdr.sgml : 20230202
+<ACCEPTANCE-DATETIME>20230202171138
+ACCESSION NUMBER:		0001398344-23-001919
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20211029
+FILED AS OF DATE:		20230202
+DATE AS OF CHANGE:		20230202
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Henry Donald R
+		CENTRAL INDEX KEY:			0001463482
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-22888
+		FILM NUMBER:		23582148
+
+	MAIL ADDRESS:	
+		STREET 1:		818 A1A HIGHWAY
+		STREET 2:		SUITE 301
+		CITY:			PONTE VEDRA BEACH
+		STATE:			FL
+		ZIP:			32082
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Wildermuth Fund
+		CENTRAL INDEX KEY:			0001586009
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		818 A1A HWY N
+		STREET 2:		SUITE 301
+		CITY:			PONTE VEDRA BEACH
+		STATE:			FL
+		ZIP:			32082
+		BUSINESS PHONE:		(678) 222-1100
+
+	MAIL ADDRESS:	
+		STREET 1:		818 A1A HWY N
+		STREET 2:		SUITE 301
+		CITY:			PONTE VEDRA BEACH
+		STATE:			FL
+		ZIP:			32082
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Wildermuth Endowment Fund
+		DATE OF NAME CHANGE:	20180905
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Wildermuth Endowment Strategy Fund
+		DATE OF NAME CHANGE:	20130905
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>fp0082066-1_4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-10-29</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001586009</issuerCik>
+        <issuerName>Wildermuth Fund</issuerName>
+        <issuerTradingSymbol>WESFX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001463482</rptOwnerCik>
+            <rptOwnerName>Henry Donald R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>818 A1A HIGHWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 301</rptOwnerStreet2>
+            <rptOwnerCity>PONTE VEDRA BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>32082</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Wildermuth Endowment Fund Cl I</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>L</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value>E</value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>412.541</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>12.12</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1323.916</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Donald R Henry</signatureName>
+        <signatureDate>2023-02-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

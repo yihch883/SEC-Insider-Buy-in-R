@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0001628280-23-021320.txt : 20230607
+<SEC-HEADER>0001628280-23-021320.hdr.sgml : 20230607
+<ACCEPTANCE-DATETIME>20230607171027
+ACCESSION NUMBER:		0001628280-23-021320
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230606
+FILED AS OF DATE:		20230607
+DATE AS OF CHANGE:		20230607
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kingsley Lawrence D
+		CENTRAL INDEX KEY:			0001301427
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39352
+		FILM NUMBER:		23999797
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O IDEX CORPORATION
+		STREET 2:		630 DUNDEE ROAD
+		CITY:			NORTHBROOK
+		STATE:			IL
+		ZIP:			60062
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Mirion Technologies, Inc.
+		CENTRAL INDEX KEY:			0001809987
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		IRS NUMBER:				830974996
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1218 MENLO DRIVE
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30318
+		BUSINESS PHONE:		(770) 432-2744
+
+	MAIL ADDRESS:	
+		STREET 1:		1218 MENLO DRIVE
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30318
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GS Acquisition Holdings Corp II
+		DATE OF NAME CHANGE:	20200417
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1686172217.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-06</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001809987</issuerCik>
+        <issuerName>Mirion Technologies, Inc.</issuerName>
+        <issuerTradingSymbol>MIR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001301427</rptOwnerCik>
+            <rptOwnerName>Kingsley Lawrence D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1218 MENLO DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30318</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-06</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11850</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31941</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>150000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Lawrence D. Kingsley 2015 Family Irrevocable Trust</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>350000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Diane Kingsley Revocable Trust</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units that will vest in four equal quarterly installments on September 15, 2023, December 15, 2023, March 15, 2024, and June 15, 2024, subject to the non-employee director's continued service on the Board through each such vesting date.</footnote>
+        <footnote id="F2">Reflects shares of Class A Common Stock of the Issuer (&quot;Common Stock&quot;) held by the Lawrence D. Kingsley 2015 Family Irrevocable Trust. Members of the Reporting Person's immediate family are beneficial holders of the Lawrence D. Kingsley 2015 Family Irrevocable Trust, and the Reporting Person may be deemed to exercise voting and investment power over such shares of Common Stock. The Reporting Person disclaims beneficial ownership of these shares except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F3">Reflects shares of Common Stock held by the Diane Kingsley Revocable Trust. Members of the Reporting Person's immediate family are beneficial holders of the Diane Kingsley Revocable Trust, and the Reporting Person may be deemed to exercise voting and investment power over such shares of Common Stock. The Reporting Person disclaims beneficial ownership of these shares except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Emmanuelle Lee, attorney-in-fact for Lawrence Kingsley</signatureName>
+        <signatureDate>2023-06-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

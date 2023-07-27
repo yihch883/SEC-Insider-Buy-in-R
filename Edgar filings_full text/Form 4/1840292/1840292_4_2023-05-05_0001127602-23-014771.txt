@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001127602-23-014771.txt : 20230505
+<SEC-HEADER>0001127602-23-014771.hdr.sgml : 20230505
+<ACCEPTANCE-DATETIME>20230505180604
+ACCESSION NUMBER:		0001127602-23-014771
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230503
+FILED AS OF DATE:		20230505
+DATE AS OF CHANGE:		20230505
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lambert Andrew Alan
+		CENTRAL INDEX KEY:			0001941943
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40209
+		FILM NUMBER:		23895311
+
+	MAIL ADDRESS:	
+		STREET 1:		130 WEST UNION STREET
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Heliogen, Inc.
+		CENTRAL INDEX KEY:			0001840292
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				854204953
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		130 W UNION ST.
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91103
+		BUSINESS PHONE:		9709240446
+
+	MAIL ADDRESS:	
+		STREET 1:		130 W UNION ST.
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Athena Technology Acquisition Corp.
+		DATE OF NAME CHANGE:	20210112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001840292</issuerCik>
+        <issuerName>Heliogen, Inc.</issuerName>
+        <issuerTradingSymbol>HLGN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001941943</rptOwnerCik>
+            <rptOwnerName>Lambert Andrew Alan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O HELIOGEN, INC. 130 WEST UNION ST</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PASADENA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chf. Mfg. &amp; Sply. Chain Ofc.</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>200000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>970866</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>96</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>As custodian for UTMA account</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares are represented by restricted stock units (&quot;RSUs&quot;) granted on May 3, 2023 under Issuer's 2021 Equity Incentive Plan. Each RSU represents a contingent right to receive one share of the Common Stock of the Issuer. The shares of Common Stock underlying the RSUs will vest over a period of four years.  6.25% of the shares of Common Stock underlying the RSUs vest on June 15, 2023 and on each March 15, June 15, September 15 and December 15 thereafter, subject to the Reporting Person's continuous service.</footnote>
+        <footnote id="F2">The shares are held in a custodial account established for an immediate family member of the Reporting Person pursuant to the Uniform Transfers to Minors Act for which the Reporting Person serves as a custodian. The Reporting Person disclaims beneficial ownership of these shares, and this report shall not be deemed an admission that the Reporting Person is the beneficial owner of these shares for purposes of Section 16 or for any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Deborah Chen, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-05-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

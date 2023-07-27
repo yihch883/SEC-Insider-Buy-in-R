@@ -1,0 +1,286 @@
+<SEC-DOCUMENT>0001213900-23-011739.txt : 20230214
+<SEC-HEADER>0001213900-23-011739.hdr.sgml : 20230214
+<ACCEPTANCE-DATETIME>20230214201816
+ACCESSION NUMBER:		0001213900-23-011739
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230210
+FILED AS OF DATE:		20230214
+DATE AS OF CHANGE:		20230214
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Inflection Point Holdings LLC
+		CENTRAL INDEX KEY:			0001844453
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40823
+		FILM NUMBER:		23633160
+
+	BUSINESS ADDRESS:	
+		STREET 1:		34 EAST 51ST STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 319-1309
+
+	MAIL ADDRESS:	
+		STREET 1:		34 EAST 51ST STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Intuitive Machines, Inc.
+		CENTRAL INDEX KEY:			0001844452
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		34 EAST 51ST STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 319-1309
+
+	MAIL ADDRESS:	
+		STREET 1:		34 EAST 51ST STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Inflection Point Acquisition Corp.
+		DATE OF NAME CHANGE:	20210204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001844452</issuerCik>
+        <issuerName>Intuitive Machines, Inc.</issuerName>
+        <issuerTradingSymbol>LUNR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001844453</rptOwnerCik>
+            <rptOwnerName>Inflection Point Holdings LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>167 MADISON AVENUE, SUITE 205 #1033</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10016</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8243750</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8243750</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B ordinary shares, par value $0.0001 per share</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8243750</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A ordinary shares, par value $0.0001 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>8243750</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrants to purchase Class A Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.50</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-13</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F3"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6845000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-03-15</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-02-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock, par value $0.0001 per share</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6845000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6845000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">In connection with and immediately prior to the closing (the &quot;Closing&quot;) of the business combination (the &quot;Business Combination&quot;) between the Issuer (which was formerly known as Inflection Point Acquisition Corp. or &quot;Inflection Point&quot;) and Intuitive Machines, LLC, among other things, each of Inflection Point's Class B ordinary shares converted into one Class A ordinary share of Inflection Point as described under the heading &quot;Description of Securities&quot; in Inflection Point's Registration Statement on Form S-1 (File No.333-253963). Immediately after such conversion, each Class A ordinary share of Inflection Point converted into one share of the Issuer's Class A common stock (the &quot;Class A Common Stock&quot;) on a one-for-one basis.</footnote>
+        <footnote id="F2">Inflection Point Holdings LLC is the record holder of such securities. Kingstown Capital Management, L.P. (&quot;KCM&quot;) is the manager of Inflection Point Holdings LLC and shares voting and investment discretion with respect to the securities held by Inflection Point Holdings LLC. Kingstown Management GP LLC (&quot;KMGP&quot;) is the general partner of KCM and shares voting and investment discretion with respect to the securities held by Inflection Point Holdings LLC. Michael Blitzer and Guy Shanon are the Managing Members of KMGP and share voting and investment discretion with respect to the securities held by Inflection Point Holdings LLC. KCM, KMGP, Michael Blitzer and Guy Shanon have filed a separate Form 4 in connection with the transactions described herein.</footnote>
+        <footnote id="F3">The Warrants are reported as acquired for purposes of Section 16 of the Exchange Act concurrent with the Closing, because, pursuant to their terms, their exercise was not within the control of the Reporting Persons until the Closing. 6,845,000 Warrants were initially acquired in a private placement from the Issuer concurrent with the Issuer's initial public offering.</footnote>
+        <footnote id="F4">Each of KMGP, KCM, Michael Blitzer and Guy Shanon disclaims any beneficial ownership of the securities held by Inflection Point Holdings LLC other than to the extent of any pecuniary interest it or he, as applicable, may have therein, directly or indirectly.</footnote>
+    </footnotes>
+
+    <remarks>Inflection Point Holdings LLC may be deemed a director by deputization by virtue of its representation on the board of directors of the Issuer. Michael Blitzer is a member of the board of directors of the Issuer. Guy Shanon stepped down from the board of directors of the Issuer in connection with Closing.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Russell Deutsch, Attorney-in-Fact for Inflection Point Holdings LLC</signatureName>
+        <signatureDate>2023-02-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

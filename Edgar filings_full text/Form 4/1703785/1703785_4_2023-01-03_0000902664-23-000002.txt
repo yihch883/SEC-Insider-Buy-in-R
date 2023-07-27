@@ -1,0 +1,323 @@
+<SEC-DOCUMENT>0000902664-23-000002.txt : 20230103
+<SEC-HEADER>0000902664-23-000002.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103163026
+ACCESSION NUMBER:		0000902664-23-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221229
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kimmeridge Energy Management Company, LLC
+		CENTRAL INDEX KEY:			0001706220
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38158
+		FILM NUMBER:		23502527
+
+	BUSINESS ADDRESS:	
+		STREET 1:		412 WEST 15TH STREET
+		STREET 2:		11TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+		BUSINESS PHONE:		646-517-7252
+
+	MAIL ADDRESS:	
+		STREET 1:		412 WEST 15TH STREET
+		STREET 2:		11TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STR Sub Inc.
+		CENTRAL INDEX KEY:			0001703785
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				820820780
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1401 LAWRENCE STREET
+		STREET 2:		SUITE 1750
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		(720) 640-7620
+
+	MAIL ADDRESS:	
+		STREET 1:		1401 LAWRENCE STREET
+		STREET 2:		SUITE 1750
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Sitio Royalties Corp.
+		DATE OF NAME CHANGE:	20220603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Falcon Minerals Corp
+		DATE OF NAME CHANGE:	20180824
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Osprey Energy Acquisition Corp
+		DATE OF NAME CHANGE:	20170413
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-29</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001703785</issuerCik>
+        <issuerName>STR Sub Inc.</issuerName>
+        <issuerTradingSymbol>STR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001706220</rptOwnerCik>
+            <rptOwnerName>Kimmeridge Energy Management Company, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>412 WEST 15TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>11TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10011</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class C Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-29</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>36495520</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Sitio Royalties Operating Partnership, LP Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-12-29</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>36495520</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>36495520</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Allocation Rights</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F8"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-12-29</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>183394</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F8"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F8"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>183394</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On December 29, 2022, pursuant to the Agreement and Plan of Merger, dated September 6, 2022, (as amended from time to time, the &quot;Merger Agreement&quot;), by and among Sitio Royalties Corp (&quot;Sitio&quot;), Sitio Royalties Operating Partnership, LP (&quot;Opco LP&quot;), Snapper Merger Sub I, Inc. (&quot;New Sitio&quot;), Snapper Merger Sub IV, Inc. (&quot;Brigham Merger Sub&quot;), Snapper Merger Sub V, Inc. (&quot;Sitio Merger Sub&quot;), Snapper Merger Sub II, LLC (&quot;Opco Merger Sub&quot;), Brigham Minerals, Inc. (&quot;Brigham&quot;), and Brigham Minerals Holdings, LLC (&quot;Opco LLC&quot;), Sitio acquired Brigham in an all-stock transaction through: (continued in footnote (2))</footnote>
+        <footnote id="F2">(continued from footnote (1)) (i) the merger of Brigham Merger Sub with and into Brigham (the &quot;Brigham Merger&quot;), with Brigham surviving the Brigham Merger as a wholly owned subsidiary of New Sitio, (ii) the merger of Sitio Merger Sub with and into Sitio (the &quot;Sitio Merger&quot;), with Sitio surviving the Sitio Merger as a wholly owned subsidiary of New Sitio, and (iii) the merger of Opco Merger Sub LLC with and into Opco LLC (the &quot;Opco Merger,&quot; and, together with the Brigham Merger and the Sitio Merger, the &quot;Mergers&quot;), with Opco LLC surviving the Opco Merger as a wholly owned subsidiary of Opco LP, in each case on the terms set forth in the Merger Agreement. As a result of the Mergers, Sitio and Brigham became direct wholly owned subsidiaries of New Sitio. (continued in footnote (3))</footnote>
+        <footnote id="F3">(continued from footnote (2)) In addition to the filing of this Form 4 to reflect the disposition of securities by the Reporting Person in connection with the consummation of the Sitio Merger, the Reporting Person will be filing a Form 3 with respect to New Sitio to report the acquisition by such Reporting Person of an equal number of shares of securities in connection with the consummation of the Sitio Merger.</footnote>
+        <footnote id="F4">Pursuant to the Merger Agreement, effective as of the effective time of the Sitio Merger (the &quot;First Effective Time&quot;) and in connection with the consummation of the Sitio Merger, each share of Sitio Class C Common Stock was cancelled and converted into the right to receive one share of New Sitio Class C Common Stock. Each share of Sitio Class C Common Stock had no economic rights but entitled its holder to one vote on all matters to be voted on by shareholders generally. (continued in footnote (5))</footnote>
+        <footnote id="F5">(continued from footnote (4)) The terms of the Second Amended and Restated Agreement of Limited Partnership of Sitio Royalties Operating Partnership, LP (the &quot;Partnership&quot;), as amended to date, provide that, subject to certain restrictions contained therein, each holder of common units representing limited partnership interests in the Partnership (&quot;OpCo Units&quot;) (other than Sitio) generally had the right to cause the Partnership to redeem all or a portion of its OpCo Units (the &quot;Redemption Right&quot;) in exchange for shares of Sitio Class A Common Stock on a one-for-one basis or, at the Partnership's election, an equivalent amount of cash. In connection with any redemption of OpCo Units pursuant to the Redemption Right, the corresponding number of shares of Class C Common Stock would have been cancelled. (continued in footnote (6))</footnote>
+        <footnote id="F6">(continued from footnote (5)) Although the Reporting Person retained its OpCo Units following the Mergers, the Redemption Right now entitles the holders of OpCo Units to cause the Partnership to redeem all or a portion of its OpCo Units in exchange for shares of New Sitio Class A Common Stock and a corresponding number of shares of New Sitio Class C Common Stock will be cancelled. The OpCo Units and the right to exercise the Redemption Right had no expiration date. As used herein, the terms &quot;Class A Common Stock&quot; and &quot;Class C Common Stock&quot; refer to (i) Sitio Class A Common Stock and Sitio Class C Common Stock prior to the First Effective Time, respectively, and (ii) New Sitio Class A Common Stock and New Sitio Class C Common Stock following the First Effective Time, respectively, in each case, unless the context requires otherwise.</footnote>
+        <footnote id="F7">The securities to which this filing relates are held directly by KMF DPM HoldCo, LLC (&quot;KMF HoldCo&quot;) and Chambers DPM HoldCo, LLC (&quot;Chambers HoldCo&quot;). Kimmeridge Energy Management Company, LLC, a Delaware limited liability company (the &quot;Reporting Person&quot;), acts as the investment adviser to the parent company of each of KMF HoldCo and Chambers HoldCo. The filing of this statement shall not be deemed an admission that the Reporting Person is the beneficial owner of the securities reported herein for purposes of Section 16 of the Securities Act of 1934, as amended, or otherwise. The Reporting Person expressly disclaims beneficial ownership of the securities reported herein except to the extent of its pecuniary interest therein.</footnote>
+        <footnote id="F8">Each Allocation Right entitled the Reporting Person to receive one share of Class C Common Stock and one OpCo Unit to the extent any shares of Class C Common Stock and OpCo Units were forfeited by the original holders thereof. Such Class C Common Stock were exchanged on a one-for-one basis in the Mergers, subject to the same transfer restrictions and forfeiture. Following the assumption by New Sitio, Opco Units and shares of New Sitio Class C Common Stock will be issued pursuant to such Allocation Rights solely to the extent a corresponding forfeiture has occurred.</footnote>
+    </footnotes>
+
+    <remarks>The Reporting Person may be deemed to be a director by deputization for purposes of Section 16 under the Securities Exchange Act of 1934, as amended, by virtue of the fact that Mr. Noam Lockshin, a member of the Board of Managers of the Reporting Person, currently serves on the board of directors of the Issuer.</remarks>
+
+    <ownerSignature>
+        <signatureName>Kimmeridge Energy Management Company, LLC, By: /s/ Tamar Goldstein, General Counsel</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

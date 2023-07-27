@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001209191-23-028398.txt : 20230509
+<SEC-HEADER>0001209191-23-028398.hdr.sgml : 20230509
+<ACCEPTANCE-DATETIME>20230509213252
+ACCESSION NUMBER:		0001209191-23-028398
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230505
+FILED AS OF DATE:		20230509
+DATE AS OF CHANGE:		20230509
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hantman Peter
+		CENTRAL INDEX KEY:			0001622745
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39272
+		FILM NUMBER:		23904064
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O E2OPEN, INC.
+		STREET 2:		4100 EAST THIRD AVENUE, SUITE 400
+		CITY:			FOSTER CITY
+		STATE:			CA
+		ZIP:			94404
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			E2open Parent Holdings, Inc.
+		CENTRAL INDEX KEY:			0001800347
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9600 GREAT HILLS TRAIL, SUITE 300E
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78759
+		BUSINESS PHONE:		8664326736
+
+	MAIL ADDRESS:	
+		STREET 1:		9600 GREAT HILLS TRAIL, SUITE 300E
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78759
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CC Neuberger Principal Holdings I
+		DATE OF NAME CHANGE:	20200116
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-05</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001800347</issuerCik>
+        <issuerName>E2open Parent Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>ETWO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001622745</rptOwnerCik>
+            <rptOwnerName>Hantman Peter</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>9600 GREAT HILLS TRAIL #300E</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>AUSTIN</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>78759</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Operating Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.62</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-05</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>141344</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-05-05</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>141344</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>141344</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The options will vest one-third (1/3rd) on May 5, 2024, and two-thirds (2/3rds) will vest equally on each three-month anniversary thereafter for two years with the last vesting occurring on May 5, 2026, subject to continued employment with E2open.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jennifer S. Grafton by power of attorney</signatureName>
+        <signatureDate>2023-05-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

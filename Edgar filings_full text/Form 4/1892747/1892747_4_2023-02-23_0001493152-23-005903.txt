@@ -1,0 +1,327 @@
+<SEC-DOCUMENT>0001493152-23-005903.txt : 20230223
+<SEC-HEADER>0001493152-23-005903.hdr.sgml : 20230223
+<ACCEPTANCE-DATETIME>20230223173827
+ACCESSION NUMBER:		0001493152-23-005903
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20220303
+FILED AS OF DATE:		20230223
+DATE AS OF CHANGE:		20230223
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			VMCA Sponsor, LLC
+		CENTRAL INDEX KEY:			0001913983
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41304
+		FILM NUMBER:		23661246
+
+	BUSINESS ADDRESS:	
+		STREET 1:		WALKERS CORPORATE LIMITED, 190 ELGIN AVE
+		STREET 2:		GRAND CAYMAN
+		CITY:			GEORGE TOWN
+		STATE:			E9
+		ZIP:			KY1-9008
+		BUSINESS PHONE:		6467706002
+
+	MAIL ADDRESS:	
+		STREET 1:		WALKERS CORPORATE LIMITED, 190 ELGIN AVE
+		STREET 2:		GRAND CAYMAN
+		CITY:			GEORGE TOWN
+		STATE:			E9
+		ZIP:			KY1-9008
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Valuence Capital, LLC
+		DATE OF NAME CHANGE:	20220228
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Valuence Merger Corp. I
+		CENTRAL INDEX KEY:			0001892747
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4 ORINDA WAY
+		STREET 2:		SUITE 100D
+		CITY:			ORINDA
+		STATE:			CA
+		ZIP:			94563
+		BUSINESS PHONE:		(646) 770-6002
+
+	MAIL ADDRESS:	
+		STREET 1:		4 ORINDA WAY
+		STREET 2:		SUITE 100D
+		CITY:			ORINDA
+		STATE:			CA
+		ZIP:			94563
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VMCA Sponsor, LLC
+		DATE OF NAME CHANGE:	20220811
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Valuence Merger Corp. I
+		DATE OF NAME CHANGE:	20211108
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-03-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001892747</issuerCik>
+        <issuerName>Valuence Merger Corp. I</issuerName>
+        <issuerTradingSymbol>VMCA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001913983</rptOwnerCik>
+            <rptOwnerName>VMCA Sponsor, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VALUENCE MERGER CORP. I</rptOwnerStreet1>
+            <rptOwnerStreet2>4 ORINDA WAY, SUITE 100D</rptOwnerStreet2>
+            <rptOwnerCity>ORINDA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94563</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-04-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>247510</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>247510</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4302290</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Class B Ordinary Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1200000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1200000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Valuence Partners LP</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Class B Ordinary Shares are convertible for the Issuer's Class A ordinary shares, par value $0.0001 per share, as described under the heading &quot;Description of Securities&quot; in the Issuer's Registration Statement on Form S-1 (File No. 333-262246) (the &quot;Registration Statement&quot;) and have no expiration date.</footnote>
+        <footnote id="F2">On April 14, 2022, VMCA Sponsor, LLC (f/k/a Valuence Capital, LLC) (the &quot;Sponsor&quot;) forfeited at no cost 247,510 Class B ordinary shares, par value $0.0001 per share, of the Issuer (the &quot;Class B Ordinary Shares&quot;) in connection with the election by the underwriters of the Issuer's initial public offering of units to exercise an option granted to them to cover over-allotments in part and not in full.</footnote>
+        <footnote id="F3">The Sponsor is the record holder of the securities reported herein, except with respect to 1,200,000 Class B Ordinary Shares, which are held of record by Valuence Partners LP. The Sponsor is the sole general partner of Valuence Partners LP and has voting and investment discretion with respect to the securities held of record by Valuence Partners LP.</footnote>
+        <footnote id="F4">The Sponsor is governed by a board of managers consisting of four managers: Credian Partners, Inc., Sungsik (&quot;Sung&quot;) Lee, Sungwoo (&quot;Andrew&quot;) Hyung and Gene Young Cho. Any action by the Sponsor with respect to the Issuer's securities held by it, including voting and dispositive decisions, requires at least a majority vote of the managers of the board of managers. Under the so-called &quot;rule of three,&quot; because voting and dispositive decisions are made by a majority of the managers, none of the managers is deemed to be a beneficial owner of Issuer's securities held by the Sponsor, even those in which such manager holds a pecuniary interest. Accordingly, none of the managers on the Sponsor's board of managers is deemed to have or share beneficial ownership of the Class B Ordinary Shares held by the Sponsor.</footnote>
+    </footnotes>
+
+    <remarks>See Exhibit 24- Power of Attorney.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jordan Leon, Attorney-in-Fact for VMCA Sponsor, LLC</signatureName>
+        <signatureDate>2023-02-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>ex24.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Exhibit
+24</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>POWER
+OF ATTORNEY</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+undersigned constitutes and appoints Elliott Smith, Sarah Ross, Jordan Leon and Joanna Heinz, or any of them acting singly, as the undersigned&rsquo;s
+true and lawful attorneys-in- fact and agents, with full power of substitution and resubstitution, for the undersigned and in the undersigned&rsquo;s
+name, place and stead, to sign any and all SEC statements of beneficial ownership of securities of Valuence Merger Corp. I (the &ldquo;Company&rdquo;)
+on Schedule 13D as required under Section 13 and Forms 3, 4 and 5 as required under Section 16(a) of the Securities Exchange Act of 1934,
+as amended, and any amendments thereto, and to file the same with all exhibits thereto, and other documents in connection therewith,
+with the SEC, the Company and any stock exchange on which any of the Company&rsquo;s securities are listed, granting unto said attorneys-in-fact
+and agents, and each of them, full power and authority to do and perform each act and thing requisite and necessary to be done under
+said Section 13 and Section 16(a), as fully and to all intents and purposes as the undersigned might or could do in person, hereby ratifying
+and confirming all that said attorneys-in-fact and agents, and each of them, may lawfully do or cause to be done by virtue hereof.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">A
+copy of this power of attorney shall be filed with the SEC. The authorization set forth above shall continue in full force and effect
+until the undersigned revokes such authorization by written instructions to the attorneys-in-fact.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+authority granted hereby shall in no event be deemed to impose or create any duty on behalf of the attorneys-in-fact with respect to
+the undersigned&rsquo;s obligations to file Schedule 13Ds and Forms 3, 4 and 5 with the SEC.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Dated:
+August 10, 2022</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>VMCA
+    Sponsor, LLC</B></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; width: 45%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><I>/s/
+    Sungsik (Sung) Lee</I></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sungsik
+    (Sung) Lee</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Co-Managing
+    Member</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"></FONT></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

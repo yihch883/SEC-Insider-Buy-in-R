@@ -1,0 +1,146 @@
+<SEC-DOCUMENT>0001127602-23-008528.txt : 20230302
+<SEC-HEADER>0001127602-23-008528.hdr.sgml : 20230302
+<ACCEPTANCE-DATETIME>20230302211349
+ACCESSION NUMBER:		0001127602-23-008528
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230228
+FILED AS OF DATE:		20230302
+DATE AS OF CHANGE:		20230302
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Schultz Renee
+		CENTRAL INDEX KEY:			0001860015
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34416
+		FILM NUMBER:		23701466
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PENNYMAC
+		STREET 2:		3043 TOWNSGATE ROAD
+		CITY:			WESTLAKE VILLAGE
+		STATE:			CA
+		ZIP:			91361
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PennyMac Mortgage Investment Trust
+		CENTRAL INDEX KEY:			0001464423
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				270186273
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3043 TOWNSGATE ROAD
+		CITY:			WESTLAKE VILLAGE
+		STATE:			CA
+		ZIP:			91361
+		BUSINESS PHONE:		(818) 224-7442
+
+	MAIL ADDRESS:	
+		STREET 1:		3043 TOWNSGATE ROAD
+		CITY:			WESTLAKE VILLAGE
+		STATE:			CA
+		ZIP:			91361
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001464423</issuerCik>
+        <issuerName>PennyMac Mortgage Investment Trust</issuerName>
+        <issuerTradingSymbol>PMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001860015</rptOwnerCik>
+            <rptOwnerName>Schultz Renee</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PENNYMAC MORTGAGE INVESTMENT TRUST</rptOwnerStreet1>
+            <rptOwnerStreet2>3043 TOWNSGATE ROAD</rptOwnerStreet2>
+            <rptOwnerCity>WESTLAKE VILLAGE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91361</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares of Beneficial Interest</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8058</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18679</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person was granted 8,058 restricted share units. The restricted share units, which vest in full on the first anniversary of the grant date, are to be settled in an equal number of common shares of beneficial interest upon vesting.</footnote>
+        <footnote id="F2">The reported amount consists of 10,670 restricted share units and 8,009 common shares of beneficial interest.  The restricted share units are to be settled in an equal number of common shares of beneficial interest upon vesting.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Derek W. Stark, attorney-in-fact for Ms. Schultz</signatureName>
+        <signatureDate>2023-03-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

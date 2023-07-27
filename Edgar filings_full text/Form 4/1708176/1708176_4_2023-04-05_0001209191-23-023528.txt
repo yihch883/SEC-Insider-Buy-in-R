@@ -1,0 +1,207 @@
+<SEC-DOCUMENT>0001209191-23-023528.txt : 20230405
+<SEC-HEADER>0001209191-23-023528.hdr.sgml : 20230405
+<ACCEPTANCE-DATETIME>20230405202555
+ACCESSION NUMBER:		0001209191-23-023528
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230403
+FILED AS OF DATE:		20230405
+DATE AS OF CHANGE:		20230405
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Holz Karl L
+		CENTRAL INDEX KEY:			0001815456
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38363
+		FILM NUMBER:		23804119
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HALL OF FAME RESORT & ENTERTAIN CO
+		STREET 2:		2626 FULTON AVE NW
+		CITY:			CANTON
+		STATE:			OH
+		ZIP:			44718
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Holz Karl
+		DATE OF NAME CHANGE:	20200618
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hall of Fame Resort & Entertainment Co
+		CENTRAL INDEX KEY:			0001708176
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		IRS NUMBER:				843235695
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2626 FULTON DRIVE NW
+		CITY:			CANTON
+		STATE:			OH
+		ZIP:			44718
+		BUSINESS PHONE:		(412) 960-4687
+
+	MAIL ADDRESS:	
+		STREET 1:		2626 FULTON DRIVE NW
+		CITY:			CANTON
+		STATE:			OH
+		ZIP:			44718
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Gordon Pointe Acquisition Corp.
+		DATE OF NAME CHANGE:	20180122
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Gordon Pointe Acqusition Corp.
+		DATE OF NAME CHANGE:	20170601
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001708176</issuerCik>
+        <issuerName>Hall of Fame Resort &amp; Entertainment Co</issuerName>
+        <issuerTradingSymbol>HOFV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001815456</rptOwnerCik>
+            <rptOwnerName>Holz Karl L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2626 FULTON DRIVE NW</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CANTON</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44718</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-04-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>942</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.15</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14691</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Warrants</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>30.81</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2020-11-18</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-11-18</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>113</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2500</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents fully vested shares of common stock awarded under the Hall of Fame Resort &amp; Entertainment Company Amended 2020 Omnibus Incentive Plan as partial payment (50%) of the reporting person's quarterly board retainer and meeting attendance fees.</footnote>
+        <footnote id="F2">Includes 5,813 restricted stock units granted on January 24, 2023, which will vest in full on January 24, 2024.</footnote>
+        <footnote id="F3">On January 26, 2023, the reporting person filed a Form 4 that inadvertently reported that the reporting person held 113 warrants when he holds 2,500 warrants.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Tara Charnes, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

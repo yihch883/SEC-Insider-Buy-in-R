@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001903596-23-000003.txt : 20230103
+<SEC-HEADER>0001903596-23-000003.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103121055
+ACCESSION NUMBER:		0001903596-23-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221231
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Liang Mengyin H
+		CENTRAL INDEX KEY:			0001830979
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39158
+		FILM NUMBER:		23501124
+
+	MAIL ADDRESS:	
+		STREET 1:		124 STELLAR
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AppTech Payments Corp.
+		CENTRAL INDEX KEY:			0001070050
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				650847995
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5876 OWENS AVENUE
+		STREET 2:		SUITE 100
+		CITY:			CARLSBAD
+		STATE:			CA
+		ZIP:			92008
+		BUSINESS PHONE:		(760) 707-5955
+
+	MAIL ADDRESS:	
+		STREET 1:		5876 OWENS AVENUE
+		STREET 2:		SUITE 100
+		CITY:			CARLSBAD
+		STATE:			CA
+		ZIP:			92008
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AppTech Corp.
+		DATE OF NAME CHANGE:	20110812
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Natural Nutrition Inc.
+		DATE OF NAME CHANGE:	20061101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CSI Business Finance, Inc.
+		DATE OF NAME CHANGE:	20050929
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001070050</issuerCik>
+        <issuerName>AppTech Payments Corp.</issuerName>
+        <issuerTradingSymbol>APCX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001830979</rptOwnerCik>
+            <rptOwnerName>Liang Mengyin H</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>5876 OWENS AVE, SUITE 100</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CARLSBAD</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92008</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8125</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>52883</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Stock award was granted in association with services provided to the Company as Director.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Menglin H Liang</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

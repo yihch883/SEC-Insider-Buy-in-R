@@ -1,0 +1,221 @@
+<SEC-DOCUMENT>0001140361-23-011655.txt : 20230314
+<SEC-HEADER>0001140361-23-011655.hdr.sgml : 20230314
+<ACCEPTANCE-DATETIME>20230314174001
+ACCESSION NUMBER:		0001140361-23-011655
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230313
+FILED AS OF DATE:		20230314
+DATE AS OF CHANGE:		20230314
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Cannae Holdings, LLC
+		CENTRAL INDEX KEY:			0001546148
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39331
+		FILM NUMBER:		23732245
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1701 VILLAGE CENTER CIRCLE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			18934
+		BUSINESS PHONE:		904 854-8100
+
+	MAIL ADDRESS:	
+		STREET 1:		1701 VILLAGE CENTER CIRCLE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			18934
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Fidelity National Financial Ventures, LLC
+		DATE OF NAME CHANGE:	20141223
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Fidelity National Special Opportunities, Inc.
+		DATE OF NAME CHANGE:	20120330
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Cannae Holdings, Inc.
+		CENTRAL INDEX KEY:			0001704720
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING & DRINKING PLACES [5810]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39331
+		FILM NUMBER:		23732246
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O CANNAE HOLDINGS, INC.
+		STREET 2:		1701 VILLAGE CENTER CIRCLE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89134
+		BUSINESS PHONE:		702-323-7334
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CANNAE HOLDINGS, INC.
+		STREET 2:		1701 VILLAGE CENTER CIRCLE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89134
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			System1, Inc.
+		CENTRAL INDEX KEY:			0001805833
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				981531250
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4235 REDWOOD AVENUE
+		CITY:			MARINA DEL REY
+		STATE:			CA
+		ZIP:			90066
+		BUSINESS PHONE:		310-924-6037
+
+	MAIL ADDRESS:	
+		STREET 1:		4235 REDWOOD AVENUE
+		CITY:			MARINA DEL RAY
+		STATE:			CA
+		ZIP:			90066
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Trebia Acquisition Corp.
+		DATE OF NAME CHANGE:	20200306
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-13</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001805833</issuerCik>
+        <issuerName>System1, Inc.</issuerName>
+        <issuerTradingSymbol>SST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001704720</rptOwnerCik>
+            <rptOwnerName>Cannae Holdings, Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1701 VILLAGE CENTER CIRCLE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89134</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001546148</rptOwnerCik>
+            <rptOwnerName>Cannae Holdings, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1701 VILLAGE CENTER CIRCLE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89134</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1722235</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>27122794</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Directly held by Cannae Holdings, LLC</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person received a distribution of shares of Class A common stock from Trasimine Trebia, LP on a pro rata basis for no additional consideration.</footnote>
+        <footnote id="F2">Cannae Holdings, LLC is a wholly-owned subsidiary of Cannae Holdings, Inc.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/Michael L. Gravelle
+Cannae Holdings, Inc. Executive Vice President, General Counsel and Corporate Secretary</signatureName>
+        <signatureDate>2023-03-14</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/Michael L. Gravelle Cannae Holdings, LLC Managing Director, General Counsel and Corporate Secretary</signatureName>
+        <signatureDate>2023-03-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

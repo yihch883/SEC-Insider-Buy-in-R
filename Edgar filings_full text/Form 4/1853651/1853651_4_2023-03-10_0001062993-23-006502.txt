@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001062993-23-006502.txt : 20230310
+<SEC-HEADER>0001062993-23-006502.hdr.sgml : 20230310
+<ACCEPTANCE-DATETIME>20230310144820
+ACCESSION NUMBER:		0001062993-23-006502
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230223
+FILED AS OF DATE:		20230310
+DATE AS OF CHANGE:		20230310
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Alpine Acquisition Sponsor LLC
+		CENTRAL INDEX KEY:			0001879412
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40765
+		FILM NUMBER:		23723193
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10141 N. CANYON VIEW LANE
+		CITY:			FOUNTAIN HILLS
+		STATE:			AZ
+		ZIP:			85268
+		BUSINESS PHONE:		(703) 899-1028
+
+	MAIL ADDRESS:	
+		STREET 1:		10141 N. CANYON VIEW LANE
+		CITY:			FOUNTAIN HILLS
+		STATE:			AZ
+		ZIP:			85268
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Alpine Acquisition Corp.
+		CENTRAL INDEX KEY:			0001853651
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		IRS NUMBER:				861957639
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10141 N. CANYON VIEW LANE
+		CITY:			FOUNTAIN HILLS
+		STATE:			AZ
+		ZIP:			85268
+		BUSINESS PHONE:		(212) 818-8800
+
+	MAIL ADDRESS:	
+		STREET 1:		10141 N. CANYON VIEW LANE
+		CITY:			FOUNTAIN HILLS
+		STATE:			AZ
+		ZIP:			85268
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-23</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001853651</issuerCik>
+        <issuerName>Alpine Acquisition Corp.</issuerName>
+        <issuerTradingSymbol>REVE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001879412</rptOwnerCik>
+            <rptOwnerName>Alpine Acquisition Sponsor LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>10141 N. CANYON VIEW LANE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>FOUNTAIN HILLS</rptOwnerCity>
+            <rptOwnerState>AZ</rptOwnerState>
+            <rptOwnerZipCode>85268</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2637500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares were contributed to the Reporting Person from a former advisor to the Issuer for no consideration.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Elan Blutinger, as Managing Member of the Reporting Person</signatureName>
+        <signatureDate>2023-03-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

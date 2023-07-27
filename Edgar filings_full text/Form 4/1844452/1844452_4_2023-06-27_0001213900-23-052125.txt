@@ -1,0 +1,201 @@
+<SEC-DOCUMENT>0001213900-23-052125.txt : 20230627
+<SEC-HEADER>0001213900-23-052125.hdr.sgml : 20230627
+<ACCEPTANCE-DATETIME>20230627161520
+ACCESSION NUMBER:		0001213900-23-052125
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230623
+FILED AS OF DATE:		20230627
+DATE AS OF CHANGE:		20230627
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BLITZER MICHAEL
+		CENTRAL INDEX KEY:			0001458423
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40823
+		FILM NUMBER:		231047486
+
+	MAIL ADDRESS:	
+		STREET 1:		1270 BROADWAY, SUITE 1009
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Intuitive Machines, Inc.
+		CENTRAL INDEX KEY:			0001844452
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		34 EAST 51ST STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 319-1309
+
+	MAIL ADDRESS:	
+		STREET 1:		34 EAST 51ST STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Inflection Point Acquisition Corp.
+		DATE OF NAME CHANGE:	20210204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001844452</issuerCik>
+        <issuerName>Intuitive Machines, Inc.</issuerName>
+        <issuerTradingSymbol>LUNR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001458423</rptOwnerCik>
+            <rptOwnerName>BLITZER MICHAEL</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3700 BAY AREA BLVD., SUITE 600</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77058</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18321</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18321</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1150000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Kingstown 1740 Fund L.P.</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8243750</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Inflection Point Holdings LLC</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents an award of restricted stock units (&quot;RSUs&quot;), each of which represents a contingent right to receive one share of Class A Common Stock. The RSUs will vest in full on the earlier to occur of the first anniversary of the grant date and the date of the next annual meeting following the grant date. The RSUs do not expire.</footnote>
+        <footnote id="F2">Kingstown 1740 is the holder of the securities. Kingstown Capital Management, L.P. (&quot;KCM&quot;) is the investment manager of Kingstown 1740 and shares voting and investment discretion with respect to the securities held by Kingstown 1740. Kingstown Management GP LLC (&quot;KMGP&quot;) is the general partner of KCM and shares voting and investment discretion with respect to the ordinary shares held by Kingstown 1740. Kingstown Capital Partners LLC (&quot;KCP&quot;) is the general partner of Kingstown 1740. Michael Blitzer and Guy Shanon are the Managing Members of KMGP and share voting and investment discretion with respect to the ordinary shares held by Kingstown 1740.</footnote>
+        <footnote id="F3">Inflection Point Holdings LLC (the &quot;Sponsor&quot;) is the holder of the securities. KCM is the manager of the Sponsor and shares voting and investment discretion with respect to the securities held by the Sponsor. KMGP is the general partner of KCM and shares voting and investment discretion with respect to the securities held by the Sponsor. Michael Blitzer and Guy Shanon are the Managing Members of KMGP and share voting and investment discretion with respect to the securities held by the Sponsor.</footnote>
+        <footnote id="F4">Each of KMGP, KCM, Michael Blitzer and Guy Shanon disclaims any beneficial ownership of the securities held by the Sponsor other than to the extent of any pecuniary interest it or he, as applicable, may have therein, directly or indirectly. Each of KCM, KMGP, KCP, Michael Blitzer and Guy Shanon disclaims any beneficial ownership of the securities held by Kingstown 1740 other than to the extent of any pecuniary interest it or he, as applicable, may have therein, directly or indirectly.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael Blitzer</signatureName>
+        <signatureDate>2023-06-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

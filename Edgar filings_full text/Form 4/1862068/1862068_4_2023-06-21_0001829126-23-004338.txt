@@ -1,0 +1,240 @@
+<SEC-DOCUMENT>0001829126-23-004338.txt : 20230621
+<SEC-HEADER>0001829126-23-004338.hdr.sgml : 20230621
+<ACCEPTANCE-DATETIME>20230621172030
+ACCESSION NUMBER:		0001829126-23-004338
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230616
+FILED AS OF DATE:		20230621
+DATE AS OF CHANGE:		20230621
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Enrich Jose Miguel
+		CENTRAL INDEX KEY:			0001878117
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40910
+		FILM NUMBER:		231030868
+
+	MAIL ADDRESS:	
+		STREET 1:		781 CRANDON BLVD 902
+		CITY:			KEY BISCAYNE
+		STATE:			FL
+		ZIP:			33149
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rubicon Technologies, Inc.
+		CENTRAL INDEX KEY:			0001862068
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				883703651
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 W MAIN STREET, SUITE 610
+		CITY:			LEXINGTON
+		STATE:			KY
+		ZIP:			40507
+		BUSINESS PHONE:		(844) 479-1507
+
+	MAIL ADDRESS:	
+		STREET 1:		100 W MAIN STREET, SUITE 610
+		CITY:			LEXINGTON
+		STATE:			KY
+		ZIP:			40507
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Founder SPAC
+		DATE OF NAME CHANGE:	20210513
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-16</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001862068</issuerCik>
+        <issuerName>Rubicon Technologies, Inc.</issuerName>
+        <issuerTradingSymbol>RBT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001878117</rptOwnerCik>
+            <rptOwnerName>Enrich Jose Miguel</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>781 CRANDON BLVD 902</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>KEY BISCAYNE</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33149</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-06-16</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>240154</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.4164</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>351265</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2530013</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Pequeno Holdings LP</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3190436</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By DGR Holdings LP</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2284164</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Bolis Holdings LP</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A common stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19952296</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By MBI Holdings LP</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On June 16, 2023, Mr. Enrich acquired 240,154 shares of common stock of the Issuer at a per share purchase price of $0.4164 through a private placement transaction.</footnote>
+        <footnote id="F2">Bolis Holdings LLC (&quot;Bolis LLC&quot;) is the general partner of Bolis Holdings LP (&quot;Bolis LP&quot;).</footnote>
+        <footnote id="F3">DGR Holdings LLC (&quot;DGR LLC&quot;) is the general partner of DGR Holdings LP (&quot;DGR LP&quot;).</footnote>
+        <footnote id="F4">Pequeno Holdings LLC (&quot;Pequeno LLC&quot;) is the general partner of Pequeno Holdings LP (&quot;Pequeno LP&quot;).</footnote>
+        <footnote id="F5">Mr. Enrich is the general partner of MBI Holdings LP (&quot;MBI&quot;), the sole director of each of Bolis LLC, Pequeno LLC, and DGR LLC and has voting and dispositive control over such securities and may be deemed to beneficially own such securities held by MBI, Bolis LP, Pequeno LP, and DGR LP. Mr. Enrich disclaims beneficial ownership of these securities except to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jose Miguel Enrich</signatureName>
+        <signatureDate>2023-06-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

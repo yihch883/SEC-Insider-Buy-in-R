@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001209191-23-006772.txt : 20230203
+<SEC-HEADER>0001209191-23-006772.hdr.sgml : 20230203
+<ACCEPTANCE-DATETIME>20230203160600
+ACCESSION NUMBER:		0001209191-23-006772
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230201
+FILED AS OF DATE:		20230203
+DATE AS OF CHANGE:		20230203
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Miller Maribess L
+		CENTRAL INDEX KEY:			0001488288
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36722
+		FILM NUMBER:		23585773
+
+	MAIL ADDRESS:	
+		STREET 1:		2711 N. HASKELL AVENUE
+		STREET 2:		SUITE 2300
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75204
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Triumph Financial, Inc.
+		CENTRAL INDEX KEY:			0001539638
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				200477066
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12700 PARK CENTRAL DRIVE
+		STREET 2:		SUITE 1700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75251
+		BUSINESS PHONE:		(214) 365-6900
+
+	MAIL ADDRESS:	
+		STREET 1:		12700 PARK CENTRAL DRIVE
+		STREET 2:		SUITE 1700
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75251
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Triumph Bancorp, Inc.
+		DATE OF NAME CHANGE:	20120113
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001539638</issuerCik>
+        <issuerName>Triumph Financial, Inc.</issuerName>
+        <issuerTradingSymbol>TFIN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001488288</rptOwnerCik>
+            <rptOwnerName>Miller Maribess L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>12700 PARK CENTRAL DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1700</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75251</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>600</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18276</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of common stock of Issuer granted to the reporting person under Issuer's 2014 Omnibus Incentive Plan. All of such shares were fully vested as of the date of grant.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Adam D. Nelson, Attorney-in-fact</signatureName>
+        <signatureDate>2023-02-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

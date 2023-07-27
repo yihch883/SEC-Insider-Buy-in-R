@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001213900-23-050220.txt : 20230621
+<SEC-HEADER>0001213900-23-050220.hdr.sgml : 20230620
+<ACCEPTANCE-DATETIME>20230620214828
+ACCESSION NUMBER:		0001213900-23-050220
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230620
+FILED AS OF DATE:		20230620
+DATE AS OF CHANGE:		20230620
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Brun Scott C.
+		CENTRAL INDEX KEY:			0001863614
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39138
+		FILM NUMBER:		231027305
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CABALETTA BIO, INC.
+		STREET 2:		2929 ARCH STREET, SUITE 600
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Jasper Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001788028
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				842984849
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 BRIDGE PKWY SUITE #102
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+		BUSINESS PHONE:		6505491400
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 BRIDGE PKWY SUITE #102
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Amplitude Healthcare Acquisition Corp
+		DATE OF NAME CHANGE:	20190912
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-06-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001788028</issuerCik>
+        <issuerName>Jasper Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>JSPR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001863614</rptOwnerCik>
+            <rptOwnerName>Brun Scott C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O JASPER THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2200 BRIDGE PKWY, SUITE 102</rptOwnerStreet2>
+            <rptOwnerCity>REDWOOD CITY</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94065</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.35</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-06-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>94000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-06-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Voting Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>94000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>94000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">1/4th of the shares subject to the option shall vest on June 20, 2024, and 1/48th of the shares subject to the option shall vest following each one-month period thereafter, subject to the Reporting Person's continuous service to the Issuer on and through each applicable vesting date, inclusive.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Jeet Mahal, as Attorney-in-Fact</signatureName>
+        <signatureDate>2023-06-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

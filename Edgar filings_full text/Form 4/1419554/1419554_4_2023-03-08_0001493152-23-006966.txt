@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001493152-23-006966.txt : 20230308
+<SEC-HEADER>0001493152-23-006966.hdr.sgml : 20230308
+<ACCEPTANCE-DATETIME>20230308062025
+ACCESSION NUMBER:		0001493152-23-006966
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20220823
+FILED AS OF DATE:		20230308
+DATE AS OF CHANGE:		20230308
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Lucera Erick
+		CENTRAL INDEX KEY:			0001697616
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40899
+		FILM NUMBER:		23714813
+
+	MAIL ADDRESS:	
+		STREET 1:		138 THISTLE ROAD
+		CITY:			NORTH ANDOVER
+		STATE:			MA
+		ZIP:			08145
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bone Biologics Corp
+		CENTRAL INDEX KEY:			0001419554
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		IRS NUMBER:				421743430
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 BURLINGTON WOODS DRIVE,
+		STREET 2:		SUITE 100,
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+		BUSINESS PHONE:		(781) 552-4452
+
+	MAIL ADDRESS:	
+		STREET 1:		2 BURLINGTON WOODS DRIVE,
+		STREET 2:		SUITE 100,
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bone Biologics, Corp.
+		DATE OF NAME CHANGE:	20140924
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AFH ACQUISITION X, INC.
+		DATE OF NAME CHANGE:	20071127
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-08-23</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001419554</issuerCik>
+        <issuerName>Bone Biologics Corp</issuerName>
+        <issuerTradingSymbol>BBLG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001697616</rptOwnerCik>
+            <rptOwnerName>Lucera Erick</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BONE BIOLOGICS CORP</rptOwnerStreet1>
+            <rptOwnerStreet2>2 BURLINGTON WOODS DR. SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>BURLINGTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01803</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Non-Employee Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.61</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2022-08-23</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>36845</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-08-23</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>36845</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>68516</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Quarterly through the date of the next annual meeting of the stockholders of the Company following the Grant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Erick Lucera</signatureName>
+        <signatureDate>2023-03-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001062993-23-008658.txt : 20230404
+<SEC-HEADER>0001062993-23-008658.hdr.sgml : 20230404
+<ACCEPTANCE-DATETIME>20230404175842
+ACCESSION NUMBER:		0001062993-23-008658
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230403
+FILED AS OF DATE:		20230404
+DATE AS OF CHANGE:		20230404
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Walker Cynthia Lynn
+		CENTRAL INDEX KEY:			0001554592
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14201
+		FILM NUMBER:		23799937
+
+	MAIL ADDRESS:	
+		STREET 1:		5 GREENWAY PLAZA
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77046
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SEMPRA ENERGY
+		CENTRAL INDEX KEY:			0001032208
+		STANDARD INDUSTRIAL CLASSIFICATION:	GAS & OTHER SERVICES COMBINED [4932]
+		IRS NUMBER:				330732627
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		488 8TH AVENUE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92101
+		BUSINESS PHONE:		6196962000
+
+	MAIL ADDRESS:	
+		STREET 1:		488 8TH AVENUE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MINERAL ENERGY CO
+		DATE OF NAME CHANGE:	19970205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-04-03</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001032208</issuerCik>
+        <issuerName>SEMPRA ENERGY</issuerName>
+        <issuerTradingSymbol>SRE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001554592</rptOwnerCik>
+            <rptOwnerName>Walker Cynthia Lynn</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>488 8TH AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN DIEGO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92101</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-04-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>83.57</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>149.58</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>83.57</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4296.43</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Phantom shares of Sempra Energy Common Stock acquired as director compensation.</footnote>
+        <footnote id="F2">Conversion of Derivative Security is 1 for 1.</footnote>
+        <footnote id="F3">Date Exercisable is immediate for shares that have vested.</footnote>
+        <footnote id="F4">Expiration date is Not Applicable.</footnote>
+        <footnote id="F5">Total includes 730.23 unvested restricted phantom shares that are subject to forfeiture if service as a director terminates prior to vesting for any reason other than death, disability or removal without cause.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>CYNTHIA LYNN WALKER                                           BY: James M. Spira, Associate General Counsel of Sempra Energy and Attorney-in-Fact</signatureName>
+        <signatureDate>2023-04-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

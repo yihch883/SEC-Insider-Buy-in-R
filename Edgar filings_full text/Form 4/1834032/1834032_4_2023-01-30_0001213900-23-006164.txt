@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001213900-23-006164.txt : 20230130
+<SEC-HEADER>0001213900-23-006164.hdr.sgml : 20230130
+<ACCEPTANCE-DATETIME>20230130211240
+ACCESSION NUMBER:		0001213900-23-006164
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230126
+FILED AS OF DATE:		20230130
+DATE AS OF CHANGE:		20230130
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stapp Thomas
+		CENTRAL INDEX KEY:			0001841956
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39945
+		FILM NUMBER:		23569990
+
+	MAIL ADDRESS:	
+		STREET 1:		181 WESTCHESTER AVENUE
+		STREET 2:		SUITE 407A
+		CITY:			PORT CHESTER
+		STATE:			NY
+		ZIP:			10573
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Constellation Acquisition Corp I
+		CENTRAL INDEX KEY:			0001834032
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		PO BOX 309, UGLAND HOUSE
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+		BUSINESS PHONE:		1 917 215 2091
+
+	MAIL ADDRESS:	
+		STREET 1:		MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		PO BOX 309, UGLAND HOUSE
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-26</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001834032</issuerCik>
+        <issuerName>Constellation Acquisition Corp I</issuerName>
+        <issuerTradingSymbol>CSTA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001841956</rptOwnerCik>
+            <rptOwnerName>Stapp Thomas</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>181 WESTCHESTER AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 407A</rptOwnerStreet2>
+            <rptOwnerCity>PORT CHESTER</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode></rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Private Placement Warrant</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>204198</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>204198</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Pursuant to that certain Private Placement Warrants Purchase Agreement, dated January 26, 2021, by and between the Issuer and the undersigned parties thereto, the Reporting Person previously acquired from the Issuer 204,198 warrants of the Issuer (each, a &quot;Private Placement Warrant&quot;) for an aggregate purchase price of $306,297, as described in the Issuer's Registration Statement on Form S-1 (File No. 333-251974) filed with the Securities and Exchange Commission on January 22, 2021 (the &quot;Registration Statement&quot;). On January 26, 2023, the Reporting Person transferred the 204,198 Private Placement Warrants to Constellation Sponsor LP, an affiliate of the Issuer.</footnote>
+        <footnote id="F2">Each Private Placement Warrant is exercisable to purchase one Class A ordinary share of the Issuer (&quot;Class A Share&quot;) at an exercise price of $11.50 per share. As described in the Registration Statement, the Private Placement Warrants are identical to the warrants sold in connection with the Issuer's initial public offering (&quot;IPO&quot;), except that the Private Placement Warrants, (i) will not be redeemable by the Issuer, except as described in the Registration Statement, (ii) may not (including the Class A Shares issuable upon exercise of such warrants), subject to certain limited exceptions, be transferred, assigned or sold by until 30 days after the completion of the Issuer's initial business combination, (iii) may be exercised by the holders on a cashless basis and (iv) will be entitled to registration rights.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas Stapp</signatureName>
+        <signatureDate>2023-01-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

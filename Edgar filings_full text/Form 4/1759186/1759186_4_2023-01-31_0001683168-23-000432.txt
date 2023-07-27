@@ -1,0 +1,238 @@
+<SEC-DOCUMENT>0001683168-23-000432.txt : 20230131
+<SEC-HEADER>0001683168-23-000432.hdr.sgml : 20230131
+<ACCEPTANCE-DATETIME>20230131105915
+ACCESSION NUMBER:		0001683168-23-000432
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230127
+FILED AS OF DATE:		20230131
+DATE AS OF CHANGE:		20230131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mehalick David
+		CENTRAL INDEX KEY:			0001846623
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39669
+		FILM NUMBER:		23570792
+
+	MAIL ADDRESS:	
+		STREET 1:		5000 TRESSDALE DRIVE
+		CITY:			GIBSONIA
+		STATE:			PA
+		ZIP:			15044
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Coeptis Therapeutics Holdings, Inc.
+		CENTRAL INDEX KEY:			0001759186
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				981465952
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		105 BRADFORD ROAD, SUITE 420
+		CITY:			WEXFORD
+		STATE:			PA
+		ZIP:			15090
+		BUSINESS PHONE:		724-934-6467
+
+	MAIL ADDRESS:	
+		STREET 1:		105 BRADFORD ROAD, SUITE 420
+		CITY:			WEXFORD
+		STATE:			PA
+		ZIP:			15090
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bull Horn Holdings Corp.
+		DATE OF NAME CHANGE:	20181115
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001759186</issuerCik>
+        <issuerName>Coeptis Therapeutics Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>COEP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001846623</rptOwnerCik>
+            <rptOwnerName>Mehalick David</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>105 BRADFORD RD, SUITE 420</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WEXFORD</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>15090</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO and President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Non-qualified Stock Options (right to buy)</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.60</value>
+                <footnoteId id="F5"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>375000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F7"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>375000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>375000</value>
+                    <footnoteId id="F9"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Incentive Stock Options (right to buy)</value>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.76</value>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-01-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>250000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F8"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>250000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>250000</value>
+                    <footnoteId id="F10"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On January 27, 2023, the reporting person received a grant of 375,000 stock options, as non-qualified options, under the 2022 equity incentive plan.</footnote>
+        <footnote id="F2">On January 27, 2023, the reporting person received a grant of 250,000 incentive stock options, under the 2022 equity incentive plan.</footnote>
+        <footnote id="F3">Options will vest over 4 years, with the first 25% vesting on 12/31/23, and the balance vesting in equal quarterly installments over the succeeding three years, with the final options vesting on 12/31/26.</footnote>
+        <footnote id="F4">Options will vest over 4 years, with the first 25% vesting on 12/31/23, and the balance vesting in equal quarterly installments over the succeeding three years, with the final options vesting on 12/31/26.</footnote>
+        <footnote id="F5">The exercise price is the FMV of the shares, which is equal to the Company's stock price on the Nasdaq Global Market on the day of grant.</footnote>
+        <footnote id="F6">The exercise price is equal to 110% of the FMV of the shares on the day of grant.</footnote>
+        <footnote id="F7">Expiration date is ten years from the day of grant</footnote>
+        <footnote id="F8">Expiration date is five years from the day of grant, as the reporting person is a 10% owner and the options are incentive stock options.</footnote>
+        <footnote id="F9">Following the exercise of options under both reported transactions, the reporting person will have a total of 625,000 derivative securities beneficially owned.</footnote>
+        <footnote id="F10">Following the exercise of options under both reported transactions, the reporting person will have a total of 625,000 derivative securities beneficially owned.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ David Mehalick</signatureName>
+        <signatureDate>2023-01-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

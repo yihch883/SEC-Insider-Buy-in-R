@@ -1,0 +1,225 @@
+<SEC-DOCUMENT>0000899243-23-004031.txt : 20230206
+<SEC-HEADER>0000899243-23-004031.hdr.sgml : 20230206
+<ACCEPTANCE-DATETIME>20230206160512
+ACCESSION NUMBER:		0000899243-23-004031
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230203
+FILED AS OF DATE:		20230206
+DATE AS OF CHANGE:		20230206
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SAYAMA MIKE K
+		CENTRAL INDEX KEY:			0001229617
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40734
+		FILM NUMBER:		23590673
+
+	MAIL ADDRESS:	
+		STREET 1:		220 SOUTH KING ST., 3RD FLOOR
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AERWINS Technologies Inc.
+		CENTRAL INDEX KEY:			0001855631
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIRCRAFT [3721]
+		IRS NUMBER:				862049355
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SHIBA KOEN ANNEX 6 F, 1-8,
+		STREET 2:		SHIBA KOEN 3-CHOME
+		CITY:			MINATO-KU, TOKYO
+		STATE:			M0
+		ZIP:			105-0011
+		BUSINESS PHONE:		813-6409-6761
+
+	MAIL ADDRESS:	
+		STREET 1:		SHIBA KOEN ANNEX 6 F, 1-8,
+		STREET 2:		SHIBA KOEN 3-CHOME
+		CITY:			MINATO-KU, TOKYO
+		STATE:			M0
+		ZIP:			105-0011
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Pono Capital Corp
+		DATE OF NAME CHANGE:	20210708
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PONO Capital Corp
+		DATE OF NAME CHANGE:	20210407
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001855631</issuerCik>
+        <issuerName>AERWINS Technologies Inc.</issuerName>
+        <issuerTradingSymbol>AWIN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001229617</rptOwnerCik>
+            <rptOwnerName>SAYAMA MIKE K</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>SHIBA KOEN ANNEX 6 F, 1-8</rptOwnerStreet1>
+            <rptOwnerStreet2>SHIBA KOEN 3-CHOME, MINATO-KU</rptOwnerStreet2>
+            <rptOwnerCity>TOKYO</rptOwnerCity>
+            <rptOwnerState>M0</rptOwnerState>
+            <rptOwnerZipCode>105-0011</rptOwnerZipCode>
+            <rptOwnerStateDescription>JAPAN</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15000</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-03</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15000</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>15000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of the issuer's common stock, acquired by the reporting person on February 3, 2023, upon the closing of a business combination (the &quot;Merger&quot;) pursuant to an Agreement and Plan of Merger, dated as of September 7, 2022, by and among Pono Capital Corp. (&quot;Pono&quot;), Pono Merger Sub, Inc., AERWINS Technologies Inc. (&quot;AERWINS&quot;), Mehana Equity LLC, and Shuhei Komatsu, as previously disclosed in the issuer's Current Report on Form 8-K filed with the Securities and Exchange Commission on September 7, 2022 (the &quot;Form 8-K&quot;), and as set forth in Exhibit 2.1 to the Form 8-K. Upon consummation of the Merger, the issuer changed its name to &quot;AERWINS Technologies Inc.&quot;</footnote>
+        <footnote id="F2">The shares of Class B common stock, which had no expiration date, automatically converted into shares of Class A common stock at the time of the Merger on a one-for-one basis. At the effective time of the Merger, the shares of Class A common stock were redesignated as common stock, par value $0.000001 per share, of the issuer.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Mike K. Sayama</signatureName>
+        <signatureDate>2023-02-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

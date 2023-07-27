@@ -1,0 +1,174 @@
+<SEC-DOCUMENT>0001127602-23-002739.txt : 20230131
+<SEC-HEADER>0001127602-23-002739.hdr.sgml : 20230131
+<ACCEPTANCE-DATETIME>20230131150928
+ACCESSION NUMBER:		0001127602-23-002739
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230130
+FILED AS OF DATE:		20230131
+DATE AS OF CHANGE:		20230131
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Anderson Shawn
+		CENTRAL INDEX KEY:			0001813738
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16189
+		FILM NUMBER:		23572224
+
+	MAIL ADDRESS:	
+		STREET 1:		801 E. 86TH AVENUE
+		CITY:			MERRILLVILLE
+		STATE:			IN
+		ZIP:			46410
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NISOURCE INC.
+		CENTRAL INDEX KEY:			0001111711
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		IRS NUMBER:				352108964
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		801 EAST 86TH AVE
+		CITY:			MERRILLVILLE
+		STATE:			IN
+		ZIP:			46410-6272
+		BUSINESS PHONE:		2196475200
+
+	MAIL ADDRESS:	
+		STREET 1:		801 EAST 86TH AVE
+		CITY:			MERRILLVILLE
+		STATE:			IN
+		ZIP:			46410-6272
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NISOURCE INC/DE
+		DATE OF NAME CHANGE:	20001103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEW NISOURCE INC
+		DATE OF NAME CHANGE:	20000412
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001111711</issuerCik>
+        <issuerName>NISOURCE INC.</issuerName>
+        <issuerTradingSymbol>NI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001813738</rptOwnerCik>
+            <rptOwnerName>Anderson Shawn</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>801 E. 86TH AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MERRILLVILLE</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>46410</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>SVP Strategy &amp; Chief Risk Off</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4051</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>27.55</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>54957.942</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>734.7375</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>401(k)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Number of shares reported represent shares withheld to satisfy tax withholding obligations in connection with the vesting of the 2020 Special Restricted Stock Unit award.</footnote>
+        <footnote id="F2">Includes shares acquired through dividend reinvestments.</footnote>
+        <footnote id="F3">Constitutes shares acquired through the NiSource Retirement Savings Plan through January 30, 2023.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kimberly S. Cuccia, Attorney-in-Fact</signatureName>
+        <signatureDate>2023-01-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

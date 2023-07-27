@@ -1,0 +1,213 @@
+<SEC-DOCUMENT>0001140361-23-000265.txt : 20230103
+<SEC-HEADER>0001140361-23-000265.hdr.sgml : 20230103
+<ACCEPTANCE-DATETIME>20230103193657
+ACCESSION NUMBER:		0001140361-23-000265
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20221230
+FILED AS OF DATE:		20230103
+DATE AS OF CHANGE:		20230103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Great Elm Group, Inc.
+		CENTRAL INDEX KEY:			0001831096
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-01211
+		FILM NUMBER:		23503968
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 SOUTH STREET, SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+		BUSINESS PHONE:		(617) 375-3006
+
+	MAIL ADDRESS:	
+		STREET 1:		800 SOUTH STREET, SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Great Elm Capital Corp.
+		CENTRAL INDEX KEY:			0001675033
+		IRS NUMBER:				812621577
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 SOUTH STREET
+		STREET 2:		SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+		BUSINESS PHONE:		617-375-3006
+
+	MAIL ADDRESS:	
+		STREET 1:		800 SOUTH STREET
+		STREET 2:		SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2022-12-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001675033</issuerCik>
+        <issuerName>Great Elm Capital Corp.</issuerName>
+        <issuerTradingSymbol>GECC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001831096</rptOwnerCik>
+            <rptOwnerName>Great Elm Group, Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>800 SOUTH STREET, SUITE 230</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WALTHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02453</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1841716</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-12-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>372495</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Forest Investments, Inc.</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>73176</value>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Great Elm Opportunities Fund I, LP</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 27,605 shares of Great Elm Capital Corp.'s common stock, par value $0.01 per share (&quot;Common Stock&quot;), that was previosuly indirectly owned by Great Elm Group, Inc. (&quot;GEG&quot;) and became directly owned on December 27, 2022.</footnote>
+        <footnote id="F2">On December 30, 2022, GEG and Great Elm FM Acquisition, Inc. (&quot;FM Acquisition&quot;), a wholly-owned subsidiary of GEG, entered into a stock purchase agreement (the &quot;Stock Purchase Agreement&quot;) with J.P. Morgan Broker-Dealer Holdings Inc. (&quot;JPM&quot;) to sell 61 shares of the common stock, $0.001 par value per share, of Forest Investments, Inc. (&quot;Forest&quot;) owned by FM Acquisition and GEG, which shares constitute 61% of the issued and outstanding shares of Forest's common stock. As the parent of Forest, prior to the entry into the Stock Purchase Agreement, GEG may have been deemed to be the beneficial owner of the shares of common stock beneficially owned (or deemed beneficially owned) by Forest.</footnote>
+        <footnote id="F3">Following the entry into the Stock Purchase Agreement, GEG may no longer be deemed to be the beneficial owner of the shares of common stock beneficially owned (or deemed beneficially owned) by Forest.</footnote>
+        <footnote id="F4">On January 3, 2023, Great Elm Opportunities Fund I, LP, a Delaware limited partnership (&quot;GEOF&quot;), distributed 73,176 shares of Common Stock to a third party limited partner in GEOF. In connection with the distribution, GEG may no longer be deemed to be the beneficial owner of the shares of common stock previously beneficially owned (or deemed beneficially owned) by GEOF.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Adam M. Kleinman, attorney-in-fact</signatureName>
+        <signatureDate>2023-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

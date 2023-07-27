@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001171843-23-001325.txt : 20230301
+<SEC-HEADER>0001171843-23-001325.hdr.sgml : 20230301
+<ACCEPTANCE-DATETIME>20230301214248
+ACCESSION NUMBER:		0001171843-23-001325
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230227
+FILED AS OF DATE:		20230301
+DATE AS OF CHANGE:		20230301
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Roy Kristopher H
+		CENTRAL INDEX KEY:			0001618419
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50796
+		FILM NUMBER:		23696209
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SP PLUS CORPORATION
+		STREET 2:		200 E. RANDOLPH STREET, SUITE 7700
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SP Plus Corp
+		CENTRAL INDEX KEY:			0001059262
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AUTO RENTAL & LEASING (NO DRIVERS) [7510]
+		IRS NUMBER:				161171179
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 E. RANDOLPH STREET
+		STREET 2:		SUITE 7700
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601-7702
+		BUSINESS PHONE:		312-274-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 E. RANDOLPH STREET
+		STREET 2:		SUITE 7700
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601-7702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SP PLUS Corp
+		DATE OF NAME CHANGE:	20131202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD PARKING CORP
+		DATE OF NAME CHANGE:	20030506
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APCOA STANDARD PARKING INC /DE/
+		DATE OF NAME CHANGE:	20011126
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-27</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001059262</issuerCik>
+        <issuerName>SP Plus Corp</issuerName>
+        <issuerTradingSymbol>SP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001618419</rptOwnerCik>
+            <rptOwnerName>Roy Kristopher H</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O SP PLUS CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>200 E. RANDOLPH STREET, SUITE 7700</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60601</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CFO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-02-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1741</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>34.43</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32854</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person had 4,116 restricted stock units (RSUs) that vested and were settled in shares of SP Plus common stock on a one-for-one basis.</footnote>
+        <footnote id="F2">Shares were withheld as payment of a tax liability incident to the vesting and settlement of RSUs previously issued in accordance with Rule 16b-3.</footnote>
+        <footnote id="F3">Includes 20,453 RSUs.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Patrick Kilmer-Lipinski, as attorney-in-fact for Kristopher H. Roy</signatureName>
+        <signatureDate>2023-03-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

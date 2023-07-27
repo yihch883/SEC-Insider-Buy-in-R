@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0001567619-23-001121.txt : 20230123
+<SEC-HEADER>0001567619-23-001121.hdr.sgml : 20230123
+<ACCEPTANCE-DATETIME>20230123132011
+ACCESSION NUMBER:		0001567619-23-001121
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230120
+FILED AS OF DATE:		20230123
+DATE AS OF CHANGE:		20230123
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Galante Joseph C
+		CENTRAL INDEX KEY:			0001632384
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39309
+		FILM NUMBER:		23543434
+
+	MAIL ADDRESS:	
+		STREET 1:		111 TENTH AVENUE
+		STREET 2:		SUITE 200
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37203
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PINNACLE FINANCIAL PARTNERS INC
+		CENTRAL INDEX KEY:			0001115055
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				621812853
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 THIRD AVENUE SOUTH
+		STREET 2:		SUITE 900
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37201
+		BUSINESS PHONE:		6157443700
+
+	MAIL ADDRESS:	
+		STREET 1:		150 THIRD AVENUE SOUTH
+		STREET 2:		SUITE 900
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-01-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001115055</issuerCik>
+        <issuerName>PINNACLE FINANCIAL PARTNERS INC</issuerName>
+        <issuerTradingSymbol>PNFP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001632384</rptOwnerCik>
+            <rptOwnerName>Galante Joseph C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>PINNACLE FINANCIAL PARTNERS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>150 THIRD AVENUE SOUTH, SUITE 900</rptOwnerStreet2>
+            <rptOwnerCity>NASHVILLE</rptOwnerCity>
+            <rptOwnerState>TN</rptOwnerState>
+            <rptOwnerZipCode>37201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>PNFP Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-01-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>72.26</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22508</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Depositary Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $72.25 to $72.26. The reporting person undertakes to provide Pinnacle Financial Partners, Inc., any security holder of Pinnacle Financial Partners, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the ranges set forth in this footnote.</footnote>
+        <footnote id="F2">Each depositary share represents a 1/40th interest in a share of the Issuer's 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series B, no par value per share. Depositary shares purchased in an underwritten public offering.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Joseph C. Galante</signatureName>
+        <signatureDate>2023-01-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

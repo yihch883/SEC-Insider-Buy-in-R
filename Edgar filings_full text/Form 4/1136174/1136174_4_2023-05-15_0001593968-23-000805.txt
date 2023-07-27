@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0001593968-23-000805.txt : 20230515
+<SEC-HEADER>0001593968-23-000805.hdr.sgml : 20230515
+<ACCEPTANCE-DATETIME>20230515212216
+ACCESSION NUMBER:		0001593968-23-000805
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230511
+FILED AS OF DATE:		20230515
+DATE AS OF CHANGE:		20230515
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Osborne Mary Louise
+		CENTRAL INDEX KEY:			0001878938
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31932
+		FILM NUMBER:		23925354
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 PASEO VERDE PARKWAY
+		STREET 2:		SUITE 280
+		CITY:			HENDERSON
+		STATE:			NV
+		ZIP:			89052
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ontrak, Inc.
+		CENTRAL INDEX KEY:			0001136174
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISC HEALTH & ALLIED SERVICES, NEC [8090]
+		IRS NUMBER:				880464853
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 PASEO VERDE PARKWAY
+		STREET 2:		SUITE 280
+		CITY:			HENDERSON
+		STATE:			NV
+		ZIP:			89052
+		BUSINESS PHONE:		310 444 4300
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 PASEO VERDE PARKWAY
+		STREET 2:		SUITE 280
+		CITY:			HENDERSON
+		STATE:			NV
+		ZIP:			89052
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CATASYS, INC.
+		DATE OF NAME CHANGE:	20110316
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HYTHIAM, INC.
+		DATE OF NAME CHANGE:	20101029
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HYTHIAM INC
+		DATE OF NAME CHANGE:	20031003
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_01.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001136174</issuerCik>
+        <issuerName>Ontrak, Inc.</issuerName>
+        <issuerTradingSymbol>OTRK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001878938</rptOwnerCik>
+            <rptOwnerName>Osborne Mary Louise</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2200 PASEO VERDE PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 280</rptOwnerStreet2>
+            <rptOwnerCity>HENDERSON</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89052</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Commercial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.4770</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-05-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>250000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2024-05-11</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-05-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ontrak, Inc. Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>250000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>250000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These securities were granted to Ms. Osborne for her services as the President and Chief Commercial Officer of the Company.</footnote>
+        <footnote id="F2">25% of these options vest one year from the date of grant and the remaining options vest in six equal installments every six months thereafter over the next three years.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Mary Louise Osborne</signatureName>
+        <signatureDate>2023-05-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

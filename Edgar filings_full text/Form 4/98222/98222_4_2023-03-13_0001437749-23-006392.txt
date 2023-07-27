@@ -1,0 +1,150 @@
+<SEC-DOCUMENT>0001437749-23-006392.txt : 20230313
+<SEC-HEADER>0001437749-23-006392.hdr.sgml : 20230313
+<ACCEPTANCE-DATETIME>20230313185047
+ACCESSION NUMBER:		0001437749-23-006392
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230310
+FILED AS OF DATE:		20230313
+DATE AS OF CHANGE:		20230313
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hudson Daniel A.
+		CENTRAL INDEX KEY:			0001797578
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06311
+		FILM NUMBER:		23728681
+
+	MAIL ADDRESS:	
+		STREET 1:		6002 ROGERDALE ROAD
+		STREET 2:		SUITE 600
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77072
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIDEWATER INC
+		CENTRAL INDEX KEY:			0000098222
+		STANDARD INDUSTRIAL CLASSIFICATION:	WATER TRANSPORTATION [4400]
+		IRS NUMBER:				720487776
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		842 WEST SAM HOUSTON PARKWAY NORTH
+		STREET 2:		SUITE 400
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77024
+		BUSINESS PHONE:		(713) 470-5300
+
+	MAIL ADDRESS:	
+		STREET 1:		842 WEST SAM HOUSTON PARKWAY NORTH
+		STREET 2:		SUITE 400
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77024
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIDEWATER MARINE SERVICE INC
+		DATE OF NAME CHANGE:	19780724
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-03-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000098222</issuerCik>
+        <issuerName>TIDEWATER INC</issuerName>
+        <issuerTradingSymbol>TDW</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001797578</rptOwnerCik>
+            <rptOwnerName>Hudson Daniel A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TIDEWATER INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>842 W SAM HOUSTON PKWY N., STE 400</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77024</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP, Gen Counsel &amp; Secretary</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-03-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4613</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>45.84</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>108203</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld to cover taxes due upon the vesting of restricted stock units.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel A. Hudson</signatureName>
+        <signatureDate>2023-03-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

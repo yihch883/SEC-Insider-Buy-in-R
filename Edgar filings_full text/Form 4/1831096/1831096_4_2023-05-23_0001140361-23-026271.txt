@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0001140361-23-026271.txt : 20230523
+<SEC-HEADER>0001140361-23-026271.hdr.sgml : 20230523
+<ACCEPTANCE-DATETIME>20230523171238
+ACCESSION NUMBER:		0001140361-23-026271
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230519
+FILED AS OF DATE:		20230523
+DATE AS OF CHANGE:		20230523
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Great Elm Group, Inc.
+		CENTRAL INDEX KEY:			0001831096
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-01211
+		FILM NUMBER:		23949777
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 SOUTH STREET, SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+		BUSINESS PHONE:		(617) 375-3006
+
+	MAIL ADDRESS:	
+		STREET 1:		800 SOUTH STREET, SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Great Elm Capital Corp.
+		CENTRAL INDEX KEY:			0001675033
+		IRS NUMBER:				812621577
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 SOUTH STREET
+		STREET 2:		SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+		BUSINESS PHONE:		617-375-3006
+
+	MAIL ADDRESS:	
+		STREET 1:		800 SOUTH STREET
+		STREET 2:		SUITE 230
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0407</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-05-19</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001675033</issuerCik>
+        <issuerName>Great Elm Capital Corp.</issuerName>
+        <issuerTradingSymbol>GECC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001831096</rptOwnerCik>
+            <rptOwnerName>Great Elm Group, Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>800 SOUTH STREET, SUITE 230</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WALTHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02453</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2023-05-19</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>37268</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1532519</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On May 19, 2023, Great Elm Group, Inc. (&quot;GEG&quot;) granted 37,268 shares of Great Elm Capital Corp.'s common stock, par value $0.01 per share, to Peter A. Reed in connection with Mr. Reed's resignation as Chief Executive Officer of GEG.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Adam M. Kleinman, attorney-in-fact</signatureName>
+        <signatureDate>2023-05-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

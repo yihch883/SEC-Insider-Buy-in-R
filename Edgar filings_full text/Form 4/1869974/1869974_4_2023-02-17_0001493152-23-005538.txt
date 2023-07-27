@@ -1,0 +1,296 @@
+<SEC-DOCUMENT>0001493152-23-005538.txt : 20230217
+<SEC-HEADER>0001493152-23-005538.hdr.sgml : 20230217
+<ACCEPTANCE-DATETIME>20230217201905
+ACCESSION NUMBER:		0001493152-23-005538
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230215
+FILED AS OF DATE:		20230217
+DATE AS OF CHANGE:		20230217
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kurtis Jonathan
+		CENTRAL INDEX KEY:			0001873968
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40793
+		FILM NUMBER:		23644897
+
+	MAIL ADDRESS:	
+		STREET 1:		OCEAN BIOMEDICAL, INC.
+		STREET 2:		55 CLAVERICK ST., ROOM 325
+		CITY:			PROVIDENCE
+		STATE:			RI
+		ZIP:			02903
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ocean Biomedical, Inc.
+		CENTRAL INDEX KEY:			0001869974
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				871309280
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		515 MADISON AVE SUITE 8078
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(646) 908-2658
+
+	MAIL ADDRESS:	
+		STREET 1:		515 MADISON AVE SUITE 8078
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ocean Biomedical, Inc./DE
+		DATE OF NAME CHANGE:	20230214
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Aesther Healthcare Acquisition Corp.
+		DATE OF NAME CHANGE:	20210628
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2023-02-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001869974</issuerCik>
+        <issuerName>Ocean Biomedical, Inc.</issuerName>
+        <issuerTradingSymbol>OCEA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001873968</rptOwnerCik>
+            <rptOwnerName>Kurtis Jonathan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O OCEAN BIOMEDICAL, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>55 CLAVERICK ST., ROOM 325</rptOwnerStreet2>
+            <rptOwnerCity>PROVIDENCE</rptOwnerCity>
+            <rptOwnerState>RI</rptOwnerState>
+            <rptOwnerZipCode>02903</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>10</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2023-02-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>75000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2033-02-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>75000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>75000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a right to purchase 75,000 shares of the common stock, par value $0.0001 per share (collectively, the &quot;Option Shares&quot;), of Ocean Biomedical, Inc. (the &quot;Issuer&quot;) upon the exercise of a ten-year option granted to the Reporting Person as a non-employee director of the Issuer on February 15, 2023 under the Issuer's 2022 Stock Option and Incentive Plan. This option becomes exercisable in 36 monthly installments beginning on March 15, 2023, with 2,083 Option Shares becoming exercisable on each of the first 35 installments and the remaining 2,095 Option Shares becoming exercisable on the final installment, subject to the Reporting Person remaining in service as a member of the Issuer's board of directors on each installment date. This option is exercisable at an exercise price per Option Share equal to the greater of (i) $10, or (ii) the closing trading price of the Issuer's common stock on February 15, 2023, which was $6.06.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit List - Exhibit 24.1: Power of Attorney (Jonathan D. Kurtis)</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Katherine E. Spiser, as attorney-in-fact for Jonathan D. Kurtis</signatureName>
+        <signatureDate>2023-02-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>ex24-1.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Exhibit
+24.1</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>POWER
+OF ATTORNEY</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Know
+all by these presents, that the undersigned hereby constitutes and appoints each of Kate L. Bechen, Thomas S. Vaughn, Joseph R. DeHondt,
+Timothy B. Caprez, Robin K. Lehninger, Julie A. D&rsquo;Angelo, Katherine E. Spiser, or Hallie D. Heath, or any of them acting singly
+and with full power of substitution, as the undersigned&rsquo;s true and lawful attorney-in-fact to:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(1)</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">prepare
+    and execute for and on behalf of the undersigned Forms 3, 4, and 5 and Schedules 13D and 13G in accordance with Sections 13 and 16(a)
+    of the Securities Exchange Act of 1934, as amended (the &ldquo;Exchange Act&rdquo;), and the rules promulgated thereunder, as applicable,
+    and any other forms or reports the undersigned may be required to file in connection with the undersigned&rsquo;s ownership, acquisition,
+    or disposition of securities of Ocean Biomedical, Inc. (the &ldquo;Company&rdquo;);</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(2)</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">do
+    and perform any and all acts for and on behalf of the undersigned that may be necessary or desirable to complete and execute any
+    such Form 3, 4, or 5, Schedule 13D or 13G, or other form or report, and to timely file such form or report with the United States
+    Securities and Exchange Commission and any stock exchange or similar authority; and</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(3)</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">take
+    any other action of any type whatsoever in connection with the foregoing, which, in the opinion of such attorney-in-fact, may be
+    of benefit to, in the best interest of, or legally required by the undersigned, it being understood that the documents executed by
+    such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such
+    terms and conditions as such attorney-in-fact may approve in such attorney-in-fact&rsquo;s discretion.</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0.5in; text-align: justify; text-indent: -0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever
+requisite, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and
+purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying
+and confirming all that such attorney-in-fact, or such attorney-in-fact&rsquo;s substitute or substitutes, shall lawfully do or cause
+to be done by virtue of this power of attorney and the rights and powers herein granted. The undersigned acknowledges that the foregoing
+attorney-in-fact, in serving in such capacity at the request of the undersigned, is not assuming, nor is the Company assuming, any of
+the undersigned&rsquo;s responsibilities to comply with Section 13 or Section 16 of the Exchange Act.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">This
+Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4, or 5 or Schedules
+13D or 13G with respect to the undersigned&rsquo;s holdings of and transactions in securities issued by the Company, unless earlier revoked
+by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><I>&nbsp;</I></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><I>IN
+WITNESS WHEREOF</I>, the undersigned has caused this Power of Attorney to be executed as of January 30, 2023.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><I>/s/
+    Jonathan D. Kurtis</I></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Jonathan
+    D. Kurtis</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 3.5in; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">[<I>Signature
+Page to Power of Attorney</I>]</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 3.5in; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
