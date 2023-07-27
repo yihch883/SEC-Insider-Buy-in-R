@@ -23,17 +23,16 @@ read_filing_info <- function(file_path) {
   # Convert trade_code to trade_type based on the provided information
   
   #Filter only Purchase info
+  trade_type <- transactionCode
   if ("P" %in% transactionCode) {
-    trade_type <- transactionCode
     purchase_flag <- "Yes"
+    sell_flag <- "No"
   } 
   else if("S" %in% transactionCode) {
-    trade_type <- transactionCode
-    sell_flag <- "Yes"
     purchase_flag <- "No"
+    sell_flag <- "Yes"
   }
   else {
-    trade_type <- transactionCode
     sell_flag <- "No"
     purchase_flag <- "No"
   }
@@ -72,7 +71,7 @@ read_filing_info <- function(file_path) {
 all_data<- construct_in_buy_df()
 
 
-construct_in_buy_df <- function(project_folder=getwd()){
+construct_insider_df <- function(project_folder=getwd()){
   
   all_info <- list()
   
@@ -105,18 +104,16 @@ construct_in_buy_df <- function(project_folder=getwd()){
 
 insider_buy_filter <- function(all_data){
   filtered_df <- subset(all_data, all_data$Insider_buy == "Yes")
+  filtered_df <- filtered_df[, !(names(filtered_df) %in% "Insider_sell")]
+  return(filtered_df)
+}
+insider_sell_filter <- function(all_data){
+  filtered_df <- subset(all_data, all_data$Insider_sell == "Yes")
+  filtered_df <- filtered_df[, !(names(filtered_df) %in% "Insider_buy")]
   return(filtered_df)
 }
 
-
-modify_column <- function(col1, col2) {
-  col2 <- ifelse(col1 == "S", -col2, col2)
-  return(col2)
-}
-all_data$Price <- mapply(modify_column, all_data$Trade_Type, all_data$Price)
-
 ###Examples###
-all_data<- construct_in_buy_df()
+all_data<- construct_insider_df()
 insider_buy_df <- insider_buy_filter(all_data)
-
-
+insider_sell_df <- insider_sell_filter(all_data)
