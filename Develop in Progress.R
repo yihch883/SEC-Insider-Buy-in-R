@@ -48,7 +48,7 @@ read_filing_info <- function(file_path) {
   clean_price <- as.numeric(price)
   clean_price[is.na(clean_price)] <- 0
   clean_price <- ifelse(trade_type == "S", -clean_price, clean_price)
-
+  clean_price <- ifelse(trade_type == "S" |trade_type == "P", clean_price, 0)
   
   
   value=sum(as.numeric(clean_price)*as.numeric(qty))
@@ -97,20 +97,23 @@ construct_insider_df <- function(project_folder=getwd()){
   # Combine the list of results into a data.frame
   info_list <- do.call(rbind, all_info)
   info_data <- as.data.frame(info_list)
-  
-  
+
   return(info_data)
 }
 
 insider_buy_filter <- function(all_data){
   filtered_df <- subset(all_data, all_data$Insider_buy == "Yes")
   filtered_df <- filtered_df[, !(names(filtered_df) %in% "Insider_sell")]
-  return(filtered_df)
+  filtered_df$Trade_Date <- as.Date(unlist(filtered_df$Trade_Date))
+  sorted_df <- filtered_df[order(filtered_df$Trade_Date, decreasing = TRUE), ]
+  return(sorted_df)
 }
 insider_sell_filter <- function(all_data){
   filtered_df <- subset(all_data, all_data$Insider_sell == "Yes")
   filtered_df <- filtered_df[, !(names(filtered_df) %in% "Insider_buy")]
-  return(filtered_df)
+  filtered_df$Trade_Date <- as.Date(unlist(filtered_df$Trade_Date))
+  sorted_df <- filtered_df[order(filtered_df$Trade_Date, decreasing = TRUE), ]
+  return(sorted_df)
 }
 
 ###Examples###

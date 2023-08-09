@@ -62,7 +62,7 @@ server <- function(input, output) {
     }
     result_df <- result_df[, (names(result_df) %in% c("Ticker","Trade_Date","Value"))]
     
-
+    print(nrow(result_df))
     # Return the final data frame containing all filtered results
     return(result_df)
   })
