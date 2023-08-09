@@ -21,19 +21,24 @@ get_Form4_filings <- function(ticker,user_agent,time_period) {
 }
 
 #####loop to download all filing within the stock list#####
-download_filings <- function(stock_list="KDP",user_agent="YourEmail@sample.what",time_period=format(Sys.Date(), "%Y")){
+download_filings <- function(stock_list="KDP",user_agent="123@exp.what",time_period=format(Sys.Date(), "%Y")){
   
   for (i in 1:length(stock_list)){
     ticker <- stock_list[i]
     print(paste0("Now downloading:",ticker))
     get_Form4_filings(ticker,user_agent=user_agent,time_period=time_period)
-    Sys.sleep(2)#To avoid downloading too much files in a short time period
+    Sys.sleep(0.3)#To avoid downloading too much files in a short time period
   }
   
 } 
 
 #####Examples#####
-download_filings("KDP")
+##Step 1: Update the Master Indexes
+getMasterIndex("2023",useragent="123@exp.what")
+
+##Step 2: Download the filing you want
+download_filings("CERE")
+download_filings(all_ticker)
 
 my_stock_list <- c("AAPL","GOOG","KO","TSM","QCOM")
 download_filings(my_stock_list,user_agent="123@ins.buy",time_period=format(Sys.Date(), "%Y"))
