@@ -17,8 +17,8 @@ Function to automatic read filing text files.
 Function to construct data frame with all necessary data for this project(Date, Transaction Type, Price, Quantity,etc)
 Function to construct data frame that consist sell and purchase behavior.
 
-## Please note that although the code is capable of downloading all the filing within a loop. It is NOT recommended to do so.
-To allow for equitable access to all users, SEC reserves the right to limit requests originating from undeclared automated tools. By doing so, your request might be identified as part of a network of automated tools outside of the acceptable policy and will be managed until action is taken to declare your traffic.
+## Please note that although the code is capable of downloading the filing within a loop. It is NOT recommended to do so.
+To allow for equitable access to all users, SEC reserves the right to limit requests originating from undeclared automated tools. By doing so, your request might be identified as part of a network automated tools outside the acceptable policy and will be managed until action is taken to declare your traffic.
 
 There is a workaround such as changing IP and adding system.sleep between downloads. However, downloading a reasonable amount at once is still recommended.
 
@@ -29,7 +29,7 @@ There is a workaround such as changing IP and adding system.sleep between downlo
 By using any material in this repository, you agree to be bound by these terms of service and all applicable laws and regulations and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing any material in this repository. 
 
 2. Disclamaier
-The materials in this repository are provided on an 'as is' basis. The repository owner(bboyect) makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, The repository owner do not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the programming or otherwise relating to such materials.
+The materials in this repository are provided on an 'as is' basis. The repository owner(yihch883) makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, The repository owner do not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the programming or otherwise relating to such materials.
 
 3. Limitations
 In no event shall the repository owner or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on the repository, even if the repository owner or the repository owner authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
